@@ -1,0 +1,2298 @@
+{
+ "actualizado": "2026-10-08T07:06:29+02:00",
+ "edicion": "Jueves 8 de octubre de 2026",
+ "secciones": [
+  {
+   "id": "es",
+   "name": "España",
+   "tag": "Lo que pasa en todo el país",
+   "en": {
+    "name": "Spain",
+    "tag": "What's happening around the country"
+   }
+  },
+  {
+   "id": "and",
+   "name": "Andalucía",
+   "tag": "Noticias de nuestra comunidad",
+   "en": {
+    "name": "Andalusia",
+    "tag": "News from our region"
+   }
+  },
+  {
+   "id": "int",
+   "name": "Internacional",
+   "tag": "Lo que pasa en el mundo",
+   "en": {
+    "name": "International",
+    "tag": "What's happening in the world"
+   }
+  },
+  {
+   "id": "dep",
+   "name": "Deportes",
+   "tag": "Partidos, récords y campeones",
+   "en": {
+    "name": "Sport",
+    "tag": "Matches, records and champions"
+   }
+  },
+  {
+   "id": "cul",
+   "name": "Cultura",
+   "tag": "Arte, libros, cine y música",
+   "en": {
+    "name": "Culture",
+    "tag": "Art, books, film and music"
+   }
+  },
+  {
+   "id": "tec",
+   "name": "Tecnología",
+   "tag": "Inventos, internet y espacio",
+   "en": {
+    "name": "Technology",
+    "tag": "Inventions, the internet and space"
+   }
+  },
+  {
+   "id": "eco",
+   "name": "Economía",
+   "tag": "Dinero, trabajo y precios",
+   "en": {
+    "name": "Economy",
+    "tag": "Money, jobs and prices"
+   }
+  }
+ ],
+ "noticias": [
+  {
+   "id": "cientos-de-personas-acampan-en-sol-por-la-vivien",
+   "seccion": "es",
+   "dibujo": "tents",
+   "titular": "Muere Maricarmen y los sindicatos convocan una huelga general por la vivienda",
+   "entradilla": "La mujer de 87 años desahuciada en Madrid, símbolo de las protestas, murió el miércoles; los sindicatos confirmaron el paro.",
+   "parrafos": [
+    "Maricarmen, de 87 años, murió el miércoles 7 de octubre en el Hospital Gregorio Marañón de Madrid. Llevaba ingresada desde el 23 de septiembre, cuando la sacaron en camilla de su piso de alquiler tras ocho años de juicios. El [[Sindicato de Inquilinas|sindicato]] de Madrid, que dio la noticia, dice que el acuerdo con la empresa propietaria para que volviera a su casa llegó demasiado tarde. Pedro Sánchez expresó sus condolencias. Su [[desahucio|desahucio]] encendió las protestas por la vivienda de las últimas semanas, con manifestaciones en muchas ciudades y una acampada en la Puerta del Sol.",
+    "UGT, CCOO, CGT y otras organizaciones confirmaron el miércoles la [[huelga general|huelgageneral]] por la vivienda y los salarios. Según los medios, lo más probable es que sea el miércoles 11 de noviembre, dos días antes de que empiece la campaña electoral, aunque la fecha aún no es oficial. La patronal CEOE duda de que sea legal porque la considera política. La central USO no se suma, porque con el Parlamento disuelto no hay quien atienda las peticiones. Sánchez dijo que el Gobierno no tiene nada que decir ante el ejercicio de un derecho constitucional como la huelga."
+   ],
+   "busqueda_imagenes": "Puerta del Sol acampada vivienda huelga",
+   "fuentes": [
+    "El Debate",
+    "CNN en Español",
+    "El Plural",
+    "El Español",
+    "Infobae",
+    "elEconomista",
+    "Vozpópuli"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-08",
+   "nota_actualizacion": "Maricarmen murió el 7 de octubre y los sindicatos confirmaron la huelga general; la fecha, aún no oficial, apunta al 11 de noviembre.",
+   "en": {
+    "titular": "Maricarmen dies and the unions call a general strike over housing",
+    "entradilla": "The 87-year-old woman evicted in Madrid, a symbol of the protests, died on Wednesday; the unions confirmed the strike.",
+    "parrafos": [
+     "Maricarmen, aged 87, died on Wednesday 7 October in the Gregorio Marañón Hospital in Madrid. She had been in hospital since 23 September, when she was carried out of her rented flat on a stretcher after eight years of court cases. The Madrid [[Tenants' Union|sindicato]], which announced the news, says the agreement with the owning company to let her return home came too late. Pedro Sánchez expressed his condolences. Her [[eviction|desahucio]] set off the housing protests of recent weeks, with demonstrations in many cities and a camp in the Puerta del Sol.",
+     "UGT, CCOO, CGT and other organisations confirmed on Wednesday the [[general strike|huelgageneral]] over housing and wages. According to the media, it will most likely be on Wednesday 11 November, two days before the election campaign begins, although the date is not yet official. The employers' federation CEOE doubts it is legal because it sees it as political. The union USO is not joining, because with Parliament dissolved there is nobody to answer the demands. Sánchez said the Government has nothing to say about the exercise of a constitutional right such as the right to strike."
+    ],
+    "nota_actualizacion": "Maricarmen died on 7 October and the unions confirmed the general strike; the date, not yet official, points to 11 November."
+   }
+  },
+  {
+   "id": "el-congreso-decide-sobre-las-leyes-de-vivienda",
+   "seccion": "es",
+   "dibujo": "congress",
+   "titular": "Sánchez convoca elecciones el 29 de noviembre y el PNV decidirá la suerte de los decretos de vivienda",
+   "entradilla": "El Gobierno aprobó de nuevo sus decretos para que los vote la Diputación Permanente, donde el PNV es decisivo.",
+   "parrafos": [
+    "El lunes 5 de octubre, [[Pedro Sánchez|sanchez]] anunció que adelanta las [[elecciones anticipadas|elecciones]] generales al domingo 29 de noviembre, después de que el [[Congreso|congreso]] rechazara los dos decretos de vivienda con 172 votos a favor y 178 en contra. El Boletín Oficial del Estado publicó el decreto el martes 6: las Cortes quedaron disueltas. Cuando se disuelven antes de tiempo, la ley dice que se vota 54 días después de publicar el decreto. Si no las hubiera adelantado, las elecciones habrían tocado en 2027.",
+    "El Gobierno volvió a aprobar los dos [[reales decretos-ley|rdl]], con retoques técnicos, para que los vote la [[Diputación Permanente|diputacionpermanente]], el grupo de 69 diputados que sustituye al Congreso mientras está disuelto. Allí, según los medios, PP, Vox y Junts suman 34 votos, igual que PSOE, Sumar y sus aliados de izquierda, así que el [[PNV|pnv]] es decisivo. Su portavoz anunció que votará a favor del primer decreto, con el escudo contra desahucios, y en contra del segundo, el de los alquileres. Aún no hemos podido comprobar el recuento oficial."
+   ],
+   "busqueda_imagenes": "Congreso de los Diputados votación",
+   "fuentes": [
+    "elDiario.es",
+    "Infobae",
+    "Moncloa.com",
+    "El Plural",
+    "Democrata",
+    "Forbes España"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-08",
+   "nota_actualizacion": "Sánchez ha convocado elecciones el 29 de noviembre y el PNV apoyará el primer decreto de vivienda en la Diputación Permanente.",
+   "en": {
+    "titular": "Sánchez calls an election for 29 November and the PNV will decide the fate of the housing decrees",
+    "entradilla": "The Government approved its decrees again so that the Permanent Deputation can vote on them, where the PNV holds the key.",
+    "parrafos": [
+     "On Monday 5 October, [[Pedro Sánchez|sanchez]] announced that he is bringing the general [[early election|elecciones]] forward to Sunday 29 November, after the [[Congress|congreso]] rejected the two housing decrees by 172 votes in favour to 178 against. The official state gazette (the BOE) published the decree on Tuesday 6: Parliament was dissolved. When Parliament is dissolved early, the law says the vote is held 54 days after the decree is published. Had he not brought it forward, the election would have been due in 2027.",
+     "The Government approved the two [[royal decree-laws|rdl]] again, with technical changes, so that the [[Permanent Deputation|diputacionpermanente]], the group of 69 MPs who stand in for Congress while it is dissolved, can vote on them. There, according to the media, PP, Vox and Junts have 34 votes, the same as PSOE, Sumar and their left-wing allies, so the [[PNV|pnv]] holds the key. Its spokesperson announced that it will vote for the first decree, which contains the shield against evictions, and against the second one, on rents. We have not yet been able to check the official count."
+    ],
+    "nota_actualizacion": "Sánchez has called an election for 29 November and the PNV will back the first housing decree in the Permanent Deputation."
+   }
+  },
+  {
+   "id": "una-guerra-lejana-que-se-paga-en-la-gasolinera",
+   "seccion": "es",
+   "dibujo": "pump",
+   "titular": "Una guerra lejana que se paga en la gasolinera",
+   "entradilla": "El conflicto con Irán ha encarecido el combustible en España.",
+   "parrafos": [
+    "Desde que empezó la guerra con Irán, en febrero, el combustible se ha encarecido. En marzo, la gasolina ya costaba un 16 % más y el gasóleo un 20 % más: llenar el depósito de un coche salía entre 25 y 30 euros más caro. La causa es el [[petróleo|petroleo]]: buena parte del que se consume en el mundo pasa por el [[estrecho de Ormuz|ormuz]], y cuando hay guerra allí sube de precio en todas partes.",
+    "Para frenar la [[inflación|inflacion]], el Gobierno ha bajado varias veces el [[impuesto|impuesto]] que se paga por cada litro de combustible, y desde el 1 de octubre aplica un nuevo paquete de medidas para contener los precios. Cuando sube la gasolina no solo pagan más quienes tienen coche: también se encarece llevar la comida a los supermercados en camión, y por eso suben otros precios."
+   ],
+   "busqueda_imagenes": "precio gasolina España guerra Irán",
+   "fuentes": [
+    "CNN en Español",
+    "Bolsamanía",
+    "Euronews"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "A faraway war that we pay for at the petrol station",
+    "entradilla": "The conflict with Iran has made fuel more expensive in Spain.",
+    "parrafos": [
+     "Since the war with Iran began in February, fuel has become more expensive. By March, petrol already cost 16% more and diesel 20% more: filling up a car's tank cost between 25 and 30 euros more. The reason is [[oil|petroleo]]: a large part of the oil used around the world passes through the [[Strait of Hormuz|ormuz]], and when there is a war there, its price rises everywhere.",
+     "To slow down [[inflation|inflacion]], the Government has cut the [[tax|impuesto]] paid on every litre of fuel several times, and since 1 October it has been applying a new package of measures to keep prices down. When petrol goes up, it is not only people with cars who pay more: it also costs more to take food to supermarkets by lorry, and so other prices rise too."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "temporal-cataluna-alerta-roja-inuncat",
+   "seccion": "es",
+   "dibujo": "rain",
+   "titular": "Temporal en Cataluña: dos muertos y un desaparecido",
+   "entradilla": "La Generalitat da por terminado el temporal y levanta las restricciones de movilidad.",
+   "parrafos": [
+    "Cataluña vivió la noche del sábado 3 al domingo 4 de octubre un episodio de lluvias torrenciales. La Generalitat activó el plan [[Inuncat|inuncat]], mantuvo la [[alerta roja|alertaroja]] y envió un aviso [[Es-Alert|esalert]] a los móviles del litoral y del prelitoral de Tarragona, Barcelona y Girona. La movilidad quedó restringida en 20 comarcas y se suspendieron las manifestaciones por la vivienda previstas en Barcelona. Los Bomberos atendieron cientos de avisos por inundaciones, sobre todo en el área metropolitana sur de Barcelona.",
+    "El balance es de dos fallecidos, en Tordera y en Montornès del Vallès, y una persona desaparecida en Pineda de Mar, todos en la provincia de Barcelona. El presidente de la Generalitat, Salvador Illa, confirmó que las restricciones en el Empordà se levantaron a las 21:00 del domingo, y el Servicio Meteorológico de Cataluña considera que el temporal puede darse por terminado. El plan Inuncat sigue en fase de emergencia y podrían caer tormentas aisladas en los extremos de Cataluña."
+   ],
+   "busqueda_imagenes": "temporal Cataluña lluvia alerta roja",
+   "fuentes": [
+    "Vozpópuli",
+    "The Objective",
+    "Periódico de Ibiza",
+    "Moncloa.com"
+   ],
+   "publicada": "2026-10-04",
+   "actualizada": "2026-10-05",
+   "nota_actualizacion": "El temporal ha terminado con dos fallecidos y una persona desaparecida, y se han levantado las restricciones.",
+   "en": {
+    "titular": "Storm in Catalonia: two dead and one missing",
+    "entradilla": "The Catalan government declares the storm over and lifts the movement restrictions.",
+    "parrafos": [
+     "Catalonia went through an episode of torrential rain on the night of Saturday 3 to Sunday 4 October. The Catalan government activated the [[Inuncat|inuncat]] plan, kept the [[red alert|alertaroja]] in place and sent an [[Es-Alert|esalert]] warning to mobile phones on the coast and the pre-coastal area of Tarragona, Barcelona and Girona. Movement was restricted in 20 counties and the housing demonstrations planned in Barcelona were cancelled. Firefighters handled hundreds of calls about flooding, mostly in the southern metropolitan area of Barcelona.",
+     "The toll is two dead, in Tordera and Montornès del Vallès, and one person missing in Pineda de Mar, all in the province of Barcelona. The president of the Catalan government, Salvador Illa, confirmed that the restrictions in the Empordà area were lifted at 9 pm on Sunday, and the Catalan Meteorological Service considers the storm can be regarded as over. The Inuncat plan remains in its emergency phase and isolated storms could still fall at the far ends of Catalonia."
+    ],
+    "nota_actualizacion": "The storm has ended with two dead and one person missing, and the restrictions have been lifted."
+   }
+  },
+  {
+   "id": "la-protesta-por-la-vivienda-llega-a-andalucia",
+   "seccion": "and",
+   "dibujo": "megaphone",
+   "titular": "La protesta por la vivienda llega a Andalucía",
+   "entradilla": "En Cádiz, el Sindicato de Inquilinas cifra en 10.000 los asistentes a la manifestación del sábado.",
+   "parrafos": [
+    "El caso de Maricarmen ha movilizado a Andalucía. El 28 de septiembre hubo concentraciones por la vivienda en 23 ciudades, entre ellas Sevilla y [[Málaga|malaga]], donde más de mil personas se reunieron ante el Ayuntamiento. El sábado 3 de octubre, tras caer los decretos de vivienda en el Congreso, el [[Sindicato de Inquilinas|sindicato]] de Cádiz convocó una manifestación que, según el propio sindicato, reunió a 10.000 personas, con apoyo de CCOO, el Sindicato de Estudiantes y asociaciones vecinales.",
+    "Málaga es una de las ciudades donde más ha subido el alquiler, en parte por los muchos [[pisos turísticos|turistico]]. Allí se celebró el primer congreso de los sindicatos de inquilinos de toda España, del que salió una [[confederación|confederacion]] estatal que une a los grupos de distintas ciudades. Su objetivo es que bajen los alquileres, y desde Cádiz anuncian que trabajarán para impulsar una huelga general. Para una familia con pocos ingresos, un alquiler que sube puede significar tener que mudarse lejos del barrio, del trabajo o del colegio."
+   ],
+   "busqueda_imagenes": "manifestación vivienda Málaga",
+   "fuentes": [
+    "Infobae",
+    "Europa Press",
+    "El Salto",
+    "La Gaceta de Cádiz"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-04",
+   "nota_actualizacion": "En Cádiz, el sindicato cifra en 10.000 los asistentes a la manifestación del 3 de octubre y habla de huelga general.",
+   "en": {
+    "titular": "The housing protest reaches Andalusia",
+    "entradilla": "In Cádiz, the Tenants' Union puts Saturday's turnout at 10,000.",
+    "parrafos": [
+     "Maricarmen's case has got people moving in Andalusia. On 28 September there were housing rallies in 23 cities, including Seville and [[Málaga|malaga]], where more than a thousand people gathered outside the City Hall. On Saturday 3 October, after the housing decrees were defeated in Congress, the Cádiz [[Tenants' Union|sindicato]] called a demonstration that, according to the union itself, drew 10,000 people, backed by the CCOO trade union, the Students' Union and neighbourhood associations.",
+     "Málaga is one of the cities where rents have risen the most, partly because of the large number of [[holiday flats|turistico]]. It hosted the first congress of tenants' unions from all over Spain, which produced a nationwide [[confederation|confederacion]] bringing together groups from different cities. Its goal is to bring rents down, and in Cádiz they say they will work to push for a general strike. For a family on a low income, a rent increase can mean having to move away from their neighbourhood, their job or their school."
+    ],
+    "nota_actualizacion": "In Cádiz, the union puts attendance at the 3 October demonstration at 10,000 and talks of a general strike."
+   }
+  },
+  {
+   "id": "moreno-pide-a-sanchez-que-convoque-elecciones",
+   "seccion": "and",
+   "dibujo": "ballot",
+   "titular": "Sánchez convoca las elecciones que pedía Moreno",
+   "entradilla": "El presidente andaluz había condicionado su petición al rechazo de los decretos; el lunes Sánchez fijó las elecciones para el 29 de noviembre.",
+   "parrafos": [
+    "[[Juanma Moreno|moreno]], presidente de la [[Junta de Andalucía|junta]], pidió a [[Pedro Sánchez|sanchez]] que convocara [[elecciones anticipadas|elecciones]] si el Congreso tumbaba los decretos de vivienda. Según Moreno, la votación funcionaba como una [[cuestión de confianza|mocionconfianza]]: si el Gobierno no consigue aprobar sus leyes más importantes, debería preguntar de nuevo a los ciudadanos. El viernes el Congreso rechazó los dos decretos con los votos de PP, Vox y Junts, de modo que se ha cumplido la condición que Moreno ponía.",
+    "El Gobierno insistía en que \"España no puede esperar más\" y pidió a los demás partidos que apoyaran las medidas. En España, solo el presidente del Gobierno puede decidir adelantar las elecciones generales; si no lo hace, tocan en 2027. Es normal que la oposición pida elecciones cuando el Gobierno pierde una votación importante, aunque perderla no obliga a convocarlas. Esta vez Sánchez sí decidió hacerlo: el lunes 5 de octubre anunció que los españoles votarán el domingo 29 de noviembre."
+   ],
+   "busqueda_imagenes": "Juanma Moreno Pedro Sánchez",
+   "fuentes": [
+    "La Moncloa",
+    "The Objective",
+    "Córdoba BN",
+    "Moncloa.com"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-06",
+   "nota_actualizacion": "Sánchez ha convocado elecciones generales para el 29 de noviembre.",
+   "en": {
+    "titular": "Sánchez calls the election Moreno had asked for",
+    "entradilla": "The Andalusian president had made his request conditional on the rejection of the decrees; on Monday Sánchez set the election for 29 November.",
+    "parrafos": [
+     "[[Juanma Moreno|moreno]], president of the [[Junta de Andalucía|junta]], asked [[Pedro Sánchez|sanchez]] to call an [[early election|elecciones]] if Congress threw out the housing decrees. According to Moreno, the vote worked like a [[confidence vote|mocionconfianza]]: if the Government cannot pass its most important laws, it should ask the citizens again. On Friday Congress rejected both decrees with the votes of PP, Vox and Junts, so the condition Moreno had set has been met.",
+     "The Government insisted that \"Spain cannot wait any longer\" and asked the other parties to support the measures. In Spain, only the Prime Minister can decide to bring forward a general election; if he does not, the next one is due in 2027. It is normal for the opposition to call for an election when the Government loses an important vote, although losing it does not force one to be called. This time Sánchez did decide to call one: on Monday 5 October he announced that Spaniards will vote on Sunday 29 November."
+    ],
+    "nota_actualizacion": "Sánchez has called a general election for 29 November."
+   }
+  },
+  {
+   "id": "el-gobierno-andaluz-revisara-461-normas-con-inte",
+   "seccion": "and",
+   "dibujo": "chip",
+   "titular": "El Gobierno andaluz revisará 461 normas con inteligencia artificial",
+   "entradilla": "Quiere simplificar los trámites, pero una IA también puede equivocarse.",
+   "parrafos": [
+    "La [[Junta de Andalucía|junta]] ha aprobado un plan para revisar 461 normas y casi mil trámites con [[inteligencia artificial|ia]]. La idea es encontrar reglas repetidas, contradictorias o anticuadas y hacer más fáciles los papeleos, por ejemplo para abrir un negocio. La primera fase terminará a finales de 2027.",
+    "El plan es de un gobierno nuevo. En las elecciones del 17 de mayo, el PP ganó con 53 escaños, pero perdió la [[mayoría absoluta|mayoria]], para la que hacen falta 55. Ahora gobierna junto a [[Vox|vox]], cuyo líder en Andalucía, Manuel Gavira, es vicepresidente y dirige este plan. Usar IA puede ahorrar mucho tiempo, pero la decisión final sobre cada ley debe tomarla una persona."
+   ],
+   "busqueda_imagenes": "Junta de Andalucía inteligencia artificial",
+   "fuentes": [
+    "Moncloa.com",
+    "Wikipedia (elecciones andaluzas 2026)"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "The Andalusian government will review 461 rules with artificial intelligence",
+    "entradilla": "It wants to simplify paperwork, but an AI can also make mistakes.",
+    "parrafos": [
+     "The [[Junta de Andalucía|junta]] has approved a plan to review 461 rules and almost a thousand administrative procedures using [[artificial intelligence|ia]]. The idea is to find rules that are repeated, contradictory or out of date, and to make paperwork easier, for example for opening a business. The first phase will end at the end of 2027.",
+     "The plan comes from a new government. In the election on 17 May, the PP won 53 seats but lost its [[absolute majority|mayoria]], which needs 55. It now governs together with [[Vox|vox]], whose leader in Andalusia, Manuel Gavira, is vice-president and is in charge of this plan. Using AI can save a lot of time, but the final decision on each law must be made by a person."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "la-vacuna-de-la-gripe-llega-a-los-colegios-sin-p",
+   "seccion": "and",
+   "dibujo": "spray",
+   "titular": "La vacuna de la gripe llega a los colegios… sin pinchazo",
+   "entradilla": "Los niños de 3 y 4 años la recibirán con un espray nasal en clase.",
+   "parrafos": [
+    "El 30 de septiembre empezó en Andalucía la campaña de [[vacunación|vacuna]] contra la [[gripe|gripe]]. Primero se vacuna a los más vulnerables: niños de 6 meses a 5 años, embarazadas y profesores de los más pequeños. Más de 180.000 niños andaluces menores de cinco años pueden recibirla.",
+    "A los de 3 y 4 años se la ponen en el propio colegio con una [[vacuna intranasal|intranasal]]: un espray en la nariz. Andalucía fue de las primeras comunidades en usarla, y el curso pasado se vacunó el 65 % de esos niños. Vacunar a los menores de cinco años ha reducido un 70 % los ingresos en hospital por gripe grave en ese grupo, y además protege a sus abuelos, porque los niños contagian mucho."
+   ],
+   "busqueda_imagenes": "vacuna gripe intranasal niños",
+   "fuentes": [
+    "Andalucía Informa",
+    "Redacción Médica",
+    "Alicante Plaza"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "The flu vaccine comes to schools… with no needle",
+    "entradilla": "Children aged 3 and 4 will get it as a nasal spray in class.",
+    "parrafos": [
+     "On 30 September, the [[vaccination|vacuna]] campaign against [[flu|gripe]] began in Andalusia. The most vulnerable are vaccinated first: children from 6 months to 5 years old, pregnant women and teachers of the youngest children. More than 180,000 Andalusian children under five can receive it.",
+     "Children aged 3 and 4 get it at school itself with an [[intranasal vaccine|intranasal]]: a spray up the nose. Andalusia was one of the first regions to use it, and last school year 65% of those children were vaccinated. Vaccinating under-fives has cut hospital admissions for severe flu in that group by 70%, and it also protects their grandparents, because children spread infections a lot."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "malaga-se-llena-de-superheroes",
+   "seccion": "and",
+   "dibujo": "comic",
+   "titular": "Málaga se llena de superhéroes",
+   "entradilla": "La Comic-Con vuelve al doble de tamaño tras las colas del año pasado.",
+   "parrafos": [
+    "Del 1 al 4 de octubre se celebra en Málaga la segunda edición de la San Diego [[Comic-Con|comiccon]], en el [[FYCMA|fycma]]. Vienen dibujantes, actores y directores, como Iñaki Godoy, el actor que interpreta a Luffy en la serie de One Piece.",
+    "La primera edición, en 2025, atrajo a 95.000 personas y movió 44 millones de euros en hoteles, restaurantes y comercios: es su [[impacto económico|impacto]]. Pero también hubo colas larguísimas y falta de información. Por eso este año el espacio ha pasado de 10.000 a casi 20.000 metros cuadrados. Ser buen anfitrión de un evento tan grande es una prueba para toda la ciudad."
+   ],
+   "busqueda_imagenes": "San Diego Comic-Con Málaga",
+   "fuentes": [
+    "El Español",
+    "eCartelera",
+    "Vandal"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Málaga fills up with superheroes",
+    "entradilla": "Comic-Con is back at twice the size after last year's queues.",
+    "parrafos": [
+     "From 1 to 4 October, Málaga is hosting the second edition of San Diego [[Comic-Con|comiccon]], at [[FYCMA|fycma]]. Artists, actors and directors are coming, such as Iñaki Godoy, the actor who plays Luffy in the One Piece series.",
+     "The first edition, in 2025, attracted 95,000 people and brought 44 million euros into hotels, restaurants and shops: that is its [[economic impact|impacto]]. But there were also extremely long queues and a lack of information. That is why this year the space has grown from 10,000 to almost 20,000 square metres. Being a good host for such a big event is a test for the whole city."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
+   "seccion": "int",
+   "dibujo": "tanker",
+   "titular": "Ormuz: el estrecho que hace temblar al mundo",
+   "entradilla": "La guerra con Irán sigue afectando al petróleo de todo el planeta.",
+   "parrafos": [
+    "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
+    "Las tensiones siguen: desde el 1 de octubre, la agencia marítima británica UKMTO ha informado de que al menos dos petroleros han sido alcanzados por \"proyectiles no identificados\" en la zona; en uno hubo un incendio, ya apagado, y no se registraron víctimas. Estados Unidos ha enviado unos 9.000 militares en siete buques, entre ellos el portaaviones USS Theodore Roosevelt. Irán no puede vender su petróleo y sus reservas podrían agotarse a mediados de octubre; algunos expertos temen que, sin salida, vuelva a atacar."
+   ],
+   "busqueda_imagenes": "estrecho de Ormuz mapa",
+   "fuentes": [
+    "UKMTO (vía Infobae y Yahoo Noticias)",
+    "El Destape",
+    "Cadena 3",
+    "Wikipedia (crónica de la guerra)"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-04",
+   "nota_actualizacion": "Desde el 1 de octubre, al menos dos petroleros han sido alcanzados por proyectiles no identificados y EE. UU. envía unos 9.000 militares.",
+   "en": {
+    "titular": "Hormuz: the strait that makes the world tremble",
+    "entradilla": "The war with Iran is still affecting oil all over the planet.",
+    "parrafos": [
+     "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
+     "Tensions continue: since 1 October, the British maritime agency UKMTO has reported that at least two tankers have been hit by \"unidentified projectiles\" in the area; one caught fire, which has since been put out, and no casualties were reported. The United States has sent about 9,000 troops on seven ships, including the aircraft carrier USS Theodore Roosevelt. Iran cannot sell its oil and its reserves could run out in mid-October; some experts fear that, with no way out, it may attack again."
+    ],
+    "nota_actualizacion": "Since 1 October at least two tankers have been hit by unidentified projectiles, and the US is sending about 9,000 troops."
+   }
+  },
+  {
+   "id": "gaza-un-alto-el-fuego-que-no-termina-de-llegar",
+   "seccion": "int",
+   "dibujo": "aid",
+   "titular": "Gaza: tres años del 7 de octubre y un alto el fuego que no frena la violencia",
+   "entradilla": "Tres años después del ataque de Hamás, siguen las muertes pese a la tregua.",
+   "parrafos": [
+    "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas desde 2023 y más de 1.400 desde el acuerdo. Según la [[ONU|onu]], 1,2 millones de personas en [[Gaza|gaza]] viven sin un refugio digno y casi la mitad tiene menos de 6 litros de agua potable al día, lo mínimo en una emergencia. Las organizaciones de [[ayuda humanitaria|humanitaria]] avisan de que más de un millón y medio de personas podrían quedarse sin ayuda este invierno."
+   ],
+   "busqueda_imagenes": "Gaza ayuda humanitaria",
+   "fuentes": [
+    "Infobae / Europa Press",
+    "ONU",
+    "OCHA",
+    "El Comercio",
+    "Yahoo Noticias",
+    "Semana",
+    "Atlas News"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-08",
+   "nota_actualizacion": "Se cumplieron tres años del ataque de Hamás; el 7 de octubre murieron cinco personas en bombardeos israelíes, según las autoridades palestinas.",
+   "en": {
+    "titular": "Gaza: three years since 7 October and a ceasefire that does not stop the violence",
+    "entradilla": "Three years after Hamas's attack, people are still dying despite the truce.",
+    "parrafos": [
+     "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
+     "According to the Gaza Health Ministry, which is run by Hamas, more than 74,000 people have died in the war since 2023 and more than 1,400 since the agreement. According to the [[UN|onu]], 1.2 million people in [[Gaza|gaza]] live without decent shelter and almost half have less than 6 litres of drinkable water a day, the minimum in an emergency. [[Humanitarian aid|humanitaria]] organisations warn that more than a million and a half people could be left without aid this winter."
+    ],
+    "nota_actualizacion": "Three years on from the Hamas attack; on 7 October five people were killed in Israeli bombing, according to Palestinian authorities."
+   }
+  },
+  {
+   "id": "ucrania-ataques-mientras-se-habla-de-paz",
+   "seccion": "int",
+   "dibujo": "sunflower",
+   "titular": "Ucrania: nuevo bombardeo ruso mientras se habla de paz",
+   "entradilla": "Rusia lanzó el miércoles misiles y drones contra Kiev y otras zonas del país.",
+   "parrafos": [
+    "El miércoles 7 de octubre, Rusia lanzó un bombardeo combinado de misiles y drones contra [[Kiev|kiev]] y otras zonas de Ucrania. Según los primeros balances murieron al menos 11 personas, y varios medios señalan que la cifra siguió subiendo durante el día. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir el país, y desde entonces ha causado muchos miles de muertos civiles y militares, además de millones de desplazados. Los ataques contra las ciudades continúan aunque se hable de cómo parar los combates.",
+    "A la vez, se habla de paz. El 14 de septiembre, Donald Trump anunció que los dos países habían aceptado dejar de atacar la [[infraestructura energética|energia]] del otro, para no dejar a la población sin luz ni calefacción en invierno. [[Zelenski|zelenski]] tenía prevista una reunión con Trump durante la Asamblea General de la ONU, en Nueva York. Rusia dice estar dispuesta a negociar, pero pone condiciones que Ucrania considera inaceptables."
+   ],
+   "busqueda_imagenes": "Kiev Ucrania",
+   "fuentes": [
+    "Infobae",
+    "Wikipedia (tregua 2026)",
+    "Infobae",
+    "CNN en Español"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-08",
+   "nota_actualizacion": "Rusia lanzó el 7 de octubre un nuevo bombardeo con misiles y drones; murieron al menos 11 personas según los primeros balances.",
+   "en": {
+    "titular": "Ukraine: new Russian bombardment while peace is discussed",
+    "entradilla": "On Wednesday Russia launched missiles and drones at Kyiv and other parts of the country.",
+    "parrafos": [
+     "On Wednesday 7 October, Russia launched a combined bombardment of missiles and drones at [[Kyiv|kiev]] and other parts of Ukraine. According to the first reports at least 11 people died, and several media outlets say the toll kept rising during the day. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of the country, and since then it has caused many thousands of civilian and military deaths, as well as millions of displaced people. Attacks on cities continue even though there is talk of how to stop the fighting.",
+     "At the same time, there is talk of peace. On 14 September, Donald Trump announced that the two countries had agreed to stop attacking each other's [[energy infrastructure|energia]], so as not to leave people without electricity or heating in winter. [[Zelensky|zelenski]] was due to meet Trump during the UN General Assembly in New York. Russia says it is willing to negotiate, but sets conditions that Ukraine considers unacceptable."
+    ],
+    "nota_actualizacion": "On 7 October Russia launched another missile and drone bombardment; at least 11 people died according to first reports."
+   }
+  },
+  {
+   "id": "brasil-elige-presidente-este-domingo",
+   "seccion": "int",
+   "dibujo": "ballot",
+   "titular": "Flávio Bolsonaro gana la primera vuelta en Brasil y desafiará a Lula el 25 de octubre",
+   "entradilla": "Ningún candidato superó el 50 % y la presidencia se decidirá en una segunda vuelta muy disputada.",
+   "parrafos": [
+    "El domingo 4 de octubre votaron más de 150 millones de brasileños y el resultado fue una sorpresa: [[Flávio Bolsonaro|flavio]], hijo del expresidente Jair Bolsonaro (condenado en 2025 por intentar un golpe de Estado), quedó primero, por delante del presidente [[Lula|lula]]. Las [[encuestas|encuesta]] daban ventaja a Lula, y él mismo reconoció que el resultado era inesperado. Según los medios, la diferencia entre los dos es de pocos puntos, y ninguno alcanzó el 50 % de los votos válidos necesario para ganar a la primera.",
+    "Por eso Flávio Bolsonaro y Lula se enfrentarán en una [[segunda vuelta|segundavuelta]] el 25 de octubre, y Lula se ha mostrado confiado en ganarla. Las tres semanas de campaña decidirán quién gobierna el país más grande de Sudamérica, cuyas decisiones importan para asuntos como la protección de la selva amazónica. El resto de candidatos quedó muy lejos, con porcentajes de entre el 2 % y el 3 %, así que sus votantes pueden resultar decisivos en el desempate."
+   ],
+   "busqueda_imagenes": "elecciones Brasil 2026",
+   "fuentes": [
+    "Infobae",
+    "La Nación",
+    "El Español",
+    "La Jornada",
+    "El Financiero"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-05",
+   "nota_actualizacion": "Ya hay resultado: Flávio Bolsonaro ganó la primera vuelta y se enfrentará a Lula en segunda vuelta el 25 de octubre.",
+   "en": {
+    "titular": "Flávio Bolsonaro wins the first round in Brazil and will face Lula on 25 October",
+    "entradilla": "No candidate passed 50%, so the presidency will be decided in a very tight second round.",
+    "parrafos": [
+     "On Sunday 4 October more than 150 million Brazilians voted, and the result was a surprise: [[Flávio Bolsonaro|flavio]], son of former president Jair Bolsonaro (convicted in 2025 of attempting a coup), came first, ahead of President [[Lula|lula]]. The [[polls|encuesta]] had given Lula the lead, and he himself admitted the result was unexpected. According to the media, the gap between the two is only a few points, and neither reached the 50% of valid votes needed to win outright.",
+     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on 25 October, and Lula has said he is confident of winning it. Three weeks of campaigning will decide who governs the largest country in South America, whose decisions matter for issues such as protecting the Amazon rainforest. The other candidates finished far behind, with between 2% and 3% each, so their voters could prove decisive in the tiebreak."
+    ],
+    "nota_actualizacion": "The result is in: Flávio Bolsonaro won the first round and will face Lula in a second round on 25 October."
+   }
+  },
+  {
+   "id": "espana-vota-sola-contra-una-ley-europea-de-expul",
+   "seccion": "int",
+   "dibujo": "eu",
+   "titular": "España vota sola contra una ley europea de expulsiones",
+   "entradilla": "Es el único de los 27 países que se opuso al nuevo reglamento.",
+   "parrafos": [
+    "La [[Unión Europea|ue]] ha aprobado un nuevo [[reglamento|reglamento]] para acelerar el [[retorno|retorno]] de los migrantes que no tienen permiso para quedarse en Europa. Una de las novedades es crear centros fuera de la UE, en otros países, donde esperarían a ser devueltos. España fue el único país de los 27 que votó en contra.",
+    "El Gobierno español dice que también quiere que las devoluciones sean más rápidas, pero duda de que esos centros respeten los derechos de las personas y de cuánto costarán. El debate llega justo cuando España vive la crisis de Ceuta. Una pregunta difícil que se hacen muchos países: ¿cómo ser firmes con quien entra sin permiso y, a la vez, tratar con dignidad a cada persona?"
+   ],
+   "busqueda_imagenes": "Unión Europea Consejo votación",
+   "fuentes": [
+    "Euronews"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Spain votes alone against a European law on deportations",
+    "entradilla": "It is the only one of the 27 countries that opposed the new regulation.",
+    "parrafos": [
+     "The [[European Union|ue]] has approved a new [[regulation|reglamento]] to speed up the [[return|retorno]] of migrants who do not have permission to stay in Europe. One of the new features is to create centres outside the EU, in other countries, where they would wait to be sent back. Spain was the only one of the 27 countries to vote against it.",
+     "The Spanish Government says it also wants returns to be faster, but it doubts that those centres will respect people's rights and wonders how much they will cost. The debate comes just as Spain is going through the Ceuta crisis. A difficult question that many countries ask themselves: how can you be firm with people who come in without permission and, at the same time, treat every person with dignity?"
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "la-campeona-del-mundo-gana-en-wembley",
+   "seccion": "dep",
+   "dibujo": "wembley",
+   "titular": "La campeona del mundo gana en Wembley",
+   "entradilla": "España remontó a Inglaterra 2-3 en su primer partido tras el Mundial.",
+   "parrafos": [
+    "España jugó el 26 de septiembre su primer partido desde que ganó el Mundial de 2026, y lo hizo en [[Wembley|wembley]], ante Inglaterra, en la [[Nations League|nations]]. [[Lamine Yamal|lamine]] marcó en el minuto 2 tras robar un balón, pero Inglaterra le dio la vuelta con goles de Anthony Gordon y [[Harry Kane|kane]].",
+    "Con 2-1, Kane falló un [[penalti|penalti]] que podía haber sentenciado. España aprovechó la ocasión: Álex Baena empató en el minuto 61 y Mikel Oyarzabal, con un pase de Baena, marcó el 2-3 en el 74. Los dos habían salido desde el banquillo: a veces los partidos los ganan los que no empiezan jugando."
+   ],
+   "busqueda_imagenes": "estadio de Wembley",
+   "fuentes": [
+    "El Imparcial",
+    "La República",
+    "Al Jazeera"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "The world champions win at Wembley",
+    "entradilla": "Spain came from behind to beat England 2-3 in their first match since the World Cup.",
+    "parrafos": [
+     "On 26 September Spain played their first match since winning the 2026 World Cup, and they did it at [[Wembley|wembley]], against England, in the [[Nations League|nations]]. [[Lamine Yamal|lamine]] scored in the 2nd minute after winning the ball, but England turned it around with goals from Anthony Gordon and [[Harry Kane|kane]].",
+     "At 2-1, Kane missed a [[penalty|penalti]] that could have settled the match. Spain took their chance: Álex Baena equalised in the 61st minute and Mikel Oyarzabal, from a Baena pass, made it 2-3 in the 74th. Both had come off the bench: sometimes matches are won by those who do not start."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "dos-partidos-mas-antes-del-paron",
+   "seccion": "dep",
+   "dibujo": "calendar",
+   "titular": "España gana 3-1 a Chequia y sigue con pleno de victorias",
+   "entradilla": "Lamine Yamal, Rodri y Merino marcaron en Oviedo.",
+   "parrafos": [
+    "España venció 3-1 a Chequia el sábado 3 de octubre en el estadio Carlos Tartiere de Oviedo, en la [[Nations League|nations]]. [[Lamine Yamal|lamine]] abrió el marcador a los 6 minutos con un disparo de zurda tras un pase de Dani Olmo; Rodri amplió la ventaja en el minuto 34, Jiří Sláma recortó para Chequia en el 68 y Mikel Merino cerró el resultado en el 88 tras un contragolpe. Es la tercera victoria seguida y España lidera su grupo con nueve puntos.",
+    "El seleccionador, [[Luis de la Fuente|delafuente]], llamó a 26 jugadores para estos partidos. España visita a Croacia el martes 6 de octubre. En la Nations League las selecciones se agrupan por nivel y las mejores se clasifican para una fase final. Para los jugadores es una forma de mantener el ritmo entre grandes torneos y, para el seleccionador, una oportunidad de probar a futbolistas jóvenes de cara a la Eurocopa de 2028."
+   ],
+   "busqueda_imagenes": "selección española fútbol",
+   "fuentes": [
+    "Milenio",
+    "Cooperativa",
+    "Prensa Mercosur"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-04",
+   "nota_actualizacion": "España ganó 3-1 a Chequia en Oviedo y es líder de su grupo con nueve puntos.",
+   "en": {
+    "titular": "Spain beat Czechia 3-1 and keep up their perfect run",
+    "entradilla": "Lamine Yamal, Rodri and Merino scored in Oviedo.",
+    "parrafos": [
+     "Spain beat Czechia 3-1 on Saturday 3 October at the Carlos Tartiere stadium in Oviedo, in the [[Nations League|nations]]. [[Lamine Yamal|lamine]] opened the scoring after 6 minutes with a left-footed shot following a pass from Dani Olmo; Rodri made it 2-0 in the 34th minute, Jiří Sláma pulled one back for Czechia in the 68th and Mikel Merino sealed the result in the 88th after a counter-attack. It is their third win in a row and Spain lead their group with nine points.",
+     "The manager, [[Luis de la Fuente|delafuente]], called up 26 players for these matches. Spain visit Croatia on Tuesday 6 October. In the Nations League national teams are grouped by level and the best ones qualify for a final stage. For the players it is a way of keeping up their rhythm between big tournaments and, for the manager, a chance to try out young players ahead of Euro 2028."
+    ],
+    "nota_actualizacion": "Spain beat Czechia 3-1 in Oviedo and lead their group with nine points."
+   }
+  },
+  {
+   "id": "un-estadounidense-campeon-del-mundo-por-sorpresa",
+   "seccion": "dep",
+   "dibujo": "bike",
+   "titular": "Un estadounidense, campeón del mundo por sorpresa",
+   "entradilla": "Brandon McNulty atacó a 32 km de meta y nadie pudo alcanzarlo.",
+   "parrafos": [
+    "[[Brandon McNulty|mcnulty]] ganó el 27 de septiembre en Montreal (Canadá) el Mundial de ciclismo en ruta. Fueron 273 kilómetros y más de seis horas de carrera. Atacó a 32 kilómetros de la meta y llegó solo, 13 segundos por delante del australiano Michael Matthews y del neerlandés Mathieu van der Poel.",
+    "Durante un año llevará el [[maillot arcoíris|arcoiris]] en todas sus carreras. Es el primer estadounidense que gana el Mundial desde 1993. El gran favorito no estuvo: [[Pogačar|pogacar]], campeón en 2024 y 2025, sigue recuperándose de una grave caída."
+   ],
+   "busqueda_imagenes": "Mundial ciclismo Montreal 2026",
+   "fuentes": [
+    "France 24",
+    "Es Ciclismo",
+    "Eurosport"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "An American becomes world champion by surprise",
+    "entradilla": "Brandon McNulty attacked 32 km from the finish and nobody could catch him.",
+    "parrafos": [
+     "[[Brandon McNulty|mcnulty]] won the Road World Cycling Championships on 27 September in Montreal (Canada). The race covered 273 kilometres and lasted more than six hours. He attacked 32 kilometres from the finish and arrived alone, 13 seconds ahead of Australian Michael Matthews and Dutchman Mathieu van der Poel.",
+     "For a year he will wear the [[rainbow jersey|arcoiris]] in all his races. He is the first American to win the World Championships since 1993. The big favourite was missing: [[Pogačar|pogacar]], champion in 2024 and 2025, is still recovering from a bad crash."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "la-caida-que-dejo-fuera-al-mejor-ciclista-del-mu",
+   "seccion": "dep",
+   "dibujo": "helmet",
+   "titular": "La caída que dejó fuera al mejor ciclista del mundo",
+   "entradilla": "Pogačar se rompió la clavícula y una vértebra en la Vuelta.",
+   "parrafos": [
+    "El 29 de agosto, en la octava etapa de la Vuelta, [[Tadej Pogačar|pogacar]] se cayó cuando iba líder, a 32 kilómetros de la meta en Xeraco (Valencia). En el hospital le diagnosticaron una [[conmoción cerebral|conmocion]], una fractura de [[clavícula|clavicula]] y una fractura estable en una vértebra del cuello. Tuvo que acabar la temporada.",
+    "Los ciclistas bajan puertos a más de 80 km/h con muy poca protección, así que el [[casco|casco]] es fundamental. Cada vez se discute más sobre la seguridad de las carreras: carreteras estrechas, rotondas, coches de equipo… Un solo error puede costar una temporada, o algo peor."
+   ],
+   "busqueda_imagenes": "ciclismo seguridad casco",
+   "fuentes": [
+    "Olympics.com",
+    "Velo",
+    "Ciclo21"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "The crash that ruled out the world's best cyclist",
+    "entradilla": "Pogačar broke his collarbone and a vertebra in the Vuelta.",
+    "parrafos": [
+     "On 29 August, on the eighth stage of the Vuelta, [[Tadej Pogačar|pogacar]] crashed while he was the race leader, 32 kilometres from the finish in Xeraco (Valencia). At the hospital he was diagnosed with [[concussion|conmocion]], a broken [[collarbone|clavicula]] and a stable fracture in one of the vertebrae in his neck. He had to end his season.",
+     "Cyclists ride down mountain passes at more than 80 km/h with very little protection, so the [[helmet|casco]] is essential. Race safety is being discussed more and more: narrow roads, roundabouts, team cars… A single mistake can cost a whole season, or something worse."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
+   "seccion": "dep",
+   "dibujo": "helmet",
+   "titular": "Márquez gana en Japón y se queda a dos puntos de Martín",
+   "entradilla": "El Mundial de MotoGP se decide entre dos campeones del mundo, separados por solo dos puntos.",
+   "parrafos": [
+    "[[Marc Márquez|marquez]], de Ducati, ganó este fin de semana el Gran Premio de Japón de [[MotoGP|motogp]], en el circuito de Motegi. Fue un doblete: el sábado ya había ganado la sprint, la carrera corta. Segundo quedó [[Jorge Martín|martin]], de Aprilia, a 1,363 segundos, y tercero Marco Bezzecchi, también de Aprilia, a 2,252. El cuarto puesto fue para Enea Bastianini, con una KTM del equipo Tech3. Fue, además, un duelo entre españoles: los dos primeros clasificados lo son.",
+    "El resultado deja el campeonato casi empatado: Martín sigue líder con 333 puntos, pero Márquez, con 331, está solo a dos. Márquez ganó el título en 2025 y Martín en 2024, así que la lucha de este año enfrenta a dos campeones del mundo, ambos españoles y con marcas distintas. El título se decidirá en las carreras que faltan, y en cada una el ganador se lleva como máximo 25 puntos, de modo que dos puntos de ventaja se pueden remontar con un solo buen domingo."
+   ],
+   "busqueda_imagenes": "Marc Márquez Motegi 2026 MotoGP",
+   "fuentes": [
+    "Crash.net",
+    "Moteo.es",
+    "Coches.net",
+    "Unitel"
+   ],
+   "publicada": "2026-10-06",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Márquez wins in Japan and moves two points behind Martín",
+    "entradilla": "The MotoGP World Championship is a fight between two world champions, separated by just two points.",
+    "parrafos": [
+     "[[Marc Márquez|marquez]], of Ducati, won the Japanese Grand Prix of [[MotoGP|motogp]] this weekend, at the Motegi circuit. It was a double: on Saturday he had already won the sprint, the short race. [[Jorge Martín|martin]], of Aprilia, finished second, 1.363 seconds behind, and Marco Bezzecchi, also of Aprilia, third, 2.252 behind. Fourth place went to Enea Bastianini, on a KTM from the Tech3 team. It was also a duel between Spaniards: the top two finishers both are.",
+     "The result leaves the championship almost level: Martín is still top with 333 points, but Márquez, on 331, is only two behind. Márquez won the title in 2025 and Martín in 2024, so this year's fight pits two world champions against each other, both Spaniards on different makes. The title will be decided in the remaining races, and in each one the winner takes at most 25 points, so a two-point lead can be overturned in a single good Sunday."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "una-pelicula-britanica-gana-la-concha-de-oro",
+   "seccion": "cul",
+   "dibujo": "film",
+   "titular": "Una película británica gana la Concha de Oro",
+   "entradilla": "Mike Leigh triunfa en el Festival de San Sebastián.",
+   "parrafos": [
+    "La película \"Tender Loving Care\", del británico [[Mike Leigh|leigh]], ganó la [[Concha de Oro|concha]] en la 74.ª edición del festival de [[San Sebastián|donosti]], que terminó a finales de septiembre. Leigh es famoso por películas sobre la vida de la gente corriente, con los problemas de cada día.",
+    "Leigh trabaja de una forma muy especial: no da a los actores un guion cerrado. Durante meses improvisan juntos y construyen los personajes poco a poco, y solo después escribe la película. Por eso sus personajes parecen personas reales."
+   ],
+   "busqueda_imagenes": "Festival de San Sebastián Concha de Oro",
+   "fuentes": [
+    "Otros Cines",
+    "KCH Comunicación"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "A British film wins the Golden Shell",
+    "entradilla": "Mike Leigh triumphs at the San Sebastián Film Festival.",
+    "parrafos": [
+     "The film \"Tender Loving Care\", by British director [[Mike Leigh|leigh]], won the [[Golden Shell|concha]] at the 74th edition of the [[San Sebastián|donosti]] festival, which ended at the end of September. Leigh is famous for films about the lives of ordinary people and their everyday problems.",
+     "Leigh works in a very special way: he does not give the actors a finished script. For months they improvise together and build the characters little by little, and only afterwards does he write the film. That is why his characters seem like real people."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "lorca-en-el-camino-a-los-oscar",
+   "seccion": "cul",
+   "dibujo": "blackball",
+   "titular": "Lorca, en el camino a los Óscar",
+   "entradilla": "\"La bola negra\" se inspira en una obra que el poeta no pudo terminar.",
+   "parrafos": [
+    "\"La bola negra\", de [[Los Javis|javis]], ganó el premio del público en San Sebastián con la nota más alta que ha tenido nunca una película española allí. Antes había ganado el premio a la mejor dirección en Cannes, y representará a España en los [[Óscar|oscar]]. En su primera semana en los cines recaudó 4,67 millones de euros.",
+    "La película parte de una obra que [[Federico García Lorca|lorca]] dejó apenas empezada en 1936, unos meses antes de ser asesinado al comienzo de la Guerra Civil. Los directores imaginan cómo podría haber seguido. Casi noventa años después, Lorca sigue inspirando a nuevos artistas."
+   ],
+   "busqueda_imagenes": "La bola negra Los Javis",
+   "fuentes": [
+    "El Salto",
+    "Diario de León",
+    "Hollywood Reporter"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Lorca, on the road to the Oscars",
+    "entradilla": "\"La bola negra\" is inspired by a play the poet could not finish.",
+    "parrafos": [
+     "\"La bola negra\", by [[Los Javis|javis]], won the audience award in San Sebastián with the highest score a Spanish film has ever had there. Before that it had won the award for best director at Cannes, and it will represent Spain at the [[Oscars|oscar]]. In its first week in cinemas it took 4.67 million euros.",
+     "The film starts from a play that [[Federico García Lorca|lorca]] had barely begun in 1936, a few months before he was murdered at the start of the Civil War. The directors imagine how it might have continued. Almost ninety years later, Lorca is still inspiring new artists."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "ultimos-dias-para-ver-a-becquer-en-el-prado",
+   "seccion": "cul",
+   "dibujo": "frame",
+   "titular": "Últimos días para ver a Bécquer en el Prado",
+   "entradilla": "Ocho cuadros que muestran cómo vivía la gente hace 160 años.",
+   "parrafos": [
+    "Hasta este domingo 4 de octubre, el [[Museo del Prado|prado]] expone ocho cuadros de [[Valeriano Bécquer|becquer]], pintados entre 1866 y 1867. Muestran fiestas, trajes y trabajos de la gente de Aragón, Soria y Ávila. Son un gran ejemplo del [[costumbrismo|costumbrismo]].",
+    "Valeriano era hermano del poeta Gustavo Adolfo Bécquer. Los dos eran sevillanos y viajaron juntos por esos pueblos: uno escribía, el otro pintaba. Estos cuadros funcionan como fotografías de una época en la que todavía no había cámaras en cada casa."
+   ],
+   "busqueda_imagenes": "Valeriano Bécquer pintura costumbres",
+   "fuentes": [
+    "Visit Madrid",
+    "Meer"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Last days to see Bécquer at the Prado",
+    "entradilla": "Eight paintings that show how people lived 160 years ago.",
+    "parrafos": [
+     "Until this Sunday, 4 October, the [[Prado Museum|prado]] is showing eight paintings by [[Valeriano Bécquer|becquer]], painted between 1866 and 1867. They show festivals, costumes and jobs of the people of Aragon, Soria and Ávila. They are a great example of [[costumbrismo|costumbrismo]].",
+     "Valeriano was the brother of the poet Gustavo Adolfo Bécquer. Both were from Seville and travelled together through those villages: one wrote, the other painted. These paintings work like photographs of a time when there was not yet a camera in every home."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "llega-la-semana-de-los-nobel",
+   "seccion": "cul",
+   "dibujo": "medal",
+   "titular": "Los Nobel de Medicina, Física y Química premian la luz, los neutrinos y las moléculas espejo",
+   "entradilla": "Tres de los premios de 2026 ya tienen ganadores; el de Literatura se anuncia este jueves.",
+   "parrafos": [
+    "Los [[Premios Nobel|nobel]] de 2026 ya han dado a conocer tres fallos. El lunes 5 de octubre, el Instituto Karolinska premió con el de Medicina a Karl Deisseroth, Peter Hegemann y Georg Nagel por la [[optogenética|optogenetica]], una técnica que permite encender o apagar neuronas con pulsos de luz para estudiar en cerebros vivos la memoria o las emociones. El martes 6 le tocó a la Física: el belga Francis Halzen, de 82 años, fue premiado por [[IceCube|icecube]], un observatorio construido en un kilómetro cúbico de hielo del Polo Sur que detecta neutrinos de alta energía llegados del espacio.",
+    "El miércoles 7 se anunció el de Química: el francés Henri Kagan, de 95 años, y el japonés Kenso Soai, de 76, por descubrir efectos no lineales y de autocatálisis en la síntesis asimétrica. Muchas sustancias existen en dos versiones llamadas [[moléculas espejo|moleculasespejo]], y en un medicamento a menudo solo sirve una. Su trabajo explica cómo una reacción puede favorecer una de ellas, algo útil para fabricar fármacos. Los demás premios se anuncian hasta el 12 de octubre. El de Literatura lo elige la [[Academia Sueca|academia]]; dos andaluces lo han ganado: [[Juan Ramón Jiménez|juanramon]] en 1956 y Vicente Aleixandre en 1977."
+   ],
+   "busqueda_imagenes": "Premio Nobel medalla",
+   "fuentes": [
+    "Infobae",
+    "Semana",
+    "La Nación",
+    "El Universal",
+    "Ámbito",
+    "nobelprize.org",
+    "CNN en Español",
+    "National Geographic España",
+    "Milenio"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": "2026-10-08",
+   "nota_actualizacion": "El Nobel de Química 2026 es para Henri Kagan y Kenso Soai, por sus trabajos sobre moléculas espejo.",
+   "en": {
+    "titular": "The Medicine, Physics and Chemistry Nobels reward light, neutrinos and mirror molecules",
+    "entradilla": "Three of the 2026 prizes now have winners; the Literature prize is announced this Thursday.",
+    "parrafos": [
+     "The 2026 [[Nobel Prizes|nobel]] have already revealed three winners. On Monday 5 October the Karolinska Institute awarded the Medicine prize to Karl Deisseroth, Peter Hegemann and Georg Nagel for [[optogenetics|optogenetica]], a technique that makes it possible to switch neurons on or off with pulses of light and to study memory or emotions in living brains. On Tuesday 6 it was Physics' turn: the Belgian Francis Halzen, aged 82, was honoured for [[IceCube|icecube]], an observatory built in a cubic kilometre of ice at the South Pole that detects high-energy neutrinos arriving from space.",
+     "On Wednesday 7 the Chemistry prize was announced: the Frenchman Henri Kagan, aged 95, and the Japanese Kenso Soai, aged 76, for discovering non-linear effects and autocatalysis in asymmetric synthesis. Many substances exist in two versions called [[mirror molecules|moleculasespejo]], and in a medicine often only one of them works. Their work explains how a reaction can favour one of them, which is useful for making drugs. The other prizes are announced until 12 October. The Literature prize is chosen by the [[Swedish Academy|academia]]; two Andalusians have won it: [[Juan Ramón Jiménez|juanramon]] in 1956 and Vicente Aleixandre in 1977."
+    ],
+    "nota_actualizacion": "The 2026 Chemistry Nobel goes to Henri Kagan and Kenso Soai, for their work on mirror molecules."
+   }
+  },
+  {
+   "id": "escritores-en-la-isla-del-volcan",
+   "seccion": "cul",
+   "dibujo": "volcano",
+   "titular": "Escritores en la isla del volcán",
+   "entradilla": "Autores de España e Hispanoamérica visitan colegios de La Palma.",
+   "parrafos": [
+    "Del 28 de septiembre al 3 de octubre se celebra en Los Llanos de Aridane, en [[La Palma|lapalma]], el Festival Hispanoamericano de Escritores. Autores de Europa y de [[Hispanoamérica|hispanoamerica]] dan charlas y lecturas, y muchos visitan los colegios para hablar con los alumnos.",
+    "Los Llanos de Aridane es uno de los pueblos que más sufrió la [[erupción|erupcion]] del volcán en 2021: la lava destruyó miles de casas y cambió para siempre el paisaje. Llenar el pueblo de libros y escritores es también una manera de que la isla siga viva y mirando al futuro."
+   ],
+   "busqueda_imagenes": "La Palma volcán 2021",
+   "fuentes": [
+    "Hojas Sueltas"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Writers on the volcano island",
+    "entradilla": "Authors from Spain and Spanish-speaking America visit schools on La Palma.",
+    "parrafos": [
+     "From 28 September to 3 October, the Hispanic American Writers' Festival is taking place in Los Llanos de Aridane, on [[La Palma|lapalma]]. Authors from Europe and [[Spanish-speaking America|hispanoamerica]] give talks and readings, and many visit schools to talk with the pupils.",
+     "Los Llanos de Aridane is one of the towns that suffered most from the volcano's [[eruption|erupcion]] in 2021: the lava destroyed thousands of homes and changed the landscape forever. Filling the town with books and writers is also a way of keeping the island alive and looking to the future."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "crew13-astronautas-llegan-estacion-espacial",
+   "seccion": "tec",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-y\" cx=\"20\" cy=\"18\" r=\"3\"/><circle class=\"d-y\" cx=\"100\" cy=\"24\" r=\"2\"/><circle class=\"d-y\" cx=\"92\" cy=\"70\" r=\"2.5\"/><path class=\"d-a\" d=\"M60 8 C72 20 74 40 70 58 L50 58 C46 40 48 20 60 8 Z\"/><circle class=\"d-w\" cx=\"60\" cy=\"30\" r=\"6\"/><path class=\"d-b\" d=\"M50 46 L40 62 L50 58 Z\"/><path class=\"d-b\" d=\"M70 46 L80 62 L70 58 Z\"/><path class=\"d-y\" d=\"M52 60 L60 82 L68 60 Z\"/><path class=\"d-l\" d=\"M60 8 C72 20 74 40 70 58 L50 58 C46 40 48 20 60 8 Z\"/></svg>",
+   "titular": "Cuatro astronautas llegan a la Estación Espacial en tiempo récord",
+   "entradilla": "El viaje de la misión Crew-13 duró menos de ocho horas, el más rápido de una nave estadounidense hasta allí.",
+   "parrafos": [
+    "El jueves 1 de octubre, a las 11:10 de la mañana en Florida (las 17:10 en España), un cohete Falcon 9 de la empresa SpaceX despegó de Cabo Cañaveral. Llevaba una cápsula Dragon con cuatro tripulantes: los estadounidenses Jessica Watkins, la comandante, y Luke Delaney, de la [[NASA|nasa]]; el canadiense Joshua Kutryk y el ruso Sergey Teteryatnikov. Unas siete horas y 50 minutos después, la nave se enganchó sola, sin que nadie la pilotara, a la [[Estación Espacial Internacional|iss]]. Según la NASA, ninguna nave estadounidense había tardado tan poco en llegar desde el despegue en toda la historia de la estación.",
+    "La estación da vueltas a la Tierra a unos 400 kilómetros de altura y en ella siempre vive gente. Los recién llegados sustituyen a la tripulación anterior, la Crew-12, que regresará a casa. Durante su estancia harán experimentos en [[microgravedad|microgravedad]], es decir, flotando: intentarán fabricar tejidos a partir de [[células madre|celulasmadre]], probarán sistemas para cultivar plantas casi sin ayuda humana y estudiarán cómo circula la sangre cuando el cuerpo no pesa. Lo que aprendan servirá para preparar viajes más largos a la Luna y a Marte, y también para la medicina aquí abajo. Kutryk se llevó un recuerdo especial: un reloj de bolsillo familiar de más de cien años."
+   ],
+   "busqueda_imagenes": "Crew-13 SpaceX launch Falcon 9 October 2026",
+   "fuentes": [
+    "NASA",
+    "ABC News",
+    "Space.com"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Four astronauts reach the Space Station in record time",
+    "entradilla": "The Crew-13 mission's journey took less than eight hours, the fastest ever for a US spacecraft heading there.",
+    "parrafos": [
+     "On Thursday 1 October, at 11:10 in the morning in Florida (17:10 in Spain), a Falcon 9 rocket built by the company SpaceX lifted off from Cape Canaveral. It carried a Dragon capsule with four crew members: the Americans Jessica Watkins, the commander, and Luke Delaney, from [[NASA|nasa]]; the Canadian Joshua Kutryk; and the Russian Sergey Teteryatnikov. About seven hours and 50 minutes later, the spacecraft docked by itself, with nobody steering it, to the [[International Space Station|iss]]. According to NASA, no US spacecraft had ever got there so quickly after launch in the whole history of the station.",
+     "The station circles the Earth about 400 kilometres up, and there are always people living on board. The newcomers replace the previous crew, Crew-12, who will return home. During their stay they will carry out experiments in [[microgravity|microgravedad]] – in other words, while floating: they will try to grow tissue from [[stem cells|celulasmadre]], test systems for growing plants with almost no human help and study how blood flows when the body is weightless. What they learn will help prepare longer journeys to the Moon and Mars, and also improve medicine down here. Kutryk took a special keepsake: a family pocket watch more than a hundred years old."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "ciberataque-adif-renfe-datos-viajeros",
+   "seccion": "tec",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-b\" x=\"14\" y=\"12\" width=\"92\" height=\"66\" rx=\"6\"/><path class=\"d-l\" d=\"M48 40 V30 a12 12 0 0 1 24 0 V40\"/><rect class=\"d-a\" x=\"40\" y=\"40\" width=\"40\" height=\"30\" rx=\"4\"/><circle class=\"d-w\" cx=\"60\" cy=\"52\" r=\"4\"/><rect class=\"d-w\" x=\"58\" y=\"54\" width=\"4\" height=\"9\"/><path class=\"d-l\" d=\"M86 20 L100 34 M100 20 L86 34\"/><text class=\"d-i\" x=\"20\" y=\"28\" font-size=\"9\" font-family=\"monospace\">0101</text><text class=\"d-i\" x=\"18\" y=\"72\" font-size=\"9\" font-family=\"monospace\">1100</text></svg>",
+   "titular": "Roban millones de datos de viajeros de tren",
+   "entradilla": "El ataque informático contra Adif y Renfe es ya uno de los mayores robos de datos de la historia de España.",
+   "parrafos": [
+    "Adif, la empresa pública que gestiona las vías y las estaciones, detectó el 24 de septiembre movimientos extraños en sus sistemas. Era un [[ciberataque|ciberataque]]: unos delincuentes habían entrado por su página web y, desde allí, saltaron a los ordenadores de Renfe, la compañía que mueve los trenes. Se llevaron unos 500 gigabytes de información. Al principio Renfe aseguró que solo habían tocado datos limitados, como nombres y correos. Pero un análisis publicado después en la prensa elevó la cuenta a unos 150 millones de [[datos personales|datospersonales]]: nombres, DNI, teléfonos, direcciones y billetes comprados. No hay pruebas de que se llevaran datos bancarios, y los trenes funcionaron con normalidad.",
+    "Los investigadores estudian si los atacantes usaron [[inteligencia artificial|ia]] para encontrar una [[vulnerabilidad|vulnerabilidad]], es decir, un punto débil, en la web de Adif; también se analiza si hubo un error humano. Adif presentó una denuncia y avisó al Centro Criptológico Nacional, el organismo que protege los sistemas del Estado. El robo preocupa porque, con esos datos, los delincuentes pueden mandar mensajes falsos que parecen de Renfe para engañar a la gente y sacarle claves o dinero: es el llamado [[phishing|phishing]]. El consejo de los expertos es sencillo: ante un correo o un SMS raro, no pulsar ningún enlace y comprobarlo llamando directamente a la empresa."
+   ],
+   "busqueda_imagenes": "ciberataque Adif Renfe septiembre 2026",
+   "fuentes": [
+    "Infobae",
+    "Xataka",
+    "Moncloa.com"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Millions of train passengers' details stolen",
+    "entradilla": "The cyberattack on Adif and Renfe is already one of the biggest data thefts in Spain's history.",
+    "parrafos": [
+     "Adif, the public company that runs Spain's railway tracks and stations, noticed strange activity in its systems on 24 September. It was a [[cyberattack|ciberataque]]: criminals had got in through its website and, from there, jumped into the computers of Renfe, the company that runs the trains. They took about 500 gigabytes of information. At first Renfe said only limited data, such as names and email addresses, had been reached. But an analysis later published in the press raised the total to some 150 million pieces of [[personal data|datospersonales]]: names, ID numbers, phone numbers, addresses and tickets bought. There is no evidence that bank details were taken, and the trains kept running normally.",
+     "Investigators are looking into whether the attackers used [[artificial intelligence|ia]] to find a [[vulnerability|vulnerabilidad]] – a weak spot – in Adif's website; they are also checking whether there was a human error. Adif filed a complaint and alerted the National Cryptologic Centre, the body that protects the State's computer systems. The theft is worrying because, with this information, criminals can send fake messages that look as if they come from Renfe to trick people into handing over passwords or money: this is known as [[phishing|phishing]]. The experts' advice is simple: if an email or text message looks odd, don't click on any link, and check by calling the company directly."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "google-gemini-4-argon-ia-restringida",
+   "seccion": "tec",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-b\" x=\"30\" y=\"16\" width=\"60\" height=\"58\" rx=\"10\"/><rect class=\"d-a\" x=\"42\" y=\"28\" width=\"36\" height=\"34\" rx=\"4\"/><path class=\"d-l\" d=\"M30 30 H18 M30 45 H14 M30 60 H18 M90 30 H102 M90 45 H106 M90 60 H102 M48 16 V6 M60 16 V4 M72 16 V6 M48 74 V84 M60 74 V86 M72 74 V84\"/><path class=\"d-w\" d=\"M52 46 a8 8 0 1 1 16 0 a8 8 0 1 1 -16 0\"/><circle class=\"d-a\" cx=\"60\" cy=\"46\" r=\"3\"/><circle class=\"d-y\" cx=\"98\" cy=\"14\" r=\"5\"/></svg>",
+   "titular": "Google presenta una IA tan potente que casi nadie puede usarla todavía",
+   "entradilla": "Gemini 4 Argon está, por ahora, solo en manos de expertos en ciberseguridad.",
+   "parrafos": [
+    "Google ha presentado esta semana Gemini 4 Argon, el [[modelo de IA|modeloia]] más potente que ha creado. Está pensado sobre todo para programar y para trabajos profesionales, y la empresa asegura que puede encontrar por sí solo fallos graves en los programas informáticos, comprobar que son reales y proponer cómo arreglarlos. Pero no se puede usar desde el móvil ni contratar todavía: de momento solo tienen acceso equipos de [[ciberseguridad|ciberseguridad]] de confianza, como agencias de gobiernos u organizaciones sanitarias y de telecomunicaciones, a través de un programa llamado Fairwind. Más adelante llegará a algunos clientes de pago, aunque Google no ha dicho cuándo.",
+    "¿Por qué tanta prudencia? Porque es una herramienta de doble uso: lo que sirve para encontrar agujeros de seguridad y taparlos también le serviría a un delincuente para encontrarlos y aprovecharlos. Google quiere que los defensores lo usen primero mientras estudia cómo podría emplearse mal, y además lo somete a una revisión voluntaria del Gobierno de Estados Unidos. No es la única: otras empresas, como OpenAI y Anthropic, también limitan quién usa sus modelos más avanzados. Para unos es una muestra de responsabilidad; otros señalan que así unas pocas empresas deciden solas sobre una tecnología que nos afecta a todos. En la [[Unión Europea|ue]], una ley sobre [[inteligencia artificial|ia]] intenta fijar reglas comunes."
+   ],
+   "busqueda_imagenes": "Gemini 4 Argon Google",
+   "fuentes": [
+    "Infobae",
+    "Moncloa.com",
+    "Androidayuda"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Google unveils an AI so powerful that hardly anyone can use it yet",
+    "entradilla": "For now, Gemini 4 Argon is only in the hands of cybersecurity experts.",
+    "parrafos": [
+     "This week Google unveiled Gemini 4 Argon, the most powerful [[AI model|modeloia]] it has ever built. It is designed mainly for programming and professional work, and the company says it can find serious flaws in computer programs on its own, check that they are real and suggest how to fix them. But you can't use it on your phone or sign up for it yet: for the moment only trusted [[cybersecurity|ciberseguridad]] teams have access, such as government agencies or health and telecoms organisations, through a programme called Fairwind. Later it will reach some paying customers, although Google hasn't said when.",
+     "Why so cautious? Because it is a dual-use tool: what helps you find security holes and close them could also help a criminal find them and take advantage of them. Google wants defenders to use it first while it studies how it might be misused, and it is also putting it through a voluntary review by the US Government. It isn't the only one: other companies, such as OpenAI and Anthropic, are also limiting who can use their most advanced models. Some see this as a sign of responsibility; others point out that it means a handful of companies decide on their own about a technology that affects us all. In the [[European Union|ue]], a law on [[artificial intelligence|ia]] is trying to set common rules."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "ley-redes-sociales-menores-16-congreso",
+   "seccion": "tec",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-i\" x=\"42\" y=\"6\" width=\"36\" height=\"78\" rx=\"6\"/><rect class=\"d-w\" x=\"46\" y=\"14\" width=\"28\" height=\"60\" rx=\"2\"/><rect class=\"d-b\" x=\"49\" y=\"20\" width=\"22\" height=\"8\" rx=\"2\"/><rect class=\"d-b\" x=\"49\" y=\"32\" width=\"22\" height=\"8\" rx=\"2\"/><rect class=\"d-b\" x=\"49\" y=\"44\" width=\"22\" height=\"8\" rx=\"2\"/><circle class=\"d-a\" cx=\"92\" cy=\"28\" r=\"12\"/><text class=\"d-w\" x=\"86\" y=\"33\" font-size=\"14\" font-family=\"sans-serif\" font-weight=\"bold\">16</text><path class=\"d-l\" d=\"M84 20 L100 36\"/></svg>",
+   "titular": "Redes sociales desde los 16: la ley sigue su camino en el Congreso",
+   "entradilla": "Mientras tanto, Europa prepara su propia norma, con otras edades.",
+   "parrafos": [
+    "El [[Congreso de los Diputados|congreso]] ha retomado esta semana el trabajo sobre la ley para proteger a los menores en internet. La [[ponencia|ponencia]], un grupo pequeño de diputados que repasa el texto antes de votarlo, se reunió el martes 29 de septiembre y continuará en las próximas semanas, sin fecha para terminar. Según los cambios pactados por PSOE y Sumar, los partidos del Gobierno, los menores de 16 años no podrían entrar en redes sociales que incluyan contenidos dañinos. Además, las plataformas tendrían que demostrar ante la [[CNMC|cnmc]] que no usan diseños pensados para enganchar, que protegen la intimidad y que frenan los contactos no deseados.",
+    "Los cambios también convierten en delito manipular los [[algoritmos|algoritmo]], las reglas con las que una red decide qué te enseña, para que se difunda contenido dañino. Quienes apoyan la ley creen que las plataformas llevan años sin proteger bien a los niños; queda una gran pregunta: cómo comprobar la edad de cada usuario sin pedir demasiados datos a todo el mundo. Por su parte, la Comisión Europea presentó el 17 de septiembre la propuesta EU KIDS Act para toda la [[Unión Europea|ue]]: ninguna cuenta antes de los 13 años, «minicuentas» vigiladas por los padres y con un máximo de una hora al día entre los 13 y los 15, y cuentas propias desde los 15. Aún debe negociarse."
+   ],
+   "busqueda_imagenes": "ley menores entornos digitales redes sociales 16 años Congreso",
+   "fuentes": [
+    "The Objective",
+    "Atlántico",
+    "Comisión Europea (Representación en España)",
+    "Moncloa.com"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Social media from 16: the law moves ahead in Congress",
+    "entradilla": "Meanwhile, Europe is preparing its own rules, with different ages.",
+    "parrafos": [
+     "This week the [[Congress of Deputies|congreso]] went back to work on the law to protect children and teenagers online. The [[drafting committee|ponencia]], a small group of MPs who go through the text before it is voted on, met on Tuesday 29 September and will carry on over the coming weeks, with no end date. Under the changes agreed by PSOE and Sumar, the parties in government, under-16s would not be allowed into social networks that include harmful content. On top of that, platforms would have to prove to the [[CNMC|cnmc]] that they don't use designs meant to get people hooked, that they protect privacy and that they stop unwanted contact.",
+     "The changes also make it a crime to manipulate [[algorithms|algoritmo]] – the rules a network uses to decide what to show you – so that harmful content spreads. Supporters of the law believe platforms have spent years failing to protect children properly; one big question remains: how to check each user's age without asking everyone for too much personal information. Separately, on 17 September the European Commission presented the EU KIDS Act proposal for the whole [[European Union|ue]]: no accounts before 13, parent-supervised 'mini-accounts' limited to one hour a day between 13 and 15, and independent accounts from 15. It still has to be negotiated."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "whatsapp-controles-parentales-adolescentes",
+   "seccion": "tec",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-b\" d=\"M60 8 L92 20 V44 C92 64 78 78 60 84 C42 78 28 64 28 44 V20 Z\"/><path class=\"d-l\" d=\"M60 8 L92 20 V44 C92 64 78 78 60 84 C42 78 28 64 28 44 V20 Z\"/><path class=\"d-a\" d=\"M44 36 h32 a4 4 0 0 1 4 4 v14 a4 4 0 0 1 -4 4 h-20 l-8 7 v-7 h-4 a4 4 0 0 1 -4 -4 v-14 a4 4 0 0 1 4 -4 Z\"/><circle class=\"d-w\" cx=\"52\" cy=\"47\" r=\"2.5\"/><circle class=\"d-w\" cx=\"60\" cy=\"47\" r=\"2.5\"/><circle class=\"d-w\" cx=\"68\" cy=\"47\" r=\"2.5\"/></svg>",
+   "titular": "WhatsApp estrena controles para los padres de adolescentes",
+   "entradilla": "Las familias podrán decidir algunos ajustes, pero no leer los mensajes.",
+   "parrafos": [
+    "WhatsApp, la aplicación de mensajería de la empresa Meta, anunció el 30 de septiembre nuevas herramientas de [[control parental|controlparental]] para las cuentas de adolescentes. Son opcionales: cada familia decide si las activa. Con ellas, la madre, el padre o el tutor puede elegir quién ve la foto de perfil del chico o la chica, quién puede añadirle a grupos o cómo usa [[Meta AI|metaai]], el asistente de inteligencia artificial de la aplicación, que puede quedarse en un modo con contenido más limitado. Si el adolescente quiere cambiar alguno de esos ajustes, necesita que sus padres lo aprueben con un PIN. Además, ellos reciben un aviso cuando entra o sale de un grupo, o cuando un grupo crece mucho.",
+    "Lo que los padres no pueden hacer es leer los chats ni escuchar las llamadas, que siguen protegidos con [[cifrado de extremo a extremo|cifrado]]: solo quien envía y quien recibe pueden entender el mensaje. Meta dice que esto es solo el principio y que irá añadiendo funciones según lo que pidan las familias; no ha concretado cuándo llegará a cada país. El anuncio coincide con el debate sobre la seguridad de los menores en internet, con leyes en preparación en España y en Europa. Para muchas familias puede ser una ayuda práctica; otras personas piensan que la responsabilidad no debería recaer solo en los padres, sino también en las plataformas, y eso es justo lo que buscan esas leyes."
+   ],
+   "busqueda_imagenes": "WhatsApp controles parentales adolescentes",
+   "fuentes": [
+    "Infobae",
+    "El Español",
+    "La Nación"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "WhatsApp launches controls for parents of teenagers",
+    "entradilla": "Families will be able to choose some settings, but not read the messages.",
+    "parrafos": [
+     "WhatsApp, the messaging app owned by the company Meta, announced new [[parental control|controlparental]] tools for teenagers' accounts on 30 September. They are optional: each family decides whether to switch them on. With them, a mother, father or guardian can choose who sees the teenager's profile picture, who can add them to groups, and how they use [[Meta AI|metaai]], the app's artificial intelligence assistant, which can be kept in a mode with more limited content. If the teenager wants to change any of those settings, their parents have to approve it with a PIN. Parents also get an alert when their child joins or leaves a group, or when a group grows a lot.",
+     "What parents can't do is read the chats or listen to the calls, which are still protected by [[end-to-end encryption|cifrado]]: only the sender and the receiver can understand the message. Meta says this is just the beginning and that it will add features based on what families ask for; it hasn't said when the tools will reach each country. The announcement comes in the middle of a debate about children's safety online, with laws being prepared in Spain and in Europe. For many families it may be a practical help; other people think the responsibility shouldn't fall only on parents but also on the platforms – and that is exactly what those laws are aiming for."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "ipc-septiembre-2026-sube-49",
+   "seccion": "eco",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M12 18 H26 L36 58 H88 L98 28 H30\"/><rect class=\"d-b\" x=\"40\" y=\"30\" width=\"16\" height=\"22\"/><rect class=\"d-y\" x=\"60\" y=\"34\" width=\"14\" height=\"18\"/><rect class=\"d-g\" x=\"76\" y=\"38\" width=\"10\" height=\"14\"/><circle class=\"d-i\" cx=\"42\" cy=\"70\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"70\" r=\"6\"/><path class=\"d-a\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/><path class=\"d-l\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/></svg>",
+   "titular": "Los precios suben un 4,9 %, lo máximo en más de tres años",
+   "entradilla": "La gasolina y el gasóleo vuelven a ser los grandes culpables, según el dato adelantado del INE.",
+   "parrafos": [
+    "El Instituto Nacional de Estadística ([[INE|ine]]) publicó el 29 de septiembre su primera estimación del [[IPC|ipc]] de septiembre: los precios están un 4,9 % más altos que hace un año. En agosto la subida era del 4,3 %, así que la [[inflación|inflacion]] se acelera y llega a su nivel más alto en más de tres años. La causa principal son los carburantes: la gasolina y el gasóleo se han encarecido, mientras que en septiembre del año pasado habían bajado. Detrás está la guerra con Irán, que ha disparado el precio del [[petróleo|petroleo]]. La inflación subyacente, que deja fuera la energía y los alimentos sin elaborar, sube menos: un 3,1 %.",
+    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre. Con los datos hasta septiembre, esa media ronda el 3,3 %, y los cálculos publicados por varios medios apuntan a que la subida de 2027 podría acercarse al 3,5 %, aunque dependerá de lo que pase en octubre y noviembre. Sería una buena noticia para los pensionistas, que no perderían poder de compra, pero también supondría más gasto para el Estado. El INE dará el dato definitivo de septiembre en octubre."
+   ],
+   "busqueda_imagenes": "IPC septiembre 2026 INE 4,9%",
+   "fuentes": [
+    "INE",
+    "The Objective",
+    "Vozpópuli",
+    "elEconomista"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Prices rise by 4.9%, the most in more than three years",
+    "entradilla": "Petrol and diesel are once again the main culprits, according to the INE's early estimate.",
+    "parrafos": [
+     "On 29 September Spain's National Statistics Institute ([[INE|ine]]) published its first estimate of the [[CPI|ipc]] for September: prices are 4.9% higher than a year ago. In August the rise was 4.3%, so [[inflation|inflacion]] is speeding up and has reached its highest level in more than three years. The main cause is fuel: petrol and diesel have become more expensive, whereas in September last year they had fallen. Behind this is the war with Iran, which has sent the price of [[oil|petroleo]] soaring. Core inflation, which leaves out energy and unprocessed food, is rising more slowly: 3.1%.",
+     "This matters because the same money buys fewer things, and wages don't always go up at the same pace. It also affects [[pensions|pension]]: by law, they go up each year in line with average inflation between December and November. With the figures up to September, that average is around 3.3%, and calculations published by several media outlets suggest the 2027 increase could get close to 3.5%, although it will depend on what happens in October and November. That would be good news for pensioners, who would not lose buying power, but it would also mean more spending for the State. The INE will give the final September figure in October."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "paro-afiliacion-septiembre-2026",
+   "seccion": "eco",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-a\" x=\"30\" y=\"30\" width=\"60\" height=\"44\" rx=\"5\"/><path class=\"d-l\" d=\"M48 30 V22 a4 4 0 0 1 4 -4 h16 a4 4 0 0 1 4 4 V30\"/><rect class=\"d-b\" x=\"30\" y=\"46\" width=\"60\" height=\"6\"/><rect class=\"d-y\" x=\"55\" y=\"43\" width=\"10\" height=\"12\" rx=\"2\"/><path class=\"d-l\" d=\"M8 80 L28 66 L44 72 L64 58 L84 62 L112 40\"/><circle class=\"d-g\" cx=\"112\" cy=\"40\" r=\"4\"/></svg>",
+   "titular": "Récord de trabajadores, pero el paro sube en septiembre",
+   "entradilla": "Las dos cosas a la vez tienen explicación: el final del verano y la regularización de inmigrantes.",
+   "parrafos": [
+    "El 2 de octubre el Gobierno publicó los datos de empleo de septiembre. El [[paro registrado|paro]] subió en 23.587 personas, hasta 2.379.505. Aun así, es la cifra más baja en un mes de septiembre desde 2007, y hay 42.160 parados menos que hace un año. Al mismo tiempo, la [[afiliación a la Seguridad Social|afiliacion]], que cuenta a quienes trabajan y cotizan, sumó 92.327 personas y superó los 22,4 millones, un récord. Que suban las dos cosas parece una contradicción, pero septiembre suele traer más paro: se acaba la temporada turística y terminan muchos contratos de verano, sobre todo en el sector servicios.",
+    "El Gobierno atribuye buena parte de la subida del paro a la [[regularización extraordinaria|regularizacion]] de inmigrantes: muchas personas que acaban de conseguir sus papeles se apuntan como demandantes de empleo mientras buscan trabajo, y otras muchas ya cotizan; a finales de septiembre había más de 421.000 afiliados que procedían de ese proceso. Algunos análisis señalan que, sin ese efecto, el récord de afiliación habría sido mucho más discreto. Andalucía fue la comunidad donde más creció el paro, con 6.733 personas más que en agosto. También aumentó mucho entre los menores de 25 años, con 21.411 más."
+   ],
+   "busqueda_imagenes": "paro registrado septiembre 2026 afiliación récord",
+   "fuentes": [
+    "La Moncloa (Ministerio de Trabajo)",
+    "Qué!",
+    "El Demócrata",
+    "Crónica de Andalucía"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "A record number of workers, but unemployment rises in September",
+    "entradilla": "Both things happening at once can be explained: the end of summer and the regularisation of immigrants.",
+    "parrafos": [
+     "On 2 October the Government published the September jobs figures. [[Registered unemployment|paro]] rose by 23,587 people, to 2,379,505. Even so, that is the lowest figure for any September since 2007, and there are 42,160 fewer unemployed people than a year ago. At the same time, [[Social Security registration|afiliacion]], which counts the people who work and pay contributions, grew by 92,327 and passed 22.4 million, a record. Both rising together looks like a contradiction, but September usually brings more unemployment: the tourist season ends and many summer contracts finish, especially in the service sector.",
+     "The Government puts much of the rise in unemployment down to the [[extraordinary regularisation|regularizacion]] of immigrants: many people who have just got their papers sign up as jobseekers while they look for work, and many others are already paying contributions; at the end of September more than 421,000 registered workers came from that process. Some analyses point out that, without this effect, the registration record would have been far more modest. Andalusia was the region where unemployment grew most, with 6,733 more people than in August. It also rose sharply among under-25s, by 21,411."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "inflacion-zona-euro-38-bce-euribor",
+   "seccion": "eco",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-a\" d=\"M20 30 L60 10 L100 30 Z\"/><rect class=\"d-b\" x=\"20\" y=\"30\" width=\"80\" height=\"6\"/><rect class=\"d-w\" x=\"28\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"46\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"66\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"84\" y=\"38\" width=\"8\" height=\"30\"/><path class=\"d-l\" d=\"M28 38 h8 v30 h-8 Z M46 38 h8 v30 h-8 Z M66 38 h8 v30 h-8 Z M84 38 h8 v30 h-8 Z\"/><rect class=\"d-a\" x=\"16\" y=\"68\" width=\"88\" height=\"8\"/><text class=\"d-y\" x=\"54\" y=\"27\" font-size=\"12\" font-family=\"sans-serif\" font-weight=\"bold\">€</text></svg>",
+   "titular": "La inflación en la zona euro, en su nivel más alto en tres años",
+   "entradilla": "La subida presiona al Banco Central Europeo y encarece las hipotecas.",
+   "parrafos": [
+    "Según el dato adelantado que publicó el 2 de octubre Eurostat, la oficina de estadística europea, los precios en los 21 países que usan el euro subieron en septiembre un 3,8 % respecto a hace un año, frente al 3,2 % de agosto. La gran responsable es la energía, que está un 18,8 % más cara. España, con un 5 % según el índice armonizado que se usa para comparar países, tiene la inflación más alta de las grandes economías del euro, por delante de Italia (4,1 %), Francia (3,4 %) y Alemania (3,3 %). La guerra con Irán, que afecta al paso de barcos por el [[estrecho de Ormuz|ormuz]], explica buena parte del problema.",
+    "Controlar los precios es la tarea del [[Banco Central Europeo|bce]], que busca una inflación cercana al 2 %. Su herramienta principal son los [[tipos de interés|tiposinteres]], el precio que se paga por pedir dinero prestado. El 10 de septiembre los subió por segunda vez este año, hasta el 2,5 %, y los mercados esperan otra subida antes de que acabe 2026. Subir los tipos frena el gasto, pero tiene un coste: el [[euríbor|euribor]], al que están ligadas muchas [[hipotecas|hipoteca]] en España, cerró septiembre con una media cercana al 3,25 %, la más alta del año. Quien revise ahora su hipoteca pagará más cada mes. Dentro del BCE hay debate: unos piden actuar ya; otros temen frenar demasiado la economía."
+   ],
+   "busqueda_imagenes": "inflación eurozona septiembre 2026 BCE",
+   "fuentes": [
+    "El Español",
+    "Infobae (EFE)",
+    "Moncloa.com",
+    "Rankia"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Euro area inflation hits its highest level in three years",
+    "entradilla": "The rise is putting pressure on the European Central Bank and making mortgages more expensive.",
+    "parrafos": [
+     "According to the early estimate published on 2 October by Eurostat, the European statistics office, prices in the 21 countries that use the euro rose by 3.8% in September compared with a year ago, up from 3.2% in August. The main culprit is energy, which is 18.8% more expensive. Spain, at 5% on the harmonised index used to compare countries, has the highest inflation of the big euro economies, ahead of Italy (4.1%), France (3.4%) and Germany (3.3%). The war with Iran, which affects ships passing through the [[Strait of Hormuz|ormuz]], explains much of the problem.",
+     "Keeping prices under control is the job of the [[European Central Bank|bce]], which aims for inflation of around 2%. Its main tool is [[interest rates|tiposinteres]], the price paid for borrowing money. On 10 September it raised them for the second time this year, to 2.5%, and markets expect another rise before the end of 2026. Raising rates slows spending, but it comes at a cost: the [[Euribor|euribor]], to which many [[mortgages|hipoteca]] in Spain are linked, ended September with an average of about 3.25%, the highest this year. Anyone whose mortgage is reviewed now will pay more each month. Inside the ECB there is debate: some want to act now; others fear slowing the economy too much."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "gasoleo-pulso-estados-unidos-europa",
+   "seccion": "eco",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-a\" x=\"18\" y=\"22\" width=\"34\" height=\"52\" rx=\"5\"/><path class=\"d-l\" d=\"M18 36 H52 M18 60 H52\"/><rect class=\"d-b\" x=\"68\" y=\"22\" width=\"34\" height=\"52\" rx=\"5\"/><path class=\"d-l\" d=\"M68 36 H102 M68 60 H102\"/><path class=\"d-i\" d=\"M52 46 L68 46 L64 42 M68 46 L64 50\"/><path class=\"d-l\" d=\"M52 46 L68 46 M64 42 L68 46 L64 50\"/><circle class=\"d-y\" cx=\"60\" cy=\"14\" r=\"8\"/><text class=\"d-i\" x=\"57\" y=\"18\" font-size=\"10\" font-family=\"sans-serif\" font-weight=\"bold\">?</text></svg>",
+   "titular": "El gasóleo, en el centro de un pulso entre Estados Unidos y Europa",
+   "entradilla": "Trump amenaza con dejar de vender diésel al extranjero mientras pide a Europa que use sus reservas.",
+   "parrafos": [
+    "Desde que empezó la guerra con Irán, el precio del [[gasóleo|diesel]] se ha disparado: en Estados Unidos ha subido más de un 70 %. Eso preocupa al presidente [[Donald Trump|trump]], porque el 3 de noviembre hay elecciones legislativas en su país. Por eso ha dicho que está pensando en prohibir que se exporte gasóleo estadounidense, para que quede más dentro del país. Europa lo pasaría mal: más de la mitad del gasóleo que importa la [[Unión Europea|ue]] viene de Estados Unidos, según la consultora S&P Global. Es el combustible de camiones, tractores y muchos coches, así que su precio acaba afectando a casi todo lo que compramos.",
+    "Al mismo tiempo, el Gobierno de Trump pide a los países europeos, sobre todo a Francia y Alemania, que guardan la mayor parte de las [[reservas estratégicas|reservas]] de Europa, que pongan ya ese gasóleo a la venta para bajar los precios. Los europeos no se han comprometido todavía, y la Comisión Europea se limita a decir que está en contacto con los países. Dentro del propio equipo de Trump también hay dudas: su secretario de Energía, Chris Wright, ha advertido de que la prohibición no funcionaría y podría reducir la producción de otros combustibles. Por ahora, es solo una amenaza: no se ha aprobado nada."
+   ],
+   "busqueda_imagenes": "Trump diesel export ban Europe reserves",
+   "fuentes": [
+    "France 24",
+    "NBC News",
+    "Infobae",
+    "Bloomberg Línea",
+    "Moncloa.com"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Diesel at the centre of a tug-of-war between the United States and Europe",
+    "entradilla": "Trump is threatening to stop selling diesel abroad while asking Europe to use its reserves.",
+    "parrafos": [
+     "Since the war with Iran began, the price of [[diesel|diesel]] has shot up: in the United States it has risen by more than 70%. That worries President [[Donald Trump|trump]], because there are congressional elections in his country on 3 November. So he has said he is thinking about banning exports of American diesel, so that more stays at home. Europe would have a hard time: more than half of the diesel the [[European Union|ue]] imports comes from the United States, according to the consultancy S&P Global. It is the fuel used by lorries, tractors and many cars, so its price ends up affecting almost everything we buy.",
+     "At the same time, Trump's Government is asking European countries – above all France and Germany, which hold most of Europe's [[strategic reserves|reservas]] – to put that diesel on sale now to bring prices down. The Europeans have not committed yet, and the European Commission will only say that it is in contact with member countries. There are doubts inside Trump's own team too: his Energy Secretary, Chris Wright, has warned that the ban would not work and could cut the production of other fuels. For now it is only a threat: nothing has been approved."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "aforo-aceite-oliva-andalucia-2026-27",
+   "seccion": "eco",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M14 70 C40 60 70 40 104 14\"/><ellipse class=\"d-g\" cx=\"40\" cy=\"54\" rx=\"12\" ry=\"5\" transform=\"rotate(-30 40 54)\"/><ellipse class=\"d-g\" cx=\"70\" cy=\"34\" rx=\"12\" ry=\"5\" transform=\"rotate(-40 70 34)\"/><ellipse class=\"d-g\" cx=\"88\" cy=\"30\" rx=\"10\" ry=\"4\" transform=\"rotate(20 88 30)\"/><ellipse class=\"d-a\" cx=\"54\" cy=\"58\" rx=\"6\" ry=\"8\"/><ellipse class=\"d-a\" cx=\"80\" cy=\"44\" rx=\"6\" ry=\"8\"/><path class=\"d-y\" d=\"M92 56 h10 v6 c4 2 6 6 6 12 v8 h-22 v-8 c0 -6 2 -10 6 -12 Z\"/><path class=\"d-l\" d=\"M92 56 h10 v6 c4 2 6 6 6 12 v8 h-22 v-8 c0 -6 2 -10 6 -12 Z\"/></svg>",
+   "titular": "Andalucía espera una gran cosecha de aceite de oliva",
+   "entradilla": "La Junta prevé producir casi un 24 % más que el año pasado.",
+   "parrafos": [
+    "El 29 de septiembre, en Mengíbar (Jaén), la [[Junta de Andalucía|junta]] presentó su [[aforo|aforo]], la previsión de cuánto aceite de oliva se producirá en la campaña que empieza ahora. Calcula 1.261.200 toneladas, un 23,9 % más que en la campaña anterior y un 44 % por encima de la media de los últimos cinco años. Jaén será, de lejos, la provincia que más produzca, con unas 575.000 toneladas, seguida de Córdoba, con casi 340.000. Las abundantes lluvias del invierno ayudaron a los olivos, aunque el calor impidió que la cosecha fuera todavía mayor. Andalucía produce la gran mayoría del aceite de España, el primer productor del mundo.",
+    "Para Andalucía es una noticia económica de primer orden. Según la Junta, la campaña dará unos 21,6 millones de jornales, es decir, días de trabajo, la mayoría en la recogida de la aceituna, que luego se lleva a la [[almazara|almazara]] para sacarle el aceite. La producción ecológica crecerá todavía más. Una cosecha grande suele traer precios más estables en las tiendas, tras unos años en los que la sequía disparó lo que costaba una botella. Pero para los agricultores hay otra cara: si el precio baja demasiado, recoger puede dejar de compensarles. Además, las cifras son solo una previsión, y el tiempo de los próximos meses puede cambiarlas."
+   ],
+   "busqueda_imagenes": "aforo aceite de oliva Andalucía 2026/27 Mengíbar",
+   "fuentes": [
+    "Infobae (Europa Press)",
+    "Huelva Red",
+    "Cordópolis",
+    "Agronews"
+   ],
+   "publicada": "2026-10-02",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Andalusia expects a big olive oil harvest",
+    "entradilla": "The regional government forecasts almost 24% more than last year.",
+    "parrafos": [
+     "On 29 September, in Mengíbar (Jaén), the [[Junta de Andalucía|junta]] presented its [[harvest forecast|aforo]], its estimate of how much olive oil will be produced in the season that is starting now. It expects 1,261,200 tonnes, 23.9% more than last season and 44% above the average of the last five years. Jaén will be by far the biggest producing province, with about 575,000 tonnes, followed by Córdoba, with almost 340,000. Heavy winter rain helped the olive trees, although the heat stopped the harvest from being even bigger. Andalusia produces the vast majority of Spain's olive oil, and Spain is the world's top producer.",
+     "For Andalusia this is major economic news. According to the regional government, the season will provide about 21.6 million days' wages – that is, working days – most of them picking olives, which are then taken to the [[olive mill|almazara]] to extract the oil. Organic production will grow even faster. A big harvest usually brings steadier prices in the shops, after a few years in which drought sent the cost of a bottle soaring. But there is another side for farmers: if the price falls too far, harvesting may stop being worth it. And the figures are only a forecast: the weather over the coming months could change them."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "constitucional-supremo-amnistia-malversacion",
+   "seccion": "es",
+   "dibujo": "congress",
+   "titular": "El Constitucional obliga al Supremo a revisar la amnistía por malversación del procés",
+   "entradilla": "La decisión acerca la posible vuelta de Puigdemont, aunque su caso aún no está resuelto.",
+   "parrafos": [
+    "El Tribunal Constitucional, que vigila que las leyes y las sentencias respeten la Constitución, ha dado la razón a Jordi Turull y Dolors Bassa, dirigentes independentistas condenados por el [[procés|proces]]. Considera que el Tribunal Supremo interpretó mal la [[ley de amnistía|amnistia]] al excluir la malversación, el uso indebido de dinero público. El Supremo debe dictar ahora nuevas resoluciones que respeten esa doctrina. Según el Constitucional, la malversación queda amparada cuando los fondos públicos se usaron para los fines del proceso independentista, y se excluye cuando hubo enriquecimiento personal.",
+    "Carles [[Puigdemont|puigdemont]] no es parte de esos recursos, pero la doctrina puede trasladarse a los que siguen pendientes, incluido el suyo. Por eso no cambia su situación de golpe: el Supremo mantiene su orden de detención y debe decidir cómo aplica el criterio. Los críticos con la decisión sostienen que se amnistía el uso de dinero público; quienes la defienden, que la ley debía cubrir los hechos del procés salvo el enriquecimiento personal. El asunto afecta también a [[Junts|junts]], el partido de Puigdemont, que acaba de tumbar los decretos de vivienda."
+   ],
+   "busqueda_imagenes": "Tribunal Constitucional sede Madrid",
+   "fuentes": [
+    "El Español",
+    "El Independiente",
+    "esdiario",
+    "Moncloa.com"
+   ],
+   "publicada": "2026-10-08",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "The Constitutional Court orders the Supreme Court to review the amnesty for embezzlement in the procés",
+    "entradilla": "The decision brings Puigdemont's possible return closer, although his own case is not yet settled.",
+    "parrafos": [
+     "The Constitutional Court, which checks that laws and rulings respect the Constitution, has sided with Jordi Turull and Dolors Bassa, pro-independence leaders convicted over the [[procés|proces]]. It considers that the Supreme Court misinterpreted the [[amnesty law|amnistia]] by excluding embezzlement, the improper use of public money. The Supreme Court must now issue new rulings that respect this doctrine. According to the Constitutional Court, embezzlement is covered when the public funds were used for the aims of the independence process, and excluded when there was personal enrichment.",
+     "Carles [[Puigdemont|puigdemont]] is not a party to those appeals, but the doctrine can be carried over to those still pending, including his. That is why his situation does not change overnight: the Supreme Court keeps his arrest warrant and must decide how to apply the criterion. Critics of the decision argue that it amnesties the use of public money; its defenders, that the law was meant to cover the events of the procés except personal enrichment. The matter also concerns [[Junts|junts]], Puigdemont's party, which has just helped defeat the housing decrees."
+    ],
+    "nota_actualizacion": null
+   }
+  }
+ ],
+ "glosario": {
+  "sindicato": {
+   "t": "palabra",
+   "n": "Sindicato de Inquilinas",
+   "x": "Asociación de personas que viven de alquiler. Se organizan para defender sus derechos frente a los propietarios y pedir leyes.",
+   "en": {
+    "n": "Tenants' Union",
+    "x": "An association of people who rent their homes. They organise to defend their rights against landlords and to ask for laws."
+   }
+  },
+  "desahucio": {
+   "t": "palabra",
+   "n": "Desahucio",
+   "x": "Cuando un juez ordena que una persona salga de la casa en la que vive, normalmente porque no puede pagar o porque se acaba el contrato.",
+   "en": {
+    "n": "Eviction",
+    "x": "When a judge orders a person to leave the home they live in, usually because they cannot pay or because their contract has ended."
+   }
+  },
+  "ayuso": {
+   "t": "persona",
+   "n": "Isabel Díaz Ayuso",
+   "x": "Es la presidenta de la Comunidad de Madrid, del Partido Popular (PP).",
+   "en": {
+    "n": "Isabel Díaz Ayuso",
+    "x": "She is the president of the Community of Madrid, from the People's Party (PP)."
+   }
+  },
+  "tsjm": {
+   "t": "lugar",
+   "n": "Tribunal Superior de Justicia de Madrid",
+   "x": "Es el tribunal más alto de la Comunidad de Madrid. Decide sobre asuntos que llegan desde juzgados más pequeños.",
+   "en": {
+    "n": "High Court of Justice of Madrid",
+    "x": "It is the highest court in the Community of Madrid. It decides on cases that come up from smaller courts."
+   }
+  },
+  "rdl": {
+   "t": "palabra",
+   "n": "Real decreto-ley",
+   "x": "Una norma que el Gobierno aprueba por urgencia y que vale desde el primer día. Pero el Congreso tiene 30 días para votarla: si la rechaza, desaparece.",
+   "en": {
+    "n": "Royal decree-law",
+    "x": "In Spain, a rule the Government approves in an emergency, which applies from the very first day. But the Congress has 30 days to vote on it: if it rejects it, the rule disappears."
+   }
+  },
+  "congreso": {
+   "t": "lugar",
+   "n": "Congreso de los Diputados",
+   "x": "Es la cámara donde se sientan 350 diputados elegidos por los ciudadanos. Allí se aprueban o rechazan las leyes.",
+   "en": {
+    "n": "Congress of Deputies",
+    "x": "The chamber where 350 deputies elected by the citizens sit. It is where Spain's laws are approved or rejected."
+   }
+  },
+  "junts": {
+   "t": "palabra",
+   "n": "Junts",
+   "x": "Partido independentista catalán. Tiene 7 diputados y, como el Gobierno no tiene mayoría, sus votos suelen decidir las votaciones.",
+   "en": {
+    "n": "Junts",
+    "x": "A Catalan party that wants Catalonia to become independent from Spain. It has 7 deputies and, as the Government does not have a majority, its votes often decide the outcome."
+   }
+  },
+  "fondos": {
+   "t": "palabra",
+   "n": "Fondos de inversión",
+   "x": "Empresas que reúnen mucho dinero de muchas personas para comprar cosas, como edificios, y sacarles beneficio.",
+   "en": {
+    "n": "Investment funds",
+    "x": "Companies that pool lots of money from many people to buy things, such as buildings, and make a profit from them."
+   }
+  },
+  "turistico": {
+   "t": "palabra",
+   "n": "Piso turístico",
+   "x": "Vivienda que se alquila por días a turistas, como un hotel. En algunas ciudades hay tantos que quedan menos casas para vivir.",
+   "en": {
+    "n": "Holiday flat",
+    "x": "A home that is rented out to tourists by the day, like a hotel. In some cities there are so many that fewer homes are left for people to live in."
+   }
+  },
+  "ceuta": {
+   "t": "lugar",
+   "n": "Ceuta",
+   "x": "Ciudad española en el norte de África, junto a Marruecos. Tiene unos 83.000 habitantes.",
+   "en": {
+    "n": "Ceuta",
+    "x": "A Spanish city in North Africa, next to Morocco. It has about 83,000 inhabitants."
+   }
+  },
+  "frontera": {
+   "t": "palabra",
+   "n": "Frontera",
+   "x": "La línea que separa dos países. Para cruzarla de forma legal hacen falta documentos, como el pasaporte.",
+   "en": {
+    "n": "Border",
+    "x": "The line that separates two countries. To cross it legally you need documents, such as a passport."
+   }
+  },
+  "marruecos": {
+   "t": "lugar",
+   "n": "Marruecos",
+   "x": "País del norte de África, vecino de España. Desde Tarifa se ve su costa al otro lado del Estrecho.",
+   "en": {
+    "n": "Morocco",
+    "x": "A country in North Africa, Spain's neighbour. From Tarifa you can see its coast on the other side of the Strait of Gibraltar."
+   }
+  },
+  "menores": {
+   "t": "palabra",
+   "n": "Menores no acompañados",
+   "x": "Niños y adolescentes que llegan a otro país sin sus padres ni ningún adulto responsable. La ley obliga a protegerlos.",
+   "en": {
+    "n": "Unaccompanied minors",
+    "x": "Children and teenagers who arrive in another country without their parents or any responsible adult. The law requires them to be protected."
+   }
+  },
+  "aemet": {
+   "t": "lugar",
+   "n": "AEMET",
+   "x": "La Agencia Estatal de Meteorología. Es el organismo que estudia el tiempo en España y avisa de los peligros.",
+   "en": {
+    "n": "AEMET",
+    "x": "Spain's State Meteorological Agency. It is the body that studies the weather in Spain and warns about dangers."
+   }
+  },
+  "alertaroja": {
+   "t": "palabra",
+   "n": "Alerta roja",
+   "x": "El nivel más alto de aviso. Significa peligro extraordinario: hay que quedarse en lugar seguro y no viajar.",
+   "en": {
+    "n": "Red alert",
+    "x": "The highest level of warning. It means extraordinary danger: you have to stay somewhere safe and not travel."
+   }
+  },
+  "esalert": {
+   "t": "palabra",
+   "n": "Es-Alert",
+   "x": "Sistema que manda un aviso con sonido fuerte a todos los móviles de una zona cuando hay una emergencia.",
+   "en": {
+    "n": "Es-Alert",
+    "x": "A system that sends a warning with a loud sound to every mobile phone in an area when there is an emergency."
+   }
+  },
+  "dana": {
+   "t": "palabra",
+   "n": "DANA",
+   "x": "Una bolsa de aire muy frío en lo alto de la atmósfera. Cuando se junta con un mar caliente puede provocar lluvias enormes en poco tiempo.",
+   "en": {
+    "n": "DANA",
+    "x": "A pocket of very cold air high up in the atmosphere (its Spanish initials stand for 'isolated depression at high levels'). When it meets a warm sea it can cause huge amounts of rain in a short time."
+   }
+  },
+  "inflacion": {
+   "t": "palabra",
+   "n": "Inflación",
+   "x": "Cuando los precios suben en general. Con el mismo dinero se pueden comprar menos cosas.",
+   "en": {
+    "n": "Inflation",
+    "x": "When prices go up in general. With the same money you can buy fewer things."
+   }
+  },
+  "impuesto": {
+   "t": "palabra",
+   "n": "Impuesto",
+   "x": "Dinero que pagamos al Estado para financiar hospitales, colegios, carreteras… Parte del precio de la gasolina son impuestos.",
+   "en": {
+    "n": "Tax",
+    "x": "Money we pay to the State to fund hospitals, schools, roads… Part of the price of petrol is tax."
+   }
+  },
+  "ormuz": {
+   "t": "lugar",
+   "n": "Estrecho de Ormuz",
+   "x": "Paso de mar estrecho entre Irán y Omán. Por él sale en barco una de cada cinco partes del petróleo del mundo.",
+   "en": {
+    "n": "Strait of Hormuz",
+    "x": "A narrow stretch of sea between Iran and Oman. One in every five parts of the world's oil leaves by ship through it."
+   }
+  },
+  "iran": {
+   "t": "lugar",
+   "n": "Irán",
+   "x": "País de Oriente Medio con unos 90 millones de habitantes. Su capital es Teherán.",
+   "en": {
+    "n": "Iran",
+    "x": "A country in the Middle East with about 90 million inhabitants. Its capital is Tehran."
+   }
+  },
+  "bloqueo": {
+   "t": "palabra",
+   "n": "Bloqueo naval",
+   "x": "Cuando barcos de guerra impiden que otros barcos entren o salgan de los puertos de un país.",
+   "en": {
+    "n": "Naval blockade",
+    "x": "When warships stop other ships from entering or leaving a country's ports."
+   }
+  },
+  "altoelfuego": {
+   "t": "palabra",
+   "n": "Alto el fuego",
+   "x": "Acuerdo para dejar de disparar. No es la paz definitiva: es una pausa para intentar negociarla.",
+   "en": {
+    "n": "Ceasefire",
+    "x": "An agreement to stop shooting. It is not lasting peace: it is a pause to try to negotiate it."
+   }
+  },
+  "petroleo": {
+   "t": "palabra",
+   "n": "Petróleo",
+   "x": "Líquido que se saca de debajo de la tierra. De él salen la gasolina, el gasóleo y muchos plásticos.",
+   "en": {
+    "n": "Oil",
+    "x": "A liquid taken from under the ground. Petrol, diesel and many plastics are made from it."
+   }
+  },
+  "gaza": {
+   "t": "lugar",
+   "n": "Gaza",
+   "x": "Pequeño territorio palestino junto al mar Mediterráneo, entre Israel y Egipto. Viven allí unos 2 millones de personas.",
+   "en": {
+    "n": "Gaza",
+    "x": "A small Palestinian territory beside the Mediterranean Sea, between Israel and Egypt. About 2 million people live there."
+   }
+  },
+  "hamas": {
+   "t": "palabra",
+   "n": "Hamás",
+   "x": "Grupo armado palestino que gobernaba Gaza. El 7 de octubre de 2023 atacó Israel y mató a unas 1.200 personas.",
+   "en": {
+    "n": "Hamas",
+    "x": "A Palestinian armed group that governed Gaza. On 7 October 2023 it attacked Israel and killed about 1,200 people."
+   }
+  },
+  "onu": {
+   "t": "lugar",
+   "n": "ONU",
+   "x": "Organización de las Naciones Unidas. Reúne a 193 países para intentar mantener la paz y ayudar en las crisis.",
+   "en": {
+    "n": "UN",
+    "x": "The United Nations. It brings together 193 countries to try to keep the peace and help in crises."
+   }
+  },
+  "humanitaria": {
+   "t": "palabra",
+   "n": "Ayuda humanitaria",
+   "x": "Comida, agua, medicinas y refugio que se llevan a personas en peligro por guerras o catástrofes.",
+   "en": {
+    "n": "Humanitarian aid",
+    "x": "Food, water, medicine and shelter taken to people in danger because of wars or disasters."
+   }
+  },
+  "kiev": {
+   "t": "lugar",
+   "n": "Kiev",
+   "x": "La capital de Ucrania. Tiene unos 3 millones de habitantes.",
+   "en": {
+    "n": "Kyiv",
+    "x": "The capital of Ukraine. It has about 3 million inhabitants."
+   }
+  },
+  "zelenski": {
+   "t": "persona",
+   "n": "Volodímir Zelenski",
+   "x": "Es el presidente de Ucrania desde 2019.",
+   "en": {
+    "n": "Volodymyr Zelensky",
+    "x": "He has been the president of Ukraine since 2019."
+   }
+  },
+  "putin": {
+   "t": "persona",
+   "n": "Vladímir Putin",
+   "x": "Es el presidente de Rusia. Ordenó la invasión de Ucrania en febrero de 2022.",
+   "en": {
+    "n": "Vladimir Putin",
+    "x": "He is the president of Russia. He ordered the invasion of Ukraine in February 2022."
+   }
+  },
+  "energia": {
+   "t": "palabra",
+   "n": "Infraestructura energética",
+   "x": "Centrales eléctricas, cables, gasoductos… todo lo que lleva la luz y la calefacción a las casas.",
+   "en": {
+    "n": "Energy infrastructure",
+    "x": "Power stations, cables, gas pipelines… everything that brings electricity and heating to people's homes."
+   }
+  },
+  "lula": {
+   "t": "persona",
+   "n": "Luiz Inácio Lula da Silva",
+   "x": "Es el presidente de Brasil. Ya lo fue entre 2003 y 2010 y volvió a ganar en 2022.",
+   "en": {
+    "n": "Luiz Inácio Lula da Silva",
+    "x": "He is the president of Brazil. He already held the job from 2003 to 2010 and won again in 2022."
+   }
+  },
+  "flavio": {
+   "t": "persona",
+   "n": "Flávio Bolsonaro",
+   "x": "Senador brasileño y principal rival de Lula. Es hijo del expresidente Jair Bolsonaro.",
+   "en": {
+    "n": "Flávio Bolsonaro",
+    "x": "A Brazilian senator and Lula's main rival. He is the son of former president Jair Bolsonaro."
+   }
+  },
+  "segundavuelta": {
+   "t": "palabra",
+   "n": "Segunda vuelta",
+   "x": "Si nadie consigue más de la mitad de los votos, los dos más votados se enfrentan en una nueva elección.",
+   "en": {
+    "n": "Second round",
+    "x": "If nobody gets more than half the votes, the two candidates with the most votes face each other in a new election."
+   }
+  },
+  "encuesta": {
+   "t": "palabra",
+   "n": "Encuesta",
+   "x": "Preguntar a unos pocos miles de personas para hacerse una idea de lo que piensan millones. Puede fallar.",
+   "en": {
+    "n": "Poll",
+    "x": "Asking a few thousand people questions to get an idea of what millions think. It can be wrong."
+   }
+  },
+  "ue": {
+   "t": "lugar",
+   "n": "Unión Europea",
+   "x": "Grupo de 27 países europeos, entre ellos España, que comparten muchas leyes, un mercado y, la mayoría, el euro.",
+   "en": {
+    "n": "European Union",
+    "x": "A group of 27 European countries, including Spain, that share many laws and a market, and most of which use the euro."
+   }
+  },
+  "reglamento": {
+   "t": "palabra",
+   "n": "Reglamento europeo",
+   "x": "Una ley de la Unión Europea que se aplica igual y a la vez en los 27 países.",
+   "en": {
+    "n": "European regulation",
+    "x": "A European Union law that applies in the same way and at the same time in all 27 countries."
+   }
+  },
+  "retorno": {
+   "t": "palabra",
+   "n": "Retorno",
+   "x": "Cuando un país devuelve a su país de origen a una persona que no tiene permiso para quedarse.",
+   "en": {
+    "n": "Return",
+    "x": "When a country sends a person who does not have permission to stay back to their country of origin."
+   }
+  },
+  "malaga": {
+   "t": "lugar",
+   "n": "Málaga",
+   "x": "Ciudad de la costa andaluza con unos 600.000 habitantes. Recibe millones de turistas cada año.",
+   "en": {
+    "n": "Málaga",
+    "x": "A city on the Andalusian coast with about 600,000 inhabitants. It welcomes millions of tourists every year."
+   }
+  },
+  "confederacion": {
+   "t": "palabra",
+   "n": "Confederación",
+   "x": "Unión de varias organizaciones que deciden actuar juntas sin dejar de existir por separado.",
+   "en": {
+    "n": "Confederation",
+    "x": "A union of several organisations that decide to act together while still existing separately."
+   }
+  },
+  "moreno": {
+   "t": "persona",
+   "n": "Juanma Moreno",
+   "x": "Es el presidente de la Junta de Andalucía, del Partido Popular (PP). Gobierna desde 2019.",
+   "en": {
+    "n": "Juanma Moreno",
+    "x": "He is the president of the Junta de Andalucía, from the People's Party (PP). He has governed since 2019."
+   }
+  },
+  "sanchez": {
+   "t": "persona",
+   "n": "Pedro Sánchez",
+   "x": "Es el presidente del Gobierno de España, del PSOE. Gobierna desde 2018.",
+   "en": {
+    "n": "Pedro Sánchez",
+    "x": "He is the Prime Minister of Spain, from the PSOE (Socialist party). He has governed since 2018."
+   }
+  },
+  "mocionconfianza": {
+   "t": "palabra",
+   "n": "Cuestión de confianza",
+   "x": "Cuando un presidente pide al Parlamento que vote si sigue apoyándolo. Si pierde, tiene que dimitir.",
+   "en": {
+    "n": "Confidence vote",
+    "x": "When a head of government asks Parliament to vote on whether it still supports them. If they lose, they have to resign."
+   }
+  },
+  "elecciones": {
+   "t": "palabra",
+   "n": "Elecciones anticipadas",
+   "x": "Votar antes de que se acaben los cuatro años normales. El presidente puede decidirlo.",
+   "en": {
+    "n": "Early election",
+    "x": "Voting before the usual four years are up. The Prime Minister can decide to call one."
+   }
+  },
+  "junta": {
+   "t": "lugar",
+   "n": "Junta de Andalucía",
+   "x": "Es el gobierno de la comunidad autónoma de Andalucía. Se ocupa de la sanidad, la educación y muchas cosas más.",
+   "en": {
+    "n": "Junta de Andalucía",
+    "x": "The government of the autonomous region of Andalusia. It is in charge of health, education and many other things."
+   }
+  },
+  "mayoria": {
+   "t": "palabra",
+   "n": "Mayoría absoluta",
+   "x": "Tener más de la mitad de los escaños. En el Parlamento andaluz son 55 de 109: con ellos se gobierna sin pedir apoyo a nadie.",
+   "en": {
+    "n": "Absolute majority",
+    "x": "Having more than half of the seats. In the Andalusian Parliament that means 55 out of 109: with them you can govern without asking anyone for support."
+   }
+  },
+  "vox": {
+   "t": "palabra",
+   "n": "Vox",
+   "x": "Partido de extrema derecha. En Andalucía gobierna junto al PP desde 2026.",
+   "en": {
+    "n": "Vox",
+    "x": "A far-right party. In Andalusia it has governed together with the PP since 2026."
+   }
+  },
+  "ia": {
+   "t": "palabra",
+   "n": "Inteligencia artificial",
+   "x": "Programas de ordenador capaces de leer, escribir o reconocer imágenes. Ayudan, pero se equivocan, así que una persona debe revisar lo que hacen.",
+   "en": {
+    "n": "Artificial intelligence",
+    "x": "Computer programs that can read, write or recognise images. They help, but they make mistakes, so a person must check what they do."
+   }
+  },
+  "gripe": {
+   "t": "palabra",
+   "n": "Gripe",
+   "x": "Enfermedad causada por un virus que da fiebre, tos y dolor de cuerpo. Cada invierno vuelve con alguna variante nueva.",
+   "en": {
+    "n": "Flu",
+    "x": "An illness caused by a virus that gives you a fever, a cough and aches. It comes back every winter with some new variant."
+   }
+  },
+  "intranasal": {
+   "t": "palabra",
+   "n": "Vacuna intranasal",
+   "x": "Vacuna que se pone con un espray por la nariz, sin pinchazo.",
+   "en": {
+    "n": "Intranasal vaccine",
+    "x": "A vaccine given as a spray up the nose, with no needle."
+   }
+  },
+  "vacuna": {
+   "t": "palabra",
+   "n": "Vacuna",
+   "x": "Enseña a tu cuerpo a reconocer un virus antes de que llegue, para que pueda defenderse mejor.",
+   "en": {
+    "n": "Vaccine",
+    "x": "It teaches your body to recognise a virus before it arrives, so that it can defend itself better."
+   }
+  },
+  "comiccon": {
+   "t": "palabra",
+   "n": "Comic-Con",
+   "x": "Gran feria de cómics, cine, series y videojuegos. La original nació en San Diego (Estados Unidos) en 1970.",
+   "en": {
+    "n": "Comic-Con",
+    "x": "A big fair for comics, films, TV series and video games. The original one began in San Diego (United States) in 1970."
+   }
+  },
+  "fycma": {
+   "t": "lugar",
+   "n": "FYCMA",
+   "x": "El Palacio de Ferias y Congresos de Málaga, donde se celebran grandes eventos.",
+   "en": {
+    "n": "FYCMA",
+    "x": "Málaga's Trade Fair and Congress Centre, where big events are held."
+   }
+  },
+  "impacto": {
+   "t": "palabra",
+   "n": "Impacto económico",
+   "x": "Todo el dinero que se mueve gracias a un evento: hoteles, restaurantes, transporte, tiendas…",
+   "en": {
+    "n": "Economic impact",
+    "x": "All the money that changes hands thanks to an event: hotels, restaurants, transport, shops…"
+   }
+  },
+  "wembley": {
+   "t": "lugar",
+   "n": "Wembley",
+   "x": "El estadio nacional de Inglaterra, en Londres. Caben 90.000 personas.",
+   "en": {
+    "n": "Wembley",
+    "x": "England's national stadium, in London. It holds 90,000 people."
+   }
+  },
+  "nations": {
+   "t": "palabra",
+   "n": "Nations League",
+   "x": "Competición entre selecciones europeas que se juega en los años en que no hay Mundial ni Eurocopa.",
+   "en": {
+    "n": "Nations League",
+    "x": "A competition between European national teams, played in the years when there is no World Cup or European Championship."
+   }
+  },
+  "lamine": {
+   "t": "persona",
+   "n": "Lamine Yamal",
+   "x": "Delantero del FC Barcelona y de la selección española.",
+   "en": {
+    "n": "Lamine Yamal",
+    "x": "A forward for FC Barcelona and the Spanish national team."
+   }
+  },
+  "kane": {
+   "t": "persona",
+   "n": "Harry Kane",
+   "x": "Delantero y capitán de la selección de Inglaterra.",
+   "en": {
+    "n": "Harry Kane",
+    "x": "Forward and captain of the England national team."
+   }
+  },
+  "penalti": {
+   "t": "palabra",
+   "n": "Penalti",
+   "x": "Tiro a puerta desde 11 metros, solo contra el portero. Se pita cuando hay falta dentro del área.",
+   "en": {
+    "n": "Penalty",
+    "x": "A shot at goal from 11 metres, with only the goalkeeper to beat. It is given when there is a foul inside the penalty area."
+   }
+  },
+  "delafuente": {
+   "t": "persona",
+   "n": "Luis de la Fuente",
+   "x": "Es el seleccionador español de fútbol masculino absoluto: elige a los jugadores y entrena a la selección.",
+   "en": {
+    "n": "Luis de la Fuente",
+    "x": "He is the manager of Spain's senior men's football team: he picks the players and coaches the team."
+   }
+  },
+  "convocatoria": {
+   "t": "palabra",
+   "n": "Convocatoria",
+   "x": "La lista de jugadores que el seleccionador llama para jugar unos partidos.",
+   "en": {
+    "n": "Squad call-up",
+    "x": "The list of players the manager calls up to play some matches."
+   }
+  },
+  "mcnulty": {
+   "t": "persona",
+   "n": "Brandon McNulty",
+   "x": "Ciclista estadounidense de 28 años. Campeón del mundo de ruta desde el 27 de septiembre de 2026.",
+   "en": {
+    "n": "Brandon McNulty",
+    "x": "A 28-year-old American cyclist. Road world champion since 27 September 2026."
+   }
+  },
+  "arcoiris": {
+   "t": "palabra",
+   "n": "Maillot arcoíris",
+   "x": "Camiseta blanca con cinco rayas de colores que lleva durante un año el campeón del mundo de ciclismo.",
+   "en": {
+    "n": "Rainbow jersey",
+    "x": "A white shirt with five coloured stripes that the cycling world champion wears for a year."
+   }
+  },
+  "pogacar": {
+   "t": "persona",
+   "n": "Tadej Pogačar",
+   "x": "Ciclista esloveno, considerado el mejor del mundo. Fue campeón del mundo en 2024 y 2025.",
+   "en": {
+    "n": "Tadej Pogačar",
+    "x": "A Slovenian cyclist, considered the best in the world. He was world champion in 2024 and 2025."
+   }
+  },
+  "conmocion": {
+   "t": "palabra",
+   "n": "Conmoción cerebral",
+   "x": "Lesión del cerebro por un golpe fuerte en la cabeza. Hay que descansar hasta curarse del todo.",
+   "en": {
+    "n": "Concussion",
+    "x": "An injury to the brain caused by a hard blow to the head. You have to rest until you are completely better."
+   }
+  },
+  "clavicula": {
+   "t": "palabra",
+   "n": "Clavícula",
+   "x": "Hueso largo que une el hombro con el pecho. Es el que más se rompen los ciclistas al caer.",
+   "en": {
+    "n": "Collarbone",
+    "x": "A long bone that joins the shoulder to the chest. It is the bone cyclists break most often when they fall."
+   }
+  },
+  "casco": {
+   "t": "palabra",
+   "n": "Casco",
+   "x": "Protege la cabeza en las caídas. En las carreras ciclistas es obligatorio desde 2003.",
+   "en": {
+    "n": "Helmet",
+    "x": "It protects your head when you fall. It has been compulsory in cycling races since 2003."
+   }
+  },
+  "mas": {
+   "t": "persona",
+   "n": "Enric Mas",
+   "x": "Ciclista mallorquín del equipo Movistar. Ganó la Vuelta a España de 2026.",
+   "en": {
+    "n": "Enric Mas",
+    "x": "A cyclist from Mallorca who rides for the Movistar team. He won the 2026 Vuelta a España."
+   }
+  },
+  "vuelta": {
+   "t": "palabra",
+   "n": "Vuelta a España",
+   "x": "Carrera ciclista de tres semanas por etapas. Es una de las tres \"grandes vueltas\" con el Tour y el Giro.",
+   "en": {
+    "n": "Vuelta a España",
+    "x": "A three-week cycling stage race around Spain. It is one of the three \"Grand Tours\", together with the Tour de France and the Giro d'Italia."
+   }
+  },
+  "contador": {
+   "t": "persona",
+   "n": "Alberto Contador",
+   "x": "Ciclista madrileño ya retirado. Ganó la Vuelta por última vez en 2014.",
+   "en": {
+    "n": "Alberto Contador",
+    "x": "A cyclist from Madrid, now retired. He last won the Vuelta in 2014."
+   }
+  },
+  "concha": {
+   "t": "palabra",
+   "n": "Concha de Oro",
+   "x": "El premio a la mejor película del Festival de Cine de San Sebastián.",
+   "en": {
+    "n": "Golden Shell",
+    "x": "The prize for the best film at the San Sebastián Film Festival (in Spanish, Concha de Oro)."
+   }
+  },
+  "leigh": {
+   "t": "persona",
+   "n": "Mike Leigh",
+   "x": "Director de cine británico de 83 años, famoso por películas sobre la vida de la gente corriente.",
+   "en": {
+    "n": "Mike Leigh",
+    "x": "An 83-year-old British film director, famous for films about the lives of ordinary people."
+   }
+  },
+  "donosti": {
+   "t": "lugar",
+   "n": "San Sebastián",
+   "x": "Ciudad del País Vasco junto al mar. Cada septiembre celebra uno de los festivales de cine más importantes de Europa.",
+   "en": {
+    "n": "San Sebastián",
+    "x": "A seaside city in the Basque Country. Every September it holds one of the most important film festivals in Europe."
+   }
+  },
+  "lorca": {
+   "t": "persona",
+   "n": "Federico García Lorca",
+   "x": "Poeta y dramaturgo granadino. Fue asesinado en 1936, al principio de la Guerra Civil, y es uno de los escritores españoles más leídos del mundo.",
+   "en": {
+    "n": "Federico García Lorca",
+    "x": "A poet and playwright from Granada. He was murdered in 1936, at the start of the Spanish Civil War, and is one of the most widely read Spanish writers in the world."
+   }
+  },
+  "javis": {
+   "t": "persona",
+   "n": "Los Javis",
+   "x": "Así llaman a Javier Calvo y Javier Ambrossi, directores de cine y series.",
+   "en": {
+    "n": "Los Javis",
+    "x": "The nickname for Javier Calvo and Javier Ambrossi, film and TV series directors."
+   }
+  },
+  "oscar": {
+   "t": "palabra",
+   "n": "Premios Óscar",
+   "x": "Los premios de cine más famosos del mundo, en Hollywood. Cada país puede presentar una película a \"mejor película internacional\".",
+   "en": {
+    "n": "Oscars",
+    "x": "The most famous film awards in the world, held in Hollywood. Each country can put forward one film for \"best international feature\"."
+   }
+  },
+  "becquer": {
+   "t": "persona",
+   "n": "Valeriano Bécquer",
+   "x": "Pintor sevillano (1834-1870), hermano del poeta Gustavo Adolfo Bécquer.",
+   "en": {
+    "n": "Valeriano Bécquer",
+    "x": "A painter from Seville (1834-1870), brother of the poet Gustavo Adolfo Bécquer."
+   }
+  },
+  "costumbrismo": {
+   "t": "palabra",
+   "n": "Costumbrismo",
+   "x": "Estilo que pinta o escribe la vida diaria de la gente: sus fiestas, sus trajes, sus trabajos.",
+   "en": {
+    "n": "Costumbrismo",
+    "x": "A Spanish style of painting or writing that shows people's everyday life: their festivals, their clothes, their work."
+   }
+  },
+  "prado": {
+   "t": "lugar",
+   "n": "Museo del Prado",
+   "x": "Uno de los museos de pintura más importantes del mundo. Está en Madrid y abrió en 1819.",
+   "en": {
+    "n": "Prado Museum",
+    "x": "One of the most important art museums in the world. It is in Madrid and opened in 1819."
+   }
+  },
+  "nobel": {
+   "t": "palabra",
+   "n": "Premios Nobel",
+   "x": "Premios creados por el inventor sueco Alfred Nobel. Se dan cada año en física, química, medicina, literatura y paz; el de economía se añadió en 1968.",
+   "en": {
+    "n": "Nobel Prizes",
+    "x": "Prizes created by the Swedish inventor Alfred Nobel. They are awarded every year in physics, chemistry, medicine, literature and peace; the economics prize was added in 1968."
+   }
+  },
+  "academia": {
+   "t": "lugar",
+   "n": "Academia Sueca",
+   "x": "Institución de Estocolmo que elige cada año al ganador del Nobel de Literatura.",
+   "en": {
+    "n": "Swedish Academy",
+    "x": "An institution in Stockholm that chooses the winner of the Nobel Prize in Literature every year."
+   }
+  },
+  "juanramon": {
+   "t": "persona",
+   "n": "Juan Ramón Jiménez",
+   "x": "Poeta de Moguer (Huelva), autor de \"Platero y yo\". Ganó el Nobel de Literatura en 1956.",
+   "en": {
+    "n": "Juan Ramón Jiménez",
+    "x": "A poet from Moguer (Huelva), author of \"Platero and I\". He won the Nobel Prize in Literature in 1956."
+   }
+  },
+  "lapalma": {
+   "t": "lugar",
+   "n": "La Palma",
+   "x": "Isla de Canarias. En 2021 entró en erupción su volcán durante 85 días.",
+   "en": {
+    "n": "La Palma",
+    "x": "One of the Canary Islands. In 2021 its volcano erupted for 85 days."
+   }
+  },
+  "erupcion": {
+   "t": "palabra",
+   "n": "Erupción",
+   "x": "Cuando un volcán expulsa lava, cenizas y gases desde el interior de la Tierra.",
+   "en": {
+    "n": "Eruption",
+    "x": "When a volcano throws out lava, ash and gases from inside the Earth."
+   }
+  },
+  "hispanoamerica": {
+   "t": "palabra",
+   "n": "Hispanoamérica",
+   "x": "Los países de América donde se habla español, como México, Argentina o Colombia.",
+   "en": {
+    "n": "Spanish-speaking America",
+    "x": "The countries in the Americas where Spanish is spoken, such as Mexico, Argentina or Colombia."
+   }
+  },
+  "nasa": {
+   "t": "palabra",
+   "n": "NASA",
+   "x": "La agencia espacial de Estados Unidos. Se encarga de los cohetes, los astronautas y las misiones a otros planetas de ese país.",
+   "en": {
+    "n": "NASA",
+    "x": "The United States space agency. It is in charge of the country's rockets, astronauts and missions to other planets."
+   }
+  },
+  "iss": {
+   "t": "lugar",
+   "n": "Estación Espacial Internacional",
+   "x": "Un laboratorio gigante que da vueltas a la Tierra. Lo construyeron entre varios países y en él viven astronautas desde el año 2000.",
+   "en": {
+    "n": "International Space Station",
+    "x": "A giant laboratory that orbits the Earth. Several countries built it together, and astronauts have lived on it since 2000."
+   }
+  },
+  "microgravedad": {
+   "t": "palabra",
+   "n": "Microgravedad",
+   "x": "Lo que se siente en una nave en órbita: todo flota, como si casi no hubiera peso.",
+   "en": {
+    "n": "Microgravity",
+    "x": "What you feel on a spacecraft in orbit: everything floats, as if there were almost no weight."
+   }
+  },
+  "celulasmadre": {
+   "t": "palabra",
+   "n": "Células madre",
+   "x": "Células especiales del cuerpo que pueden convertirse en otros tipos de células, como las de la piel o el músculo.",
+   "en": {
+    "n": "Stem cells",
+    "x": "Special cells in the body that can turn into other kinds of cells, such as skin or muscle cells."
+   }
+  },
+  "ciberataque": {
+   "t": "palabra",
+   "n": "Ciberataque",
+   "x": "Un ataque por internet contra ordenadores o redes para robar información, espiar o estropear algo.",
+   "en": {
+    "n": "Cyberattack",
+    "x": "An attack over the internet on computers or networks to steal information, spy or break something."
+   }
+  },
+  "datospersonales": {
+   "t": "palabra",
+   "n": "Datos personales",
+   "x": "Información que dice quién eres o cómo encontrarte: tu nombre, tu DNI, tu dirección, tu teléfono… La ley obliga a protegerlos.",
+   "en": {
+    "n": "Personal data",
+    "x": "Information that says who you are or how to find you: your name, ID number, address, phone number… The law says it must be protected."
+   }
+  },
+  "vulnerabilidad": {
+   "t": "palabra",
+   "n": "Vulnerabilidad",
+   "x": "Un fallo o punto débil en un programa por el que alguien podría colarse sin permiso.",
+   "en": {
+    "n": "Vulnerability",
+    "x": "A flaw or weak spot in a program that someone could use to get in without permission."
+   }
+  },
+  "phishing": {
+   "t": "palabra",
+   "n": "Phishing",
+   "x": "Un engaño en el que alguien se hace pasar por una empresa o un banco, con un correo o SMS falso, para robarte claves o dinero.",
+   "en": {
+    "n": "Phishing",
+    "x": "A trick in which someone pretends to be a company or a bank, using a fake email or text, to steal your passwords or money."
+   }
+  },
+  "modeloia": {
+   "t": "palabra",
+   "n": "Modelo de IA",
+   "x": "El \"cerebro\" de un programa de inteligencia artificial. Se entrena con enormes cantidades de textos e imágenes para aprender a responder.",
+   "en": {
+    "n": "AI model",
+    "x": "The 'brain' of an artificial intelligence program. It is trained on huge amounts of text and images so that it learns to respond."
+   }
+  },
+  "ciberseguridad": {
+   "t": "palabra",
+   "n": "Ciberseguridad",
+   "x": "Todo lo que se hace para proteger ordenadores, móviles y redes de ataques y robos de información.",
+   "en": {
+    "n": "Cybersecurity",
+    "x": "Everything that is done to protect computers, phones and networks from attacks and data theft."
+   }
+  },
+  "ponencia": {
+   "t": "palabra",
+   "n": "Ponencia",
+   "x": "Un grupo pequeño de diputados de varios partidos que revisa una ley, cambio a cambio, antes de que la vote una comisión del Congreso.",
+   "en": {
+    "n": "Drafting committee",
+    "x": "In Spain's Congress, a small group of MPs from several parties who go through a bill change by change before a committee votes on it."
+   }
+  },
+  "cnmc": {
+   "t": "lugar",
+   "n": "CNMC",
+   "x": "La Comisión Nacional de los Mercados y la Competencia. Es un organismo público que vigila que las empresas cumplan las normas.",
+   "en": {
+    "n": "CNMC",
+    "x": "Spain's National Markets and Competition Commission, a public body that checks that companies follow the rules."
+   }
+  },
+  "algoritmo": {
+   "t": "palabra",
+   "n": "Algoritmo",
+   "x": "Una serie de instrucciones que sigue un ordenador. En las redes sociales, decide qué vídeos y mensajes te aparecen.",
+   "en": {
+    "n": "Algorithm",
+    "x": "A set of instructions that a computer follows. On social media, it decides which videos and posts you see."
+   }
+  },
+  "controlparental": {
+   "t": "palabra",
+   "n": "Control parental",
+   "x": "Herramientas que permiten a los padres poner límites o recibir avisos sobre cómo usan sus hijos un móvil o una aplicación.",
+   "en": {
+    "n": "Parental control",
+    "x": "Tools that let parents set limits or get alerts about how their children use a phone or an app."
+   }
+  },
+  "metaai": {
+   "t": "palabra",
+   "n": "Meta AI",
+   "x": "El asistente de inteligencia artificial de la empresa Meta, que está dentro de WhatsApp, Instagram y Facebook.",
+   "en": {
+    "n": "Meta AI",
+    "x": "The artificial intelligence assistant made by the company Meta, built into WhatsApp, Instagram and Facebook."
+   }
+  },
+  "cifrado": {
+   "t": "palabra",
+   "n": "Cifrado de extremo a extremo",
+   "x": "Un sistema que convierte el mensaje en un código secreto que solo pueden descifrar quien lo envía y quien lo recibe.",
+   "en": {
+    "n": "End-to-end encryption",
+    "x": "A system that turns a message into a secret code that only the sender and the receiver can unlock."
+   }
+  },
+  "ine": {
+   "t": "lugar",
+   "n": "INE",
+   "x": "El Instituto Nacional de Estadística. Es el organismo público que cuenta y mide cosas de España: población, precios, empleo…",
+   "en": {
+    "n": "INE",
+    "x": "Spain's National Statistics Institute, the public body that counts and measures things about Spain: population, prices, jobs…"
+   }
+  },
+  "ipc": {
+   "t": "palabra",
+   "n": "IPC",
+   "x": "Índice de Precios de Consumo. Mide cuánto cambian los precios de lo que compramos normalmente: comida, ropa, luz, gasolina…",
+   "en": {
+    "n": "CPI",
+    "x": "Consumer Price Index. It measures how much the prices of the things we usually buy change: food, clothes, electricity, petrol…"
+   }
+  },
+  "pension": {
+   "t": "palabra",
+   "n": "Pensión",
+   "x": "El dinero que cobra cada mes una persona jubilada, después de haber trabajado y cotizado durante años.",
+   "en": {
+    "n": "Pension",
+    "x": "The money a retired person receives every month after working and paying contributions for many years."
+   }
+  },
+  "paro": {
+   "t": "palabra",
+   "n": "Paro registrado",
+   "x": "Las personas que se han apuntado en las oficinas públicas de empleo porque buscan trabajo y no lo tienen.",
+   "en": {
+    "n": "Registered unemployment",
+    "x": "The people who have signed up at public employment offices because they are looking for a job and don't have one."
+   }
+  },
+  "afiliacion": {
+   "t": "palabra",
+   "n": "Afiliación a la Seguridad Social",
+   "x": "El número de personas dadas de alta como trabajadores. Pagan cotizaciones que sirven, entre otras cosas, para las pensiones.",
+   "en": {
+    "n": "Social Security registration",
+    "x": "The number of people signed up as workers. They pay contributions that are used, among other things, for pensions."
+   }
+  },
+  "regularizacion": {
+   "t": "palabra",
+   "n": "Regularización extraordinaria",
+   "x": "Un proceso del Gobierno para dar papeles, es decir, permiso para vivir y trabajar legalmente, a inmigrantes que ya estaban en España sin ellos.",
+   "en": {
+    "n": "Extraordinary regularisation",
+    "x": "A Government process to give papers – permission to live and work legally – to immigrants who were already in Spain without them."
+   }
+  },
+  "bce": {
+   "t": "lugar",
+   "n": "Banco Central Europeo (BCE)",
+   "x": "El banco que controla el euro. Tiene su sede en Fráncfort (Alemania) y su misión principal es que los precios no suban demasiado.",
+   "en": {
+    "n": "European Central Bank (ECB)",
+    "x": "The bank in charge of the euro. It is based in Frankfurt (Germany), and its main job is to stop prices rising too much."
+   }
+  },
+  "tiposinteres": {
+   "t": "palabra",
+   "n": "Tipos de interés",
+   "x": "Lo que cuesta pedir dinero prestado. Si suben, los préstamos salen más caros y la gente y las empresas gastan menos.",
+   "en": {
+    "n": "Interest rates",
+    "x": "What it costs to borrow money. When they go up, loans become more expensive and people and companies spend less."
+   }
+  },
+  "euribor": {
+   "t": "palabra",
+   "n": "Euríbor",
+   "x": "Un tipo de interés al que se prestan dinero los bancos europeos. Muchas hipotecas lo usan para calcular cuánto se paga cada mes.",
+   "en": {
+    "n": "Euribor",
+    "x": "An interest rate at which European banks lend each other money. Many mortgages use it to work out how much is paid each month."
+   }
+  },
+  "hipoteca": {
+   "t": "palabra",
+   "n": "Hipoteca",
+   "x": "Un préstamo del banco para comprar una casa, que se devuelve poco a poco durante muchos años.",
+   "en": {
+    "n": "Mortgage",
+    "x": "A bank loan to buy a home, which is paid back little by little over many years."
+   }
+  },
+  "diesel": {
+   "t": "palabra",
+   "n": "Gasóleo (diésel)",
+   "x": "Un combustible que se saca del petróleo. Lo usan camiones, autobuses, tractores, barcos y muchos coches.",
+   "en": {
+    "n": "Diesel",
+    "x": "A fuel made from oil. It is used by lorries, buses, tractors, ships and many cars."
+   }
+  },
+  "trump": {
+   "t": "persona",
+   "n": "Donald Trump",
+   "x": "Presidente de Estados Unidos, del Partido Republicano. Gobierna desde enero de 2025 y ya lo fue entre 2017 y 2021.",
+   "en": {
+    "n": "Donald Trump",
+    "x": "President of the United States, from the Republican Party. He has governed since January 2025 and was also president from 2017 to 2021."
+   }
+  },
+  "reservas": {
+   "t": "palabra",
+   "n": "Reservas estratégicas",
+   "x": "Combustible que los países guardan para usarlo en emergencias, por ejemplo si se corta el suministro.",
+   "en": {
+    "n": "Strategic reserves",
+    "x": "Fuel that countries keep stored to use in emergencies, for example if supplies are cut off."
+   }
+  },
+  "aforo": {
+   "t": "palabra",
+   "n": "Aforo",
+   "x": "En el campo, el cálculo que se hace antes de la cosecha para saber cuánto se va a recoger.",
+   "en": {
+    "n": "Harvest forecast",
+    "x": "In farming, the estimate made before the harvest of how much will be picked."
+   }
+  },
+  "almazara": {
+   "t": "lugar",
+   "n": "Almazara",
+   "x": "El molino donde se trituran y prensan las aceitunas para sacar el aceite.",
+   "en": {
+    "n": "Olive mill",
+    "x": "The mill where olives are crushed and pressed to get the oil out."
+   }
+  },
+  "inuncat": {
+   "t": "palabra",
+   "n": "Plan Inuncat",
+   "x": "Plan de emergencias de la Generalitat de Cataluña para inundaciones. Se activa por niveles cuando hay riesgo de lluvias muy fuertes.",
+   "en": {
+    "n": "Inuncat plan",
+    "x": "The Catalan government's emergency plan for floods. It is activated in levels when there is a risk of very heavy rain."
+   }
+  },
+  "diputacionpermanente": {
+   "t": "palabra",
+   "n": "Diputación Permanente",
+   "x": "Grupo reducido de diputados que hace el trabajo del Congreso cuando las Cortes están disueltas, por ejemplo en campaña electoral. Puede convalidar decretos del Gobierno.",
+   "en": {
+    "n": "Permanent Deputation",
+    "x": "A small group of MPs that does the work of the Congress when Parliament is dissolved, for example during an election campaign. It can ratify Government decrees."
+   }
+  },
+  "optogenetica": {
+   "t": "palabra",
+   "n": "Optogenética",
+   "x": "Técnica que usa luz para encender o apagar neuronas que han sido modificadas para reaccionar a ella. Sirve para estudiar cómo funciona el cerebro.",
+   "en": {
+    "n": "Optogenetics",
+    "x": "A technique that uses light to switch on or off neurons that have been modified to react to it. It is used to study how the brain works."
+   }
+  },
+  "marquez": {
+   "t": "persona",
+   "n": "Marc Márquez",
+   "x": "Piloto de Cervera (Lleida) que corre en MotoGP con Ducati. Fue campeón del mundo en 2025.",
+   "en": {
+    "n": "Marc Márquez",
+    "x": "A rider from Cervera (Lleida) who races in MotoGP for Ducati. He was world champion in 2025."
+   }
+  },
+  "martin": {
+   "t": "persona",
+   "n": "Jorge Martín",
+   "x": "Piloto madrileño que corre en MotoGP con Aprilia. Fue campeón del mundo en 2024.",
+   "en": {
+    "n": "Jorge Martín",
+    "x": "A rider from Madrid who races in MotoGP for Aprilia. He was world champion in 2024."
+   }
+  },
+  "motogp": {
+   "t": "palabra",
+   "n": "MotoGP",
+   "x": "La máxima categoría del motociclismo de velocidad. Cada fin de semana hay una carrera corta, la sprint, el sábado, y la carrera larga el domingo.",
+   "en": {
+    "n": "MotoGP",
+    "x": "The top class of motorcycle road racing. Each race weekend has a short race, the sprint, on Saturday and the long race on Sunday."
+   }
+  },
+  "neutrino": {
+   "t": "palabra",
+   "n": "Neutrino",
+   "x": "Partícula diminuta, casi sin masa, que atraviesa la materia casi sin chocar con nada. Muchísimos nos atraviesan cada segundo sin que lo notemos.",
+   "en": {
+    "n": "Neutrino",
+    "x": "A tiny particle with almost no mass that passes through matter hardly ever colliding with anything. Huge numbers of them pass through us every second without our noticing."
+   }
+  },
+  "icecube": {
+   "t": "lugar",
+   "n": "IceCube",
+   "x": "Observatorio del Polo Sur con sensores enterrados en un kilómetro cúbico de hielo. Detecta destellos de luz cuando un neutrino choca con un átomo.",
+   "en": {
+    "n": "IceCube",
+    "x": "An observatory at the South Pole with sensors buried in a cubic kilometre of ice. It detects flashes of light when a neutrino collides with an atom."
+   }
+  },
+  "huelgageneral": {
+   "t": "palabra",
+   "n": "Huelga general",
+   "x": "Paro de trabajo convocado a la vez en todos los sectores y en todo el país. Quien la secunda no trabaja ese día y no cobra esa jornada.",
+   "en": {
+    "n": "General strike",
+    "x": "A work stoppage called in all sectors and across the whole country at the same time. Those who join it do not work that day and are not paid for it."
+   }
+  },
+  "pnv": {
+   "t": "palabra",
+   "n": "PNV",
+   "x": "Partido Nacionalista Vasco. Gobierna el País Vasco y tiene diputados en el Congreso, donde su voto suele ser decisivo.",
+   "en": {
+    "n": "PNV",
+    "x": "The Basque Nationalist Party. It governs the Basque Country and has MPs in the Congress, where its vote is often decisive."
+   }
+  },
+  "moleculasespejo": {
+   "t": "palabra",
+   "n": "Moléculas espejo",
+   "x": "Moléculas con los mismos átomos pero colocados como una mano izquierda y una derecha: son imágenes especulares que no encajan una sobre otra.",
+   "en": {
+    "n": "Mirror molecules",
+    "x": "Molecules with the same atoms arranged like a left hand and a right hand: they are mirror images that do not fit on top of each other."
+   }
+  },
+  "proces": {
+   "t": "palabra",
+   "n": "El procés",
+   "x": "Nombre del proceso independentista catalán de 2017, que incluyó un referéndum prohibido por los tribunales y una declaración de independencia sin efecto.",
+   "en": {
+    "n": "The procés",
+    "x": "The name of the Catalan independence process of 2017, which included a referendum banned by the courts and a declaration of independence that had no legal effect."
+   }
+  },
+  "amnistia": {
+   "t": "palabra",
+   "n": "Ley de amnistía",
+   "x": "Ley de 2024 que borra la responsabilidad penal de protagonistas del procés. La pactó el PSOE con partidos independentistas y es muy discutida.",
+   "en": {
+    "n": "Amnesty law",
+    "x": "A 2024 law that wipes out criminal liability for people involved in the procés. The PSOE agreed it with pro-independence parties and it is highly controversial."
+   }
+  },
+  "puigdemont": {
+   "t": "persona",
+   "n": "Carles Puigdemont",
+   "x": "Expresidente de Cataluña y líder de Junts. Vive fuera de España desde 2017 y tiene una orden de detención pendiente por el procés.",
+   "en": {
+    "n": "Carles Puigdemont",
+    "x": "Former president of Catalonia and leader of Junts. He has lived outside Spain since 2017 and has an arrest warrant pending over the procés."
+   }
+  }
+ },
+ "edicion_en": "Thursday 8 October 2026",
+ "destacada": {
+  "id": "cientos-de-personas-acampan-en-sol-por-la-vivien",
+  "fecha": "2026-10-08"
+ }
+}
