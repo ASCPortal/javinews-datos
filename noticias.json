@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-12T07:30:00+02:00",
+ "actualizado": "2026-10-12T09:50:00+02:00",
  "edicion": "Lunes 12 de octubre de 2026",
  "secciones": [
   {
@@ -385,7 +385,7 @@
    "entradilla": "Mientras se habla de dejar de atacar las centrales y las redes eléctricas, los bombardeos rusos siguen matando civiles.",
    "parrafos": [
     "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania han aceptado un [[alto el fuego|altoelfuego]] en el sector energético: dejarían de atacar las centrales, las redes y otras [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Rusia no lo había confirmado y no se conocían los detalles. [[Zelenski|zelenski]] dijo que Ucrania lo aceptaría si Rusia hacía lo mismo. Algo parecido ya se anunció el 14 de septiembre, y los ataques no pararon.",
-    "Mientras tanto, la guerra sigue. Autoridades regionales ucranianas informaron de bombardeos rusos contra dos ciudades que dejaron seis muertos, y el 7 de octubre un ataque con misiles y drones contra [[Kiev|kiev]] mató al menos a 11 personas, según los primeros balances. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados. El lunes por la mañana las bolsas subieron y el petróleo bajó tras el anuncio, según Euronews."
+    "Mientras tanto, la guerra sigue. Pocas horas después del anuncio, Rusia atacó una central eléctrica en la región de Járkov y otras instalaciones energéticas en la de Zhytómir, según Zelenski y las autoridades ucranianas. Zelenski añadió que Trump no le había informado de ningún compromiso, y Moscú no se ha pronunciado. El 7 de octubre, un ataque con misiles y drones contra [[Kiev|kiev]] mató al menos a 11 personas, según los primeros balances. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados. El lunes por la mañana las bolsas subieron y el petróleo bajó tras el anuncio, según Euronews."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -393,19 +393,21 @@
     "CNN en Español",
     "Perfil",
     "CiberCuba",
-    "Infobae"
+    "Infobae",
+    "El Español",
+    "Última Hora"
    ],
    "publicada": "2026-10-02",
    "actualizada": "2026-10-12",
-   "nota_actualizacion": "Trump anunció un alto el fuego energético entre Rusia y Ucrania, que Moscú aún no ha confirmado.",
+   "nota_actualizacion": "Trump anunció un alto el fuego energético que Moscú no ha confirmado; horas después, Rusia atacó instalaciones energéticas ucranianas, según Kiev.",
    "en": {
     "titular": "Ukraine: Trump announces an energy ceasefire that Russia has not confirmed",
     "entradilla": "While there is talk of ending attacks on power plants and electricity grids, Russian bombing keeps killing civilians.",
     "parrafos": [
      "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine have agreed to an energy-sector [[ceasefire|altoelfuego]]: they would stop attacking each other's power plants, grids and other [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Russia had not confirmed it and no details were known. [[Zelensky|zelenski]] said Ukraine would accept it if Russia did the same. Something similar was already announced on 14 September, and the attacks did not stop.",
-     "Meanwhile, the war goes on. Ukrainian regional authorities reported Russian bombing of two cities that left six dead, and on 7 October a missile and drone attack on [[Kyiv|kiev]] killed at least 11 people, according to the first tallies. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people. On Monday morning stock markets rose and oil fell after the announcement, according to Euronews."
+     "Meanwhile, the war goes on. Only hours after the announcement, Russia attacked a power plant in the Kharkiv region and other energy facilities in the Zhytomyr region, according to Zelensky and Ukrainian authorities. Zelensky added that Trump had not told him of any commitment, and Moscow has not commented. On 7 October, a missile and drone attack on [[Kyiv|kiev]] killed at least 11 people, according to the first tallies. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people. On Monday morning stock markets rose and oil fell after the announcement, according to Euronews."
     ],
-    "nota_actualizacion": "Trump announced an energy ceasefire between Russia and Ukraine, which Moscow has not yet confirmed."
+    "nota_actualizacion": "Trump announced an energy ceasefire that Moscow has not confirmed; hours later, Russia attacked Ukrainian energy facilities, according to Kyiv."
    }
   },
   {
