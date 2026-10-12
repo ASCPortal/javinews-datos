@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-08T07:06:29+02:00",
- "edicion": "Jueves 8 de octubre de 2026",
+ "actualizado": "2026-10-12T07:30:00+02:00",
+ "edicion": "Lunes 12 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -104,11 +104,11 @@
    "id": "el-congreso-decide-sobre-las-leyes-de-vivienda",
    "seccion": "es",
    "dibujo": "congress",
-   "titular": "Sánchez convoca elecciones el 29 de noviembre y el PNV decidirá la suerte de los decretos de vivienda",
-   "entradilla": "El Gobierno aprobó de nuevo sus decretos para que los vote la Diputación Permanente, donde el PNV es decisivo.",
+   "titular": "Sánchez convoca elecciones el 29 de noviembre y el PNV decidirá el 16 de octubre la suerte de los decretos de vivienda",
+   "entradilla": "La Diputación Permanente votará los decretos el viernes 16 de octubre, con el PNV como voto decisivo.",
    "parrafos": [
     "El lunes 5 de octubre, [[Pedro Sánchez|sanchez]] anunció que adelanta las [[elecciones anticipadas|elecciones]] generales al domingo 29 de noviembre, después de que el [[Congreso|congreso]] rechazara los dos decretos de vivienda con 172 votos a favor y 178 en contra. El Boletín Oficial del Estado publicó el decreto el martes 6: las Cortes quedaron disueltas. Cuando se disuelven antes de tiempo, la ley dice que se vota 54 días después de publicar el decreto. Si no las hubiera adelantado, las elecciones habrían tocado en 2027.",
-    "El Gobierno volvió a aprobar los dos [[reales decretos-ley|rdl]], con retoques técnicos, para que los vote la [[Diputación Permanente|diputacionpermanente]], el grupo de 69 diputados que sustituye al Congreso mientras está disuelto. Allí, según los medios, PP, Vox y Junts suman 34 votos, igual que PSOE, Sumar y sus aliados de izquierda, así que el [[PNV|pnv]] es decisivo. Su portavoz anunció que votará a favor del primer decreto, con el escudo contra desahucios, y en contra del segundo, el de los alquileres. Aún no hemos podido comprobar el recuento oficial."
+    "El Gobierno volvió a aprobar los dos [[reales decretos-ley|rdl]], con retoques técnicos, para que los vote la [[Diputación Permanente|diputacionpermanente]], el grupo de 69 diputados que sustituye al Congreso mientras está disuelto. La Mesa del Congreso fijó la votación para el viernes 16 de octubre; la Constitución da 30 días para convalidarlos. Según los medios, las cuentas están muy ajustadas entre PP, Vox y Junts, por un lado, y PSOE, Sumar y sus aliados, por otro, así que el [[PNV|pnv]] es decisivo. Su portavoz anunció que votará a favor del primer decreto, con el escudo contra desahucios, y en contra del segundo, el de los alquileres."
    ],
    "busqueda_imagenes": "Congreso de los Diputados votación",
    "fuentes": [
@@ -117,19 +117,22 @@
     "Moncloa.com",
     "El Plural",
     "Democrata",
-    "Forbes España"
+    "Forbes España",
+    "Público",
+    "idealista/news",
+    "Maldita.es"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-08",
-   "nota_actualizacion": "Sánchez ha convocado elecciones el 29 de noviembre y el PNV apoyará el primer decreto de vivienda en la Diputación Permanente.",
+   "actualizada": "2026-10-10",
+   "nota_actualizacion": "La Mesa del Congreso fijó para el viernes 16 de octubre la votación de los decretos en la Diputación Permanente.",
    "en": {
-    "titular": "Sánchez calls an election for 29 November and the PNV will decide the fate of the housing decrees",
-    "entradilla": "The Government approved its decrees again so that the Permanent Deputation can vote on them, where the PNV holds the key.",
+    "titular": "Sánchez calls an election for 29 November and the PNV will decide on 16 October the fate of the housing decrees",
+    "entradilla": "The Permanent Deputation will vote on the decrees on Friday 16 October, with the PNV holding the deciding vote.",
     "parrafos": [
      "On Monday 5 October, [[Pedro Sánchez|sanchez]] announced that he is bringing the general [[early election|elecciones]] forward to Sunday 29 November, after the [[Congress|congreso]] rejected the two housing decrees by 172 votes in favour to 178 against. The official state gazette (the BOE) published the decree on Tuesday 6: Parliament was dissolved. When Parliament is dissolved early, the law says the vote is held 54 days after the decree is published. Had he not brought it forward, the election would have been due in 2027.",
-     "The Government approved the two [[royal decree-laws|rdl]] again, with technical changes, so that the [[Permanent Deputation|diputacionpermanente]], the group of 69 MPs who stand in for Congress while it is dissolved, can vote on them. There, according to the media, PP, Vox and Junts have 34 votes, the same as PSOE, Sumar and their left-wing allies, so the [[PNV|pnv]] holds the key. Its spokesperson announced that it will vote for the first decree, which contains the shield against evictions, and against the second one, on rents. We have not yet been able to check the official count."
+     "The Government approved the two [[royal decree-laws|rdl]] again, with technical changes, so that the [[Permanent Deputation|diputacionpermanente]], the group of 69 MPs who stand in for Congress while it is dissolved, can vote on them. The Bureau of Congress set the vote for Friday 16 October; the Constitution allows 30 days to ratify them. According to the media, the numbers are very tight between PP, Vox and Junts on one side and PSOE, Sumar and their allies on the other, so the [[PNV|pnv]] holds the key. Its spokesperson announced that it will vote for the first decree, which contains the shield against evictions, and against the second one, on rents."
     ],
-    "nota_actualizacion": "Sánchez has called an election for 29 November and the PNV will back the first housing decree in the Permanent Deputation."
+    "nota_actualizacion": "The Bureau of Congress set the vote on the decrees in the Permanent Deputation for Friday 16 October."
    }
   },
   {
@@ -159,36 +162,6 @@
      "To slow down [[inflation|inflacion]], the Government has cut the [[tax|impuesto]] paid on every litre of fuel several times, and since 1 October it has been applying a new package of measures to keep prices down. When petrol goes up, it is not only people with cars who pay more: it also costs more to take food to supermarkets by lorry, and so other prices rise too."
     ],
     "nota_actualizacion": null
-   }
-  },
-  {
-   "id": "temporal-cataluna-alerta-roja-inuncat",
-   "seccion": "es",
-   "dibujo": "rain",
-   "titular": "Temporal en Cataluña: dos muertos y un desaparecido",
-   "entradilla": "La Generalitat da por terminado el temporal y levanta las restricciones de movilidad.",
-   "parrafos": [
-    "Cataluña vivió la noche del sábado 3 al domingo 4 de octubre un episodio de lluvias torrenciales. La Generalitat activó el plan [[Inuncat|inuncat]], mantuvo la [[alerta roja|alertaroja]] y envió un aviso [[Es-Alert|esalert]] a los móviles del litoral y del prelitoral de Tarragona, Barcelona y Girona. La movilidad quedó restringida en 20 comarcas y se suspendieron las manifestaciones por la vivienda previstas en Barcelona. Los Bomberos atendieron cientos de avisos por inundaciones, sobre todo en el área metropolitana sur de Barcelona.",
-    "El balance es de dos fallecidos, en Tordera y en Montornès del Vallès, y una persona desaparecida en Pineda de Mar, todos en la provincia de Barcelona. El presidente de la Generalitat, Salvador Illa, confirmó que las restricciones en el Empordà se levantaron a las 21:00 del domingo, y el Servicio Meteorológico de Cataluña considera que el temporal puede darse por terminado. El plan Inuncat sigue en fase de emergencia y podrían caer tormentas aisladas en los extremos de Cataluña."
-   ],
-   "busqueda_imagenes": "temporal Cataluña lluvia alerta roja",
-   "fuentes": [
-    "Vozpópuli",
-    "The Objective",
-    "Periódico de Ibiza",
-    "Moncloa.com"
-   ],
-   "publicada": "2026-10-04",
-   "actualizada": "2026-10-05",
-   "nota_actualizacion": "El temporal ha terminado con dos fallecidos y una persona desaparecida, y se han levantado las restricciones.",
-   "en": {
-    "titular": "Storm in Catalonia: two dead and one missing",
-    "entradilla": "The Catalan government declares the storm over and lifts the movement restrictions.",
-    "parrafos": [
-     "Catalonia went through an episode of torrential rain on the night of Saturday 3 to Sunday 4 October. The Catalan government activated the [[Inuncat|inuncat]] plan, kept the [[red alert|alertaroja]] in place and sent an [[Es-Alert|esalert]] warning to mobile phones on the coast and the pre-coastal area of Tarragona, Barcelona and Girona. Movement was restricted in 20 counties and the housing demonstrations planned in Barcelona were cancelled. Firefighters handled hundreds of calls about flooding, mostly in the southern metropolitan area of Barcelona.",
-     "The toll is two dead, in Tordera and Montornès del Vallès, and one person missing in Pineda de Mar, all in the province of Barcelona. The president of the Catalan government, Salvador Illa, confirmed that the restrictions in the Empordà area were lifted at 9 pm on Sunday, and the Catalan Meteorological Service considers the storm can be regarded as over. The Inuncat plan remains in its emergency phase and isolated storms could still fall at the far ends of Catalonia."
-    ],
-    "nota_actualizacion": "The storm has ended with two dead and one person missing, and the restrictions have been lifted."
    }
   },
   {
@@ -345,26 +318,28 @@
    "entradilla": "La guerra con Irán sigue afectando al petróleo de todo el planeta.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Las tensiones siguen: desde el 1 de octubre, la agencia marítima británica UKMTO ha informado de que al menos dos petroleros han sido alcanzados por \"proyectiles no identificados\" en la zona; en uno hubo un incendio, ya apagado, y no se registraron víctimas. Estados Unidos ha enviado unos 9.000 militares en siete buques, entre ellos el portaaviones USS Theodore Roosevelt. Irán no puede vender su petróleo y sus reservas podrían agotarse a mediados de octubre; algunos expertos temen que, sin salida, vuelva a atacar."
+    "Las tensiones siguen. El 9 de octubre la [[Guardia Revolucionaria|guardiarev]] dijo que había atacado a un petrolero que, según ella, usaba una ruta no autorizada, y amenazó con perseguir a los barcos infractores lejos de Ormuz. El 12 de octubre, según medios, Irán consideró insuficiente la respuesta de Estados Unidos a su propuesta (una tregua de una semana a cambio de levantar el [[bloqueo naval|bloqueo]] y las sanciones al petróleo, y reabrir Ormuz) y dijo que no habrá nuevas negociaciones ni tránsito normal hasta que se cumplan siete condiciones. EE. UU. mantiene su cerco naval. En los últimos días el Brent rondaba los 104 dólares, lo que encarece la gasolina que paga cualquier familia."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
-    "UKMTO (vía Infobae y Yahoo Noticias)",
-    "El Destape",
     "Cadena 3",
-    "Wikipedia (crónica de la guerra)"
+    "Todonea",
+    "Audacy",
+    "Euronews",
+    "Infobae",
+    "Moncloa.com"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-04",
-   "nota_actualizacion": "Desde el 1 de octubre, al menos dos petroleros han sido alcanzados por proyectiles no identificados y EE. UU. envía unos 9.000 militares.",
+   "actualizada": "2026-10-12",
+   "nota_actualizacion": "Irán considera insuficiente la respuesta de EE. UU. a su propuesta de tregua y mantiene cerrado el estrecho hasta que se cumplan siete condiciones.",
    "en": {
     "titular": "Hormuz: the strait that makes the world tremble",
     "entradilla": "The war with Iran is still affecting oil all over the planet.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Tensions continue: since 1 October, the British maritime agency UKMTO has reported that at least two tankers have been hit by \"unidentified projectiles\" in the area; one caught fire, which has since been put out, and no casualties were reported. The United States has sent about 9,000 troops on seven ships, including the aircraft carrier USS Theodore Roosevelt. Iran cannot sell its oil and its reserves could run out in mid-October; some experts fear that, with no way out, it may attack again."
+     "Tensions continue. On 9 October the [[Revolutionary Guard|guardiarev]] said it had attacked a tanker that, in its words, was using an unauthorised route, and threatened to chase offending ships far from Hormuz. On 12 October, according to media reports, Iran judged the United States' reply to its proposal insufficient (a one-week truce in exchange for lifting the [[naval blockade|bloqueo]] and the oil sanctions, and reopening Hormuz) and said there will be no new talks or normal shipping until seven conditions are met. The US keeps its naval cordon. In recent days Brent crude was around 104 dollars a barrel, which makes the petrol that every family pays for more expensive."
     ],
-    "nota_actualizacion": "Since 1 October at least two tankers have been hit by unidentified projectiles, and the US is sending about 9,000 troops."
+    "nota_actualizacion": "Iran considers the US reply to its truce proposal insufficient and keeps the strait closed until seven conditions are met."
    }
   },
   {
@@ -375,7 +350,7 @@
    "entradilla": "Tres años después del ataque de Hamás, siguen las muertes pese a la tregua.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas desde 2023 y más de 1.400 desde el acuerdo. Según la [[ONU|onu]], 1,2 millones de personas en [[Gaza|gaza]] viven sin un refugio digno y casi la mitad tiene menos de 6 litros de agua potable al día, lo mínimo en una emergencia. Las organizaciones de [[ayuda humanitaria|humanitaria]] avisan de que más de un millón y medio de personas podrían quedarse sin ayuda este invierno."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas desde 2023 y más de 1.400 desde el acuerdo. El 9 de octubre, más de 100 organizaciones, entre ellas Amnistía Internacional, afirmaron que el alto el fuego «existe solo de nombre». Según ellas, desde que empezó han muerto más de 1.400 palestinos por ataques israelíes, al menos 327 niños; ningún hospital funciona del todo y 1,4 millones de personas sufren hambre grave. Las organizaciones de [[ayuda humanitaria|humanitaria]] avisan de que más de un millón y medio de personas en [[Gaza|gaza]] podrían quedarse sin ayuda este invierno."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -385,49 +360,52 @@
     "El Comercio",
     "Yahoo Noticias",
     "Semana",
-    "Atlas News"
+    "Atlas News",
+    "Al Jazeera",
+    "Amnistía Internacional"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-08",
-   "nota_actualizacion": "Se cumplieron tres años del ataque de Hamás; el 7 de octubre murieron cinco personas en bombardeos israelíes, según las autoridades palestinas.",
+   "actualizada": "2026-10-10",
+   "nota_actualizacion": "Más de 100 organizaciones dicen que el alto el fuego «existe solo de nombre»: 1.400 muertos y 1,4 millones de personas con hambre grave.",
    "en": {
     "titular": "Gaza: three years since 7 October and a ceasefire that does not stop the violence",
     "entradilla": "Three years after Hamas's attack, people are still dying despite the truce.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which is run by Hamas, more than 74,000 people have died in the war since 2023 and more than 1,400 since the agreement. According to the [[UN|onu]], 1.2 million people in [[Gaza|gaza]] live without decent shelter and almost half have less than 6 litres of drinkable water a day, the minimum in an emergency. [[Humanitarian aid|humanitaria]] organisations warn that more than a million and a half people could be left without aid this winter."
+     "According to the Gaza Health Ministry, which Hamas controls, more than 74,000 people have died in the war since 2023 and more than 1,400 since the agreement. On 9 October, more than 100 organisations, including Amnesty International, said that the ceasefire \"exists in name only\". According to them, more than 1,400 Palestinians have been killed in Israeli attacks since it began, at least 327 of them children; no hospital is fully functioning and 1.4 million people face severe hunger. [[Humanitarian aid|humanitaria]] organisations warn that more than a million and a half people in [[Gaza|gaza]] could be left without help this winter."
     ],
-    "nota_actualizacion": "Three years on from the Hamas attack; on 7 October five people were killed in Israeli bombing, according to Palestinian authorities."
+    "nota_actualizacion": "More than 100 organisations say the ceasefire \"exists in name only\": 1,400 dead and 1.4 million people facing severe hunger."
    }
   },
   {
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: nuevo bombardeo ruso mientras se habla de paz",
-   "entradilla": "Rusia lanzó el miércoles misiles y drones contra Kiev y otras zonas del país.",
+   "titular": "Ucrania: Trump anuncia un alto el fuego energético que Rusia no confirma",
+   "entradilla": "Mientras se habla de dejar de atacar las centrales y las redes eléctricas, los bombardeos rusos siguen matando civiles.",
    "parrafos": [
-    "El miércoles 7 de octubre, Rusia lanzó un bombardeo combinado de misiles y drones contra [[Kiev|kiev]] y otras zonas de Ucrania. Según los primeros balances murieron al menos 11 personas, y varios medios señalan que la cifra siguió subiendo durante el día. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir el país, y desde entonces ha causado muchos miles de muertos civiles y militares, además de millones de desplazados. Los ataques contra las ciudades continúan aunque se hable de cómo parar los combates.",
-    "A la vez, se habla de paz. El 14 de septiembre, Donald Trump anunció que los dos países habían aceptado dejar de atacar la [[infraestructura energética|energia]] del otro, para no dejar a la población sin luz ni calefacción en invierno. [[Zelenski|zelenski]] tenía prevista una reunión con Trump durante la Asamblea General de la ONU, en Nueva York. Rusia dice estar dispuesta a negociar, pero pone condiciones que Ucrania considera inaceptables."
+    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania han aceptado un [[alto el fuego|altoelfuego]] en el sector energético: dejarían de atacar las centrales, las redes y otras [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Rusia no lo había confirmado y no se conocían los detalles. [[Zelenski|zelenski]] dijo que Ucrania lo aceptaría si Rusia hacía lo mismo. Algo parecido ya se anunció el 14 de septiembre, y los ataques no pararon.",
+    "Mientras tanto, la guerra sigue. Autoridades regionales ucranianas informaron de bombardeos rusos contra dos ciudades que dejaron seis muertos, y el 7 de octubre un ataque con misiles y drones contra [[Kiev|kiev]] mató al menos a 11 personas, según los primeros balances. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados. El lunes por la mañana las bolsas subieron y el petróleo bajó tras el anuncio, según Euronews."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
-    "Infobae",
-    "Wikipedia (tregua 2026)",
-    "Infobae",
-    "CNN en Español"
+    "Euronews",
+    "CNN en Español",
+    "Perfil",
+    "CiberCuba",
+    "Infobae"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-08",
-   "nota_actualizacion": "Rusia lanzó el 7 de octubre un nuevo bombardeo con misiles y drones; murieron al menos 11 personas según los primeros balances.",
+   "actualizada": "2026-10-12",
+   "nota_actualizacion": "Trump anunció un alto el fuego energético entre Rusia y Ucrania, que Moscú aún no ha confirmado.",
    "en": {
-    "titular": "Ukraine: new Russian bombardment while peace is discussed",
-    "entradilla": "On Wednesday Russia launched missiles and drones at Kyiv and other parts of the country.",
+    "titular": "Ukraine: Trump announces an energy ceasefire that Russia has not confirmed",
+    "entradilla": "While there is talk of ending attacks on power plants and electricity grids, Russian bombing keeps killing civilians.",
     "parrafos": [
-     "On Wednesday 7 October, Russia launched a combined bombardment of missiles and drones at [[Kyiv|kiev]] and other parts of Ukraine. According to the first reports at least 11 people died, and several media outlets say the toll kept rising during the day. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of the country, and since then it has caused many thousands of civilian and military deaths, as well as millions of displaced people. Attacks on cities continue even though there is talk of how to stop the fighting.",
-     "At the same time, there is talk of peace. On 14 September, Donald Trump announced that the two countries had agreed to stop attacking each other's [[energy infrastructure|energia]], so as not to leave people without electricity or heating in winter. [[Zelensky|zelenski]] was due to meet Trump during the UN General Assembly in New York. Russia says it is willing to negotiate, but sets conditions that Ukraine considers unacceptable."
+     "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine have agreed to an energy-sector [[ceasefire|altoelfuego]]: they would stop attacking each other's power plants, grids and other [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Russia had not confirmed it and no details were known. [[Zelensky|zelenski]] said Ukraine would accept it if Russia did the same. Something similar was already announced on 14 September, and the attacks did not stop.",
+     "Meanwhile, the war goes on. Ukrainian regional authorities reported Russian bombing of two cities that left six dead, and on 7 October a missile and drone attack on [[Kyiv|kiev]] killed at least 11 people, according to the first tallies. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people. On Monday morning stock markets rose and oil fell after the announcement, according to Euronews."
     ],
-    "nota_actualizacion": "On 7 October Russia launched another missile and drone bombardment; at least 11 people died according to first reports."
+    "nota_actualizacion": "Trump announced an energy ceasefire between Russia and Ukraine, which Moscow has not yet confirmed."
    }
   },
   {
@@ -484,35 +462,6 @@
     "parrafos": [
      "The [[European Union|ue]] has approved a new [[regulation|reglamento]] to speed up the [[return|retorno]] of migrants who do not have permission to stay in Europe. One of the new features is to create centres outside the EU, in other countries, where they would wait to be sent back. Spain was the only one of the 27 countries to vote against it.",
      "The Spanish Government says it also wants returns to be faster, but it doubts that those centres will respect people's rights and wonders how much they will cost. The debate comes just as Spain is going through the Ceuta crisis. A difficult question that many countries ask themselves: how can you be firm with people who come in without permission and, at the same time, treat every person with dignity?"
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
-   "id": "la-campeona-del-mundo-gana-en-wembley",
-   "seccion": "dep",
-   "dibujo": "wembley",
-   "titular": "La campeona del mundo gana en Wembley",
-   "entradilla": "España remontó a Inglaterra 2-3 en su primer partido tras el Mundial.",
-   "parrafos": [
-    "España jugó el 26 de septiembre su primer partido desde que ganó el Mundial de 2026, y lo hizo en [[Wembley|wembley]], ante Inglaterra, en la [[Nations League|nations]]. [[Lamine Yamal|lamine]] marcó en el minuto 2 tras robar un balón, pero Inglaterra le dio la vuelta con goles de Anthony Gordon y [[Harry Kane|kane]].",
-    "Con 2-1, Kane falló un [[penalti|penalti]] que podía haber sentenciado. España aprovechó la ocasión: Álex Baena empató en el minuto 61 y Mikel Oyarzabal, con un pase de Baena, marcó el 2-3 en el 74. Los dos habían salido desde el banquillo: a veces los partidos los ganan los que no empiezan jugando."
-   ],
-   "busqueda_imagenes": "estadio de Wembley",
-   "fuentes": [
-    "El Imparcial",
-    "La República",
-    "Al Jazeera"
-   ],
-   "publicada": "2026-10-02",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "The world champions win at Wembley",
-    "entradilla": "Spain came from behind to beat England 2-3 in their first match since the World Cup.",
-    "parrafos": [
-     "On 26 September Spain played their first match since winning the 2026 World Cup, and they did it at [[Wembley|wembley]], against England, in the [[Nations League|nations]]. [[Lamine Yamal|lamine]] scored in the 2nd minute after winning the ball, but England turned it around with goals from Anthony Gordon and [[Harry Kane|kane]].",
-     "At 2-1, Kane missed a [[penalty|penalti]] that could have settled the match. Spain took their chance: Álex Baena equalised in the 61st minute and Mikel Oyarzabal, from a Baena pass, made it 2-3 in the 74th. Both had come off the bench: sometimes matches are won by those who do not start."
     ],
     "nota_actualizacion": null
    }
@@ -608,30 +557,31 @@
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Márquez gana en Japón y se queda a dos puntos de Martín",
-   "entradilla": "El Mundial de MotoGP se decide entre dos campeones del mundo, separados por solo dos puntos.",
+   "titular": "Bezzecchi gana en Indonesia y Martín recupera el liderato por dos puntos",
+   "entradilla": "Aprilia hace un 1-2-3-4 en Mandalika y el Mundial sigue entre Martín y Márquez, separados por solo dos puntos.",
    "parrafos": [
-    "[[Marc Márquez|marquez]], de Ducati, ganó este fin de semana el Gran Premio de Japón de [[MotoGP|motogp]], en el circuito de Motegi. Fue un doblete: el sábado ya había ganado la sprint, la carrera corta. Segundo quedó [[Jorge Martín|martin]], de Aprilia, a 1,363 segundos, y tercero Marco Bezzecchi, también de Aprilia, a 2,252. El cuarto puesto fue para Enea Bastianini, con una KTM del equipo Tech3. Fue, además, un duelo entre españoles: los dos primeros clasificados lo son.",
-    "El resultado deja el campeonato casi empatado: Martín sigue líder con 333 puntos, pero Márquez, con 331, está solo a dos. Márquez ganó el título en 2025 y Martín en 2024, así que la lucha de este año enfrenta a dos campeones del mundo, ambos españoles y con marcas distintas. El título se decidirá en las carreras que faltan, y en cada una el ganador se lleva como máximo 25 puntos, de modo que dos puntos de ventaja se pueden remontar con un solo buen domingo."
+    "El italiano [[Marco Bezzecchi|bezzecchi]], de Aprilia, ganó el domingo 11 de octubre el Gran Premio de Indonesia de [[MotoGP|motogp]], en el circuito de Mandalika. Fue su quinta victoria del año. Segundo quedó Raúl Fernández, a 4,2 segundos, tercero [[Jorge Martín|martin]] y cuarto Ai Ogura: las cuatro primeras plazas fueron para motos Aprilia. [[Marc Márquez|marquez]], de Ducati, había ganado el sábado la [[carrera sprint|sprint]] y llegó a ponerse líder, pero en la carrera larga terminó sexto.",
+    "Con este resultado, Martín recupera el liderato del campeonato con 355 puntos, dos más que Márquez. Bezzecchi es tercero con 309 y quedan cinco citas. Márquez ganó el título en 2025 y Martín en 2024, así que la lucha de este año enfrenta a dos campeones del mundo españoles con marcas distintas. En cada carrera larga el ganador se lleva 25 puntos, de modo que una ventaja de dos puntos se puede perder o ganar en un solo domingo."
    ],
-   "busqueda_imagenes": "Marc Márquez Motegi 2026 MotoGP",
+   "busqueda_imagenes": "Bezzecchi Mandalika 2026 MotoGP",
    "fuentes": [
-    "Crash.net",
-    "Moteo.es",
-    "Coches.net",
-    "Unitel"
+    "Motorsport.com",
+    "Noticias Argentinas",
+    "Detik Sport",
+    "Antara News",
+    "Autoracing"
    ],
    "publicada": "2026-10-06",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-12",
+   "nota_actualizacion": "Bezzecchi ganó en Indonesia y Martín recuperó el liderato por dos puntos sobre Márquez, que fue sexto.",
    "en": {
-    "titular": "Márquez wins in Japan and moves two points behind Martín",
-    "entradilla": "The MotoGP World Championship is a fight between two world champions, separated by just two points.",
+    "titular": "Bezzecchi wins in Indonesia and Martín retakes the lead by two points",
+    "entradilla": "Aprilia takes a 1-2-3-4 in Mandalika and the title fight stays between Martín and Márquez, just two points apart.",
     "parrafos": [
-     "[[Marc Márquez|marquez]], of Ducati, won the Japanese Grand Prix of [[MotoGP|motogp]] this weekend, at the Motegi circuit. It was a double: on Saturday he had already won the sprint, the short race. [[Jorge Martín|martin]], of Aprilia, finished second, 1.363 seconds behind, and Marco Bezzecchi, also of Aprilia, third, 2.252 behind. Fourth place went to Enea Bastianini, on a KTM from the Tech3 team. It was also a duel between Spaniards: the top two finishers both are.",
-     "The result leaves the championship almost level: Martín is still top with 333 points, but Márquez, on 331, is only two behind. Márquez won the title in 2025 and Martín in 2024, so this year's fight pits two world champions against each other, both Spaniards on different makes. The title will be decided in the remaining races, and in each one the winner takes at most 25 points, so a two-point lead can be overturned in a single good Sunday."
+     "Italian [[Marco Bezzecchi|bezzecchi]], on an Aprilia, won the [[MotoGP|motogp]] Indonesian Grand Prix on Sunday 11 October, at the Mandalika circuit. It was his fifth win of the year. Raúl Fernández was second, 4.2 seconds behind, [[Jorge Martín|martin]] third and Ai Ogura fourth: the first four places went to Aprilia bikes. [[Marc Márquez|marquez]], on a Ducati, had won Saturday's [[sprint race|sprint]] and briefly moved into the lead, but finished sixth in the long race.",
+     "With this result, Martín retakes the championship lead with 355 points, two more than Márquez. Bezzecchi is third with 309 and five rounds remain. Márquez won the title in 2025 and Martín in 2024, so this year's fight pits two Spanish world champions on different makes against each other. In each long race the winner takes 25 points, so a two-point lead can be lost or won in a single Sunday."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "Bezzecchi won in Indonesia and Martín retook the lead by two points over Márquez, who finished sixth."
    }
   },
   {
@@ -723,35 +673,34 @@
    "id": "llega-la-semana-de-los-nobel",
    "seccion": "cul",
    "dibujo": "medal",
-   "titular": "Los Nobel de Medicina, Física y Química premian la luz, los neutrinos y las moléculas espejo",
-   "entradilla": "Tres de los premios de 2026 ya tienen ganadores; el de Literatura se anuncia este jueves.",
+   "titular": "Navi Pillay, Nobel de la Paz 2026, y el resto de premios del año",
+   "entradilla": "La jurista sudafricana de 85 años recibe el premio de la Paz; solo falta por conocerse el de Economía.",
    "parrafos": [
-    "Los [[Premios Nobel|nobel]] de 2026 ya han dado a conocer tres fallos. El lunes 5 de octubre, el Instituto Karolinska premió con el de Medicina a Karl Deisseroth, Peter Hegemann y Georg Nagel por la [[optogenética|optogenetica]], una técnica que permite encender o apagar neuronas con pulsos de luz para estudiar en cerebros vivos la memoria o las emociones. El martes 6 le tocó a la Física: el belga Francis Halzen, de 82 años, fue premiado por [[IceCube|icecube]], un observatorio construido en un kilómetro cúbico de hielo del Polo Sur que detecta neutrinos de alta energía llegados del espacio.",
-    "El miércoles 7 se anunció el de Química: el francés Henri Kagan, de 95 años, y el japonés Kenso Soai, de 76, por descubrir efectos no lineales y de autocatálisis en la síntesis asimétrica. Muchas sustancias existen en dos versiones llamadas [[moléculas espejo|moleculasespejo]], y en un medicamento a menudo solo sirve una. Su trabajo explica cómo una reacción puede favorecer una de ellas, algo útil para fabricar fármacos. Los demás premios se anuncian hasta el 12 de octubre. El de Literatura lo elige la [[Academia Sueca|academia]]; dos andaluces lo han ganado: [[Juan Ramón Jiménez|juanramon]] en 1956 y Vicente Aleixandre en 1977."
+    "Los [[Premios Nobel|nobel]] de 2026 ya tienen casi todos sus ganadores. Medicina fue para Karl Deisseroth, Peter Hegemann y Georg Nagel por la [[optogenética|optogenetica]], que permite encender o apagar neuronas con luz. En Física ganó el belga Francis Halzen por [[IceCube|icecube]], un observatorio en el hielo del Polo Sur que detecta neutrinos llegados del espacio. En Química, el francés Henri Kagan y el japonés Kenso Soai lo recibieron por su trabajo con [[moléculas espejo|moleculasespejo]], clave para fabricar fármacos. Y el de Literatura fue para la poeta canadiense Anne Carson.",
+    "El viernes 9 de octubre el comité noruego concedió el de la Paz a la jurista sudafricana [[Navi Pillay|pillay]], de 85 años, por su labor a favor de la paz y del derecho internacional y por perseguir crímenes de guerra y genocidio. Defendió a opositores del apartheid, fue jueza de la [[Corte Penal Internacional|cpi]] entre 2003 y 2008 y Alta Comisionada de la ONU para los Derechos Humanos hasta 2014. Presidió la comisión de la ONU que acusó a Israel de genocidio en Gaza, así que su elección es polémica. El premio se entregará en Oslo."
    ],
    "busqueda_imagenes": "Premio Nobel medalla",
    "fuentes": [
     "Infobae",
-    "Semana",
-    "La Nación",
-    "El Universal",
     "Ámbito",
+    "Cubadebate",
+    "El Destape",
+    "Yahoo Noticias",
     "nobelprize.org",
     "CNN en Español",
-    "National Geographic España",
-    "Milenio"
+    "National Geographic España"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-08",
-   "nota_actualizacion": "El Nobel de Química 2026 es para Henri Kagan y Kenso Soai, por sus trabajos sobre moléculas espejo.",
+   "actualizada": "2026-10-10",
+   "nota_actualizacion": "El comité Nobel concedió el 9 de octubre el premio de la Paz a la jurista sudafricana Navi Pillay.",
    "en": {
-    "titular": "The Medicine, Physics and Chemistry Nobels reward light, neutrinos and mirror molecules",
-    "entradilla": "Three of the 2026 prizes now have winners; the Literature prize is announced this Thursday.",
+    "titular": "Navi Pillay, 2026 Nobel Peace Prize winner, and the rest of the year's prizes",
+    "entradilla": "The 85-year-old South African jurist receives the Peace prize; only the Economics prize is still to be announced.",
     "parrafos": [
-     "The 2026 [[Nobel Prizes|nobel]] have already revealed three winners. On Monday 5 October the Karolinska Institute awarded the Medicine prize to Karl Deisseroth, Peter Hegemann and Georg Nagel for [[optogenetics|optogenetica]], a technique that makes it possible to switch neurons on or off with pulses of light and to study memory or emotions in living brains. On Tuesday 6 it was Physics' turn: the Belgian Francis Halzen, aged 82, was honoured for [[IceCube|icecube]], an observatory built in a cubic kilometre of ice at the South Pole that detects high-energy neutrinos arriving from space.",
-     "On Wednesday 7 the Chemistry prize was announced: the Frenchman Henri Kagan, aged 95, and the Japanese Kenso Soai, aged 76, for discovering non-linear effects and autocatalysis in asymmetric synthesis. Many substances exist in two versions called [[mirror molecules|moleculasespejo]], and in a medicine often only one of them works. Their work explains how a reaction can favour one of them, which is useful for making drugs. The other prizes are announced until 12 October. The Literature prize is chosen by the [[Swedish Academy|academia]]; two Andalusians have won it: [[Juan Ramón Jiménez|juanramon]] in 1956 and Vicente Aleixandre in 1977."
+     "The 2026 [[Nobel Prizes|nobel]] now have almost all their winners. Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel for [[optogenetics|optogenetica]], which makes it possible to switch neurons on or off with light. In Physics the Belgian Francis Halzen won for [[IceCube|icecube]], an observatory in the South Pole ice that detects neutrinos arriving from space. In Chemistry, the Frenchman Henri Kagan and the Japanese Kenso Soai received it for their work with [[mirror molecules|moleculasespejo]], key to making drugs. And the Literature prize went to the Canadian poet Anne Carson.",
+     "On Friday 9 October the Norwegian committee awarded the Peace prize to the South African jurist [[Navi Pillay|pillay]], aged 85, for her work for peace and international law and for pursuing war crimes and genocide. She defended opponents of apartheid, was a judge of the [[International Criminal Court|cpi]] from 2003 to 2008 and UN High Commissioner for Human Rights until 2014. She chaired the UN commission that accused Israel of genocide in Gaza, so her selection is controversial. The prize will be presented in Oslo."
     ],
-    "nota_actualizacion": "The 2026 Chemistry Nobel goes to Henri Kagan and Kenso Soai, for their work on mirror molecules."
+    "nota_actualizacion": "On 9 October the Nobel committee awarded the Peace prize to the South African jurist Navi Pillay."
    }
   },
   {
@@ -1104,6 +1053,67 @@
     "parrafos": [
      "The Constitutional Court, which checks that laws and rulings respect the Constitution, has sided with Jordi Turull and Dolors Bassa, pro-independence leaders convicted over the [[procés|proces]]. It considers that the Supreme Court misinterpreted the [[amnesty law|amnistia]] by excluding embezzlement, the improper use of public money. The Supreme Court must now issue new rulings that respect this doctrine. According to the Constitutional Court, embezzlement is covered when the public funds were used for the aims of the independence process, and excluded when there was personal enrichment.",
      "Carles [[Puigdemont|puigdemont]] is not a party to those appeals, but the doctrine can be carried over to those still pending, including his. That is why his situation does not change overnight: the Supreme Court keeps his arrest warrant and must decide how to apply the criterion. Critics of the decision argue that it amnesties the use of public money; its defenders, that the law was meant to cover the events of the procés except personal enrichment. The matter also concerns [[Junts|junts]], Puigdemont's party, which has just helped defeat the housing decrees."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "mohamed-vi-rompe-su-silencio-sobre-ceuta",
+   "seccion": "es",
+   "dibujo": "megaphone",
+   "titular": "El rey de Marruecos rompe su silencio sobre la crisis de Ceuta",
+   "entradilla": "Mohamed VI avisa de que la relación con España no admite presiones ni chantajes.",
+   "parrafos": [
+    "A finales de julio de 2026 entraron de forma irregular en [[Ceuta|ceuta]], ciudad española en África, más de 70.000 personas según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años. Desde entonces, la mayoría regresó a [[Marruecos|marruecos]] y los dos países reforzaron sus controles. Marruecos no había dicho nada en público sobre lo ocurrido hasta ahora, y en España la crisis se ha convertido en un asunto de debate político.",
+    "El viernes 9 de octubre, al abrir la legislatura del Parlamento marroquí, [[Mohamed VI|mohamedvi]] habló por primera vez. Dijo que la asociación con España es «una elección soberana y un compromiso voluntario» que no puede someterse a presiones, amenazas ni chantajes, y criticó la «instrumentalización flagrante» de la situación por parte de ciertos medios políticos y mediáticos. Reconoció avances en la cooperación migratoria, pero señaló desafíos, como leyes anticuadas que dificultan devolver a los [[menores|menores]] a su país."
+   ],
+   "busqueda_imagenes": "Ceuta frontera Marruecos Mohamed VI Parlamento",
+   "fuentes": [
+    "Infobae",
+    "Moncloa.com",
+    "Capital",
+    "Catalunya Press"
+   ],
+   "publicada": "2026-10-10",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Morocco's king breaks his silence on the Ceuta crisis",
+    "entradilla": "Mohamed VI warns that the relationship with Spain does not allow pressure or blackmail.",
+    "parrafos": [
+     "At the end of July 2026, according to estimates, more than 70,000 people entered irregularly into [[Ceuta|ceuta]], a Spanish city in Africa, the biggest episode on that [[border|frontera]] in years. Since then, most have returned to [[Morocco|marruecos]] and the two countries have tightened their controls. Morocco had said nothing in public about what happened until now, and in Spain the crisis has become a matter of political debate.",
+     "On Friday 9 October, at the opening of the Moroccan Parliament's new session, [[Mohamed VI|mohamedvi]] spoke for the first time. He said that the partnership with Spain is \"a sovereign choice and a voluntary commitment\" that cannot be subject to pressure, threats or blackmail, and criticised the \"flagrant exploitation\" of the situation by certain political and media circles. He acknowledged progress in migration cooperation but pointed to challenges, such as outdated laws that make it hard to send [[unaccompanied minors|menores]] back to their country."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "verstappen-gana-en-singapur",
+   "seccion": "dep",
+   "dibujo": "trophy",
+   "titular": "Verstappen gana en Singapur y suma 73 victorias en la Fórmula 1",
+   "entradilla": "El piloto de Red Bull logró su primer triunfo en Marina Bay tras dominar todo el fin de semana.",
+   "parrafos": [
+    "El domingo 11 de octubre, [[Max Verstappen|verstappen]], de Red Bull, ganó el Gran Premio de Singapur de [[Fórmula 1|formula1]], en el circuito urbano de [[Marina Bay|marinabay]]. Cruzó la meta con 7,3 segundos de ventaja sobre Charles Leclerc (Ferrari), y el tercero fue Kimi Antonelli (Mercedes). Verstappen había ganado el sábado la [[carrera sprint|sprint]], la versión corta, y había salido primero en las dos carreras, así que dominó todo el fin de semana.",
+    "Fue su victoria número 73 en la Fórmula 1, la tercera cifra más alta de la historia, y su primera en Singapur, un circuito donde nunca había ganado. Solo Lewis Hamilton (más de cien) y Michael Schumacher (91) tienen más triunfos. Sergio Pérez, con el equipo Cadillac, acabó decimoséptimo. Singapur es un circuito de calles, de noche y entre rascacielos, con muros muy cerca de los coches, donde cuesta adelantar y cualquier error se paga caro."
+   ],
+   "busqueda_imagenes": "Verstappen Singapur 2026 Marina Bay",
+   "fuentes": [
+    "Motorsport.com",
+    "Grupo Milenio",
+    "beIN Sports",
+    "Mediotiempo",
+    "La Lista"
+   ],
+   "publicada": "2026-10-12",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Verstappen wins in Singapore and reaches 73 Formula 1 victories",
+    "entradilla": "The Red Bull driver took his first win at Marina Bay after dominating the whole weekend.",
+    "parrafos": [
+     "On Sunday 11 October, [[Max Verstappen|verstappen]], of Red Bull, won the Singapore Grand Prix of [[Formula 1|formula1]], at the [[Marina Bay|marinabay]] street circuit. He crossed the line 7.3 seconds ahead of Charles Leclerc (Ferrari), and Kimi Antonelli (Mercedes) was third. Verstappen had won Saturday's [[sprint race|sprint]], the short version, and had started from first place in both races, so he dominated the whole weekend.",
+     "It was his 73rd Formula 1 win, the third-highest total in history, and his first in Singapore, a circuit where he had never won. Only Lewis Hamilton (more than a hundred) and Michael Schumacher (91) have more victories. Sergio Pérez, with the Cadillac team, finished seventeenth. Singapore is a street circuit, run at night among skyscrapers, with walls very close to the cars, where overtaking is hard and any mistake is costly."
     ],
     "nota_actualizacion": null
    }
@@ -2288,11 +2298,92 @@
     "n": "Carles Puigdemont",
     "x": "Former president of Catalonia and leader of Junts. He has lived outside Spain since 2017 and has an arrest warrant pending over the procés."
    }
+  },
+  "pillay": {
+   "t": "persona",
+   "n": "Navi Pillay",
+   "x": "Jurista sudafricana nacida en 1941. Fue jueza internacional y Alta Comisionada de la ONU para los Derechos Humanos, el cargo que vigila el respeto de esos derechos en el mundo.",
+   "en": {
+    "n": "Navi Pillay",
+    "x": "A South African jurist born in 1941. She was an international judge and UN High Commissioner for Human Rights, the post that monitors respect for those rights around the world."
+   }
+  },
+  "cpi": {
+   "t": "palabra",
+   "n": "Corte Penal Internacional",
+   "x": "Tribunal con sede en La Haya que juzga a personas acusadas de crímenes de guerra, contra la humanidad o genocidio cuando los países no lo hacen.",
+   "en": {
+    "n": "International Criminal Court",
+    "x": "A court based in The Hague that tries people accused of war crimes, crimes against humanity or genocide when countries do not do so themselves."
+   }
+  },
+  "mohamedvi": {
+   "t": "persona",
+   "n": "Mohamed VI",
+   "x": "Rey de Marruecos desde 1999. En su país el rey tiene mucho poder y marca la política exterior, incluida la relación con España.",
+   "en": {
+    "n": "Mohamed VI",
+    "x": "King of Morocco since 1999. In his country the king holds great power and sets foreign policy, including the relationship with Spain."
+   }
+  },
+  "guardiarev": {
+   "t": "palabra",
+   "n": "Guardia Revolucionaria",
+   "x": "Cuerpo militar de élite de Irán, distinto del ejército normal, que responde directamente al líder del país y controla buena parte de las operaciones en el mar.",
+   "en": {
+    "n": "Revolutionary Guard",
+    "x": "Iran's elite military force, separate from the regular army, which answers directly to the country's leader and runs much of its operations at sea."
+   }
+  },
+  "verstappen": {
+   "t": "persona",
+   "n": "Max Verstappen",
+   "x": "Piloto neerlandés de Red Bull y cuatro veces campeón del mundo de Fórmula 1.",
+   "en": {
+    "n": "Max Verstappen",
+    "x": "A Dutch Red Bull driver and four-time Formula 1 world champion."
+   }
+  },
+  "formula1": {
+   "t": "palabra",
+   "n": "Fórmula 1",
+   "x": "La máxima categoría del automovilismo: coches de un asiento que compiten en circuitos de todo el mundo en Grandes Premios.",
+   "en": {
+    "n": "Formula 1",
+    "x": "The top category of motor racing: single-seater cars that compete in Grands Prix on circuits around the world."
+   }
+  },
+  "marinabay": {
+   "t": "lugar",
+   "n": "Marina Bay",
+   "x": "Circuito urbano de Singapur, con la carrera de noche entre rascacielos y calles cerradas al tráfico.",
+   "en": {
+    "n": "Marina Bay",
+    "x": "A street circuit in Singapore, where the race is held at night among skyscrapers on roads closed to traffic."
+   }
+  },
+  "sprint": {
+   "t": "palabra",
+   "n": "Carrera sprint",
+   "x": "Carrera corta que se corre el sábado en algunos fines de semana de Fórmula 1 y MotoGP y que da menos puntos que la carrera larga del domingo.",
+   "en": {
+    "n": "Sprint race",
+    "x": "A short race held on Saturday at some Formula 1 and MotoGP weekends, which gives fewer points than the long race on Sunday."
+   }
+  },
+  "bezzecchi": {
+   "t": "persona",
+   "n": "Marco Bezzecchi",
+   "x": "Piloto italiano que corre en MotoGP con Aprilia.",
+   "en": {
+    "n": "Marco Bezzecchi",
+    "x": "An Italian rider who races in MotoGP for Aprilia."
+   }
   }
  },
- "edicion_en": "Thursday 8 October 2026",
+ "edicion_en": "Monday 12 October 2026",
  "destacada": {
-  "id": "cientos-de-personas-acampan-en-sol-por-la-vivien",
-  "fecha": "2026-10-08"
+  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
+  "fecha": "2026-10-12"
  }
 }
