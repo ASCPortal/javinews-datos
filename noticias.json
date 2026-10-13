@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-12T09:50:00+02:00",
- "edicion": "Lunes 12 de octubre de 2026",
+ "actualizado": "2026-10-13T07:00:00+02:00",
+ "edicion": "Martes 13 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -225,29 +225,31 @@
    }
   },
   {
-   "id": "el-gobierno-andaluz-revisara-461-normas-con-inte",
+   "id": "moreno-defiende-fondos-europeos-bruselas-presupuesto-ue",
    "seccion": "and",
-   "dibujo": "chip",
-   "titular": "El Gobierno andaluz revisará 461 normas con inteligencia artificial",
-   "entradilla": "Quiere simplificar los trámites, pero una IA también puede equivocarse.",
+   "dibujo": "eu",
+   "titular": "Moreno defiende en Bruselas los fondos europeos para las regiones ante un presupuesto de la UE más recortado",
+   "entradilla": "El borrador de la presidencia irlandesa rebaja en torno a un 8 % la propuesta de la Comisión para 2028-2034.",
    "parrafos": [
-    "La [[Junta de Andalucía|junta]] ha aprobado un plan para revisar 461 normas y casi mil trámites con [[inteligencia artificial|ia]]. La idea es encontrar reglas repetidas, contradictorias o anticuadas y hacer más fáciles los papeleos, por ejemplo para abrir un negocio. La primera fase terminará a finales de 2027.",
-    "El plan es de un gobierno nuevo. En las elecciones del 17 de mayo, el PP ganó con 53 escaños, pero perdió la [[mayoría absoluta|mayoria]], para la que hacen falta 55. Ahora gobierna junto a [[Vox|vox]], cuyo líder en Andalucía, Manuel Gavira, es vicepresidente y dirige este plan. Usar IA puede ahorrar mucho tiempo, pero la decisión final sobre cada ley debe tomarla una persona."
+    "El lunes 12 de octubre, [[Juanma Moreno|moreno]] habló en el Parlamento Europeo, en Bruselas, durante la Semana Europea de las Regiones y las Ciudades. Se opuso a que los Gobiernos nacionales se queden con la gestión de los fondos del próximo [[presupuesto de la UE|presupuestoue]], el de 2028 a 2034, y defendió que las regiones y los ayuntamientos sigan decidiendo en qué se gasta. Según Moreno, cuando Europa pierde presencia sobre el terreno la gente deja de notar el proyecto europeo en su vida diaria, y la [[política de cohesión|cohesion]] ha beneficiado a toda Europa, no solo a las zonas más pobres.",
+    "El debate llega después de que la presidencia irlandesa del Consejo de la [[Unión Europea|ue]] presentara el sábado 10 un borrador del presupuesto de 2028 a 2034 que es un 8 % menor que la propuesta de la Comisión Europea, que lamentó el recorte y la menor flexibilidad. Los países llamados «frugales», como Alemania, Países Bajos o Suecia, piden gastar menos. El grupo de los «amigos de la cohesión», con España, Italia, Portugal y Grecia, defiende que la agricultura y la cohesión sigan siendo prioridades. Es solo un borrador: tienen que acordarlo los 27 países."
    ],
-   "busqueda_imagenes": "Junta de Andalucía inteligencia artificial",
+   "busqueda_imagenes": "Parlamento Europeo Bruselas Semana de las Regiones",
    "fuentes": [
+    "Andalucía Información",
+    "Infobae (Europa Press)",
     "Moncloa.com",
-    "Wikipedia (elecciones andaluzas 2026)"
+    "Deia"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-13",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "The Andalusian government will review 461 rules with artificial intelligence",
-    "entradilla": "It wants to simplify paperwork, but an AI can also make mistakes.",
+    "titular": "Moreno defends European funds for the regions in Brussels as the EU budget faces cuts",
+    "entradilla": "The Irish presidency's draft lowers the Commission's proposal for 2028-2034 by around 8%.",
     "parrafos": [
-     "The [[Junta de Andalucía|junta]] has approved a plan to review 461 rules and almost a thousand administrative procedures using [[artificial intelligence|ia]]. The idea is to find rules that are repeated, contradictory or out of date, and to make paperwork easier, for example for opening a business. The first phase will end at the end of 2027.",
-     "The plan comes from a new government. In the election on 17 May, the PP won 53 seats but lost its [[absolute majority|mayoria]], which needs 55. It now governs together with [[Vox|vox]], whose leader in Andalusia, Manuel Gavira, is vice-president and is in charge of this plan. Using AI can save a lot of time, but the final decision on each law must be made by a person."
+     "On Monday 12 October, [[Juanma Moreno|moreno]] spoke in the European Parliament in Brussels, during the European Week of Regions and Cities. He opposed national governments keeping control of the funds in the next [[EU budget|presupuestoue]], the one for 2028 to 2034, and argued that regions and town councils should keep deciding what the money is spent on. According to Moreno, when Europe loses its presence on the ground people stop noticing the European project in their daily lives, and [[cohesion policy|cohesion]] has benefited the whole of Europe, not just the poorest areas.",
+     "The debate comes after Ireland, which holds the presidency of the Council of the [[European Union|ue]], presented on Saturday 10 a draft budget for 2028 to 2034 that is 8% smaller than the European Commission's proposal; the Commission regretted the cut and the reduced flexibility. The so-called 'frugal' countries, such as Germany, the Netherlands or Sweden, want to spend less. The group of 'friends of cohesion', with Spain, Italy, Portugal and Greece, argues that agriculture and cohesion must remain priorities. It is only a draft: all 27 countries have to agree on it."
     ],
     "nota_actualizacion": null
    }
@@ -282,30 +284,31 @@
    }
   },
   {
-   "id": "malaga-se-llena-de-superheroes",
+   "id": "fiebre-del-nilo-quinta-muerte-andalucia",
    "seccion": "and",
-   "dibujo": "comic",
-   "titular": "Málaga se llena de superhéroes",
-   "entradilla": "La Comic-Con vuelve al doble de tamaño tras las colas del año pasado.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-b\" cx=\"62\" cy=\"26\" rx=\"18\" ry=\"8\" transform=\"rotate(-20 62 26)\"/><ellipse class=\"d-b\" cx=\"80\" cy=\"30\" rx=\"16\" ry=\"7\" transform=\"rotate(15 80 30)\"/><ellipse class=\"d-l\" cx=\"62\" cy=\"26\" rx=\"18\" ry=\"8\" transform=\"rotate(-20 62 26)\"/><ellipse class=\"d-l\" cx=\"80\" cy=\"30\" rx=\"16\" ry=\"7\" transform=\"rotate(15 80 30)\"/><ellipse class=\"d-a\" cx=\"42\" cy=\"50\" rx=\"24\" ry=\"7\"/><ellipse class=\"d-a\" cx=\"72\" cy=\"46\" rx=\"11\" ry=\"9\"/><circle class=\"d-i\" cx=\"88\" cy=\"46\" r=\"6\"/><path class=\"d-l\" d=\"M93 48 L112 62\"/><path class=\"d-l\" d=\"M66 53 L60 70 L52 80 M74 53 L78 70 L76 82 M56 54 L44 68 L34 74\"/><path class=\"d-l\" d=\"M22 52 L14 54\"/></svg>",
+   "titular": "Quinta muerte por fiebre del Nilo en Andalucía este año",
+   "entradilla": "Un hombre de 75 años de Aznalcázar (Sevilla) falleció tras más de un mes ingresado; hay alertas en 12 municipios.",
    "parrafos": [
-    "Del 1 al 4 de octubre se celebra en Málaga la segunda edición de la San Diego [[Comic-Con|comiccon]], en el [[FYCMA|fycma]]. Vienen dibujantes, actores y directores, como Iñaki Godoy, el actor que interpreta a Luffy en la serie de One Piece.",
-    "La primera edición, en 2025, atrajo a 95.000 personas y movió 44 millones de euros en hoteles, restaurantes y comercios: es su [[impacto económico|impacto]]. Pero también hubo colas larguísimas y falta de información. Por eso este año el espacio ha pasado de 10.000 a casi 20.000 metros cuadrados. Ser buen anfitrión de un evento tan grande es una prueba para toda la ciudad."
+    "Andalucía ha registrado su quinta muerte de 2026 por [[fiebre del Nilo Occidental|nilo]]. Era un hombre de 75 años, vecino de Aznalcázar (Sevilla), con otras enfermedades previas, que estaba ingresado desde el 26 de agosto con la forma neuroinvasiva, la que afecta al sistema nervioso. La noticia se conoció el 9 de octubre. En lo que va de temporada se han diagnosticado 74 casos en la comunidad: 42 leves y 32 graves.",
+    "Hay [[alerta sanitaria|alertasanitaria]] en 12 municipios, tres barrios y una entidad de población de Almería, Cádiz, Córdoba, Huelva y Sevilla, y en Santa Ana la Real (Huelva) se mantiene hasta el 31 de octubre, después de confirmarse allí un caso de meningitis vírica causada por el virus. La [[Junta de Andalucía|junta]] aplica planes de actuación en las zonas afectadas. El virus pasa de las aves a las personas a través de los mosquitos y no se contagia entre personas. La mayoría de los infectados no enferma gravemente, pero los casos serios son más probables en personas mayores o con otras enfermedades. Los expertos recomiendan evitar las picaduras, por ejemplo con repelente y mosquiteras."
    ],
-   "busqueda_imagenes": "San Diego Comic-Con Málaga",
+   "busqueda_imagenes": "fiebre del Nilo mosquito Andalucía",
    "fuentes": [
-    "El Español",
-    "eCartelera",
-    "Vandal"
+    "The Objective",
+    "COPE",
+    "Moncloa.com",
+    "Crónica de Andalucía"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-13",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Málaga fills up with superheroes",
-    "entradilla": "Comic-Con is back at twice the size after last year's queues.",
+    "titular": "Fifth West Nile fever death in Andalusia this year",
+    "entradilla": "A 75-year-old man from Aznalcázar (Seville) died after more than a month in hospital; there are alerts in 12 municipalities.",
     "parrafos": [
-     "From 1 to 4 October, Málaga is hosting the second edition of San Diego [[Comic-Con|comiccon]], at [[FYCMA|fycma]]. Artists, actors and directors are coming, such as Iñaki Godoy, the actor who plays Luffy in the One Piece series.",
-     "The first edition, in 2025, attracted 95,000 people and brought 44 million euros into hotels, restaurants and shops: that is its [[economic impact|impacto]]. But there were also extremely long queues and a lack of information. That is why this year the space has grown from 10,000 to almost 20,000 square metres. Being a good host for such a big event is a test for the whole city."
+     "Andalusia has recorded its fifth death of 2026 from [[West Nile fever|nilo]]. He was a 75-year-old man, a resident of Aznalcázar (Seville), with other previous illnesses, who had been in hospital since 26 August with the neuroinvasive form, the one that affects the nervous system. The news came out on 9 October. So far this season 74 cases have been diagnosed in the region: 42 mild and 32 severe.",
+     "There is a [[health alert|alertasanitaria]] in 12 municipalities, three neighbourhoods and one small population centre in Almería, Cádiz, Córdoba, Huelva and Seville, and in Santa Ana la Real (Huelva) it remains in force until 31 October, after a case of viral meningitis caused by the virus was confirmed there. The [[Junta de Andalucía|junta]] is applying action plans in the affected areas. The virus passes from birds to people through mosquitoes and does not spread from person to person. Most infected people do not become seriously ill, but serious cases are more likely in older people or people with other illnesses. Experts recommend avoiding bites, for example with repellent and mosquito nets."
     ],
     "nota_actualizacion": null
    }
@@ -472,29 +475,31 @@
    "id": "dos-partidos-mas-antes-del-paron",
    "seccion": "dep",
    "dibujo": "calendar",
-   "titular": "España gana 3-1 a Chequia y sigue con pleno de victorias",
-   "entradilla": "Lamine Yamal, Rodri y Merino marcaron en Oviedo.",
+   "titular": "España remonta en Croacia con dos goles de Merino y se mete en los cuartos de la Nations League",
+   "entradilla": "La selección ganó 2-1 en Split tras ir perdiendo y suma cuatro victorias seguidas en su grupo.",
    "parrafos": [
-    "España venció 3-1 a Chequia el sábado 3 de octubre en el estadio Carlos Tartiere de Oviedo, en la [[Nations League|nations]]. [[Lamine Yamal|lamine]] abrió el marcador a los 6 minutos con un disparo de zurda tras un pase de Dani Olmo; Rodri amplió la ventaja en el minuto 34, Jiří Sláma recortó para Chequia en el 68 y Mikel Merino cerró el resultado en el 88 tras un contragolpe. Es la tercera victoria seguida y España lidera su grupo con nueve puntos.",
-    "El seleccionador, [[Luis de la Fuente|delafuente]], llamó a 26 jugadores para estos partidos. España visita a Croacia el martes 6 de octubre. En la Nations League las selecciones se agrupan por nivel y las mejores se clasifican para una fase final. Para los jugadores es una forma de mantener el ritmo entre grandes torneos y, para el seleccionador, una oportunidad de probar a futbolistas jóvenes de cara a la Eurocopa de 2028."
+    "España ganó 2-1 a Croacia el martes 6 de octubre en Split, en la [[Nations League|nations]], después de ir perdiendo. Ivan Perišić adelantó a los croatas en la primera parte. Mikel Merino empató en el minuto 61 y en el 88 marcó el 2-1 tras controlar un pase dentro del área. Perišić fue expulsado en el 79 por una segunda tarjeta amarilla tras una falta a Cucurella. Con esta victoria, la selección se asegura un puesto en los cuartos de final de la competición, que se jugarán el año que viene.",
+    "Unos días antes, el sábado 3 de octubre, España había vencido 3-1 a Chequia en Oviedo, con goles de [[Lamine Yamal|lamine]], Rodri y el propio Merino. Es su cuarta victoria seguida en este grupo. El seleccionador, [[Luis de la Fuente|delafuente]], aprovecha estos partidos para probar a jugadores jóvenes de cara a la Eurocopa de 2028. En la Nations League las selecciones se agrupan por nivel y las mejores pasan a una fase final; para los jugadores es una forma de mantener el ritmo entre grandes torneos."
    ],
    "busqueda_imagenes": "selección española fútbol",
    "fuentes": [
+    "Al Jazeera",
+    "ESPN",
+    "Goal",
     "Milenio",
-    "Cooperativa",
-    "Prensa Mercosur"
+    "Cooperativa"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-04",
-   "nota_actualizacion": "España ganó 3-1 a Chequia en Oviedo y es líder de su grupo con nueve puntos.",
+   "actualizada": "2026-10-13",
+   "nota_actualizacion": "España ganó 2-1 a Croacia, con dos goles de Merino, y se asegura los cuartos de final.",
    "en": {
-    "titular": "Spain beat Czechia 3-1 and keep up their perfect run",
-    "entradilla": "Lamine Yamal, Rodri and Merino scored in Oviedo.",
+    "titular": "Spain come from behind in Croatia with two Merino goals and reach the Nations League quarter-finals",
+    "entradilla": "The national team won 2-1 in Split after going behind and have four wins in a row in their group.",
     "parrafos": [
-     "Spain beat Czechia 3-1 on Saturday 3 October at the Carlos Tartiere stadium in Oviedo, in the [[Nations League|nations]]. [[Lamine Yamal|lamine]] opened the scoring after 6 minutes with a left-footed shot following a pass from Dani Olmo; Rodri made it 2-0 in the 34th minute, Jiří Sláma pulled one back for Czechia in the 68th and Mikel Merino sealed the result in the 88th after a counter-attack. It is their third win in a row and Spain lead their group with nine points.",
-     "The manager, [[Luis de la Fuente|delafuente]], called up 26 players for these matches. Spain visit Croatia on Tuesday 6 October. In the Nations League national teams are grouped by level and the best ones qualify for a final stage. For the players it is a way of keeping up their rhythm between big tournaments and, for the manager, a chance to try out young players ahead of Euro 2028."
+     "Spain beat Croatia 2-1 on Tuesday 6 October in Split, in the [[Nations League|nations]], after going behind. Ivan Perišić put the Croats ahead in the first half. Mikel Merino equalised in the 61st minute and in the 88th scored the winner after controlling a pass inside the box. Perišić was sent off in the 79th for a second yellow card after a foul on Cucurella. With this win, the team secure a place in the competition's quarter-finals, which will be played next year.",
+     "A few days earlier, on Saturday 3 October, Spain had beaten Czechia 3-1 in Oviedo, with goals from [[Lamine Yamal|lamine]], Rodri and Merino himself. It is their fourth win in a row in this group. The manager, [[Luis de la Fuente|delafuente]], uses these matches to try out young players ahead of Euro 2028. In the Nations League national teams are grouped by level and the best ones go through to a final stage; for the players it is a way of keeping up their rhythm between big tournaments."
     ],
-    "nota_actualizacion": "Spain beat Czechia 3-1 in Oviedo and lead their group with nine points."
+    "nota_actualizacion": "Spain beat Croatia 2-1, with two goals from Merino, and have secured a place in the quarter-finals."
    }
   },
   {
@@ -527,30 +532,31 @@
    }
   },
   {
-   "id": "la-caida-que-dejo-fuera-al-mejor-ciclista-del-mu",
+   "id": "alcaraz-eliminado-shanghai-zverev-numero-uno",
    "seccion": "dep",
-   "dibujo": "helmet",
-   "titular": "La caída que dejó fuera al mejor ciclista del mundo",
-   "entradilla": "Pogačar se rompió la clavícula y una vértebra en la Vuelta.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-a\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><ellipse class=\"d-p\" cx=\"44\" cy=\"34\" rx=\"15\" ry=\"21\" transform=\"rotate(-25 44 34)\"/><path class=\"d-l\" d=\"M36 16 L56 50 M30 24 L50 58 M28 36 L44 56 M44 12 L60 40 M34 14 L28 32\"/><ellipse class=\"d-l\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><path class=\"d-i\" d=\"M58 58 L82 82 L86 78 L62 54 Z\"/><circle class=\"d-y\" cx=\"92\" cy=\"30\" r=\"11\"/><path class=\"d-w\" d=\"M84 24 C90 28 90 34 84 38 M100 24 C94 28 94 34 100 38\"/><circle class=\"d-l\" cx=\"92\" cy=\"30\" r=\"11\"/></svg>",
+   "titular": "Alcaraz cae en Shanghái ante Bergs y Zverev se asegura el número 1 de fin de año",
+   "entradilla": "El español perdió en la tercera ronda y se enfadó con las pelotas durante el partido; Jódar sí pasa a octavos.",
    "parrafos": [
-    "El 29 de agosto, en la octava etapa de la Vuelta, [[Tadej Pogačar|pogacar]] se cayó cuando iba líder, a 32 kilómetros de la meta en Xeraco (Valencia). En el hospital le diagnosticaron una [[conmoción cerebral|conmocion]], una fractura de [[clavícula|clavicula]] y una fractura estable en una vértebra del cuello. Tuvo que acabar la temporada.",
-    "Los ciclistas bajan puertos a más de 80 km/h con muy poca protección, así que el [[casco|casco]] es fundamental. Cada vez se discute más sobre la seguridad de las carreras: carreteras estrechas, rotondas, coches de equipo… Un solo error puede costar una temporada, o algo peor."
+    "[[Carlos Alcaraz|alcaraz]] quedó eliminado el lunes 12 de octubre en la tercera ronda del [[Masters 1000|masters1000]] de Shanghái, uno de los torneos más importantes del circuito tras los Grand Slam. El español, segundo cabeza de serie, perdió 7-5 y 7-6 (7-4) ante el belga Zizou Bergs, número 39 del mundo. Alcaraz se mostró muy enfadado durante el primer set, sobre todo por el comportamiento irregular de las pelotas, y acabó perdiendo la calma.",
+    "Con esta derrota, el alemán [[Alexander Zverev|zverev]] se asegura terminar el año como número 1 del [[ranking ATP|rankingatp]], la clasificación que ordena a los tenistas según los puntos que ganan en los torneos de los últimos doce meses. Alcaraz, que ya ha sido número 1 del mundo, se queda sin opciones de terminar 2026 en lo más alto. Otro español, Rafa Jódar, sí sigue adelante: derrotó al checo Jiří Lehečka y ya está en octavos de final."
    ],
-   "busqueda_imagenes": "ciclismo seguridad casco",
+   "busqueda_imagenes": "Alcaraz Bergs Masters Shanghái 2026",
    "fuentes": [
-    "Olympics.com",
-    "Velo",
-    "Ciclo21"
+    "Infobae",
+    "Diario Libre",
+    "Emol",
+    "Vanguardia"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-13",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "The crash that ruled out the world's best cyclist",
-    "entradilla": "Pogačar broke his collarbone and a vertebra in the Vuelta.",
+    "titular": "Alcaraz falls to Bergs in Shanghai and Zverev secures the year-end world number 1 spot",
+    "entradilla": "The Spaniard lost in the third round and lost his temper over the balls during the match; Jódar goes through to the last 16.",
     "parrafos": [
-     "On 29 August, on the eighth stage of the Vuelta, [[Tadej Pogačar|pogacar]] crashed while he was the race leader, 32 kilometres from the finish in Xeraco (Valencia). At the hospital he was diagnosed with [[concussion|conmocion]], a broken [[collarbone|clavicula]] and a stable fracture in one of the vertebrae in his neck. He had to end his season.",
-     "Cyclists ride down mountain passes at more than 80 km/h with very little protection, so the [[helmet|casco]] is essential. Race safety is being discussed more and more: narrow roads, roundabouts, team cars… A single mistake can cost a whole season, or something worse."
+     "[[Carlos Alcaraz|alcaraz]] was knocked out on Monday 12 October in the third round of the Shanghai [[Masters 1000|masters1000]], one of the most important tournaments on the tour after the Grand Slams. The Spaniard, the second seed, lost 7-5 and 7-6 (7-4) to Belgium's Zizou Bergs, ranked 39th in the world. Alcaraz was very angry during the first set, mostly about the uneven behaviour of the balls, and ended up losing his composure.",
+     "With this defeat, the German [[Alexander Zverev|zverev]] secures finishing the year as world number 1 in the [[ATP rankings|rankingatp]], the table that orders players by the points they earn in tournaments over the previous twelve months. Alcaraz, who has already been world number 1, is left with no chance of finishing 2026 on top. Another Spaniard, Rafa Jódar, does go on: he beat the Czech Jiří Lehečka and is now in the last 16."
     ],
     "nota_actualizacion": null
    }
@@ -618,55 +624,57 @@
    "id": "lorca-en-el-camino-a-los-oscar",
    "seccion": "cul",
    "dibujo": "blackball",
-   "titular": "Lorca, en el camino a los Óscar",
-   "entradilla": "\"La bola negra\" se inspira en una obra que el poeta no pudo terminar.",
+   "titular": "Lorca, camino de los Óscar y de la taquilla",
+   "entradilla": "\"La bola negra\", inspirada en una obra inacabada del poeta, ya es una de las películas españolas más taquilleras de la historia.",
    "parrafos": [
-    "\"La bola negra\", de [[Los Javis|javis]], ganó el premio del público en San Sebastián con la nota más alta que ha tenido nunca una película española allí. Antes había ganado el premio a la mejor dirección en Cannes, y representará a España en los [[Óscar|oscar]]. En su primera semana en los cines recaudó 4,67 millones de euros.",
+    "\"La bola negra\", de [[Los Javis|javis]], ha recaudado ya unos 23,5 millones de euros en tres fines de semana, lo que la sitúa entre las diez películas españolas más taquilleras de la historia. Ganó el premio del público en San Sebastián con la nota más alta que ha tenido allí una película española; antes había ganado el de mejor dirección en Cannes, y representará a España en los [[Óscar|oscar]].",
     "La película parte de una obra que [[Federico García Lorca|lorca]] dejó apenas empezada en 1936, unos meses antes de ser asesinado al comienzo de la Guerra Civil. Los directores imaginan cómo podría haber seguido. Casi noventa años después, Lorca sigue inspirando a nuevos artistas."
    ],
    "busqueda_imagenes": "La bola negra Los Javis",
    "fuentes": [
     "El Salto",
     "Diario de León",
-    "Hollywood Reporter"
+    "Hollywood Reporter",
+    "Kinótico"
    ],
    "publicada": "2026-10-02",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-13",
+   "nota_actualizacion": "La película suma unos 23,5 millones de euros en taquilla y entra en el top 10 histórico del cine español.",
    "en": {
-    "titular": "Lorca, on the road to the Oscars",
-    "entradilla": "\"La bola negra\" is inspired by a play the poet could not finish.",
+    "titular": "Lorca, on the road to the Oscars and the box office",
+    "entradilla": "\"La bola negra\", inspired by a play the poet left unfinished, is already one of the highest-grossing Spanish films ever.",
     "parrafos": [
-     "\"La bola negra\", by [[Los Javis|javis]], won the audience award in San Sebastián with the highest score a Spanish film has ever had there. Before that it had won the award for best director at Cannes, and it will represent Spain at the [[Oscars|oscar]]. In its first week in cinemas it took 4.67 million euros.",
+     "\"La bola negra\", by [[Los Javis|javis]], has already taken about 23.5 million euros in three weekends, placing it among the ten highest-grossing Spanish films of all time. It won the audience award in San Sebastián with the highest score a Spanish film has ever had there; before that it had won the award for best director at Cannes, and it will represent Spain at the [[Oscars|oscar]].",
      "The film starts from a play that [[Federico García Lorca|lorca]] had barely begun in 1936, a few months before he was murdered at the start of the Civil War. The directors imagine how it might have continued. Almost ninety years later, Lorca is still inspiring new artists."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The film has taken about 23.5 million euros at the box office and enters the all-time top 10 of Spanish cinema."
    }
   },
   {
-   "id": "ultimos-dias-para-ver-a-becquer-en-el-prado",
+   "id": "premios-princesa-de-asturias-2026-semana",
    "seccion": "cul",
-   "dibujo": "frame",
-   "titular": "Últimos días para ver a Bécquer en el Prado",
-   "entradilla": "Ocho cuadros que muestran cómo vivía la gente hace 160 años.",
+   "dibujo": "trophy",
+   "titular": "Messi, Patti Smith y Studio Ghibli, entre los premiados de los Princesa de Asturias 2026",
+   "entradilla": "Esta semana empiezan los actos y la ceremonia será el 23 de octubre en Oviedo.",
    "parrafos": [
-    "Hasta este domingo 4 de octubre, el [[Museo del Prado|prado]] expone ocho cuadros de [[Valeriano Bécquer|becquer]], pintados entre 1866 y 1867. Muestran fiestas, trajes y trabajos de la gente de Aragón, Soria y Ávila. Son un gran ejemplo del [[costumbrismo|costumbrismo]].",
-    "Valeriano era hermano del poeta Gustavo Adolfo Bécquer. Los dos eran sevillanos y viajaron juntos por esos pueblos: uno escribía, el otro pintaba. Estos cuadros funcionan como fotografías de una época en la que todavía no había cámaras en cada casa."
+    "Los [[Premios Princesa de Asturias|princesa]] de 2026 ya tienen todos sus ganadores. Entre ellos están la cantante y escritora Patti Smith (Artes), [[Studio Ghibli|ghibli]], el estudio de animación japonés (Comunicación y Humanidades), el escritor británico Julian Barnes (Letras) y el futbolista [[Leo Messi|messi]] (Deportes). También reciben premio el historiador Timothy Garton Ash (Ciencias Sociales), los científicos David Klenerman, Shankar Balasubramanian y Pascal Mayer (Investigación Científica y Técnica), la astronauta Christina Koch (Concordia) y la [[Bóveda Global de Semillas de Svalbard|svalbard]] (Cooperación Internacional).",
+    "Del 14 al 24 de octubre habrá 65 actividades en distintas localidades asturianas para acercar al público la obra de los premiados. La ceremonia de entrega será el viernes 23 de octubre, a las 18:30, en el Teatro Campoamor de Oviedo, y el sábado 24 se entregará en Llanes el premio al Pueblo Ejemplar de Asturias. Que el mismo año reciban premio una artista del rock, un estudio de dibujos animados, un futbolista y un almacén de semillas muestra lo amplio que es el abanico de estos galardones."
    ],
-   "busqueda_imagenes": "Valeriano Bécquer pintura costumbres",
+   "busqueda_imagenes": "Premios Princesa de Asturias 2026 Oviedo",
    "fuentes": [
-    "Visit Madrid",
-    "Meer"
+    "Fundación Princesa de Asturias",
+    "Olympics.com",
+    "El Búscolu"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-13",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Last days to see Bécquer at the Prado",
-    "entradilla": "Eight paintings that show how people lived 160 years ago.",
+    "titular": "Messi, Patti Smith and Studio Ghibli among the 2026 Princess of Asturias Award winners",
+    "entradilla": "This week the events begin and the ceremony will be on 23 October in Oviedo.",
     "parrafos": [
-     "Until this Sunday, 4 October, the [[Prado Museum|prado]] is showing eight paintings by [[Valeriano Bécquer|becquer]], painted between 1866 and 1867. They show festivals, costumes and jobs of the people of Aragon, Soria and Ávila. They are a great example of [[costumbrismo|costumbrismo]].",
-     "Valeriano was the brother of the poet Gustavo Adolfo Bécquer. Both were from Seville and travelled together through those villages: one wrote, the other painted. These paintings work like photographs of a time when there was not yet a camera in every home."
+     "The 2026 [[Princess of Asturias Awards|princesa]] now have all their winners. They include the singer and writer Patti Smith (Arts), [[Studio Ghibli|ghibli]], the Japanese animation studio (Communication and Humanities), the British writer Julian Barnes (Literature) and the footballer [[Lionel Messi|messi]] (Sports). Awards also go to the historian Timothy Garton Ash (Social Sciences), the scientists David Klenerman, Shankar Balasubramanian and Pascal Mayer (Technical and Scientific Research), the astronaut Christina Koch (Concord) and the [[Svalbard Global Seed Vault|svalbard]] (International Cooperation).",
+     "From 14 to 24 October there will be 65 activities in different towns in Asturias to bring the winners' work closer to the public. The award ceremony will be on Friday 23 October, at 18:30, at the Campoamor Theatre in Oviedo, and on Saturday 24 the Exemplary Town of Asturias award will be presented in Llanes. That in the same year an award goes to a rock artist, an animation studio, a footballer and a seed store shows how wide the range of these awards is."
     ],
     "nota_actualizacion": null
    }
@@ -676,9 +684,9 @@
    "seccion": "cul",
    "dibujo": "medal",
    "titular": "Navi Pillay, Nobel de la Paz 2026, y el resto de premios del año",
-   "entradilla": "La jurista sudafricana de 85 años recibe el premio de la Paz; solo falta por conocerse el de Economía.",
+   "entradilla": "Ya se conocen todos los Nobel: la jurista sudafricana Navi Pillay, de 85 años, recibe el de la Paz, y el de Economía es para Robert Hall y Michael Woodford.",
    "parrafos": [
-    "Los [[Premios Nobel|nobel]] de 2026 ya tienen casi todos sus ganadores. Medicina fue para Karl Deisseroth, Peter Hegemann y Georg Nagel por la [[optogenética|optogenetica]], que permite encender o apagar neuronas con luz. En Física ganó el belga Francis Halzen por [[IceCube|icecube]], un observatorio en el hielo del Polo Sur que detecta neutrinos llegados del espacio. En Química, el francés Henri Kagan y el japonés Kenso Soai lo recibieron por su trabajo con [[moléculas espejo|moleculasespejo]], clave para fabricar fármacos. Y el de Literatura fue para la poeta canadiense Anne Carson.",
+    "Los [[Premios Nobel|nobel]] de 2026 ya tienen todos sus ganadores. Medicina fue para Karl Deisseroth, Peter Hegemann y Georg Nagel por la [[optogenética|optogenetica]], que permite encender o apagar neuronas con luz. En Física ganó el belga Francis Halzen por [[IceCube|icecube]], un observatorio en el hielo del Polo Sur que detecta neutrinos llegados del espacio. Química fue para el francés Henri Kagan y el japonés Kenso Soai por su trabajo con [[moléculas espejo|moleculasespejo]], clave para fabricar fármacos, y Literatura para la poeta canadiense Anne Carson. El lunes 12 se anunció el de Economía: los estadounidenses Robert Hall y Michael Woodford, por explicar cómo estabilizar una economía partiendo de las decisiones de familias y empresas. Los bancos centrales usan hoy sus modelos.",
     "El viernes 9 de octubre el comité noruego concedió el de la Paz a la jurista sudafricana [[Navi Pillay|pillay]], de 85 años, por su labor a favor de la paz y del derecho internacional y por perseguir crímenes de guerra y genocidio. Defendió a opositores del apartheid, fue jueza de la [[Corte Penal Internacional|cpi]] entre 2003 y 2008 y Alta Comisionada de la ONU para los Derechos Humanos hasta 2014. Presidió la comisión de la ONU que acusó a Israel de genocidio en Gaza, así que su elección es polémica. El premio se entregará en Oslo."
    ],
    "busqueda_imagenes": "Premio Nobel medalla",
@@ -690,19 +698,21 @@
     "Yahoo Noticias",
     "nobelprize.org",
     "CNN en Español",
-    "National Geographic España"
+    "National Geographic España",
+    "Moncloa.com",
+    "Expansión"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-10",
-   "nota_actualizacion": "El comité Nobel concedió el 9 de octubre el premio de la Paz a la jurista sudafricana Navi Pillay.",
+   "actualizada": "2026-10-13",
+   "nota_actualizacion": "El lunes 12 de octubre se concedió el Nobel de Economía a Robert Hall y Michael Woodford.",
    "en": {
     "titular": "Navi Pillay, 2026 Nobel Peace Prize winner, and the rest of the year's prizes",
-    "entradilla": "The 85-year-old South African jurist receives the Peace prize; only the Economics prize is still to be announced.",
+    "entradilla": "All the Nobel prizes are now known: the 85-year-old South African jurist Navi Pillay receives the Peace prize, and the Economics prize goes to Robert Hall and Michael Woodford.",
     "parrafos": [
-     "The 2026 [[Nobel Prizes|nobel]] now have almost all their winners. Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel for [[optogenetics|optogenetica]], which makes it possible to switch neurons on or off with light. In Physics the Belgian Francis Halzen won for [[IceCube|icecube]], an observatory in the South Pole ice that detects neutrinos arriving from space. In Chemistry, the Frenchman Henri Kagan and the Japanese Kenso Soai received it for their work with [[mirror molecules|moleculasespejo]], key to making drugs. And the Literature prize went to the Canadian poet Anne Carson.",
+     "The 2026 [[Nobel Prizes|nobel]] now all have their winners. Medicine went to Karl Deisseroth, Peter Hegemann and Georg Nagel for [[optogenetics|optogenetica]], which makes it possible to switch neurons on or off with light. In Physics the Belgian Francis Halzen won for [[IceCube|icecube]], an observatory in the South Pole ice that detects neutrinos arriving from space. Chemistry went to the Frenchman Henri Kagan and the Japanese Kenso Soai for their work with [[mirror molecules|moleculasespejo]], key to making drugs, and Literature to the Canadian poet Anne Carson. On Monday 12 the Economics prize was announced: the Americans Robert Hall and Michael Woodford, for explaining how to stabilise an economy starting from the decisions of households and firms. Central banks use their models today.",
      "On Friday 9 October the Norwegian committee awarded the Peace prize to the South African jurist [[Navi Pillay|pillay]], aged 85, for her work for peace and international law and for pursuing war crimes and genocide. She defended opponents of apartheid, was a judge of the [[International Criminal Court|cpi]] from 2003 to 2008 and UN High Commissioner for Human Rights until 2014. She chaired the UN commission that accused Israel of genocide in Gaza, so her selection is controversial. The prize will be presented in Oslo."
     ],
-    "nota_actualizacion": "On 9 October the Nobel committee awarded the Peace prize to the South African jurist Navi Pillay."
+    "nota_actualizacion": "On Monday 12 October the Economics Nobel was awarded to Robert Hall and Michael Woodford."
    }
   },
   {
@@ -740,25 +750,26 @@
    "entradilla": "El viaje de la misión Crew-13 duró menos de ocho horas, el más rápido de una nave estadounidense hasta allí.",
    "parrafos": [
     "El jueves 1 de octubre, a las 11:10 de la mañana en Florida (las 17:10 en España), un cohete Falcon 9 de la empresa SpaceX despegó de Cabo Cañaveral. Llevaba una cápsula Dragon con cuatro tripulantes: los estadounidenses Jessica Watkins, la comandante, y Luke Delaney, de la [[NASA|nasa]]; el canadiense Joshua Kutryk y el ruso Sergey Teteryatnikov. Unas siete horas y 50 minutos después, la nave se enganchó sola, sin que nadie la pilotara, a la [[Estación Espacial Internacional|iss]]. Según la NASA, ninguna nave estadounidense había tardado tan poco en llegar desde el despegue en toda la historia de la estación.",
-    "La estación da vueltas a la Tierra a unos 400 kilómetros de altura y en ella siempre vive gente. Los recién llegados sustituyen a la tripulación anterior, la Crew-12, que regresará a casa. Durante su estancia harán experimentos en [[microgravedad|microgravedad]], es decir, flotando: intentarán fabricar tejidos a partir de [[células madre|celulasmadre]], probarán sistemas para cultivar plantas casi sin ayuda humana y estudiarán cómo circula la sangre cuando el cuerpo no pesa. Lo que aprendan servirá para preparar viajes más largos a la Luna y a Marte, y también para la medicina aquí abajo. Kutryk se llevó un recuerdo especial: un reloj de bolsillo familiar de más de cien años."
+    "La estación da vueltas a la Tierra a unos 400 kilómetros de altura y en ella siempre vive gente. Los recién llegados sustituyen a la tripulación anterior, la Crew-12, que ya ha vuelto a la Tierra tras 237 días en el espacio. Durante su estancia harán experimentos en [[microgravedad|microgravedad]], es decir, flotando: intentarán fabricar tejidos a partir de [[células madre|celulasmadre]], probarán sistemas para cultivar plantas casi sin ayuda humana y estudiarán cómo circula la sangre cuando el cuerpo no pesa. Lo que aprendan servirá para preparar viajes más largos a la Luna y a Marte, y también para la medicina aquí abajo."
    ],
    "busqueda_imagenes": "Crew-13 SpaceX launch Falcon 9 October 2026",
    "fuentes": [
     "NASA",
     "ABC News",
-    "Space.com"
+    "Space.com",
+    "Diario en Positivo"
    ],
    "publicada": "2026-10-02",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-13",
+   "nota_actualizacion": "La Crew-12, la tripulación anterior, ya ha vuelto a la Tierra tras 237 días en el espacio.",
    "en": {
     "titular": "Four astronauts reach the Space Station in record time",
     "entradilla": "The Crew-13 mission's journey took less than eight hours, the fastest ever for a US spacecraft heading there.",
     "parrafos": [
      "On Thursday 1 October, at 11:10 in the morning in Florida (17:10 in Spain), a Falcon 9 rocket built by the company SpaceX lifted off from Cape Canaveral. It carried a Dragon capsule with four crew members: the Americans Jessica Watkins, the commander, and Luke Delaney, from [[NASA|nasa]]; the Canadian Joshua Kutryk; and the Russian Sergey Teteryatnikov. About seven hours and 50 minutes later, the spacecraft docked by itself, with nobody steering it, to the [[International Space Station|iss]]. According to NASA, no US spacecraft had ever got there so quickly after launch in the whole history of the station.",
-     "The station circles the Earth about 400 kilometres up, and there are always people living on board. The newcomers replace the previous crew, Crew-12, who will return home. During their stay they will carry out experiments in [[microgravity|microgravedad]] – in other words, while floating: they will try to grow tissue from [[stem cells|celulasmadre]], test systems for growing plants with almost no human help and study how blood flows when the body is weightless. What they learn will help prepare longer journeys to the Moon and Mars, and also improve medicine down here. Kutryk took a special keepsake: a family pocket watch more than a hundred years old."
+     "The station circles the Earth about 400 kilometres up, and there are always people living on board. The newcomers replace the previous crew, Crew-12, who have now returned to Earth after 237 days in space. During their stay they will carry out experiments in [[microgravity|microgravedad]] – in other words, while floating: they will try to grow tissue from [[stem cells|celulasmadre]], test systems for growing plants with almost no human help and study how blood flows when the body is weightless. What they learn will help prepare longer journeys to the Moon and Mars, and also improve medicine down here."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "Crew-12, the previous crew, has returned to Earth after 237 days in space."
    }
   },
   {
@@ -1063,10 +1074,10 @@
    "id": "mohamed-vi-rompe-su-silencio-sobre-ceuta",
    "seccion": "es",
    "dibujo": "megaphone",
-   "titular": "El rey de Marruecos rompe su silencio sobre la crisis de Ceuta",
-   "entradilla": "Mohamed VI avisa de que la relación con España no admite presiones ni chantajes.",
+   "titular": "El rey de Marruecos rompe su silencio sobre la crisis de Ceuta y los Reyes de España visitan la ciudad",
+   "entradilla": "Mohamed VI avisa de que la relación con España no admite presiones ni chantajes; Felipe VI y Letizia viajan hoy a Ceuta.",
    "parrafos": [
-    "A finales de julio de 2026 entraron de forma irregular en [[Ceuta|ceuta]], ciudad española en África, más de 70.000 personas según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años. Desde entonces, la mayoría regresó a [[Marruecos|marruecos]] y los dos países reforzaron sus controles. Marruecos no había dicho nada en público sobre lo ocurrido hasta ahora, y en España la crisis se ha convertido en un asunto de debate político.",
+    "A finales de julio de 2026 entraron de forma irregular en [[Ceuta|ceuta]], ciudad española en África, más de 70.000 personas según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años. Desde entonces, la mayoría regresó a [[Marruecos|marruecos]] y los dos países reforzaron sus controles. Marruecos no había dicho nada en público sobre lo ocurrido hasta ahora, y en España la crisis se ha convertido en un asunto de debate político. Hoy martes 13, los Reyes de España, Felipe VI y Letizia, viajan a Ceuta, y mañana a Melilla: es la primera visita de unos monarcas a Ceuta en 19 años; la última fue la de Juan Carlos I y Sofía en 2007.",
     "El viernes 9 de octubre, al abrir la legislatura del Parlamento marroquí, [[Mohamed VI|mohamedvi]] habló por primera vez. Dijo que la asociación con España es «una elección soberana y un compromiso voluntario» que no puede someterse a presiones, amenazas ni chantajes, y criticó la «instrumentalización flagrante» de la situación por parte de ciertos medios políticos y mediáticos. Reconoció avances en la cooperación migratoria, pero señaló desafíos, como leyes anticuadas que dificultan devolver a los [[menores|menores]] a su país."
    ],
    "busqueda_imagenes": "Ceuta frontera Marruecos Mohamed VI Parlamento",
@@ -1074,19 +1085,20 @@
     "Infobae",
     "Moncloa.com",
     "Capital",
-    "Catalunya Press"
+    "Catalunya Press",
+    "The Objective"
    ],
    "publicada": "2026-10-10",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-13",
+   "nota_actualizacion": "Los Reyes de España visitan Ceuta el 13 de octubre y Melilla el 14, en la primera visita real en 19 años.",
    "en": {
-    "titular": "Morocco's king breaks his silence on the Ceuta crisis",
-    "entradilla": "Mohamed VI warns that the relationship with Spain does not allow pressure or blackmail.",
+    "titular": "Morocco's king breaks his silence on the Ceuta crisis and Spain's King and Queen visit the city",
+    "entradilla": "Mohamed VI warns that the relationship with Spain does not allow pressure or blackmail; Felipe VI and Letizia travel to Ceuta today.",
     "parrafos": [
-     "At the end of July 2026, according to estimates, more than 70,000 people entered irregularly into [[Ceuta|ceuta]], a Spanish city in Africa, the biggest episode on that [[border|frontera]] in years. Since then, most have returned to [[Morocco|marruecos]] and the two countries have tightened their controls. Morocco had said nothing in public about what happened until now, and in Spain the crisis has become a matter of political debate.",
+     "At the end of July 2026, according to estimates, more than 70,000 people entered irregularly into [[Ceuta|ceuta]], a Spanish city in Africa, the biggest episode on that [[border|frontera]] in years. Since then, most have returned to [[Morocco|marruecos]] and the two countries have tightened their controls. Morocco had said nothing in public about what happened until now, and in Spain the crisis has become a matter of political debate. Today, Tuesday 13, Spain's King and Queen, Felipe VI and Letizia, travel to Ceuta, and tomorrow to Melilla: it is the first visit by Spanish monarchs to Ceuta in 19 years; the last was by Juan Carlos I and Sofía in 2007.",
      "On Friday 9 October, at the opening of the Moroccan Parliament's new session, [[Mohamed VI|mohamedvi]] spoke for the first time. He said that the partnership with Spain is \"a sovereign choice and a voluntary commitment\" that cannot be subject to pressure, threats or blackmail, and criticised the \"flagrant exploitation\" of the situation by certain political and media circles. He acknowledged progress in migration cooperation but pointed to challenges, such as outdated laws that make it hard to send [[unaccompanied minors|menores]] back to their country."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "Spain's King and Queen visit Ceuta on 13 October and Melilla on 14 October, the first royal visit in 19 years."
    }
   },
   {
@@ -1536,24 +1548,6 @@
     "x": "The government of the autonomous region of Andalusia. It is in charge of health, education and many other things."
    }
   },
-  "mayoria": {
-   "t": "palabra",
-   "n": "Mayoría absoluta",
-   "x": "Tener más de la mitad de los escaños. En el Parlamento andaluz son 55 de 109: con ellos se gobierna sin pedir apoyo a nadie.",
-   "en": {
-    "n": "Absolute majority",
-    "x": "Having more than half of the seats. In the Andalusian Parliament that means 55 out of 109: with them you can govern without asking anyone for support."
-   }
-  },
-  "vox": {
-   "t": "palabra",
-   "n": "Vox",
-   "x": "Partido de extrema derecha. En Andalucía gobierna junto al PP desde 2026.",
-   "en": {
-    "n": "Vox",
-    "x": "A far-right party. In Andalusia it has governed together with the PP since 2026."
-   }
-  },
   "ia": {
    "t": "palabra",
    "n": "Inteligencia artificial",
@@ -1588,33 +1582,6 @@
    "en": {
     "n": "Vaccine",
     "x": "It teaches your body to recognise a virus before it arrives, so that it can defend itself better."
-   }
-  },
-  "comiccon": {
-   "t": "palabra",
-   "n": "Comic-Con",
-   "x": "Gran feria de cómics, cine, series y videojuegos. La original nació en San Diego (Estados Unidos) en 1970.",
-   "en": {
-    "n": "Comic-Con",
-    "x": "A big fair for comics, films, TV series and video games. The original one began in San Diego (United States) in 1970."
-   }
-  },
-  "fycma": {
-   "t": "lugar",
-   "n": "FYCMA",
-   "x": "El Palacio de Ferias y Congresos de Málaga, donde se celebran grandes eventos.",
-   "en": {
-    "n": "FYCMA",
-    "x": "Málaga's Trade Fair and Congress Centre, where big events are held."
-   }
-  },
-  "impacto": {
-   "t": "palabra",
-   "n": "Impacto económico",
-   "x": "Todo el dinero que se mueve gracias a un evento: hoteles, restaurantes, transporte, tiendas…",
-   "en": {
-    "n": "Economic impact",
-    "x": "All the money that changes hands thanks to an event: hotels, restaurants, transport, shops…"
    }
   },
   "wembley": {
@@ -1707,33 +1674,6 @@
     "x": "A Slovenian cyclist, considered the best in the world. He was world champion in 2024 and 2025."
    }
   },
-  "conmocion": {
-   "t": "palabra",
-   "n": "Conmoción cerebral",
-   "x": "Lesión del cerebro por un golpe fuerte en la cabeza. Hay que descansar hasta curarse del todo.",
-   "en": {
-    "n": "Concussion",
-    "x": "An injury to the brain caused by a hard blow to the head. You have to rest until you are completely better."
-   }
-  },
-  "clavicula": {
-   "t": "palabra",
-   "n": "Clavícula",
-   "x": "Hueso largo que une el hombro con el pecho. Es el que más se rompen los ciclistas al caer.",
-   "en": {
-    "n": "Collarbone",
-    "x": "A long bone that joins the shoulder to the chest. It is the bone cyclists break most often when they fall."
-   }
-  },
-  "casco": {
-   "t": "palabra",
-   "n": "Casco",
-   "x": "Protege la cabeza en las caídas. En las carreras ciclistas es obligatorio desde 2003.",
-   "en": {
-    "n": "Helmet",
-    "x": "It protects your head when you fall. It has been compulsory in cycling races since 2003."
-   }
-  },
   "mas": {
    "t": "persona",
    "n": "Enric Mas",
@@ -1813,33 +1753,6 @@
    "en": {
     "n": "Oscars",
     "x": "The most famous film awards in the world, held in Hollywood. Each country can put forward one film for \"best international feature\"."
-   }
-  },
-  "becquer": {
-   "t": "persona",
-   "n": "Valeriano Bécquer",
-   "x": "Pintor sevillano (1834-1870), hermano del poeta Gustavo Adolfo Bécquer.",
-   "en": {
-    "n": "Valeriano Bécquer",
-    "x": "A painter from Seville (1834-1870), brother of the poet Gustavo Adolfo Bécquer."
-   }
-  },
-  "costumbrismo": {
-   "t": "palabra",
-   "n": "Costumbrismo",
-   "x": "Estilo que pinta o escribe la vida diaria de la gente: sus fiestas, sus trajes, sus trabajos.",
-   "en": {
-    "n": "Costumbrismo",
-    "x": "A Spanish style of painting or writing that shows people's everyday life: their festivals, their clothes, their work."
-   }
-  },
-  "prado": {
-   "t": "lugar",
-   "n": "Museo del Prado",
-   "x": "Uno de los museos de pintura más importantes del mundo. Está en Madrid y abrió en 1819.",
-   "en": {
-    "n": "Prado Museum",
-    "x": "One of the most important art museums in the world. It is in Madrid and opened in 1819."
    }
   },
   "nobel": {
@@ -2381,11 +2294,119 @@
     "n": "Marco Bezzecchi",
     "x": "An Italian rider who races in MotoGP for Aprilia."
    }
+  },
+  "alcaraz": {
+   "t": "persona",
+   "n": "Carlos Alcaraz",
+   "x": "Tenista español nacido en El Palmar (Murcia) en 2003. Ha sido número 1 del mundo y ha ganado varios torneos de Grand Slam.",
+   "en": {
+    "n": "Carlos Alcaraz",
+    "x": "A Spanish tennis player born in El Palmar (Murcia) in 2003. He has been world number 1 and has won several Grand Slam tournaments."
+   }
+  },
+  "zverev": {
+   "t": "persona",
+   "n": "Alexander Zverev",
+   "x": "Tenista alemán nacido en 1997. Ha sido número 2 del mundo y ganó el oro olímpico en Tokio 2020.",
+   "en": {
+    "n": "Alexander Zverev",
+    "x": "A German tennis player born in 1997. He has been world number 2 and won Olympic gold at Tokyo 2020."
+   }
+  },
+  "masters1000": {
+   "t": "palabra",
+   "n": "Masters 1000",
+   "x": "Los nueve torneos más importantes del circuito masculino de tenis después de los cuatro de Grand Slam. El de Shanghái se juega en octubre.",
+   "en": {
+    "n": "Masters 1000",
+    "x": "The nine most important tournaments on the men's tennis tour after the four Grand Slams. The Shanghai one is played in October."
+   }
+  },
+  "rankingatp": {
+   "t": "palabra",
+   "n": "Ranking ATP",
+   "x": "Clasificación que ordena a los tenistas profesionales según los puntos que consiguen en los torneos. Quien termina el año arriba es el número 1 del mundo.",
+   "en": {
+    "n": "ATP ranking",
+    "x": "The table that ranks professional tennis players by the points they earn in tournaments. Whoever finishes the year on top is the world number 1."
+   }
+  },
+  "nilo": {
+   "t": "palabra",
+   "n": "Fiebre del Nilo Occidental",
+   "x": "Enfermedad causada por un virus que pasa de las aves a las personas por la picadura de mosquitos. Casi siempre es leve, pero a veces afecta al sistema nervioso y puede ser grave.",
+   "en": {
+    "n": "West Nile fever",
+    "x": "A disease caused by a virus that passes from birds to people through mosquito bites. It is almost always mild, but sometimes it affects the nervous system and can be serious."
+   }
+  },
+  "alertasanitaria": {
+   "t": "palabra",
+   "n": "Alerta sanitaria",
+   "x": "Aviso de las autoridades de salud de que hay un riesgo en una zona. Permite poner en marcha medidas, como controlar los mosquitos.",
+   "en": {
+    "n": "Health alert",
+    "x": "A warning from the health authorities that there is a risk in an area. It allows measures to be put in place, such as controlling mosquitoes."
+   }
+  },
+  "presupuestoue": {
+   "t": "palabra",
+   "n": "Presupuesto de la UE",
+   "x": "El dinero que los 27 países de la Unión Europea acuerdan gastar juntos durante siete años, por ejemplo en ayudas al campo y a las regiones con menos recursos. Ahora se negocia el de 2028 a 2034.",
+   "en": {
+    "n": "EU budget",
+    "x": "The money the 27 countries of the European Union agree to spend together over seven years, for example on support for farming and for less wealthy regions. The one for 2028 to 2034 is now being negotiated."
+   }
+  },
+  "cohesion": {
+   "t": "palabra",
+   "n": "Política de cohesión",
+   "x": "Ayudas de la UE para que las regiones con menos recursos se acerquen en riqueza a las demás, con dinero para carreteras, empresas y formación.",
+   "en": {
+    "n": "Cohesion policy",
+    "x": "EU support to help regions with fewer resources catch up in wealth with the rest, with money for roads, businesses and training."
+   }
+  },
+  "princesa": {
+   "t": "palabra",
+   "n": "Premios Princesa de Asturias",
+   "x": "Premios que se entregan cada año en Oviedo a personas y organizaciones destacadas en arte, ciencia, literatura, deporte y otros campos. Los preside la familia real.",
+   "en": {
+    "n": "Princess of Asturias Awards",
+    "x": "Awards presented every year in Oviedo to outstanding people and organisations in art, science, literature, sport and other fields. They are chaired by the royal family."
+   }
+  },
+  "ghibli": {
+   "t": "palabra",
+   "n": "Studio Ghibli",
+   "x": "Estudio japonés de cine de animación, fundado en 1985, autor de películas como «El viaje de Chihiro» y «Mi vecino Totoro».",
+   "en": {
+    "n": "Studio Ghibli",
+    "x": "A Japanese animation film studio, founded in 1985, behind films such as 'Spirited Away' and 'My Neighbour Totoro'."
+   }
+  },
+  "svalbard": {
+   "t": "lugar",
+   "n": "Bóveda Global de Semillas de Svalbard",
+   "x": "Almacén subterráneo en una isla del Ártico noruego donde se guardan copias de semillas de cultivos de todo el mundo, como seguro por si se pierden en otro lugar.",
+   "en": {
+    "n": "Svalbard Global Seed Vault",
+    "x": "An underground store on an island in the Norwegian Arctic where copies of seeds of crops from all over the world are kept, as insurance in case they are lost elsewhere."
+   }
+  },
+  "messi": {
+   "t": "persona",
+   "n": "Leo Messi",
+   "x": "Futbolista argentino, considerado uno de los mejores de la historia. Ganó el Mundial de 2022 con Argentina.",
+   "en": {
+    "n": "Lionel Messi",
+    "x": "An Argentine footballer, considered one of the best in history. He won the 2022 World Cup with Argentina."
+   }
   }
  },
- "edicion_en": "Monday 12 October 2026",
+ "edicion_en": "Tuesday 13 October 2026",
  "destacada": {
   "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-10-12"
+  "fecha": "2026-10-13"
  }
 }
