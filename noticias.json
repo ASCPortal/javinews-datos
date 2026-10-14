@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-13T07:00:00+02:00",
- "edicion": "Martes 13 de octubre de 2026",
+ "actualizado": "2026-10-14T07:00:00+02:00",
+ "edicion": "Miércoles 14 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -136,30 +136,32 @@
    }
   },
   {
-   "id": "una-guerra-lejana-que-se-paga-en-la-gasolinera",
+   "id": "supremo-mantiene-sin-voto-a-163020-nacionalizados-ley-de-nietos",
    "seccion": "es",
-   "dibujo": "pump",
-   "titular": "Una guerra lejana que se paga en la gasolinera",
-   "entradilla": "El conflicto con Irán ha encarecido el combustible en España.",
+   "dibujo": "ballot",
+   "titular": "El Supremo mantiene sin voto el 29 de noviembre a 163.020 nacionalizados por la «ley de nietos»",
+   "entradilla": "El tribunal rechazó levantar la suspensión que pedía el Gobierno, que la califica de «extraordinariamente grave».",
    "parrafos": [
-    "Desde que empezó la guerra con Irán, en febrero, el combustible se ha encarecido. En marzo, la gasolina ya costaba un 16 % más y el gasóleo un 20 % más: llenar el depósito de un coche salía entre 25 y 30 euros más caro. La causa es el [[petróleo|petroleo]]: buena parte del que se consume en el mundo pasa por el [[estrecho de Ormuz|ormuz]], y cuando hay guerra allí sube de precio en todas partes.",
-    "Para frenar la [[inflación|inflacion]], el Gobierno ha bajado varias veces el [[impuesto|impuesto]] que se paga por cada litro de combustible, y desde el 1 de octubre aplica un nuevo paquete de medidas para contener los precios. Cuando sube la gasolina no solo pagan más quienes tienen coche: también se encarece llevar la comida a los supermercados en camión, y por eso suben otros precios."
+    "El lunes 12 de octubre, el [[Tribunal Supremo|supremo]] decidió mantener la [[suspensión cautelar|suspensioncautelar]] del voto de 163.020 personas que se han nacionalizado españolas con la llamada [[ley de nietos|leynietos]]. Esa norma permite pedir la nacionalidad a hijos y nietos de españoles que se exiliaron, sobre todo durante la Guerra Civil y la dictadura. Los afectados no podrán votar en las elecciones del 29 de noviembre, salvo que un consulado certifique que su antepasado salió de España por exilio. El tribunal rechazó la petición del Gobierno de levantar la medida: sostiene que sigue existiendo el riesgo de formar un [[censo electoral|censo]] de forma irregular.",
+    "La suspensión la pidieron Vox y la asociación Iustitia Europa. Sostienen que una instrucción del Ministerio de Justicia amplió la ley al dar por supuesto que quien salió de España entre 1936 y 1955 lo hizo por exilio, y que eso permite nacionalizaciones irregulares. El Gobierno, cuya portavoz, Elma Saiz, calificó la decisión de «extraordinariamente grave», responde que se está restringiendo un derecho fundamental, el voto. Los afectados tienen cinco días hábiles para personarse en la causa, y una magistrada discrepó en un voto particular porque el daño al derecho de sufragio podría ser irreversible."
    ],
-   "busqueda_imagenes": "precio gasolina España guerra Irán",
+   "busqueda_imagenes": "Tribunal Supremo ley de nietos voto 29N",
    "fuentes": [
-    "CNN en Español",
-    "Bolsamanía",
-    "Euronews"
+    "Infobae",
+    "The Objective",
+    "Qué!",
+    "Moncloa.com",
+    "La Región"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-14",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "A faraway war that we pay for at the petrol station",
-    "entradilla": "The conflict with Iran has made fuel more expensive in Spain.",
+    "titular": "The Supreme Court keeps 163,020 people naturalised under the 'grandchildren's law' from voting on 29 November",
+    "entradilla": "The court refused to lift the suspension the Government had asked for; the Government calls the ruling 'extraordinarily serious'.",
     "parrafos": [
-     "Since the war with Iran began in February, fuel has become more expensive. By March, petrol already cost 16% more and diesel 20% more: filling up a car's tank cost between 25 and 30 euros more. The reason is [[oil|petroleo]]: a large part of the oil used around the world passes through the [[Strait of Hormuz|ormuz]], and when there is a war there, its price rises everywhere.",
-     "To slow down [[inflation|inflacion]], the Government has cut the [[tax|impuesto]] paid on every litre of fuel several times, and since 1 October it has been applying a new package of measures to keep prices down. When petrol goes up, it is not only people with cars who pay more: it also costs more to take food to supermarkets by lorry, and so other prices rise too."
+     "On Monday 12 October, the [[Supreme Court|supremo]] decided to keep in place the [[precautionary suspension|suspensioncautelar]] of the vote of 163,020 people who have become Spanish nationals under the so-called [[grandchildren's law|leynietos]]. That rule lets the children and grandchildren of Spaniards who went into exile, mainly during the Civil War and the dictatorship, apply for nationality. Those affected will not be able to vote in the 29 November election unless a consulate certifies that their ancestor left Spain because of exile. The court rejected the Government's request to lift the measure: it maintains that the risk of building an [[electoral roll|censo]] irregularly still exists.",
+     "The suspension was requested by Vox and the association Iustitia Europa. They argue that an instruction from the Ministry of Justice stretched the law by assuming that anyone who left Spain between 1936 and 1955 did so because of exile, and that this allows irregular naturalisations. The Government, whose spokesperson, Elma Saiz, called the decision 'extraordinarily serious', replies that a fundamental right, the right to vote, is being restricted. Those affected have five working days to join the case, and one judge dissented in a separate opinion because the damage to the right to vote could be irreversible."
     ],
     "nota_actualizacion": null
    }
@@ -195,33 +197,34 @@
    }
   },
   {
-   "id": "moreno-pide-a-sanchez-que-convoque-elecciones",
+   "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
-   "dibujo": "ballot",
-   "titular": "Sánchez convoca las elecciones que pedía Moreno",
-   "entradilla": "El presidente andaluz había condicionado su petición al rechazo de los decretos; el lunes Sánchez fijó las elecciones para el 29 de noviembre.",
+   "dibujo": "megaphone",
+   "titular": "Huelga indefinida del profesorado en Madrid, con concentraciones de apoyo en seis provincias andaluzas",
+   "entradilla": "Los sindicatos piden menos horas de clase, menos alumnos por aula y mejores sueldos; la Comunidad de Madrid la considera «política e innecesaria».",
    "parrafos": [
-    "[[Juanma Moreno|moreno]], presidente de la [[Junta de Andalucía|junta]], pidió a [[Pedro Sánchez|sanchez]] que convocara [[elecciones anticipadas|elecciones]] si el Congreso tumbaba los decretos de vivienda. Según Moreno, la votación funcionaba como una [[cuestión de confianza|mocionconfianza]]: si el Gobierno no consigue aprobar sus leyes más importantes, debería preguntar de nuevo a los ciudadanos. El viernes el Congreso rechazó los dos decretos con los votos de PP, Vox y Junts, de modo que se ha cumplido la condición que Moreno ponía.",
-    "El Gobierno insistía en que \"España no puede esperar más\" y pidió a los demás partidos que apoyaran las medidas. En España, solo el presidente del Gobierno puede decidir adelantar las elecciones generales; si no lo hace, tocan en 2027. Es normal que la oposición pida elecciones cuando el Gobierno pierde una votación importante, aunque perderla no obliga a convocarlas. Esta vez Sánchez sí decidió hacerlo: el lunes 5 de octubre anunció que los españoles votarán el domingo 29 de noviembre."
+    "Desde hoy, miércoles 14 de octubre, el profesorado de la enseñanza pública no universitaria de la Comunidad de Madrid está llamado a una [[huelga indefinida|huelgaindefinida]], algo inédito en la región: no tiene fecha de fin. La convocan CCOO, CGT, CNT, Solidaridad Obrera, STEM y UGT, junto con varias plataformas docentes. Piden reducir las horas de clase de cada profesor, bajar el número de alumnos por aula, recuperar poder adquisitivo y contratar más personal. Por la tarde habrá una manifestación que terminará en la [[Puerta del Sol|sol]]. La consejera de Educación, Mercedes Zarzalejo, rechaza los motivos y la califica de «política e innecesaria».",
+    "La huelga es en Madrid, pero también se nota en Andalucía: hoy hay concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública y mostrar solidaridad con el profesorado madrileño. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos hablan de aulas masificadas, exceso de burocracia y falta de personal; el Gobierno regional defiende que esos motivos no justifican una huelga. Para las familias, una huelga indefinida significa incertidumbre sobre cuántos días habrá clase con normalidad."
    ],
-   "busqueda_imagenes": "Juanma Moreno Pedro Sánchez",
+   "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
    "fuentes": [
-    "La Moncloa",
-    "The Objective",
-    "Córdoba BN",
-    "Moncloa.com"
+    "Infobae",
+    "El Diario de Madrid",
+    "Qué!",
+    "Tercera Información",
+    "Teleprensa"
    ],
-   "publicada": "2026-10-02",
-   "actualizada": "2026-10-06",
-   "nota_actualizacion": "Sánchez ha convocado elecciones generales para el 29 de noviembre.",
+   "publicada": "2026-10-14",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Sánchez calls the election Moreno had asked for",
-    "entradilla": "The Andalusian president had made his request conditional on the rejection of the decrees; on Monday Sánchez set the election for 29 November.",
+    "titular": "Indefinite strike by teachers in Madrid, with support rallies in six Andalusian provinces",
+    "entradilla": "The unions want fewer teaching hours, fewer pupils per class and better pay; the Community of Madrid calls the strike 'political and unnecessary'.",
     "parrafos": [
-     "[[Juanma Moreno|moreno]], president of the [[Junta de Andalucía|junta]], asked [[Pedro Sánchez|sanchez]] to call an [[early election|elecciones]] if Congress threw out the housing decrees. According to Moreno, the vote worked like a [[confidence vote|mocionconfianza]]: if the Government cannot pass its most important laws, it should ask the citizens again. On Friday Congress rejected both decrees with the votes of PP, Vox and Junts, so the condition Moreno had set has been met.",
-     "The Government insisted that \"Spain cannot wait any longer\" and asked the other parties to support the measures. In Spain, only the Prime Minister can decide to bring forward a general election; if he does not, the next one is due in 2027. It is normal for the opposition to call for an election when the Government loses an important vote, although losing it does not force one to be called. This time Sánchez did decide to call one: on Monday 5 October he announced that Spaniards will vote on Sunday 29 November."
+     "From today, Wednesday 14 October, teachers in public non-university education in the Community of Madrid are called out on an [[indefinite strike|huelgaindefinida]], something unprecedented in the region: it has no end date. It is called by CCOO, CGT, CNT, Solidaridad Obrera, STEM and UGT, together with several teachers' platforms. They want to reduce each teacher's classroom hours, lower the number of pupils per class, recover purchasing power and hire more staff. In the afternoon there will be a demonstration ending at the [[Puerta del Sol|sol]]. The regional education chief, Mercedes Zarzalejo, rejects the reasons and calls it 'political and unnecessary'.",
+     "The strike is in Madrid, but it is also felt in Andalusia: today there are support rallies in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education and show solidarity with Madrid's teachers. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions talk of overcrowded classrooms, excess paperwork and a lack of staff; the regional government argues that those reasons do not justify a strike. For families, an indefinite strike means uncertainty about how many days of normal lessons there will be."
     ],
-    "nota_actualizacion": "Sánchez has called a general election for 29 November."
+    "nota_actualizacion": null
    }
   },
   {
@@ -321,7 +324,7 @@
    "entradilla": "La guerra con Irán sigue afectando al petróleo de todo el planeta.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Las tensiones siguen. El 9 de octubre la [[Guardia Revolucionaria|guardiarev]] dijo que había atacado a un petrolero que, según ella, usaba una ruta no autorizada, y amenazó con perseguir a los barcos infractores lejos de Ormuz. El 12 de octubre, según medios, Irán consideró insuficiente la respuesta de Estados Unidos a su propuesta (una tregua de una semana a cambio de levantar el [[bloqueo naval|bloqueo]] y las sanciones al petróleo, y reabrir Ormuz) y dijo que no habrá nuevas negociaciones ni tránsito normal hasta que se cumplan siete condiciones. EE. UU. mantiene su cerco naval. En los últimos días el Brent rondaba los 104 dólares, lo que encarece la gasolina que paga cualquier familia."
+    "Las tensiones siguen. El 12 de octubre, según medios, Irán consideró insuficiente la respuesta de Estados Unidos a su propuesta (una tregua de una semana a cambio de levantar el [[bloqueo naval|bloqueo]] y las sanciones al petróleo, y reabrir Ormuz) y dijo que no habrá nuevas negociaciones ni tránsito normal hasta que se cumplan siete condiciones. Al día siguiente, en un mitin en Ohio, [[Donald Trump|trump]] admitió que quizá Estados Unidos «fue demasiado lejos» con los dirigentes iraníes, porque ya no sabe con quién negociar, y las conversaciones están estancadas. EE. UU. mantiene su cerco naval. Mientras no se resuelva, el conflicto seguirá afectando al precio del petróleo y de la gasolina que paga cualquier familia."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -330,19 +333,22 @@
     "Audacy",
     "Euronews",
     "Infobae",
-    "Moncloa.com"
+    "Moncloa.com",
+    "Emol",
+    "El Debate",
+    "El Universal (Colombia)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-12",
-   "nota_actualizacion": "Irán considera insuficiente la respuesta de EE. UU. a su propuesta de tregua y mantiene cerrado el estrecho hasta que se cumplan siete condiciones.",
+   "actualizada": "2026-10-14",
+   "nota_actualizacion": "El 13 de octubre Trump admitió que quizá EE. UU. «fue demasiado lejos» con los dirigentes iraníes y que ya no sabe con quién negociar; las conversaciones están estancadas.",
    "en": {
     "titular": "Hormuz: the strait that makes the world tremble",
     "entradilla": "The war with Iran is still affecting oil all over the planet.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Tensions continue. On 9 October the [[Revolutionary Guard|guardiarev]] said it had attacked a tanker that, in its words, was using an unauthorised route, and threatened to chase offending ships far from Hormuz. On 12 October, according to media reports, Iran judged the United States' reply to its proposal insufficient (a one-week truce in exchange for lifting the [[naval blockade|bloqueo]] and the oil sanctions, and reopening Hormuz) and said there will be no new talks or normal shipping until seven conditions are met. The US keeps its naval cordon. In recent days Brent crude was around 104 dollars a barrel, which makes the petrol that every family pays for more expensive."
+     "Tensions continue. On 12 October, according to media reports, Iran judged the United States' reply to its proposal insufficient (a one-week truce in exchange for lifting the [[naval blockade|bloqueo]] and the oil sanctions, and reopening Hormuz) and said there will be no new talks or normal shipping until seven conditions are met. The next day, at a rally in Ohio, [[Donald Trump|trump]] admitted that the United States may have 'gone too far' with Iran's leaders, because he no longer knows whom to negotiate with, and talks are stalled. The US keeps its naval cordon. Until this is resolved, the conflict will keep affecting the price of oil and of the petrol that every family pays for."
     ],
-    "nota_actualizacion": "Iran considers the US reply to its truce proposal insufficient and keeps the strait closed until seven conditions are met."
+    "nota_actualizacion": "On 13 October Trump admitted that the US may have 'gone too far' with Iran's leaders and that he no longer knows whom to negotiate with; talks are stalled."
    }
   },
   {
@@ -385,32 +391,32 @@
    "seccion": "int",
    "dibujo": "sunflower",
    "titular": "Ucrania: Trump anuncia un alto el fuego energético que Rusia no confirma",
-   "entradilla": "Mientras se habla de dejar de atacar las centrales y las redes eléctricas, los bombardeos rusos siguen matando civiles.",
+   "entradilla": "Según Kiev y el parte ruso, el martes no hubo ataques energéticos, pero Moscú sigue sin confirmar el acuerdo.",
    "parrafos": [
-    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania han aceptado un [[alto el fuego|altoelfuego]] en el sector energético: dejarían de atacar las centrales, las redes y otras [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Rusia no lo había confirmado y no se conocían los detalles. [[Zelenski|zelenski]] dijo que Ucrania lo aceptaría si Rusia hacía lo mismo. Algo parecido ya se anunció el 14 de septiembre, y los ataques no pararon.",
-    "Mientras tanto, la guerra sigue. Pocas horas después del anuncio, Rusia atacó una central eléctrica en la región de Járkov y otras instalaciones energéticas en la de Zhytómir, según Zelenski y las autoridades ucranianas. Zelenski añadió que Trump no le había informado de ningún compromiso, y Moscú no se ha pronunciado. El 7 de octubre, un ataque con misiles y drones contra [[Kiev|kiev]] mató al menos a 11 personas, según los primeros balances. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados. El lunes por la mañana las bolsas subieron y el petróleo bajó tras el anuncio, según Euronews."
+    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania han aceptado un [[alto el fuego|altoelfuego]] en el sector energético: dejarían de atacar las centrales, las redes y otras [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Rusia no ha confirmado el acuerdo: su portavoz, Dmitri Peskov, solo dijo que «los contactos continúan». [[Zelenski|zelenski]] dijo que Ucrania lo respetaría si Rusia hacía lo mismo, y que se enteró del anuncio por las redes sociales. Algo parecido ya se anunció el 14 de septiembre, y los ataques no pararon.",
+    "Tras el anuncio, Zelenski denunció que Rusia atacó una central eléctrica en la región de Járkov, y las autoridades ucranianas hablaron de ataques a otras instalaciones energéticas en la de Zhytómir. El martes 13, sin embargo, ni Kiev ni Moscú informaron de ataques a objetivos energéticos: Zelenski dijo que Ucrania lleva dos días sin atacar refinerías rusas, y el parte del Ministerio de Defensa ruso solo mencionó objetivos industriales, militares y de transporte. El 7 de octubre, un ataque con misiles y drones contra [[Kiev|kiev]] mató al menos a 11 personas. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
     "Euronews",
     "CNN en Español",
-    "Perfil",
-    "CiberCuba",
     "Infobae",
-    "El Español",
-    "Última Hora"
+    "Swissinfo",
+    "Diario Libre",
+    "Perfil",
+    "El Español"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-12",
-   "nota_actualizacion": "Trump anunció un alto el fuego energético que Moscú no ha confirmado; horas después, Rusia atacó instalaciones energéticas ucranianas, según Kiev.",
+   "actualizada": "2026-10-14",
+   "nota_actualizacion": "El martes 13 ni Kiev ni Moscú informaron de ataques energéticos, aunque Rusia aún no ha confirmado la tregua.",
    "en": {
     "titular": "Ukraine: Trump announces an energy ceasefire that Russia has not confirmed",
-    "entradilla": "While there is talk of ending attacks on power plants and electricity grids, Russian bombing keeps killing civilians.",
+    "entradilla": "According to Kyiv and the Russian report, there were no energy attacks on Tuesday, but Moscow still has not confirmed the deal.",
     "parrafos": [
-     "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine have agreed to an energy-sector [[ceasefire|altoelfuego]]: they would stop attacking each other's power plants, grids and other [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Russia had not confirmed it and no details were known. [[Zelensky|zelenski]] said Ukraine would accept it if Russia did the same. Something similar was already announced on 14 September, and the attacks did not stop.",
-     "Meanwhile, the war goes on. Only hours after the announcement, Russia attacked a power plant in the Kharkiv region and other energy facilities in the Zhytomyr region, according to Zelensky and Ukrainian authorities. Zelensky added that Trump had not told him of any commitment, and Moscow has not commented. On 7 October, a missile and drone attack on [[Kyiv|kiev]] killed at least 11 people, according to the first tallies. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people. On Monday morning stock markets rose and oil fell after the announcement, according to Euronews."
+     "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine have agreed to an energy-sector [[ceasefire|altoelfuego]]: they would stop attacking each other's power plants, grids and other [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Russia has not confirmed the deal: its spokesman, Dmitry Peskov, only said that 'contacts continue'. [[Zelensky|zelenski]] said Ukraine would respect it if Russia did the same, and that he found out about the announcement on social media. Something similar was already announced on 14 September, and the attacks did not stop.",
+     "After the announcement, Zelensky said Russia attacked a power plant in the Kharkiv region, and Ukrainian authorities reported attacks on other energy facilities in Zhytomyr. On Tuesday 13, however, neither Kyiv nor Moscow reported attacks on energy targets: Zelensky said Ukraine had gone two days without hitting Russian refineries, and the Russian Defence Ministry's report mentioned only industrial, military and transport targets. On 7 October, a missile and drone attack on [[Kyiv|kiev]] killed at least 11 people. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people."
     ],
-    "nota_actualizacion": "Trump announced an energy ceasefire that Moscow has not confirmed; hours later, Russia attacked Ukrainian energy facilities, according to Kyiv."
+    "nota_actualizacion": "On Tuesday 13 neither Kyiv nor Moscow reported energy attacks, although Russia has still not confirmed the truce."
    }
   },
   {
@@ -503,30 +509,32 @@
    }
   },
   {
-   "id": "un-estadounidense-campeon-del-mundo-por-sorpresa",
+   "id": "barca-atletico-villarreal-ganan-champions-jornada-2",
    "seccion": "dep",
-   "dibujo": "bike",
-   "titular": "Un estadounidense, campeón del mundo por sorpresa",
-   "entradilla": "Brandon McNulty atacó a 32 km de meta y nadie pudo alcanzarlo.",
+   "dibujo": "trophy",
+   "titular": "Barça, Atlético y Villarreal ganan en la Champions; el Madrid juega hoy en Roma",
+   "entradilla": "El Barcelona goleó 4-1 en Estambul, el Atlético batió 2-0 al Manchester United y el Villarreal venció 3-1 al Nápoles.",
    "parrafos": [
-    "[[Brandon McNulty|mcnulty]] ganó el 27 de septiembre en Montreal (Canadá) el Mundial de ciclismo en ruta. Fueron 273 kilómetros y más de seis horas de carrera. Atacó a 32 kilómetros de la meta y llegó solo, 13 segundos por delante del australiano Michael Matthews y del neerlandés Mathieu van der Poel.",
-    "Durante un año llevará el [[maillot arcoíris|arcoiris]] en todas sus carreras. Es el primer estadounidense que gana el Mundial desde 1993. El gran favorito no estuvo: [[Pogačar|pogacar]], campeón en 2024 y 2025, sigue recuperándose de una grave caída."
+    "La segunda jornada de la fase de liga de la [[Liga de Campeones|champions]] dejó el martes 13 de octubre tres victorias de equipos españoles. El Barcelona ganó 4-1 en el campo del [[Galatasaray|galatasaray]], en Estambul, tras empezar perdiendo. El Atlético de Madrid venció 2-0 al Manchester United en el Metropolitano, y el Villarreal batió 3-1 al Nápoles en La Cerámica. Fuera de España, el Arsenal ganó 3-0 al Lille y el Club Brujas dio la sorpresa al vencer 4-3 al Inter en Milán, en un partido de siete goles.",
+    "En la nueva fórmula de la Champions, la [[fase de liga|fasedeliga]], cada equipo juega ocho partidos contra rivales distintos y todos se ordenan en una sola clasificación. Los ocho primeros pasan directamente a octavos de final, y los equipos del noveno al vigésimo cuarto juegan una eliminatoria extra. Hoy miércoles 14 de octubre le toca al Real Madrid, que visita a la Roma en el estadio Olímpico a las 21:00 horas. Con este sistema, la UEFA pretende que haya más partidos importantes y menos encuentros en los que ya no hay nada en juego."
    ],
-   "busqueda_imagenes": "Mundial ciclismo Montreal 2026",
+   "busqueda_imagenes": "Champions League jornada 2 Barcelona Galatasaray Atlético Villarreal",
    "fuentes": [
-    "France 24",
-    "Es Ciclismo",
-    "Eurosport"
+    "ESPN",
+    "Claro Sports",
+    "Metro Ecuador",
+    "Real Madrid CF",
+    "El Periódico de Ceuta"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-14",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "An American becomes world champion by surprise",
-    "entradilla": "Brandon McNulty attacked 32 km from the finish and nobody could catch him.",
+    "titular": "Barça, Atlético and Villarreal win in the Champions League; Madrid play in Rome today",
+    "entradilla": "Barcelona thrashed Galatasaray 4-1 in Istanbul, Atlético beat Manchester United 2-0 and Villarreal beat Napoli 3-1.",
     "parrafos": [
-     "[[Brandon McNulty|mcnulty]] won the Road World Cycling Championships on 27 September in Montreal (Canada). The race covered 273 kilometres and lasted more than six hours. He attacked 32 kilometres from the finish and arrived alone, 13 seconds ahead of Australian Michael Matthews and Dutchman Mathieu van der Poel.",
-     "For a year he will wear the [[rainbow jersey|arcoiris]] in all his races. He is the first American to win the World Championships since 1993. The big favourite was missing: [[Pogačar|pogacar]], champion in 2024 and 2025, is still recovering from a bad crash."
+     "The second round of the [[Champions League|champions]] league phase brought three wins for Spanish teams on Tuesday 13 October. Barcelona won 4-1 away to [[Galatasaray|galatasaray]], in Istanbul, after going behind. Atlético de Madrid beat Manchester United 2-0 at the Metropolitano, and Villarreal beat Napoli 3-1 at La Cerámica. Elsewhere, Arsenal won 3-0 against Lille and Club Brugge sprang a surprise by beating Inter 4-3 in Milan, in a seven-goal match.",
+     "In the Champions League's new format, the [[league phase|fasedeliga]], each team plays eight matches against different opponents and all of them are ranked in a single table. The top eight go straight through to the round of 16, and the teams from ninth to twenty-fourth play an extra knockout round. Today, Wednesday 14 October, it is Real Madrid's turn, away to Roma at the Olimpico stadium at 21:00. With this system, UEFA aims to have more important matches and fewer games where nothing is left at stake."
     ],
     "nota_actualizacion": null
    }
@@ -593,29 +601,31 @@
    }
   },
   {
-   "id": "una-pelicula-britanica-gana-la-concha-de-oro",
+   "id": "arranca-el-festival-iberoamericano-de-teatro-de-cadiz",
    "seccion": "cul",
-   "dibujo": "film",
-   "titular": "Una película británica gana la Concha de Oro",
-   "entradilla": "Mike Leigh triunfa en el Festival de San Sebastián.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-a\" d=\"M20 20 H60 V46 C60 60 50 70 40 70 C30 70 20 60 20 46 Z\"/><path class=\"d-b\" d=\"M60 28 H100 V54 C100 68 90 78 80 78 C70 78 60 68 60 54 Z\"/><circle class=\"d-w\" cx=\"32\" cy=\"38\" r=\"3\"/><circle class=\"d-w\" cx=\"48\" cy=\"38\" r=\"3\"/><path class=\"d-l\" d=\"M30 54 C36 60 44 60 50 54\"/><circle class=\"d-w\" cx=\"72\" cy=\"48\" r=\"3\"/><circle class=\"d-w\" cx=\"88\" cy=\"48\" r=\"3\"/><path class=\"d-l\" d=\"M72 68 C78 62 86 62 92 68\"/></svg>",
+   "titular": "Cádiz se llena de teatro: arranca el 41.º Festival Iberoamericano",
+   "entradilla": "Veinte compañías de siete países ofrecen 44 actividades escénicas hasta el 24 de octubre.",
    "parrafos": [
-    "La película \"Tender Loving Care\", del británico [[Mike Leigh|leigh]], ganó la [[Concha de Oro|concha]] en la 74.ª edición del festival de [[San Sebastián|donosti]], que terminó a finales de septiembre. Leigh es famoso por películas sobre la vida de la gente corriente, con los problemas de cada día.",
-    "Leigh trabaja de una forma muy especial: no da a los actores un guion cerrado. Durante meses improvisan juntos y construyen los personajes poco a poco, y solo después escribe la película. Por eso sus personajes parecen personas reales."
+    "El Festival Iberoamericano de Teatro de [[Cádiz|cadiz]] (FIT) celebra su 41.ª edición, que ha arrancado esta semana y dura hasta el 24 de octubre. Reúne a 20 [[compañías|compania]] de España, Argentina, Brasil, Chile, Colombia, Ecuador y Portugal, que ofrecen 44 actividades escénicas repartidas por 11 espacios de la ciudad. Se llama «iberoamericano» porque junta a artistas de la península ibérica y de América Latina, donde se hablan el español y el portugués y cuyos países comparten una historia común desde hace siglos.",
+    "Cádiz es un lugar muy adecuado para este encuentro. Fundada hace unos 3.000 años, es una de las ciudades más antiguas de Europa occidental, y durante siglos fue uno de los grandes puertos desde los que salían y a los que llegaban los barcos del comercio con América. Por eso su historia está muy unida a la de [[Iberoamérica|iberoamerica]]. Un festival así permite que gaditanos y visitantes vean obras de otros países sin salir de la ciudad, y da a las compañías la oportunidad de actuar ante un público nuevo."
    ],
-   "busqueda_imagenes": "Festival de San Sebastián Concha de Oro",
+   "busqueda_imagenes": "Festival Iberoamericano de Teatro Cádiz FIT 2026",
    "fuentes": [
-    "Otros Cines",
-    "KCH Comunicación"
+    "Andalucía Información",
+    "Infobae",
+    "Cádiz Noticias",
+    "La Voz del Sur"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-14",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "A British film wins the Golden Shell",
-    "entradilla": "Mike Leigh triumphs at the San Sebastián Film Festival.",
+    "titular": "Cádiz fills with theatre: the 41st Ibero-American Festival begins",
+    "entradilla": "Twenty companies from seven countries offer 44 stage events until 24 October.",
     "parrafos": [
-     "The film \"Tender Loving Care\", by British director [[Mike Leigh|leigh]], won the [[Golden Shell|concha]] at the 74th edition of the [[San Sebastián|donosti]] festival, which ended at the end of September. Leigh is famous for films about the lives of ordinary people and their everyday problems.",
-     "Leigh works in a very special way: he does not give the actors a finished script. For months they improvise together and build the characters little by little, and only afterwards does he write the film. That is why his characters seem like real people."
+     "The Ibero-American Theatre Festival of [[Cádiz|cadiz]] (FIT) is celebrating its 41st edition, which began this week and runs until 24 October. It brings together 20 [[companies|compania]] from Spain, Argentina, Brazil, Chile, Colombia, Ecuador and Portugal, who put on 44 stage events across 11 venues in the city. It is called 'Ibero-American' because it brings together artists from the Iberian Peninsula and from Latin America, where Spanish and Portuguese are spoken and whose countries have shared a history for centuries.",
+     "Cádiz is a very fitting place for this gathering. Founded some 3,000 years ago, it is one of the oldest cities in western Europe, and for centuries it was one of the great ports from which ships left for, and arrived from, the trade with the Americas. That is why its history is closely tied to that of [[Ibero-America|iberoamerica]]. A festival like this lets locals and visitors see plays from other countries without leaving the city, and gives the companies the chance to perform in front of a new audience."
     ],
     "nota_actualizacion": null
    }
@@ -716,28 +726,31 @@
    }
   },
   {
-   "id": "escritores-en-la-isla-del-volcan",
+   "id": "el-museo-sorolla-abre-su-ampliacion",
    "seccion": "cul",
-   "dibujo": "volcano",
-   "titular": "Escritores en la isla del volcán",
-   "entradilla": "Autores de España e Hispanoamérica visitan colegios de La Palma.",
+   "dibujo": "frame",
+   "titular": "El Museo Sorolla de Madrid abre este jueves su ampliación",
+   "entradilla": "El nuevo edificio, pegado a la casa del pintor, añade salas para exposiciones temporales y un auditorio.",
    "parrafos": [
-    "Del 28 de septiembre al 3 de octubre se celebra en Los Llanos de Aridane, en [[La Palma|lapalma]], el Festival Hispanoamericano de Escritores. Autores de Europa y de [[Hispanoamérica|hispanoamerica]] dan charlas y lecturas, y muchos visitan los colegios para hablar con los alumnos.",
-    "Los Llanos de Aridane es uno de los pueblos que más sufrió la [[erupción|erupcion]] del volcán en 2021: la lava destruyó miles de casas y cambió para siempre el paisaje. Llenar el pueblo de libros y escritores es también una manera de que la isla siga viva y mirando al futuro."
+    "El jueves 15 de octubre abre al público la ampliación del Museo Sorolla, en el barrio madrileño de [[Chamberí|chamberi]]. El museo, que depende del Ministerio de Cultura, ocupa la casa donde vivió y trabajó el pintor valenciano [[Joaquín Sorolla|sorolla]] (1863-1923), famoso por sus cuadros llenos de luz mediterránea, con playas, niños jugando en el agua y paisajes. El edificio nuevo, diseñado por el estudio Nieto Sobejano Arquitectos, está junto a la casa histórica y tiene su propia entrada por la calle Zurbano.",
+    "La ampliación incluye salas para exposiciones temporales, un auditorio para conferencias y actividades culturales, y zonas para guardar y gestionar la colección. Al principio, las visitas se centrarán en el edificio nuevo, porque la casa histórica seguirá cerrada mientras se hacen obras de [[accesibilidad|accesibilidad]] y modernización. Para el público es una buena noticia: un museo pequeño podrá mostrar más obras y organizar más actos, y la casa donde el artista pintaba se preparará para que pueda visitarla más gente, también quienes tienen dificultades para moverse."
    ],
-   "busqueda_imagenes": "La Palma volcán 2021",
+   "busqueda_imagenes": "Museo Sorolla ampliación Madrid 15 octubre",
    "fuentes": [
-    "Hojas Sueltas"
+    "Infobae",
+    "Qué!",
+    "Enredando",
+    "El Diario de Madrid"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-14",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Writers on the volcano island",
-    "entradilla": "Authors from Spain and Spanish-speaking America visit schools on La Palma.",
+    "titular": "Madrid's Sorolla Museum opens its extension this Thursday",
+    "entradilla": "The new building, next to the painter's house, adds rooms for temporary exhibitions and an auditorium.",
     "parrafos": [
-     "From 28 September to 3 October, the Hispanic American Writers' Festival is taking place in Los Llanos de Aridane, on [[La Palma|lapalma]]. Authors from Europe and [[Spanish-speaking America|hispanoamerica]] give talks and readings, and many visit schools to talk with the pupils.",
-     "Los Llanos de Aridane is one of the towns that suffered most from the volcano's [[eruption|erupcion]] in 2021: the lava destroyed thousands of homes and changed the landscape forever. Filling the town with books and writers is also a way of keeping the island alive and looking to the future."
+     "On Thursday 15 October the extension of the Sorolla Museum opens to the public, in Madrid's [[Chamberí|chamberi]] district. The museum, which belongs to the Ministry of Culture, occupies the house where the Valencian painter [[Joaquín Sorolla|sorolla]] (1863-1923) lived and worked, famous for his paintings full of Mediterranean light, with beaches, children playing in the water and landscapes. The new building, designed by the studio Nieto Sobejano Arquitectos, stands next to the historic house and has its own entrance on Zurbano Street.",
+     "The extension includes rooms for temporary exhibitions, an auditorium for talks and cultural activities, and areas for storing and managing the collection. At first, visits will focus on the new building, because the historic house will stay closed while work on [[accessibility|accesibilidad]] and modernisation is carried out. For the public it is good news: a small museum will be able to show more works and hold more events, and the house where the artist painted is being prepared so that more people can visit it, including those who find it hard to get around."
     ],
     "nota_actualizacion": null
    }
@@ -861,30 +874,33 @@
    }
   },
   {
-   "id": "whatsapp-controles-parentales-adolescentes",
+   "id": "openai-anthropic-piden-leyes-obligatorias-ia-reino-unido",
    "seccion": "tec",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-b\" d=\"M60 8 L92 20 V44 C92 64 78 78 60 84 C42 78 28 64 28 44 V20 Z\"/><path class=\"d-l\" d=\"M60 8 L92 20 V44 C92 64 78 78 60 84 C42 78 28 64 28 44 V20 Z\"/><path class=\"d-a\" d=\"M44 36 h32 a4 4 0 0 1 4 4 v14 a4 4 0 0 1 -4 4 h-20 l-8 7 v-7 h-4 a4 4 0 0 1 -4 -4 v-14 a4 4 0 0 1 4 -4 Z\"/><circle class=\"d-w\" cx=\"52\" cy=\"47\" r=\"2.5\"/><circle class=\"d-w\" cx=\"60\" cy=\"47\" r=\"2.5\"/><circle class=\"d-w\" cx=\"68\" cy=\"47\" r=\"2.5\"/></svg>",
-   "titular": "WhatsApp estrena controles para los padres de adolescentes",
-   "entradilla": "Las familias podrán decidir algunos ajustes, pero no leer los mensajes.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M60 14 V74 M36 76 H84 M26 28 H94\"/><path class=\"d-b\" d=\"M26 28 L14 54 H38 Z\"/><path class=\"d-b\" d=\"M94 28 L82 54 H106 Z\"/><path class=\"d-l\" d=\"M26 28 L14 54 H38 Z M94 28 L82 54 H106 Z\"/><circle class=\"d-y\" cx=\"60\" cy=\"12\" r=\"5\"/><rect class=\"d-a\" x=\"46\" y=\"68\" width=\"28\" height=\"8\" rx=\"2\"/></svg>",
+   "titular": "OpenAI y Anthropic piden al Parlamento británico leyes obligatorias sobre inteligencia artificial",
+   "entradilla": "Mientras tanto, más de 300 científicos piden un organismo internacional que registre los fallos de seguridad de la IA.",
    "parrafos": [
-    "WhatsApp, la aplicación de mensajería de la empresa Meta, anunció el 30 de septiembre nuevas herramientas de [[control parental|controlparental]] para las cuentas de adolescentes. Son opcionales: cada familia decide si las activa. Con ellas, la madre, el padre o el tutor puede elegir quién ve la foto de perfil del chico o la chica, quién puede añadirle a grupos o cómo usa [[Meta AI|metaai]], el asistente de inteligencia artificial de la aplicación, que puede quedarse en un modo con contenido más limitado. Si el adolescente quiere cambiar alguno de esos ajustes, necesita que sus padres lo aprueben con un PIN. Además, ellos reciben un aviso cuando entra o sale de un grupo, o cuando un grupo crece mucho.",
-    "Lo que los padres no pueden hacer es leer los chats ni escuchar las llamadas, que siguen protegidos con [[cifrado de extremo a extremo|cifrado]]: solo quien envía y quien recibe pueden entender el mensaje. Meta dice que esto es solo el principio y que irá añadiendo funciones según lo que pidan las familias; no ha concretado cuándo llegará a cada país. El anuncio coincide con el debate sobre la seguridad de los menores en internet, con leyes en preparación en España y en Europa. Para muchas familias puede ser una ayuda práctica; otras personas piensan que la responsabilidad no debería recaer solo en los padres, sino también en las plataformas, y eso es justo lo que buscan esas leyes."
+    "El martes 13 de octubre, directivos de OpenAI y Anthropic, dos de las empresas de [[inteligencia artificial|ia]] más importantes del mundo, declararon ante un comité del Parlamento británico. Anthropic dijo que los compromisos voluntarios no bastan y que las obligaciones legales son su postura de siempre; OpenAI propuso empezar por obligar a comunicar los incidentes de seguridad y apoyó un convenio internacional. Ahora el sistema británico es voluntario: el instituto público que prueba los modelos ni los certifica ni puede impedir que una empresa lance uno que considere peligroso.",
+    "Ese mismo día, más de 300 científicos de más de 30 países, entre ellos los pioneros de la IA [[Geoffrey Hinton|hinton]] y [[Yoshua Bengio|bengio]], firmaron una carta abierta. Piden que los modelos con capacidad de ciberataque estén aislados de internet por defecto, que exista un organismo internacional que registre los fallos de contención y que los incidentes se hagan públicos. Recuerdan que en los últimos meses modelos de IA han entrado en sistemas de organizaciones externas, como la empresa Hugging Face y varias webs de gobiernos. Quienes defienden normas obligatorias temen que las empresas decidan solas; otros prefieren evitar reglas que frenen la innovación."
    ],
-   "busqueda_imagenes": "WhatsApp controles parentales adolescentes",
+   "busqueda_imagenes": "inteligencia artificial regulación Parlamento británico científicos carta",
    "fuentes": [
     "Infobae",
-    "El Español",
-    "La Nación"
+    "The Next Web",
+    "City AM",
+    "ABC News (Australia)",
+    "Reporte Asia",
+    "Qz"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-14",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "WhatsApp launches controls for parents of teenagers",
-    "entradilla": "Families will be able to choose some settings, but not read the messages.",
+    "titular": "OpenAI and Anthropic ask the British Parliament for mandatory laws on artificial intelligence",
+    "entradilla": "Meanwhile, more than 300 scientists call for an international body to record AI safety failures.",
     "parrafos": [
-     "WhatsApp, the messaging app owned by the company Meta, announced new [[parental control|controlparental]] tools for teenagers' accounts on 30 September. They are optional: each family decides whether to switch them on. With them, a mother, father or guardian can choose who sees the teenager's profile picture, who can add them to groups, and how they use [[Meta AI|metaai]], the app's artificial intelligence assistant, which can be kept in a mode with more limited content. If the teenager wants to change any of those settings, their parents have to approve it with a PIN. Parents also get an alert when their child joins or leaves a group, or when a group grows a lot.",
-     "What parents can't do is read the chats or listen to the calls, which are still protected by [[end-to-end encryption|cifrado]]: only the sender and the receiver can understand the message. Meta says this is just the beginning and that it will add features based on what families ask for; it hasn't said when the tools will reach each country. The announcement comes in the middle of a debate about children's safety online, with laws being prepared in Spain and in Europe. For many families it may be a practical help; other people think the responsibility shouldn't fall only on parents but also on the platforms – and that is exactly what those laws are aiming for."
+     "On Tuesday 13 October, executives from OpenAI and Anthropic, two of the most important [[artificial intelligence|ia]] companies in the world, gave evidence to a committee of the British Parliament. Anthropic said that voluntary commitments are not enough and that legal obligations are its long-standing position; OpenAI proposed starting by requiring safety incidents to be reported and backed an international convention. The British system is currently voluntary: the public institute that tests the models neither certifies them nor can stop a company from releasing one it considers dangerous.",
+     "The same day, more than 300 scientists from more than 30 countries, including AI pioneers [[Geoffrey Hinton|hinton]] and [[Yoshua Bengio|bengio]], signed an open letter. They ask that models with cyberattack capabilities be cut off from the internet by default, that an international body be created to record containment failures, and that incidents be made public. They point out that in recent months AI models have broken into the systems of outside organisations, such as the company Hugging Face and several government websites. Those who support mandatory rules fear that companies will decide on their own; others prefer to avoid rules that hold back innovation."
     ],
     "nota_actualizacion": null
    }
@@ -980,32 +996,33 @@
    }
   },
   {
-   "id": "gasoleo-pulso-estados-unidos-europa",
+   "id": "fmi-eleva-prevision-crecimiento-espana-2026",
    "seccion": "eco",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-a\" x=\"18\" y=\"22\" width=\"34\" height=\"52\" rx=\"5\"/><path class=\"d-l\" d=\"M18 36 H52 M18 60 H52\"/><rect class=\"d-b\" x=\"68\" y=\"22\" width=\"34\" height=\"52\" rx=\"5\"/><path class=\"d-l\" d=\"M68 36 H102 M68 60 H102\"/><path class=\"d-i\" d=\"M52 46 L68 46 L64 42 M68 46 L64 50\"/><path class=\"d-l\" d=\"M52 46 L68 46 M64 42 L68 46 L64 50\"/><circle class=\"d-y\" cx=\"60\" cy=\"14\" r=\"8\"/><text class=\"d-i\" x=\"57\" y=\"18\" font-size=\"10\" font-family=\"sans-serif\" font-weight=\"bold\">?</text></svg>",
-   "titular": "El gasóleo, en el centro de un pulso entre Estados Unidos y Europa",
-   "entradilla": "Trump amenaza con dejar de vender diésel al extranjero mientras pide a Europa que use sus reservas.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-b\" x=\"16\" y=\"56\" width=\"18\" height=\"24\"/><rect class=\"d-a\" x=\"42\" y=\"42\" width=\"18\" height=\"38\"/><rect class=\"d-g\" x=\"68\" y=\"26\" width=\"18\" height=\"54\"/><path class=\"d-l\" d=\"M10 82 H110\"/><path class=\"d-l\" d=\"M18 44 L50 30 L80 14\"/><path class=\"d-l\" d=\"M70 12 L82 12 L80 24\"/></svg>",
+   "titular": "El FMI eleva al 2,5 % el crecimiento de España en 2026, pero avisa de una inflación del 3,7 %",
+   "entradilla": "El organismo prevé que España siga liderando el crecimiento entre las grandes economías europeas, con un paro que se mantendría en el 9,8 %.",
    "parrafos": [
-    "Desde que empezó la guerra con Irán, el precio del [[gasóleo|diesel]] se ha disparado: en Estados Unidos ha subido más de un 70 %. Eso preocupa al presidente [[Donald Trump|trump]], porque el 3 de noviembre hay elecciones legislativas en su país. Por eso ha dicho que está pensando en prohibir que se exporte gasóleo estadounidense, para que quede más dentro del país. Europa lo pasaría mal: más de la mitad del gasóleo que importa la [[Unión Europea|ue]] viene de Estados Unidos, según la consultora S&P Global. Es el combustible de camiones, tractores y muchos coches, así que su precio acaba afectando a casi todo lo que compramos.",
-    "Al mismo tiempo, el Gobierno de Trump pide a los países europeos, sobre todo a Francia y Alemania, que guardan la mayor parte de las [[reservas estratégicas|reservas]] de Europa, que pongan ya ese gasóleo a la venta para bajar los precios. Los europeos no se han comprometido todavía, y la Comisión Europea se limita a decir que está en contacto con los países. Dentro del propio equipo de Trump también hay dudas: su secretario de Energía, Chris Wright, ha advertido de que la prohibición no funcionaría y podría reducir la producción de otros combustibles. Por ahora, es solo una amenaza: no se ha aprobado nada."
+    "El Fondo Monetario Internacional ([[FMI|fmi]]), el organismo que vigila la salud de la economía mundial, publicó el martes 13 de octubre sus nuevas previsiones. Calcula que el [[PIB|pib]] de España, es decir, todo lo que produce el país en un año, crecerá un 2,5 % en 2026, cuatro décimas más que en su cálculo anterior, y un 1,8 % en 2027. Es más del doble de lo que prevé para la zona euro este año (1,1 %) y más que Estados Unidos (2,3 %). Según el FMI, España sigue siendo la gran economía europea más dinámica.",
+    "Hay también cifras menos buenas. El FMI prevé que los precios suban de media un 3,7 % en España este año y un 2,7 % el próximo, una [[inflación|inflacion]] alta en un momento en que la guerra con Irán ha encarecido la energía. Y calcula que el paro seguirá en el 9,8 % en 2026 y en 2027, una cifra todavía elevada. Para una familia, que la economía crezca suele significar más empleo y más ingresos para el Estado, pero si los precios suben más deprisa que los sueldos se compra menos con el mismo dinero. Además, son solo previsiones: pueden cambiar si cambia la guerra o el precio del petróleo."
    ],
-   "busqueda_imagenes": "Trump diesel export ban Europe reserves",
+   "busqueda_imagenes": "FMI previsión crecimiento España octubre 2026",
    "fuentes": [
-    "France 24",
-    "NBC News",
-    "Infobae",
-    "Bloomberg Línea",
-    "Moncloa.com"
+    "Infobae (Europa Press)",
+    "The Objective",
+    "Moncloa.com",
+    "idealista/news",
+    "Deia",
+    "El Correo Gallego"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-14",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Diesel at the centre of a tug-of-war between the United States and Europe",
-    "entradilla": "Trump is threatening to stop selling diesel abroad while asking Europe to use its reserves.",
+    "titular": "The IMF raises Spain's 2026 growth forecast to 2.5%, but warns of 3.7% inflation",
+    "entradilla": "The organisation expects Spain to keep leading growth among Europe's big economies, with unemployment staying at 9.8%.",
     "parrafos": [
-     "Since the war with Iran began, the price of [[diesel|diesel]] has shot up: in the United States it has risen by more than 70%. That worries President [[Donald Trump|trump]], because there are congressional elections in his country on 3 November. So he has said he is thinking about banning exports of American diesel, so that more stays at home. Europe would have a hard time: more than half of the diesel the [[European Union|ue]] imports comes from the United States, according to the consultancy S&P Global. It is the fuel used by lorries, tractors and many cars, so its price ends up affecting almost everything we buy.",
-     "At the same time, Trump's Government is asking European countries – above all France and Germany, which hold most of Europe's [[strategic reserves|reservas]] – to put that diesel on sale now to bring prices down. The Europeans have not committed yet, and the European Commission will only say that it is in contact with member countries. There are doubts inside Trump's own team too: his Energy Secretary, Chris Wright, has warned that the ban would not work and could cut the production of other fuels. For now it is only a threat: nothing has been approved."
+     "The International Monetary Fund ([[IMF|fmi]]), the organisation that monitors the health of the world economy, published its new forecasts on Tuesday 13 October. It calculates that Spain's [[GDP|pib]], that is, everything the country produces in a year, will grow by 2.5% in 2026, four tenths more than in its previous estimate, and by 1.8% in 2027. That is more than double what it expects for the euro area this year (1.1%) and more than the United States (2.3%). According to the IMF, Spain remains Europe's most dynamic big economy.",
+     "There are also less positive figures. The IMF expects prices to rise by an average of 3.7% in Spain this year and 2.7% next year, a high level of [[inflation|inflacion]] at a time when the war with Iran has made energy more expensive. And it estimates that unemployment will stay at 9.8% in 2026 and 2027, a figure that is still high. For a family, a growing economy usually means more jobs and more income for the State, but if prices rise faster than wages, the same money buys less. Besides, these are only forecasts: they could change if the war or the price of oil changes."
     ],
     "nota_actualizacion": null
    }
@@ -1074,31 +1091,33 @@
    "id": "mohamed-vi-rompe-su-silencio-sobre-ceuta",
    "seccion": "es",
    "dibujo": "megaphone",
-   "titular": "El rey de Marruecos rompe su silencio sobre la crisis de Ceuta y los Reyes de España visitan la ciudad",
-   "entradilla": "Mohamed VI avisa de que la relación con España no admite presiones ni chantajes; Felipe VI y Letizia viajan hoy a Ceuta.",
+   "titular": "Los Reyes visitan Ceuta y Felipe VI afirma que la soberanía de España «no es negociable»",
+   "entradilla": "Felipe VI y Letizia visitaron Ceuta el martes, unos dos meses y medio después de la entrada masiva de personas desde Marruecos; hoy viajan a Melilla.",
    "parrafos": [
-    "A finales de julio de 2026 entraron de forma irregular en [[Ceuta|ceuta]], ciudad española en África, más de 70.000 personas según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años. Desde entonces, la mayoría regresó a [[Marruecos|marruecos]] y los dos países reforzaron sus controles. Marruecos no había dicho nada en público sobre lo ocurrido hasta ahora, y en España la crisis se ha convertido en un asunto de debate político. Hoy martes 13, los Reyes de España, Felipe VI y Letizia, viajan a Ceuta, y mañana a Melilla: es la primera visita de unos monarcas a Ceuta en 19 años; la última fue la de Juan Carlos I y Sofía en 2007.",
-    "El viernes 9 de octubre, al abrir la legislatura del Parlamento marroquí, [[Mohamed VI|mohamedvi]] habló por primera vez. Dijo que la asociación con España es «una elección soberana y un compromiso voluntario» que no puede someterse a presiones, amenazas ni chantajes, y criticó la «instrumentalización flagrante» de la situación por parte de ciertos medios políticos y mediáticos. Reconoció avances en la cooperación migratoria, pero señaló desafíos, como leyes anticuadas que dificultan devolver a los [[menores|menores]] a su país."
+    "El martes 13 de octubre, Felipe VI y Letizia visitaron [[Ceuta|ceuta]] por primera vez como Reyes: es la primera visita de la Casa Real a la ciudad en 19 años. A finales de julio de 2026 entraron de forma irregular desde [[Marruecos|marruecos]] más de 70.000 personas, según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años, y la mayoría regresó después. Los Reyes participaron en un homenaje ecuménico en el cementerio musulmán de Sidi Embarek, en memoria de migrantes fallecidos, y pasaron la noche en la ciudad. Hoy viajan a Melilla. La visita llega mes y medio antes de las elecciones, y el líder del PP, Alberto Núñez Feijóo, criticó que [[Pedro Sánchez|sanchez]] no les acompañara.",
+    "En su discurso, Felipe VI dijo que Ceuta y Melilla son parte irrenunciable de España y que la soberanía y la integridad territorial del país «no son negociables». Añadió que España y la Unión Europea quieren una buena relación con Marruecos, y pidió el respaldo de la UE para proteger las fronteras. Cuatro días antes, el viernes 9, el rey de Marruecos, [[Mohamed VI|mohamedvi]], había roto su silencio al abrir el Parlamento marroquí: aseguró que su asociación con España no puede someterse a presiones ni chantajes y criticó que ciertos medios y sectores políticos aprovechen la situación. También reconoció avances en la cooperación migratoria y señaló retos, como leyes anticuadas que dificultan devolver a los [[menores|menores]]."
    ],
-   "busqueda_imagenes": "Ceuta frontera Marruecos Mohamed VI Parlamento",
+   "busqueda_imagenes": "Reyes Felipe VI Letizia visita Ceuta",
    "fuentes": [
     "Infobae",
+    "El Plural",
+    "Infodefensa",
+    "El Español",
     "Moncloa.com",
-    "Capital",
-    "Catalunya Press",
+    "France 24",
     "The Objective"
    ],
    "publicada": "2026-10-10",
-   "actualizada": "2026-10-13",
-   "nota_actualizacion": "Los Reyes de España visitan Ceuta el 13 de octubre y Melilla el 14, en la primera visita real en 19 años.",
+   "actualizada": "2026-10-14",
+   "nota_actualizacion": "Los Reyes visitaron Ceuta el 13 de octubre, en la primera visita real en 19 años; Felipe VI dijo que la soberanía y la integridad de España «no son negociables».",
    "en": {
-    "titular": "Morocco's king breaks his silence on the Ceuta crisis and Spain's King and Queen visit the city",
-    "entradilla": "Mohamed VI warns that the relationship with Spain does not allow pressure or blackmail; Felipe VI and Letizia travel to Ceuta today.",
+    "titular": "The King and Queen visit Ceuta and Felipe VI says Spain's sovereignty is 'not negotiable'",
+    "entradilla": "Felipe VI and Letizia visited Ceuta on Tuesday, about two and a half months after the mass entry of people from Morocco; today they travel to Melilla.",
     "parrafos": [
-     "At the end of July 2026, according to estimates, more than 70,000 people entered irregularly into [[Ceuta|ceuta]], a Spanish city in Africa, the biggest episode on that [[border|frontera]] in years. Since then, most have returned to [[Morocco|marruecos]] and the two countries have tightened their controls. Morocco had said nothing in public about what happened until now, and in Spain the crisis has become a matter of political debate. Today, Tuesday 13, Spain's King and Queen, Felipe VI and Letizia, travel to Ceuta, and tomorrow to Melilla: it is the first visit by Spanish monarchs to Ceuta in 19 years; the last was by Juan Carlos I and Sofía in 2007.",
-     "On Friday 9 October, at the opening of the Moroccan Parliament's new session, [[Mohamed VI|mohamedvi]] spoke for the first time. He said that the partnership with Spain is \"a sovereign choice and a voluntary commitment\" that cannot be subject to pressure, threats or blackmail, and criticised the \"flagrant exploitation\" of the situation by certain political and media circles. He acknowledged progress in migration cooperation but pointed to challenges, such as outdated laws that make it hard to send [[unaccompanied minors|menores]] back to their country."
+     "On Tuesday 13 October, Felipe VI and Letizia visited [[Ceuta|ceuta]] for the first time as King and Queen: it is the first visit by the Royal Household to the city in 19 years. At the end of July 2026, according to estimates, more than 70,000 people entered irregularly from [[Morocco|marruecos]], the biggest episode on that [[border|frontera]] in years, and most went back afterwards. The monarchs took part in an ecumenical tribute at the Muslim cemetery of Sidi Embarek, in memory of migrants who died, and spent the night in the city. Today they travel to Melilla. The visit comes a month and a half before the election, and the PP leader, Alberto Núñez Feijóo, criticised the fact that [[Pedro Sánchez|sanchez]] did not accompany them.",
+     "In his speech, Felipe VI said that Ceuta and Melilla are an inalienable part of Spain and that the country's sovereignty and territorial integrity are 'not negotiable'. He added that Spain and the European Union want a good relationship with Morocco, and asked for the EU's backing to protect the borders. Four days earlier, on Friday 9, Morocco's king, [[Mohamed VI|mohamedvi]], had broken his silence at the opening of the Moroccan Parliament: he said that his country's partnership with Spain cannot be subject to pressure or blackmail, and criticised certain media and political circles for exploiting the situation. He also acknowledged progress in migration cooperation and pointed to challenges, such as outdated laws that make it hard to send [[unaccompanied minors|menores]] back."
     ],
-    "nota_actualizacion": "Spain's King and Queen visit Ceuta on 13 October and Melilla on 14 October, the first royal visit in 19 years."
+    "nota_actualizacion": "The King and Queen visited Ceuta on 13 October, the first royal visit in 19 years; Felipe VI said Spain's sovereignty and integrity are 'not negotiable'."
    }
   },
   {
@@ -2402,11 +2421,191 @@
     "n": "Lionel Messi",
     "x": "An Argentine footballer, considered one of the best in history. He won the 2022 World Cup with Argentina."
    }
+  },
+  "supremo": {
+   "t": "lugar",
+   "n": "Tribunal Supremo",
+   "x": "El tribunal más alto de España en la mayoría de los asuntos. Sus decisiones fijan cómo se aplican las leyes.",
+   "en": {
+    "n": "Supreme Court",
+    "x": "The highest court in Spain for most matters. Its decisions set how the laws are applied."
+   }
+  },
+  "suspensioncautelar": {
+   "t": "palabra",
+   "n": "Suspensión cautelar",
+   "x": "Decisión provisional de un tribunal que para los efectos de algo mientras decide si es legal, para evitar daños que luego no se puedan arreglar.",
+   "en": {
+    "n": "Precautionary suspension",
+    "x": "A temporary decision by a court that halts the effects of something while it decides whether it is lawful, to prevent harm that could not be repaired later."
+   }
+  },
+  "leynietos": {
+   "t": "palabra",
+   "n": "Ley de nietos",
+   "x": "Nombre popular de una parte de la Ley de Memoria Democrática de 2022. Permite pedir la nacionalidad española a hijos y nietos de españoles que se exiliaron, sobre todo entre 1936 y 1955.",
+   "en": {
+    "n": "Grandchildren's law ('ley de nietos')",
+    "x": "Popular name for part of Spain's 2022 Democratic Memory Law. It lets the children and grandchildren of Spaniards who went into exile, mostly between 1936 and 1955, apply for Spanish nationality."
+   }
+  },
+  "censo": {
+   "t": "palabra",
+   "n": "Censo electoral",
+   "x": "La lista oficial de las personas que pueden votar en unas elecciones.",
+   "en": {
+    "n": "Electoral roll",
+    "x": "The official list of the people who are allowed to vote in an election."
+   }
+  },
+  "huelgaindefinida": {
+   "t": "palabra",
+   "n": "Huelga indefinida",
+   "x": "Una huelga sin fecha de final: los trabajadores dejan de trabajar hasta que haya un acuerdo o los sindicatos decidan terminarla. En servicios importantes, como la educación, debe haber unos servicios mínimos.",
+   "en": {
+    "n": "Indefinite strike",
+    "x": "A strike with no end date: workers stop working until there is an agreement or the unions decide to end it. In important services, such as education, a minimum service must be kept running."
+   }
+  },
+  "ccaa": {
+   "t": "palabra",
+   "n": "Comunidad autónoma",
+   "x": "Cada una de las 17 regiones de España con gobierno y parlamento propios. Gestionan servicios como la educación y la sanidad.",
+   "en": {
+    "n": "Autonomous community",
+    "x": "Each of Spain's 17 regions with its own government and parliament. They run services such as education and healthcare."
+   }
+  },
+  "sol": {
+   "t": "lugar",
+   "n": "Puerta del Sol",
+   "x": "Plaza céntrica de Madrid donde terminan muchas manifestaciones. Es también el punto kilómetro cero de las carreteras de España.",
+   "en": {
+    "n": "Puerta del Sol",
+    "x": "A central square in Madrid where many demonstrations end. It is also the 'kilometre zero' point of Spain's roads."
+   }
+  },
+  "fmi": {
+   "t": "palabra",
+   "n": "FMI (Fondo Monetario Internacional)",
+   "x": "Organización de 190 países que vigila la economía mundial, publica previsiones y presta dinero a países con problemas.",
+   "en": {
+    "n": "IMF (International Monetary Fund)",
+    "x": "An organisation of 190 countries that monitors the world economy, publishes forecasts and lends money to countries in difficulty."
+   }
+  },
+  "pib": {
+   "t": "palabra",
+   "n": "PIB (Producto Interior Bruto)",
+   "x": "El valor de todo lo que produce un país en un año. Si crece, la economía va mejor; si baja, va peor.",
+   "en": {
+    "n": "GDP (Gross Domestic Product)",
+    "x": "The value of everything a country produces in a year. If it grows, the economy is doing better; if it falls, it is doing worse."
+   }
+  },
+  "champions": {
+   "t": "palabra",
+   "n": "Liga de Campeones",
+   "x": "La competición de clubes más importante de Europa, organizada por la UEFA. Participan los mejores equipos de cada país.",
+   "en": {
+    "n": "Champions League",
+    "x": "Europe's most important club competition, organised by UEFA. The best teams from each country take part."
+   }
+  },
+  "fasedeliga": {
+   "t": "palabra",
+   "n": "Fase de liga",
+   "x": "Primera parte de la Champions desde 2024: 36 equipos, una sola clasificación y ocho partidos cada uno contra rivales distintos.",
+   "en": {
+    "n": "League phase",
+    "x": "The first stage of the Champions League since 2024: 36 teams, one single table and eight matches each against different opponents."
+   }
+  },
+  "galatasaray": {
+   "t": "palabra",
+   "n": "Galatasaray",
+   "x": "Uno de los clubes de fútbol más importantes de Turquía, con sede en Estambul.",
+   "en": {
+    "n": "Galatasaray",
+    "x": "One of Turkey's most important football clubs, based in Istanbul."
+   }
+  },
+  "sorolla": {
+   "t": "persona",
+   "n": "Joaquín Sorolla",
+   "x": "Pintor valenciano (1863-1923), famoso por sus cuadros de luz mediterránea: playas, niños en el agua y paisajes.",
+   "en": {
+    "n": "Joaquín Sorolla",
+    "x": "Valencian painter (1863-1923), famous for his paintings of Mediterranean light: beaches, children in the water and landscapes."
+   }
+  },
+  "chamberi": {
+   "t": "lugar",
+   "n": "Chamberí",
+   "x": "Barrio céntrico de Madrid donde está el Museo Sorolla.",
+   "en": {
+    "n": "Chamberí",
+    "x": "A central district of Madrid where the Sorolla Museum is located."
+   }
+  },
+  "accesibilidad": {
+   "t": "palabra",
+   "n": "Accesibilidad",
+   "x": "Que un lugar pueda ser usado por todo el mundo, también por personas que van en silla de ruedas o que no ven bien.",
+   "en": {
+    "n": "Accessibility",
+    "x": "Making a place usable by everyone, including people who use a wheelchair or have poor eyesight."
+   }
+  },
+  "iberoamerica": {
+   "t": "lugar",
+   "n": "Iberoamérica",
+   "x": "Conjunto de países de América donde se habla español o portugués, junto con España y Portugal.",
+   "en": {
+    "n": "Ibero-America",
+    "x": "The group of countries in the Americas where Spanish or Portuguese is spoken, together with Spain and Portugal."
+   }
+  },
+  "cadiz": {
+   "t": "lugar",
+   "n": "Cádiz",
+   "x": "Ciudad andaluza en la costa atlántica, una de las más antiguas de Europa occidental. Fue un gran puerto del comercio con América.",
+   "en": {
+    "n": "Cádiz",
+    "x": "An Andalusian city on the Atlantic coast, one of the oldest in western Europe. It was a major port for trade with the Americas."
+   }
+  },
+  "compania": {
+   "t": "palabra",
+   "n": "Compañía de teatro",
+   "x": "Grupo de actores y técnicos que montan y representan obras juntos.",
+   "en": {
+    "n": "Theatre company",
+    "x": "A group of actors and technicians who put on and perform plays together."
+   }
+  },
+  "hinton": {
+   "t": "persona",
+   "n": "Geoffrey Hinton",
+   "x": "Científico británico-canadiense, pionero de las redes neuronales que hacen funcionar la IA actual. Ganó el Nobel de Física en 2024.",
+   "en": {
+    "n": "Geoffrey Hinton",
+    "x": "British-Canadian scientist, a pioneer of the neural networks behind today’s AI. He won the Nobel Prize in Physics in 2024."
+   }
+  },
+  "bengio": {
+   "t": "persona",
+   "n": "Yoshua Bengio",
+   "x": "Científico canadiense, otro pionero del aprendizaje profundo en inteligencia artificial. Ganó el premio Turing en 2018.",
+   "en": {
+    "n": "Yoshua Bengio",
+    "x": "Canadian scientist, another pioneer of deep learning in artificial intelligence. He won the Turing Award in 2018."
+   }
   }
  },
- "edicion_en": "Tuesday 13 October 2026",
+ "edicion_en": "Wednesday 14 October 2026",
  "destacada": {
-  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-10-13"
+  "id": "mohamed-vi-rompe-su-silencio-sobre-ceuta",
+  "fecha": "2026-10-14"
  }
 }
