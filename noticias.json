@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-14T07:00:00+02:00",
- "edicion": "Miércoles 14 de octubre de 2026",
+ "actualizado": "2026-10-15T07:00:00+02:00",
+ "edicion": "Jueves 15 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -71,11 +71,11 @@
    "id": "cientos-de-personas-acampan-en-sol-por-la-vivien",
    "seccion": "es",
    "dibujo": "tents",
-   "titular": "Muere Maricarmen y los sindicatos convocan una huelga general por la vivienda",
-   "entradilla": "La mujer de 87 años desahuciada en Madrid, símbolo de las protestas, murió el miércoles; los sindicatos confirmaron el paro.",
+   "titular": "Muere Maricarmen y los sindicatos fijan la huelga general por la vivienda para el 11 de noviembre",
+   "entradilla": "La mujer de 87 años desahuciada en Madrid murió el 7 de octubre; el paro de 24 horas será dos días antes de la campaña electoral.",
    "parrafos": [
     "Maricarmen, de 87 años, murió el miércoles 7 de octubre en el Hospital Gregorio Marañón de Madrid. Llevaba ingresada desde el 23 de septiembre, cuando la sacaron en camilla de su piso de alquiler tras ocho años de juicios. El [[Sindicato de Inquilinas|sindicato]] de Madrid, que dio la noticia, dice que el acuerdo con la empresa propietaria para que volviera a su casa llegó demasiado tarde. Pedro Sánchez expresó sus condolencias. Su [[desahucio|desahucio]] encendió las protestas por la vivienda de las últimas semanas, con manifestaciones en muchas ciudades y una acampada en la Puerta del Sol.",
-    "UGT, CCOO, CGT y otras organizaciones confirmaron el miércoles la [[huelga general|huelgageneral]] por la vivienda y los salarios. Según los medios, lo más probable es que sea el miércoles 11 de noviembre, dos días antes de que empiece la campaña electoral, aunque la fecha aún no es oficial. La patronal CEOE duda de que sea legal porque la considera política. La central USO no se suma, porque con el Parlamento disuelto no hay quien atienda las peticiones. Sánchez dijo que el Gobierno no tiene nada que decir ante el ejercicio de un derecho constitucional como la huelga."
+    "CCOO, UGT, CGT, CNT y otras organizaciones, junto al Sindicato de Inquilinas, han fijado ya la fecha de la [[huelga general|huelgageneral]] de 24 horas por la vivienda y los salarios: el miércoles 11 de noviembre, dos días antes de que empiece la campaña electoral. Será la primera huelga general respaldada a la vez por CCOO y UGT desde 2012. La patronal CEOE duda de que sea legal porque la considera política. La central USO no se suma, porque con el Parlamento disuelto no hay quien atienda las peticiones. Sánchez dijo que el Gobierno no tiene nada que decir ante el ejercicio de un derecho constitucional como la huelga."
    ],
    "busqueda_imagenes": "Puerta del Sol acampada vivienda huelga",
    "fuentes": [
@@ -85,19 +85,22 @@
     "El Español",
     "Infobae",
     "elEconomista",
-    "Vozpópuli"
+    "Vozpópuli",
+    "Euronews",
+    "Qué!",
+    "Moncloa.com"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-08",
-   "nota_actualizacion": "Maricarmen murió el 7 de octubre y los sindicatos confirmaron la huelga general; la fecha, aún no oficial, apunta al 11 de noviembre.",
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "La huelga general tiene ya fecha oficial: el 11 de noviembre, la primera respaldada por CCOO y UGT a la vez desde 2012.",
    "en": {
-    "titular": "Maricarmen dies and the unions call a general strike over housing",
-    "entradilla": "The 87-year-old woman evicted in Madrid, a symbol of the protests, died on Wednesday; the unions confirmed the strike.",
+    "titular": "Maricarmen dies and the unions set the general strike over housing for 11 November",
+    "entradilla": "The 87-year-old woman evicted in Madrid died on 7 October; the 24-hour strike will be two days before the election campaign.",
     "parrafos": [
      "Maricarmen, aged 87, died on Wednesday 7 October in the Gregorio Marañón Hospital in Madrid. She had been in hospital since 23 September, when she was carried out of her rented flat on a stretcher after eight years of court cases. The Madrid [[Tenants' Union|sindicato]], which announced the news, says the agreement with the owning company to let her return home came too late. Pedro Sánchez expressed his condolences. Her [[eviction|desahucio]] set off the housing protests of recent weeks, with demonstrations in many cities and a camp in the Puerta del Sol.",
-     "UGT, CCOO, CGT and other organisations confirmed on Wednesday the [[general strike|huelgageneral]] over housing and wages. According to the media, it will most likely be on Wednesday 11 November, two days before the election campaign begins, although the date is not yet official. The employers' federation CEOE doubts it is legal because it sees it as political. The union USO is not joining, because with Parliament dissolved there is nobody to answer the demands. Sánchez said the Government has nothing to say about the exercise of a constitutional right such as the right to strike."
+     "CCOO, UGT, CGT, CNT and other organisations, together with the Tenants' Union, have now set the date of the 24-hour [[general strike|huelgageneral]] over housing and wages: Wednesday 11 November, two days before the election campaign begins. It will be the first general strike backed by both CCOO and UGT since 2012. The employers' federation CEOE doubts it is legal because it sees it as political. The union USO is not joining, because with Parliament dissolved there is nobody to answer the demands. Sánchez said the Government has nothing to say about the exercise of a constitutional right such as the right to strike."
     ],
-    "nota_actualizacion": "Maricarmen died on 7 October and the unions confirmed the general strike; the date, not yet official, points to 11 November."
+    "nota_actualizacion": "The general strike now has an official date: 11 November, the first backed by CCOO and UGT together since 2012."
    }
   },
   {
@@ -200,11 +203,11 @@
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Huelga indefinida del profesorado en Madrid, con concentraciones de apoyo en seis provincias andaluzas",
-   "entradilla": "Los sindicatos piden menos horas de clase, menos alumnos por aula y mejores sueldos; la Comunidad de Madrid la considera «política e innecesaria».",
+   "titular": "Arranca la huelga indefinida del profesorado en Madrid: 70 % de seguimiento según CCOO y 44,6 % según la Comunidad",
+   "entradilla": "Miles de personas se manifestaron en la Puerta del Sol; en seis provincias andaluzas estaban convocadas concentraciones de apoyo.",
    "parrafos": [
-    "Desde hoy, miércoles 14 de octubre, el profesorado de la enseñanza pública no universitaria de la Comunidad de Madrid está llamado a una [[huelga indefinida|huelgaindefinida]], algo inédito en la región: no tiene fecha de fin. La convocan CCOO, CGT, CNT, Solidaridad Obrera, STEM y UGT, junto con varias plataformas docentes. Piden reducir las horas de clase de cada profesor, bajar el número de alumnos por aula, recuperar poder adquisitivo y contratar más personal. Por la tarde habrá una manifestación que terminará en la [[Puerta del Sol|sol]]. La consejera de Educación, Mercedes Zarzalejo, rechaza los motivos y la califica de «política e innecesaria».",
-    "La huelga es en Madrid, pero también se nota en Andalucía: hoy hay concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública y mostrar solidaridad con el profesorado madrileño. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos hablan de aulas masificadas, exceso de burocracia y falta de personal; el Gobierno regional defiende que esos motivos no justifican una huelga. Para las familias, una huelga indefinida significa incertidumbre sobre cuántos días habrá clase con normalidad."
+    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre, algo inédito en la región porque no tiene fecha de fin. Según CCOO, la secundó un 70 % de los docentes; la Consejería de Educación habla de un 44,6 %, asegura que se cumplieron los servicios mínimos y considera que los acuerdos vigentes ya recogen buena parte de las peticiones. Hubo piquetes por la mañana, un corte de tráfico en la Castellana y, por la tarde, miles de personas con camisetas verdes en la [[Puerta del Sol|sol]]. En la Universidad Complutense, según fuentes policiales, cinco estudiantes fueron detenidos durante un piquete y dos agentes resultaron heridos leves; los estudiantes hablan de una respuesta desproporcionada.",
+    "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden menos horas de clase, menos alumnos por aula, más personal y una subida de sueldo. Para las familias, una huelga indefinida significa incertidumbre sobre cuántos días habrá clase con normalidad."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
    "fuentes": [
@@ -212,49 +215,53 @@
     "El Diario de Madrid",
     "Qué!",
     "Tercera Información",
-    "Teleprensa"
+    "Teleprensa",
+    "Infobae (EFE)",
+    "Aragón Digital",
+    "Demócrata"
    ],
    "publicada": "2026-10-14",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "El primer día, CCOO cifra el seguimiento en un 70 % y la Comunidad en un 44,6 %; hubo miles de manifestantes en Sol y cinco estudiantes detenidos en la Complutense.",
    "en": {
-    "titular": "Indefinite strike by teachers in Madrid, with support rallies in six Andalusian provinces",
-    "entradilla": "The unions want fewer teaching hours, fewer pupils per class and better pay; the Community of Madrid calls the strike 'political and unnecessary'.",
+    "titular": "Madrid teachers' indefinite strike begins: 70% turnout according to CCOO and 44.6% according to the regional government",
+    "entradilla": "Thousands of people marched to the Puerta del Sol; support rallies were called in six Andalusian provinces.",
     "parrafos": [
-     "From today, Wednesday 14 October, teachers in public non-university education in the Community of Madrid are called out on an [[indefinite strike|huelgaindefinida]], something unprecedented in the region: it has no end date. It is called by CCOO, CGT, CNT, Solidaridad Obrera, STEM and UGT, together with several teachers' platforms. They want to reduce each teacher's classroom hours, lower the number of pupils per class, recover purchasing power and hire more staff. In the afternoon there will be a demonstration ending at the [[Puerta del Sol|sol]]. The regional education chief, Mercedes Zarzalejo, rejects the reasons and calls it 'political and unnecessary'.",
-     "The strike is in Madrid, but it is also felt in Andalusia: today there are support rallies in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education and show solidarity with Madrid's teachers. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions talk of overcrowded classrooms, excess paperwork and a lack of staff; the regional government argues that those reasons do not justify a strike. For families, an indefinite strike means uncertainty about how many days of normal lessons there will be."
+     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October, something unprecedented in the region because it has no end date. According to CCOO, 70% of teachers joined it; the regional Education Department puts the figure at 44.6%, says minimum services were met and considers that existing agreements already cover much of what is being asked. There were pickets in the morning, a traffic blockade on the Castellana and, in the afternoon, thousands of people in green shirts in the [[Puerta del Sol|sol]]. At the Complutense University, according to police sources, five students were arrested during a picket and two officers were slightly injured; the students speak of a disproportionate response.",
+     "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want fewer teaching hours, fewer pupils per class, more staff and a pay rise. For families, an indefinite strike means uncertainty about how many days of normal lessons there will be."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On the first day, CCOO puts turnout at 70% and the regional government at 44.6%; thousands marched in Sol and five students were arrested at the Complutense."
    }
   },
   {
    "id": "moreno-defiende-fondos-europeos-bruselas-presupuesto-ue",
    "seccion": "and",
    "dibujo": "eu",
-   "titular": "Moreno defiende en Bruselas los fondos europeos para las regiones ante un presupuesto de la UE más recortado",
-   "entradilla": "El borrador de la presidencia irlandesa rebaja en torno a un 8 % la propuesta de la Comisión para 2028-2034.",
+   "titular": "Moreno defiende en Bruselas los fondos europeos para las regiones y Sánchez rechazará el recorte del presupuesto de la UE",
+   "entradilla": "El borrador de la presidencia irlandesa rebaja en torno a un 8 % la propuesta de la Comisión para 2028-2034; los líderes se reúnen en Bruselas.",
    "parrafos": [
     "El lunes 12 de octubre, [[Juanma Moreno|moreno]] habló en el Parlamento Europeo, en Bruselas, durante la Semana Europea de las Regiones y las Ciudades. Se opuso a que los Gobiernos nacionales se queden con la gestión de los fondos del próximo [[presupuesto de la UE|presupuestoue]], el de 2028 a 2034, y defendió que las regiones y los ayuntamientos sigan decidiendo en qué se gasta. Según Moreno, cuando Europa pierde presencia sobre el terreno la gente deja de notar el proyecto europeo en su vida diaria, y la [[política de cohesión|cohesion]] ha beneficiado a toda Europa, no solo a las zonas más pobres.",
-    "El debate llega después de que la presidencia irlandesa del Consejo de la [[Unión Europea|ue]] presentara el sábado 10 un borrador del presupuesto de 2028 a 2034 que es un 8 % menor que la propuesta de la Comisión Europea, que lamentó el recorte y la menor flexibilidad. Los países llamados «frugales», como Alemania, Países Bajos o Suecia, piden gastar menos. El grupo de los «amigos de la cohesión», con España, Italia, Portugal y Grecia, defiende que la agricultura y la cohesión sigan siendo prioridades. Es solo un borrador: tienen que acordarlo los 27 países."
+    "El debate llega después de que la presidencia irlandesa del Consejo de la [[Unión Europea|ue]] presentara el sábado 10 un borrador del presupuesto de 2028 a 2034 de 1,62 billones de euros, frente a los 1,76 billones de la propuesta de la Comisión Europea: un 8 % menos. Según el Gobierno español, recorta más de un 20 % la política agraria común. Pedro Sánchez tiene previsto rechazarlo hoy, jueves 15, en la cumbre de líderes en Bruselas. Los países «frugales», como Alemania, Países Bajos o Suecia, piden gastar menos; el grupo de los «amigos de la cohesión», con España, Italia, Portugal y Grecia, defiende la agricultura y la cohesión. Es solo un borrador: tienen que acordarlo los 27 países."
    ],
    "busqueda_imagenes": "Parlamento Europeo Bruselas Semana de las Regiones",
    "fuentes": [
     "Andalucía Información",
     "Infobae (Europa Press)",
     "Moncloa.com",
-    "Deia"
+    "Deia",
+    "El Plural"
    ],
    "publicada": "2026-10-13",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "Sánchez tiene previsto rechazar el borrador (1,62 billones de euros) en la cumbre de Bruselas del 15 de octubre; el Gobierno denuncia un recorte de más del 20 % en la política agraria.",
    "en": {
-    "titular": "Moreno defends European funds for the regions in Brussels as the EU budget faces cuts",
-    "entradilla": "The Irish presidency's draft lowers the Commission's proposal for 2028-2034 by around 8%.",
+    "titular": "Moreno defends European funds for the regions in Brussels and Sánchez will reject the EU budget cut",
+    "entradilla": "The Irish presidency's draft lowers the Commission's proposal for 2028-2034 by around 8%; the leaders meet in Brussels.",
     "parrafos": [
      "On Monday 12 October, [[Juanma Moreno|moreno]] spoke in the European Parliament in Brussels, during the European Week of Regions and Cities. He opposed national governments keeping control of the funds in the next [[EU budget|presupuestoue]], the one for 2028 to 2034, and argued that regions and town councils should keep deciding what the money is spent on. According to Moreno, when Europe loses its presence on the ground people stop noticing the European project in their daily lives, and [[cohesion policy|cohesion]] has benefited the whole of Europe, not just the poorest areas.",
-     "The debate comes after Ireland, which holds the presidency of the Council of the [[European Union|ue]], presented on Saturday 10 a draft budget for 2028 to 2034 that is 8% smaller than the European Commission's proposal; the Commission regretted the cut and the reduced flexibility. The so-called 'frugal' countries, such as Germany, the Netherlands or Sweden, want to spend less. The group of 'friends of cohesion', with Spain, Italy, Portugal and Greece, argues that agriculture and cohesion must remain priorities. It is only a draft: all 27 countries have to agree on it."
+     "The debate comes after Ireland, which holds the presidency of the Council of the [[European Union|ue]], presented on Saturday 10 a draft budget for 2028 to 2034 of 1.62 trillion euros, compared with the 1.76 trillion in the European Commission's proposal: 8% less. According to the Spanish Government, it cuts the common agricultural policy by more than 20%. Pedro Sánchez plans to reject it today, Thursday 15, at the leaders' summit in Brussels. The so-called 'frugal' countries, such as Germany, the Netherlands or Sweden, want to spend less; the group of 'friends of cohesion', with Spain, Italy, Portugal and Greece, defends agriculture and cohesion. It is only a draft: all 27 countries have to agree on it."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "Sánchez plans to reject the draft (1.62 trillion euros) at the Brussels summit on 15 October; the Government says it cuts agricultural policy by more than 20%."
    }
   },
   {
@@ -390,11 +397,11 @@
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Trump anuncia un alto el fuego energético que Rusia no confirma",
-   "entradilla": "Según Kiev y el parte ruso, el martes no hubo ataques energéticos, pero Moscú sigue sin confirmar el acuerdo.",
+   "titular": "Ucrania: Rusia lanza un gran ataque contra la red eléctrica tres días después del anuncio de tregua de Trump",
+   "entradilla": "El Kremlin dice que el acuerdo energético nunca se cerró, así que no lo incumple; Kiev denuncia falta de respeto a EE. UU.",
    "parrafos": [
-    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania han aceptado un [[alto el fuego|altoelfuego]] en el sector energético: dejarían de atacar las centrales, las redes y otras [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Rusia no ha confirmado el acuerdo: su portavoz, Dmitri Peskov, solo dijo que «los contactos continúan». [[Zelenski|zelenski]] dijo que Ucrania lo respetaría si Rusia hacía lo mismo, y que se enteró del anuncio por las redes sociales. Algo parecido ya se anunció el 14 de septiembre, y los ataques no pararon.",
-    "Tras el anuncio, Zelenski denunció que Rusia atacó una central eléctrica en la región de Járkov, y las autoridades ucranianas hablaron de ataques a otras instalaciones energéticas en la de Zhytómir. El martes 13, sin embargo, ni Kiev ni Moscú informaron de ataques a objetivos energéticos: Zelenski dijo que Ucrania lleva dos días sin atacar refinerías rusas, y el parte del Ministerio de Defensa ruso solo mencionó objetivos industriales, militares y de transporte. El 7 de octubre, un ataque con misiles y drones contra [[Kiev|kiev]] mató al menos a 11 personas. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados."
+    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania habían aceptado un [[alto el fuego|altoelfuego]] en el sector energético: no atacarían las [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Ni Moscú ni Kiev confirmaron el acuerdo. [[Zelenski|zelenski]] dijo que Ucrania lo respetaría si Rusia hacía lo mismo, y su país llevaba dos días sin atacar refinerías rusas. Pero el miércoles 14 Rusia lanzó su primer gran ataque contra el sistema eléctrico ucraniano desde el anuncio: según la compañía eléctrica estatal Ukrenergo, alcanzó tres centrales térmicas cerca de Kiev, y hubo cortes de luz en la capital, en Járkov y en otras seis zonas.",
+    "Según medios internacionales, el ataque mató al menos a cinco civiles y dejó sin electricidad a unas 600.000 personas. Zelenski dijo que mostraba falta de respeto hacia Estados Unidos. El Kremlin respondió, por boca de su portavoz Dmitri Peskov, que el acuerdo nunca llegó a concretarse y que por eso Rusia no lo incumple; el viceprimer ministro Alexandr Nóvak acusó a Ucrania de atacar dos refinerías, en las regiones de Sarátov y Riazán. Ya se anunció algo parecido el 14 de septiembre y los ataques no pararon. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados en [[Kiev|kiev]] y el resto del país."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -404,19 +411,22 @@
     "Swissinfo",
     "Diario Libre",
     "Perfil",
-    "El Español"
+    "El Español",
+    "ABC Color",
+    "Revista Mercado",
+    "La Jornada"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-14",
-   "nota_actualizacion": "El martes 13 ni Kiev ni Moscú informaron de ataques energéticos, aunque Rusia aún no ha confirmado la tregua.",
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "El miércoles 14 Rusia lanzó su primer gran ataque contra la red eléctrica ucraniana desde el anuncio de la tregua energética, que el Kremlin dice que nunca se cerró.",
    "en": {
-    "titular": "Ukraine: Trump announces an energy ceasefire that Russia has not confirmed",
-    "entradilla": "According to Kyiv and the Russian report, there were no energy attacks on Tuesday, but Moscow still has not confirmed the deal.",
+    "titular": "Ukraine: Russia launches a major attack on the power grid three days after Trump's truce announcement",
+    "entradilla": "The Kremlin says the energy deal was never finalised, so it is not breaking it; Kyiv accuses Russia of disrespecting the US.",
     "parrafos": [
-     "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine have agreed to an energy-sector [[ceasefire|altoelfuego]]: they would stop attacking each other's power plants, grids and other [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Russia has not confirmed the deal: its spokesman, Dmitry Peskov, only said that 'contacts continue'. [[Zelensky|zelenski]] said Ukraine would respect it if Russia did the same, and that he found out about the announcement on social media. Something similar was already announced on 14 September, and the attacks did not stop.",
-     "After the announcement, Zelensky said Russia attacked a power plant in the Kharkiv region, and Ukrainian authorities reported attacks on other energy facilities in Zhytomyr. On Tuesday 13, however, neither Kyiv nor Moscow reported attacks on energy targets: Zelensky said Ukraine had gone two days without hitting Russian refineries, and the Russian Defence Ministry's report mentioned only industrial, military and transport targets. On 7 October, a missile and drone attack on [[Kyiv|kiev]] killed at least 11 people. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people."
+     "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine had agreed to an energy-sector [[ceasefire|altoelfuego]]: they would not attack each other's [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Neither Moscow nor Kyiv confirmed the deal. [[Zelensky|zelenski]] said Ukraine would respect it if Russia did the same, and his country had gone two days without hitting Russian refineries. But on Wednesday 14 Russia launched its first major attack on Ukraine's power system since the announcement: according to the state electricity company Ukrenergo, it hit three thermal power plants near Kyiv, and there were power cuts in the capital, in Kharkiv and in six other areas.",
+     "According to international media, the attack killed at least five civilians and left around 600,000 people without electricity. Zelensky said it showed a lack of respect towards the United States. The Kremlin replied, through its spokesman Dmitry Peskov, that the deal never took shape and that Russia is therefore not breaking it; Deputy Prime Minister Alexander Novak accused Ukraine of attacking two refineries, in the Saratov and Ryazan regions. Something similar was announced on 14 September and the attacks did not stop. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people in [[Kyiv|kiev]] and across the rest of the country."
     ],
-    "nota_actualizacion": "On Tuesday 13 neither Kyiv nor Moscow reported energy attacks, although Russia has still not confirmed the truce."
+    "nota_actualizacion": "On Wednesday 14 Russia launched its first major attack on Ukraine's power grid since the energy truce was announced; the Kremlin says it was never finalised."
    }
   },
   {
@@ -512,11 +522,11 @@
    "id": "barca-atletico-villarreal-ganan-champions-jornada-2",
    "seccion": "dep",
    "dibujo": "trophy",
-   "titular": "Barça, Atlético y Villarreal ganan en la Champions; el Madrid juega hoy en Roma",
-   "entradilla": "El Barcelona goleó 4-1 en Estambul, el Atlético batió 2-0 al Manchester United y el Villarreal venció 3-1 al Nápoles.",
+   "titular": "Barça, Atlético y Villarreal ganan en la Champions; el Madrid remonta en Roma (3-4)",
+   "entradilla": "El Barcelona goleó 4-1 en Estambul, el Atlético batió 2-0 al Manchester United, el Villarreal venció 3-1 al Nápoles y el Madrid ganó 4-3 a la Roma.",
    "parrafos": [
     "La segunda jornada de la fase de liga de la [[Liga de Campeones|champions]] dejó el martes 13 de octubre tres victorias de equipos españoles. El Barcelona ganó 4-1 en el campo del [[Galatasaray|galatasaray]], en Estambul, tras empezar perdiendo. El Atlético de Madrid venció 2-0 al Manchester United en el Metropolitano, y el Villarreal batió 3-1 al Nápoles en La Cerámica. Fuera de España, el Arsenal ganó 3-0 al Lille y el Club Brujas dio la sorpresa al vencer 4-3 al Inter en Milán, en un partido de siete goles.",
-    "En la nueva fórmula de la Champions, la [[fase de liga|fasedeliga]], cada equipo juega ocho partidos contra rivales distintos y todos se ordenan en una sola clasificación. Los ocho primeros pasan directamente a octavos de final, y los equipos del noveno al vigésimo cuarto juegan una eliminatoria extra. Hoy miércoles 14 de octubre le toca al Real Madrid, que visita a la Roma en el estadio Olímpico a las 21:00 horas. Con este sistema, la UEFA pretende que haya más partidos importantes y menos encuentros en los que ya no hay nada en juego."
+    "En la nueva fórmula de la Champions, la [[fase de liga|fasedeliga]], cada equipo juega ocho partidos contra rivales distintos y todos se ordenan en una sola clasificación: los ocho primeros pasan directos a octavos, y del noveno al vigésimo cuarto juegan una eliminatoria extra. El Real Madrid jugó el miércoles 14 en Roma y ganó 4-3 tras ir perdiendo 3-1: Mbappé había marcado el primero, y Espí, Endrick y Rüdiger anotaron los tres últimos, entre el minuto 83 y el descuento, todos tras saques de esquina. Suma seis puntos en dos jornadas. La UEFA quiere así más partidos importantes y menos encuentros sin nada en juego."
    ],
    "busqueda_imagenes": "Champions League jornada 2 Barcelona Galatasaray Atlético Villarreal",
    "fuentes": [
@@ -524,19 +534,21 @@
     "Claro Sports",
     "Metro Ecuador",
     "Real Madrid CF",
-    "El Periódico de Ceuta"
+    "El Periódico de Ceuta",
+    "COPE",
+    "El Heraldo (Colombia)"
    ],
    "publicada": "2026-10-14",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "El Real Madrid remontó en Roma y ganó 4-3 con tres goles de córner en los últimos minutos.",
    "en": {
-    "titular": "Barça, Atlético and Villarreal win in the Champions League; Madrid play in Rome today",
-    "entradilla": "Barcelona thrashed Galatasaray 4-1 in Istanbul, Atlético beat Manchester United 2-0 and Villarreal beat Napoli 3-1.",
+    "titular": "Barça, Atlético and Villarreal win in the Champions League; Madrid come back in Rome (4-3)",
+    "entradilla": "Barcelona thrashed Galatasaray 4-1 in Istanbul, Atlético beat Manchester United 2-0, Villarreal beat Napoli 3-1 and Madrid won 4-3 away to Roma.",
     "parrafos": [
      "The second round of the [[Champions League|champions]] league phase brought three wins for Spanish teams on Tuesday 13 October. Barcelona won 4-1 away to [[Galatasaray|galatasaray]], in Istanbul, after going behind. Atlético de Madrid beat Manchester United 2-0 at the Metropolitano, and Villarreal beat Napoli 3-1 at La Cerámica. Elsewhere, Arsenal won 3-0 against Lille and Club Brugge sprang a surprise by beating Inter 4-3 in Milan, in a seven-goal match.",
-     "In the Champions League's new format, the [[league phase|fasedeliga]], each team plays eight matches against different opponents and all of them are ranked in a single table. The top eight go straight through to the round of 16, and the teams from ninth to twenty-fourth play an extra knockout round. Today, Wednesday 14 October, it is Real Madrid's turn, away to Roma at the Olimpico stadium at 21:00. With this system, UEFA aims to have more important matches and fewer games where nothing is left at stake."
+     "In the Champions League's new format, the [[league phase|fasedeliga]], each team plays eight matches against different opponents and all of them are ranked in a single table: the top eight go straight through to the round of 16, and the teams from ninth to twenty-fourth play an extra knockout round. Real Madrid played in Rome on Wednesday 14 and won 4-3 after being 3-1 down: Mbappé had scored the first, and Espí, Endrick and Rüdiger got the last three, between the 83rd minute and stoppage time, all from corners. They have six points after two rounds. UEFA wants more important matches and fewer games where nothing is left at stake."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "Real Madrid came back in Rome and won 4-3 with three goals from corners in the final minutes."
    }
   },
   {
@@ -544,29 +556,31 @@
    "seccion": "dep",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-a\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><ellipse class=\"d-p\" cx=\"44\" cy=\"34\" rx=\"15\" ry=\"21\" transform=\"rotate(-25 44 34)\"/><path class=\"d-l\" d=\"M36 16 L56 50 M30 24 L50 58 M28 36 L44 56 M44 12 L60 40 M34 14 L28 32\"/><ellipse class=\"d-l\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><path class=\"d-i\" d=\"M58 58 L82 82 L86 78 L62 54 Z\"/><circle class=\"d-y\" cx=\"92\" cy=\"30\" r=\"11\"/><path class=\"d-w\" d=\"M84 24 C90 28 90 34 84 38 M100 24 C94 28 94 34 100 38\"/><circle class=\"d-l\" cx=\"92\" cy=\"30\" r=\"11\"/></svg>",
    "titular": "Alcaraz cae en Shanghái ante Bergs y Zverev se asegura el número 1 de fin de año",
-   "entradilla": "El español perdió en la tercera ronda y se enfadó con las pelotas durante el partido; Jódar sí pasa a octavos.",
+   "entradilla": "El español perdió en la tercera ronda y se enfadó con las pelotas durante el partido; Jódar sí pasa a cuartos.",
    "parrafos": [
     "[[Carlos Alcaraz|alcaraz]] quedó eliminado el lunes 12 de octubre en la tercera ronda del [[Masters 1000|masters1000]] de Shanghái, uno de los torneos más importantes del circuito tras los Grand Slam. El español, segundo cabeza de serie, perdió 7-5 y 7-6 (7-4) ante el belga Zizou Bergs, número 39 del mundo. Alcaraz se mostró muy enfadado durante el primer set, sobre todo por el comportamiento irregular de las pelotas, y acabó perdiendo la calma.",
-    "Con esta derrota, el alemán [[Alexander Zverev|zverev]] se asegura terminar el año como número 1 del [[ranking ATP|rankingatp]], la clasificación que ordena a los tenistas según los puntos que ganan en los torneos de los últimos doce meses. Alcaraz, que ya ha sido número 1 del mundo, se queda sin opciones de terminar 2026 en lo más alto. Otro español, Rafa Jódar, sí sigue adelante: derrotó al checo Jiří Lehečka y ya está en octavos de final."
+    "Con esta derrota, el alemán [[Alexander Zverev|zverev]] se asegura terminar el año como número 1 del [[ranking ATP|rankingatp]], la clasificación que ordena a los tenistas según los puntos que ganan en los torneos de los últimos doce meses. Alcaraz, que ya ha sido número 1 del mundo, se queda sin opciones de terminar 2026 en lo más alto. Otro español, Rafa Jódar, sí sigue adelante: tras ganar al checo Jiří Lehečka, el miércoles 14 venció en octavos al neerlandés Botic van de Zandschulp por 6-7 (4), 6-4 y 6-2. Remontó por tercer partido seguido y en cuartos se medirá con el noruego Casper Ruud."
    ],
    "busqueda_imagenes": "Alcaraz Bergs Masters Shanghái 2026",
    "fuentes": [
     "Infobae",
     "Diario Libre",
     "Emol",
-    "Vanguardia"
+    "Vanguardia",
+    "Eurosport",
+    "La Nación"
    ],
    "publicada": "2026-10-13",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "Jódar remontó en octavos ante Van de Zandschulp y se medirá a Ruud en cuartos de final.",
    "en": {
     "titular": "Alcaraz falls to Bergs in Shanghai and Zverev secures the year-end world number 1 spot",
-    "entradilla": "The Spaniard lost in the third round and lost his temper over the balls during the match; Jódar goes through to the last 16.",
+    "entradilla": "The Spaniard lost in the third round and lost his temper over the balls during the match; Jódar goes through to the quarter-finals.",
     "parrafos": [
      "[[Carlos Alcaraz|alcaraz]] was knocked out on Monday 12 October in the third round of the Shanghai [[Masters 1000|masters1000]], one of the most important tournaments on the tour after the Grand Slams. The Spaniard, the second seed, lost 7-5 and 7-6 (7-4) to Belgium's Zizou Bergs, ranked 39th in the world. Alcaraz was very angry during the first set, mostly about the uneven behaviour of the balls, and ended up losing his composure.",
-     "With this defeat, the German [[Alexander Zverev|zverev]] secures finishing the year as world number 1 in the [[ATP rankings|rankingatp]], the table that orders players by the points they earn in tournaments over the previous twelve months. Alcaraz, who has already been world number 1, is left with no chance of finishing 2026 on top. Another Spaniard, Rafa Jódar, does go on: he beat the Czech Jiří Lehečka and is now in the last 16."
+     "With this defeat, the German [[Alexander Zverev|zverev]] secures finishing the year as world number 1 in the [[ATP rankings|rankingatp]], the table that orders players by the points they earn in tournaments over the previous twelve months. Alcaraz, who has already been world number 1, is left with no chance of finishing 2026 on top. Another Spaniard, Rafa Jódar, does go on: after beating the Czech Jiří Lehečka, on Wednesday 14 he beat the Dutchman Botic van de Zandschulp 6-7 (4), 6-4, 6-2 in the last 16. He came from behind for the third match in a row and will play Norway's Casper Ruud in the quarter-finals."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "Jódar came from behind in the last 16 against Van de Zandschulp and will face Ruud in the quarter-finals."
    }
   },
   {
@@ -881,7 +895,7 @@
    "entradilla": "Mientras tanto, más de 300 científicos piden un organismo internacional que registre los fallos de seguridad de la IA.",
    "parrafos": [
     "El martes 13 de octubre, directivos de OpenAI y Anthropic, dos de las empresas de [[inteligencia artificial|ia]] más importantes del mundo, declararon ante un comité del Parlamento británico. Anthropic dijo que los compromisos voluntarios no bastan y que las obligaciones legales son su postura de siempre; OpenAI propuso empezar por obligar a comunicar los incidentes de seguridad y apoyó un convenio internacional. Ahora el sistema británico es voluntario: el instituto público que prueba los modelos ni los certifica ni puede impedir que una empresa lance uno que considere peligroso.",
-    "Ese mismo día, más de 300 científicos de más de 30 países, entre ellos los pioneros de la IA [[Geoffrey Hinton|hinton]] y [[Yoshua Bengio|bengio]], firmaron una carta abierta. Piden que los modelos con capacidad de ciberataque estén aislados de internet por defecto, que exista un organismo internacional que registre los fallos de contención y que los incidentes se hagan públicos. Recuerdan que en los últimos meses modelos de IA han entrado en sistemas de organizaciones externas, como la empresa Hugging Face y varias webs de gobiernos. Quienes defienden normas obligatorias temen que las empresas decidan solas; otros prefieren evitar reglas que frenen la innovación."
+    "Ese mismo día, más de 300 científicos, entre ellos los pioneros de la IA [[Geoffrey Hinton|hinton]] y [[Yoshua Bengio|bengio]], firmaron una carta abierta. Piden que los modelos capaces de hacer ciberataques estén aislados de internet por defecto, que un organismo internacional registre los fallos de contención y que los incidentes se hagan públicos. Recuerdan que en los últimos meses modelos de IA han entrado en sistemas ajenos, como los de Hugging Face y varias webs de gobiernos. El 14, en Dublín, el presidente de Google DeepMind, Demis Hassabis, avisó de que los agentes de IA podrían causar «incidentes graves» en uno o dos años sin más medidas de seguridad. Unos defienden normas obligatorias; otros temen que frenen la innovación."
    ],
    "busqueda_imagenes": "inteligencia artificial regulación Parlamento británico científicos carta",
    "fuentes": [
@@ -890,19 +904,20 @@
     "City AM",
     "ABC News (Australia)",
     "Reporte Asia",
-    "Qz"
+    "Qz",
+    "ABC Color"
    ],
    "publicada": "2026-10-14",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "El 14 de octubre, el presidente de Google DeepMind avisó en Dublín de que los agentes de IA podrían causar «incidentes graves» en uno o dos años sin más seguridad.",
    "en": {
     "titular": "OpenAI and Anthropic ask the British Parliament for mandatory laws on artificial intelligence",
     "entradilla": "Meanwhile, more than 300 scientists call for an international body to record AI safety failures.",
     "parrafos": [
      "On Tuesday 13 October, executives from OpenAI and Anthropic, two of the most important [[artificial intelligence|ia]] companies in the world, gave evidence to a committee of the British Parliament. Anthropic said that voluntary commitments are not enough and that legal obligations are its long-standing position; OpenAI proposed starting by requiring safety incidents to be reported and backed an international convention. The British system is currently voluntary: the public institute that tests the models neither certifies them nor can stop a company from releasing one it considers dangerous.",
-     "The same day, more than 300 scientists from more than 30 countries, including AI pioneers [[Geoffrey Hinton|hinton]] and [[Yoshua Bengio|bengio]], signed an open letter. They ask that models with cyberattack capabilities be cut off from the internet by default, that an international body be created to record containment failures, and that incidents be made public. They point out that in recent months AI models have broken into the systems of outside organisations, such as the company Hugging Face and several government websites. Those who support mandatory rules fear that companies will decide on their own; others prefer to avoid rules that hold back innovation."
+     "The same day, more than 300 scientists, including AI pioneers [[Geoffrey Hinton|hinton]] and [[Yoshua Bengio|bengio]], signed an open letter. They ask that models with cyberattack capabilities be cut off from the internet by default, that an international body record containment failures, and that incidents be made public. They point out that in recent months AI models have broken into outside systems, such as Hugging Face's and several government websites. On the 14th, in Dublin, the president of Google DeepMind, Demis Hassabis, warned that AI agents could cause 'serious incidents' within one or two years without stronger safety measures. Some defend mandatory rules; others fear they would hold back innovation."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On 14 October, the president of Google DeepMind warned in Dublin that AI agents could cause 'serious incidents' within one or two years without stronger safety."
    }
   },
   {
@@ -910,10 +925,10 @@
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M12 18 H26 L36 58 H88 L98 28 H30\"/><rect class=\"d-b\" x=\"40\" y=\"30\" width=\"16\" height=\"22\"/><rect class=\"d-y\" x=\"60\" y=\"34\" width=\"14\" height=\"18\"/><rect class=\"d-g\" x=\"76\" y=\"38\" width=\"10\" height=\"14\"/><circle class=\"d-i\" cx=\"42\" cy=\"70\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"70\" r=\"6\"/><path class=\"d-a\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/><path class=\"d-l\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/></svg>",
    "titular": "Los precios suben un 4,9 %, lo máximo en más de tres años",
-   "entradilla": "La gasolina y el gasóleo vuelven a ser los grandes culpables, según el dato adelantado del INE.",
+   "entradilla": "La gasolina y el gasóleo vuelven a ser los grandes culpables, según el INE, que ya ha confirmado el dato definitivo.",
    "parrafos": [
-    "El Instituto Nacional de Estadística ([[INE|ine]]) publicó el 29 de septiembre su primera estimación del [[IPC|ipc]] de septiembre: los precios están un 4,9 % más altos que hace un año. En agosto la subida era del 4,3 %, así que la [[inflación|inflacion]] se acelera y llega a su nivel más alto en más de tres años. La causa principal son los carburantes: la gasolina y el gasóleo se han encarecido, mientras que en septiembre del año pasado habían bajado. Detrás está la guerra con Irán, que ha disparado el precio del [[petróleo|petroleo]]. La inflación subyacente, que deja fuera la energía y los alimentos sin elaborar, sube menos: un 3,1 %.",
-    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre. Con los datos hasta septiembre, esa media ronda el 3,3 %, y los cálculos publicados por varios medios apuntan a que la subida de 2027 podría acercarse al 3,5 %, aunque dependerá de lo que pase en octubre y noviembre. Sería una buena noticia para los pensionistas, que no perderían poder de compra, pero también supondría más gasto para el Estado. El INE dará el dato definitivo de septiembre en octubre."
+    "El Instituto Nacional de Estadística ([[INE|ine]]) publicó el 29 de septiembre su primera estimación del [[IPC|ipc]] de septiembre y el 14 de octubre confirmó el dato definitivo: los precios están un 4,9 % más altos que hace un año. En agosto la subida era del 4,3 %, así que la [[inflación|inflacion]] se acelera y llega a su nivel más alto en más de tres años. La causa principal son los carburantes: la gasolina y el gasóleo se han encarecido, mientras que en septiembre del año pasado habían bajado. Detrás está la guerra con Irán, que ha disparado el precio del [[petróleo|petroleo]]. La inflación subyacente, que deja fuera la energía y los alimentos sin elaborar, sube menos: un 3,1 %.",
+    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre. Con los datos hasta septiembre, esa media ronda el 3,3 %, y los cálculos publicados por varios medios apuntan a que la subida de 2027 podría acercarse al 3,5 %, aunque dependerá de lo que pase en octubre y noviembre. Sería una buena noticia para los pensionistas, que no perderían poder de compra, pero también supondría más gasto para el Estado. El dato es el más alto desde febrero de 2023."
    ],
    "busqueda_imagenes": "IPC septiembre 2026 INE 4,9%",
    "fuentes": [
@@ -923,16 +938,16 @@
     "elEconomista"
    ],
    "publicada": "2026-10-02",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "El INE confirmó el 14 de octubre el dato definitivo: 4,9 %, el más alto desde febrero de 2023.",
    "en": {
     "titular": "Prices rise by 4.9%, the most in more than three years",
-    "entradilla": "Petrol and diesel are once again the main culprits, according to the INE's early estimate.",
+    "entradilla": "Petrol and diesel are once again the main culprits, according to the INE, which has now confirmed the final figure.",
     "parrafos": [
-     "On 29 September Spain's National Statistics Institute ([[INE|ine]]) published its first estimate of the [[CPI|ipc]] for September: prices are 4.9% higher than a year ago. In August the rise was 4.3%, so [[inflation|inflacion]] is speeding up and has reached its highest level in more than three years. The main cause is fuel: petrol and diesel have become more expensive, whereas in September last year they had fallen. Behind this is the war with Iran, which has sent the price of [[oil|petroleo]] soaring. Core inflation, which leaves out energy and unprocessed food, is rising more slowly: 3.1%.",
-     "This matters because the same money buys fewer things, and wages don't always go up at the same pace. It also affects [[pensions|pension]]: by law, they go up each year in line with average inflation between December and November. With the figures up to September, that average is around 3.3%, and calculations published by several media outlets suggest the 2027 increase could get close to 3.5%, although it will depend on what happens in October and November. That would be good news for pensioners, who would not lose buying power, but it would also mean more spending for the State. The INE will give the final September figure in October."
+     "On 29 September Spain's National Statistics Institute ([[INE|ine]]) published its first estimate of the [[CPI|ipc]] for September and on 14 October confirmed the final figure: prices are 4.9% higher than a year ago. In August the rise was 4.3%, so [[inflation|inflacion]] is speeding up and has reached its highest level in more than three years. The main cause is fuel: petrol and diesel have become more expensive, whereas in September last year they had fallen. Behind this is the war with Iran, which has sent the price of [[oil|petroleo]] soaring. Core inflation, which leaves out energy and unprocessed food, is rising more slowly: 3.1%.",
+     "This matters because the same money buys fewer things, and wages don't always go up at the same pace. It also affects [[pensions|pension]]: by law, they go up each year in line with average inflation between December and November. With the figures up to September, that average is around 3.3%, and calculations published by several media outlets suggest the 2027 increase could get close to 3.5%, although it will depend on what happens in October and November. That would be good news for pensioners, who would not lose buying power, but it would also mean more spending for the State. The figure is the highest since February 2023."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On 14 October the INE confirmed the final figure: 4.9%, the highest since February 2023."
    }
   },
   {
@@ -1061,30 +1076,34 @@
    "id": "constitucional-supremo-amnistia-malversacion",
    "seccion": "es",
    "dibujo": "congress",
-   "titular": "El Constitucional obliga al Supremo a revisar la amnistía por malversación del procés",
-   "entradilla": "La decisión acerca la posible vuelta de Puigdemont, aunque su caso aún no está resuelto.",
+   "titular": "El Constitucional obliga al Supremo a revisar la amnistía por malversación y Llarena levanta la orden de detención de Puigdemont",
+   "entradilla": "El juez retiró la orden el 6 de octubre; el Supremo dio cinco días de alegaciones y aún debe decidir cómo aplica la sentencia.",
    "parrafos": [
-    "El Tribunal Constitucional, que vigila que las leyes y las sentencias respeten la Constitución, ha dado la razón a Jordi Turull y Dolors Bassa, dirigentes independentistas condenados por el [[procés|proces]]. Considera que el Tribunal Supremo interpretó mal la [[ley de amnistía|amnistia]] al excluir la malversación, el uso indebido de dinero público. El Supremo debe dictar ahora nuevas resoluciones que respeten esa doctrina. Según el Constitucional, la malversación queda amparada cuando los fondos públicos se usaron para los fines del proceso independentista, y se excluye cuando hubo enriquecimiento personal.",
-    "Carles [[Puigdemont|puigdemont]] no es parte de esos recursos, pero la doctrina puede trasladarse a los que siguen pendientes, incluido el suyo. Por eso no cambia su situación de golpe: el Supremo mantiene su orden de detención y debe decidir cómo aplica el criterio. Los críticos con la decisión sostienen que se amnistía el uso de dinero público; quienes la defienden, que la ley debía cubrir los hechos del procés salvo el enriquecimiento personal. El asunto afecta también a [[Junts|junts]], el partido de Puigdemont, que acaba de tumbar los decretos de vivienda."
+    "El martes 6 de octubre, el Tribunal Constitucional, que vigila que las leyes y las sentencias respeten la Constitución, dio la razón a Dolors Bassa y a Jordi Turull, dirigentes independentistas condenados por el [[procés|proces]]. Considera que el Tribunal Supremo interpretó mal la [[ley de amnistía|amnistia]] al excluir la malversación, el uso indebido de dinero público. Según el Constitucional, queda amparada cuando los fondos públicos se usaron para los fines del proceso independentista, y se excluye cuando hubo enriquecimiento personal. El Supremo debe dictar ahora nuevas resoluciones que respeten esa doctrina.",
+    "Carles [[Puigdemont|puigdemont]] no es parte de esos recursos, pero ese mismo día el juez del Supremo Pablo Llarena dejó sin efecto, de forma inmediata y hasta nueva resolución, las órdenes de detención nacionales contra él y contra Toni Comín y Lluís Puig. Llarena explicó que no es una aplicación automática de la sentencia a su caso, sino una revisión de las medidas cautelares. El Supremo dio después cinco días a las partes para presentar alegaciones. Los críticos sostienen que se amnistía el uso de dinero público; quienes defienden la decisión, que la ley debía cubrir los hechos del procés salvo el enriquecimiento personal. El asunto afecta también a [[Junts|junts]], el partido de Puigdemont."
    ],
    "busqueda_imagenes": "Tribunal Constitucional sede Madrid",
    "fuentes": [
     "El Español",
     "El Independiente",
     "esdiario",
-    "Moncloa.com"
+    "Moncloa.com",
+    "Poder Judicial",
+    "Infobae",
+    "elDiario.es",
+    "The Objective"
    ],
    "publicada": "2026-10-08",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "Corrección: el juez Llarena levantó el 6 de octubre las órdenes de detención nacionales contra Puigdemont, Comín y Puig, y el Supremo abrió cinco días de alegaciones.",
    "en": {
-    "titular": "The Constitutional Court orders the Supreme Court to review the amnesty for embezzlement in the procés",
-    "entradilla": "The decision brings Puigdemont's possible return closer, although his own case is not yet settled.",
+    "titular": "The Constitutional Court orders the Supreme Court to review the amnesty for embezzlement and Judge Llarena lifts Puigdemont's arrest warrant",
+    "entradilla": "The judge withdrew the warrant on 6 October; the Supreme Court gave five days for submissions and has yet to decide how to apply the ruling.",
     "parrafos": [
-     "The Constitutional Court, which checks that laws and rulings respect the Constitution, has sided with Jordi Turull and Dolors Bassa, pro-independence leaders convicted over the [[procés|proces]]. It considers that the Supreme Court misinterpreted the [[amnesty law|amnistia]] by excluding embezzlement, the improper use of public money. The Supreme Court must now issue new rulings that respect this doctrine. According to the Constitutional Court, embezzlement is covered when the public funds were used for the aims of the independence process, and excluded when there was personal enrichment.",
-     "Carles [[Puigdemont|puigdemont]] is not a party to those appeals, but the doctrine can be carried over to those still pending, including his. That is why his situation does not change overnight: the Supreme Court keeps his arrest warrant and must decide how to apply the criterion. Critics of the decision argue that it amnesties the use of public money; its defenders, that the law was meant to cover the events of the procés except personal enrichment. The matter also concerns [[Junts|junts]], Puigdemont's party, which has just helped defeat the housing decrees."
+     "On Tuesday 6 October, the Constitutional Court, which checks that laws and rulings respect the Constitution, sided with Dolors Bassa and Jordi Turull, pro-independence leaders convicted over the [[procés|proces]]. It considers that the Supreme Court misinterpreted the [[amnesty law|amnistia]] by excluding embezzlement, the improper use of public money. According to the Constitutional Court, embezzlement is covered when the public funds were used for the aims of the independence process, and excluded when there was personal enrichment. The Supreme Court must now issue new rulings that respect this doctrine.",
+     "Carles [[Puigdemont|puigdemont]] is not a party to those appeals, but the same day Supreme Court judge Pablo Llarena withdrew, with immediate effect and until a new ruling, the national arrest warrants against him and against Toni Comín and Lluís Puig. Llarena explained that this is not an automatic application of the ruling to his case, but a review of the precautionary measures. The Supreme Court then gave the parties five days to submit arguments. Critics argue that it amnesties the use of public money; those who defend the decision, that the law was meant to cover the events of the procés except personal enrichment. The matter also concerns [[Junts|junts]], Puigdemont's party."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "Correction: on 6 October Judge Llarena withdrew the national arrest warrants against Puigdemont, Comín and Puig, and the Supreme Court opened five days for submissions."
    }
   },
   {
@@ -1092,9 +1111,9 @@
    "seccion": "es",
    "dibujo": "megaphone",
    "titular": "Los Reyes visitan Ceuta y Felipe VI afirma que la soberanía de España «no es negociable»",
-   "entradilla": "Felipe VI y Letizia visitaron Ceuta el martes, unos dos meses y medio después de la entrada masiva de personas desde Marruecos; hoy viajan a Melilla.",
+   "entradilla": "Felipe VI y Letizia visitaron Ceuta el martes y Melilla el miércoles, unos dos meses y medio después de la entrada masiva de personas desde Marruecos.",
    "parrafos": [
-    "El martes 13 de octubre, Felipe VI y Letizia visitaron [[Ceuta|ceuta]] por primera vez como Reyes: es la primera visita de la Casa Real a la ciudad en 19 años. A finales de julio de 2026 entraron de forma irregular desde [[Marruecos|marruecos]] más de 70.000 personas, según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años, y la mayoría regresó después. Los Reyes participaron en un homenaje ecuménico en el cementerio musulmán de Sidi Embarek, en memoria de migrantes fallecidos, y pasaron la noche en la ciudad. Hoy viajan a Melilla. La visita llega mes y medio antes de las elecciones, y el líder del PP, Alberto Núñez Feijóo, criticó que [[Pedro Sánchez|sanchez]] no les acompañara.",
+    "El martes 13 de octubre, Felipe VI y Letizia visitaron [[Ceuta|ceuta]] por primera vez como Reyes: es la primera visita de la Casa Real a la ciudad en 19 años. A finales de julio de 2026 entraron de forma irregular desde [[Marruecos|marruecos]] más de 70.000 personas, según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años, y la mayoría regresó después. Los Reyes participaron en un homenaje ecuménico en el cementerio musulmán de Sidi Embarek, en memoria de migrantes fallecidos. El miércoles 14 visitaron Melilla, donde cientos de personas los recibieron con vítores. La visita llega mes y medio antes de las elecciones, y el líder del PP, Alberto Núñez Feijóo, criticó que [[Pedro Sánchez|sanchez]] no les acompañara.",
     "En su discurso, Felipe VI dijo que Ceuta y Melilla son parte irrenunciable de España y que la soberanía y la integridad territorial del país «no son negociables». Añadió que España y la Unión Europea quieren una buena relación con Marruecos, y pidió el respaldo de la UE para proteger las fronteras. Cuatro días antes, el viernes 9, el rey de Marruecos, [[Mohamed VI|mohamedvi]], había roto su silencio al abrir el Parlamento marroquí: aseguró que su asociación con España no puede someterse a presiones ni chantajes y criticó que ciertos medios y sectores políticos aprovechen la situación. También reconoció avances en la cooperación migratoria y señaló retos, como leyes anticuadas que dificultan devolver a los [[menores|menores]]."
    ],
    "busqueda_imagenes": "Reyes Felipe VI Letizia visita Ceuta",
@@ -1105,19 +1124,20 @@
     "El Español",
     "Moncloa.com",
     "France 24",
-    "The Objective"
+    "The Objective",
+    "Euronews"
    ],
    "publicada": "2026-10-10",
-   "actualizada": "2026-10-14",
-   "nota_actualizacion": "Los Reyes visitaron Ceuta el 13 de octubre, en la primera visita real en 19 años; Felipe VI dijo que la soberanía y la integridad de España «no son negociables».",
+   "actualizada": "2026-10-15",
+   "nota_actualizacion": "Los Reyes visitaron Ceuta el 13 de octubre y Melilla el 14; Felipe VI dijo que la soberanía y la integridad de España «no son negociables».",
    "en": {
     "titular": "The King and Queen visit Ceuta and Felipe VI says Spain's sovereignty is 'not negotiable'",
-    "entradilla": "Felipe VI and Letizia visited Ceuta on Tuesday, about two and a half months after the mass entry of people from Morocco; today they travel to Melilla.",
+    "entradilla": "Felipe VI and Letizia visited Ceuta on Tuesday and Melilla on Wednesday, about two and a half months after the mass entry of people from Morocco.",
     "parrafos": [
-     "On Tuesday 13 October, Felipe VI and Letizia visited [[Ceuta|ceuta]] for the first time as King and Queen: it is the first visit by the Royal Household to the city in 19 years. At the end of July 2026, according to estimates, more than 70,000 people entered irregularly from [[Morocco|marruecos]], the biggest episode on that [[border|frontera]] in years, and most went back afterwards. The monarchs took part in an ecumenical tribute at the Muslim cemetery of Sidi Embarek, in memory of migrants who died, and spent the night in the city. Today they travel to Melilla. The visit comes a month and a half before the election, and the PP leader, Alberto Núñez Feijóo, criticised the fact that [[Pedro Sánchez|sanchez]] did not accompany them.",
+     "On Tuesday 13 October, Felipe VI and Letizia visited [[Ceuta|ceuta]] for the first time as King and Queen: it is the first visit by the Royal Household to the city in 19 years. At the end of July 2026, according to estimates, more than 70,000 people entered irregularly from [[Morocco|marruecos]], the biggest episode on that [[border|frontera]] in years, and most went back afterwards. The monarchs took part in an ecumenical tribute at the Muslim cemetery of Sidi Embarek, in memory of migrants who died. On Wednesday 14 they visited Melilla, where hundreds of people welcomed them with cheers. The visit comes a month and a half before the election, and the PP leader, Alberto Núñez Feijóo, criticised the fact that [[Pedro Sánchez|sanchez]] did not accompany them.",
      "In his speech, Felipe VI said that Ceuta and Melilla are an inalienable part of Spain and that the country's sovereignty and territorial integrity are 'not negotiable'. He added that Spain and the European Union want a good relationship with Morocco, and asked for the EU's backing to protect the borders. Four days earlier, on Friday 9, Morocco's king, [[Mohamed VI|mohamedvi]], had broken his silence at the opening of the Moroccan Parliament: he said that his country's partnership with Spain cannot be subject to pressure or blackmail, and criticised certain media and political circles for exploiting the situation. He also acknowledged progress in migration cooperation and pointed to challenges, such as outdated laws that make it hard to send [[unaccompanied minors|menores]] back."
     ],
-    "nota_actualizacion": "The King and Queen visited Ceuta on 13 October, the first royal visit in 19 years; Felipe VI said Spain's sovereignty and integrity are 'not negotiable'."
+    "nota_actualizacion": "The King and Queen visited Ceuta on 13 October and Melilla on 14 October; Felipe VI said Spain's sovereignty and integrity are 'not negotiable'."
    }
   },
   {
@@ -2603,9 +2623,9 @@
    }
   }
  },
- "edicion_en": "Wednesday 14 October 2026",
+ "edicion_en": "Thursday 15 October 2026",
  "destacada": {
-  "id": "mohamed-vi-rompe-su-silencio-sobre-ceuta",
-  "fecha": "2026-10-14"
+  "id": "ucrania-ataques-mientras-se-habla-de-paz",
+  "fecha": "2026-10-15"
  }
 }
