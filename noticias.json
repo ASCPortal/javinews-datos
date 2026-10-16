@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-15T07:00:00+02:00",
- "edicion": "Jueves 15 de octubre de 2026",
+ "actualizado": "2026-10-16T07:00:00+02:00",
+ "edicion": "Viernes 16 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -170,43 +170,13 @@
    }
   },
   {
-   "id": "la-protesta-por-la-vivienda-llega-a-andalucia",
-   "seccion": "and",
-   "dibujo": "megaphone",
-   "titular": "La protesta por la vivienda llega a Andalucía",
-   "entradilla": "En Cádiz, el Sindicato de Inquilinas cifra en 10.000 los asistentes a la manifestación del sábado.",
-   "parrafos": [
-    "El caso de Maricarmen ha movilizado a Andalucía. El 28 de septiembre hubo concentraciones por la vivienda en 23 ciudades, entre ellas Sevilla y [[Málaga|malaga]], donde más de mil personas se reunieron ante el Ayuntamiento. El sábado 3 de octubre, tras caer los decretos de vivienda en el Congreso, el [[Sindicato de Inquilinas|sindicato]] de Cádiz convocó una manifestación que, según el propio sindicato, reunió a 10.000 personas, con apoyo de CCOO, el Sindicato de Estudiantes y asociaciones vecinales.",
-    "Málaga es una de las ciudades donde más ha subido el alquiler, en parte por los muchos [[pisos turísticos|turistico]]. Allí se celebró el primer congreso de los sindicatos de inquilinos de toda España, del que salió una [[confederación|confederacion]] estatal que une a los grupos de distintas ciudades. Su objetivo es que bajen los alquileres, y desde Cádiz anuncian que trabajarán para impulsar una huelga general. Para una familia con pocos ingresos, un alquiler que sube puede significar tener que mudarse lejos del barrio, del trabajo o del colegio."
-   ],
-   "busqueda_imagenes": "manifestación vivienda Málaga",
-   "fuentes": [
-    "Infobae",
-    "Europa Press",
-    "El Salto",
-    "La Gaceta de Cádiz"
-   ],
-   "publicada": "2026-10-02",
-   "actualizada": "2026-10-04",
-   "nota_actualizacion": "En Cádiz, el sindicato cifra en 10.000 los asistentes a la manifestación del 3 de octubre y habla de huelga general.",
-   "en": {
-    "titular": "The housing protest reaches Andalusia",
-    "entradilla": "In Cádiz, the Tenants' Union puts Saturday's turnout at 10,000.",
-    "parrafos": [
-     "Maricarmen's case has got people moving in Andalusia. On 28 September there were housing rallies in 23 cities, including Seville and [[Málaga|malaga]], where more than a thousand people gathered outside the City Hall. On Saturday 3 October, after the housing decrees were defeated in Congress, the Cádiz [[Tenants' Union|sindicato]] called a demonstration that, according to the union itself, drew 10,000 people, backed by the CCOO trade union, the Students' Union and neighbourhood associations.",
-     "Málaga is one of the cities where rents have risen the most, partly because of the large number of [[holiday flats|turistico]]. It hosted the first congress of tenants' unions from all over Spain, which produced a nationwide [[confederation|confederacion]] bringing together groups from different cities. Its goal is to bring rents down, and in Cádiz they say they will work to push for a general strike. For a family on a low income, a rent increase can mean having to move away from their neighbourhood, their job or their school."
-    ],
-    "nota_actualizacion": "In Cádiz, the union puts attendance at the 3 October demonstration at 10,000 and talks of a general strike."
-   }
-  },
-  {
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Arranca la huelga indefinida del profesorado en Madrid: 70 % de seguimiento según CCOO y 44,6 % según la Comunidad",
-   "entradilla": "Miles de personas se manifestaron en la Puerta del Sol; en seis provincias andaluzas estaban convocadas concentraciones de apoyo.",
+   "titular": "Huelga indefinida del profesorado en Madrid: en el segundo día, 32,2 % de seguimiento según la Comunidad y más del 60 % según los sindicatos",
+   "entradilla": "Miles de docentes cortaron la calle Alcalá y Cibeles; en seis provincias andaluzas había concentraciones de apoyo.",
    "parrafos": [
-    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre, algo inédito en la región porque no tiene fecha de fin. Según CCOO, la secundó un 70 % de los docentes; la Consejería de Educación habla de un 44,6 %, asegura que se cumplieron los servicios mínimos y considera que los acuerdos vigentes ya recogen buena parte de las peticiones. Hubo piquetes por la mañana, un corte de tráfico en la Castellana y, por la tarde, miles de personas con camisetas verdes en la [[Puerta del Sol|sol]]. En la Universidad Complutense, según fuentes policiales, cinco estudiantes fueron detenidos durante un piquete y dos agentes resultaron heridos leves; los estudiantes hablan de una respuesta desproporcionada.",
+    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y no tiene fecha de fin, algo inédito en la región. El primer día, CCOO habló de un 70 % de seguimiento y la Consejería de Educación de un 44,6 %. El jueves 15, miles de docentes con camisetas verdes se concentraron ante la Consejería, en la calle Alcalá, y cortaron también la plaza de Cibeles, con silbatos y cacerolas. La Consejería dice que la jornada transcurrió con normalidad y cifra el seguimiento en un 32,2 %; los sindicatos convocantes lo sitúan por encima del 60 %. En la [[Puerta del Sol|sol]] se manifestaron miles de personas el primer día.",
     "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden menos horas de clase, menos alumnos por aula, más personal y una subida de sueldo. Para las familias, una huelga indefinida significa incertidumbre sobre cuántos días habrá clase con normalidad."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
@@ -221,27 +191,27 @@
     "Demócrata"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-10-15",
-   "nota_actualizacion": "El primer día, CCOO cifra el seguimiento en un 70 % y la Comunidad en un 44,6 %; hubo miles de manifestantes en Sol y cinco estudiantes detenidos en la Complutense.",
+   "actualizada": "2026-10-16",
+   "nota_actualizacion": "En el segundo día, la Consejería cifra el seguimiento en un 32,2 % y los sindicatos en más de un 60 %; miles de docentes cortaron la calle Alcalá y Cibeles.",
    "en": {
-    "titular": "Madrid teachers' indefinite strike begins: 70% turnout according to CCOO and 44.6% according to the regional government",
-    "entradilla": "Thousands of people marched to the Puerta del Sol; support rallies were called in six Andalusian provinces.",
+    "titular": "Madrid teachers' indefinite strike: on day two, 32.2% turnout according to the regional government and over 60% according to the unions",
+    "entradilla": "Thousands of teachers blocked Alcalá Street and Cibeles; support rallies were called in six Andalusian provinces.",
     "parrafos": [
-     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October, something unprecedented in the region because it has no end date. According to CCOO, 70% of teachers joined it; the regional Education Department puts the figure at 44.6%, says minimum services were met and considers that existing agreements already cover much of what is being asked. There were pickets in the morning, a traffic blockade on the Castellana and, in the afternoon, thousands of people in green shirts in the [[Puerta del Sol|sol]]. At the Complutense University, according to police sources, five students were arrested during a picket and two officers were slightly injured; the students speak of a disproportionate response.",
+     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and has no end date, something unprecedented in the region. On the first day, CCOO spoke of 70% turnout and the regional Education Department of 44.6%. On Thursday 15, thousands of teachers in green shirts gathered outside the Education Department, on Alcalá Street, and also blocked Cibeles square, with whistles and pots and pans. The department says the day went ahead normally and puts turnout at 32.2%; the unions that called the strike put it above 60%. On the first day thousands of people marched in the [[Puerta del Sol|sol]].",
      "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want fewer teaching hours, fewer pupils per class, more staff and a pay rise. For families, an indefinite strike means uncertainty about how many days of normal lessons there will be."
     ],
-    "nota_actualizacion": "On the first day, CCOO puts turnout at 70% and the regional government at 44.6%; thousands marched in Sol and five students were arrested at the Complutense."
+    "nota_actualizacion": "On day two, the regional government puts turnout at 32.2% and the unions at over 60%; thousands of teachers blocked Alcalá Street and Cibeles."
    }
   },
   {
    "id": "moreno-defiende-fondos-europeos-bruselas-presupuesto-ue",
    "seccion": "and",
    "dibujo": "eu",
-   "titular": "Moreno defiende en Bruselas los fondos europeos para las regiones y Sánchez rechazará el recorte del presupuesto de la UE",
-   "entradilla": "El borrador de la presidencia irlandesa rebaja en torno a un 8 % la propuesta de la Comisión para 2028-2034; los líderes se reúnen en Bruselas.",
+   "titular": "Moreno defiende en Bruselas los fondos europeos para las regiones y Sánchez rechaza el recorte del presupuesto de la UE",
+   "entradilla": "Los líderes llegaron divididos a la cumbre del 15 de octubre y ven difícil cerrar el presupuesto 2028-2034 este año.",
    "parrafos": [
     "El lunes 12 de octubre, [[Juanma Moreno|moreno]] habló en el Parlamento Europeo, en Bruselas, durante la Semana Europea de las Regiones y las Ciudades. Se opuso a que los Gobiernos nacionales se queden con la gestión de los fondos del próximo [[presupuesto de la UE|presupuestoue]], el de 2028 a 2034, y defendió que las regiones y los ayuntamientos sigan decidiendo en qué se gasta. Según Moreno, cuando Europa pierde presencia sobre el terreno la gente deja de notar el proyecto europeo en su vida diaria, y la [[política de cohesión|cohesion]] ha beneficiado a toda Europa, no solo a las zonas más pobres.",
-    "El debate llega después de que la presidencia irlandesa del Consejo de la [[Unión Europea|ue]] presentara el sábado 10 un borrador del presupuesto de 2028 a 2034 de 1,62 billones de euros, frente a los 1,76 billones de la propuesta de la Comisión Europea: un 8 % menos. Según el Gobierno español, recorta más de un 20 % la política agraria común. Pedro Sánchez tiene previsto rechazarlo hoy, jueves 15, en la cumbre de líderes en Bruselas. Los países «frugales», como Alemania, Países Bajos o Suecia, piden gastar menos; el grupo de los «amigos de la cohesión», con España, Italia, Portugal y Grecia, defiende la agricultura y la cohesión. Es solo un borrador: tienen que acordarlo los 27 países."
+    "El debate llegó a la cumbre de líderes del jueves 15 en Bruselas. La presidencia irlandesa del Consejo de la [[Unión Europea|ue]] había presentado el sábado 10 un borrador del presupuesto de 2028 a 2034 de 1,62 billones de euros, frente a los 1,76 billones de la Comisión: un 8 % menos. Según el Gobierno español, recorta más de un 20 % la política agraria común. Pedro Sánchez lo calificó de «no asumible ni aceptable». Los países «frugales», como Alemania, Países Bajos o Suecia, piden gastar menos; el grupo de los «amigos de la cohesión», con España, Italia, Portugal y Grecia, defiende la agricultura y la cohesión. Los líderes ven difícil un acuerdo este año."
    ],
    "busqueda_imagenes": "Parlamento Europeo Bruselas Semana de las Regiones",
    "fuentes": [
@@ -252,16 +222,16 @@
     "El Plural"
    ],
    "publicada": "2026-10-13",
-   "actualizada": "2026-10-15",
-   "nota_actualizacion": "Sánchez tiene previsto rechazar el borrador (1,62 billones de euros) en la cumbre de Bruselas del 15 de octubre; el Gobierno denuncia un recorte de más del 20 % en la política agraria.",
+   "actualizada": "2026-10-16",
+   "nota_actualizacion": "En la cumbre del 15 de octubre Sánchez calificó el borrador de «no asumible ni aceptable» y los líderes ven difícil un acuerdo este año.",
    "en": {
-    "titular": "Moreno defends European funds for the regions in Brussels and Sánchez will reject the EU budget cut",
-    "entradilla": "The Irish presidency's draft lowers the Commission's proposal for 2028-2034 by around 8%; the leaders meet in Brussels.",
+    "titular": "Moreno defends European funds for the regions in Brussels and Sánchez rejects the EU budget cut",
+    "entradilla": "Leaders arrived at the 15 October summit divided and see it as hard to close the 2028-2034 budget this year.",
     "parrafos": [
      "On Monday 12 October, [[Juanma Moreno|moreno]] spoke in the European Parliament in Brussels, during the European Week of Regions and Cities. He opposed national governments keeping control of the funds in the next [[EU budget|presupuestoue]], the one for 2028 to 2034, and argued that regions and town councils should keep deciding what the money is spent on. According to Moreno, when Europe loses its presence on the ground people stop noticing the European project in their daily lives, and [[cohesion policy|cohesion]] has benefited the whole of Europe, not just the poorest areas.",
-     "The debate comes after Ireland, which holds the presidency of the Council of the [[European Union|ue]], presented on Saturday 10 a draft budget for 2028 to 2034 of 1.62 trillion euros, compared with the 1.76 trillion in the European Commission's proposal: 8% less. According to the Spanish Government, it cuts the common agricultural policy by more than 20%. Pedro Sánchez plans to reject it today, Thursday 15, at the leaders' summit in Brussels. The so-called 'frugal' countries, such as Germany, the Netherlands or Sweden, want to spend less; the group of 'friends of cohesion', with Spain, Italy, Portugal and Greece, defends agriculture and cohesion. It is only a draft: all 27 countries have to agree on it."
+     "The debate reached the leaders' summit on Thursday 15 in Brussels. Ireland, which holds the presidency of the Council of the [[European Union|ue]], had presented on Saturday 10 a draft budget for 2028 to 2034 of 1.62 trillion euros, compared with the Commission's 1.76 trillion: 8% less. According to the Spanish Government, it cuts the common agricultural policy by more than 20%. Pedro Sánchez called it 'neither acceptable nor workable'. The so-called 'frugal' countries, such as Germany, the Netherlands or Sweden, want to spend less; the group of 'friends of cohesion', with Spain, Italy, Portugal and Greece, defends agriculture and cohesion. The leaders see a deal this year as difficult."
     ],
-    "nota_actualizacion": "Sánchez plans to reject the draft (1.62 trillion euros) at the Brussels summit on 15 October; the Government says it cuts agricultural policy by more than 20%."
+    "nota_actualizacion": "At the 15 October summit Sánchez called the draft 'neither acceptable nor workable' and the leaders see a deal this year as difficult."
    }
   },
   {
@@ -324,14 +294,46 @@
    }
   },
   {
+   "id": "ayudas-junta-terremotos-granada-siete-millones",
+   "seccion": "and",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-b\" d=\"M0 58 H54 L60 66 L52 72 L62 80 L56 90 H0 Z\"/><path class=\"d-b\" d=\"M120 58 H68 L74 66 L66 74 L72 82 L66 90 H120 Z\"/><g transform=\"rotate(-8 30 40)\"><rect class=\"d-a\" x=\"14\" y=\"34\" width=\"32\" height=\"24\"/><path class=\"d-y\" d=\"M10 36 L30 18 L50 36 Z\"/><rect class=\"d-p\" x=\"26\" y=\"44\" width=\"8\" height=\"14\"/></g><path class=\"d-l\" d=\"M70 24 L76 18 L82 26 L88 18 L94 26 M74 38 L80 32 L86 40 L92 32 L98 40\"/><path class=\"d-l\" d=\"M0 58 H54 M68 58 H120\"/></svg>",
+   "titular": "La Junta da 7 millones a 27 municipios de Granada por la serie de terremotos de agosto y septiembre",
+   "entradilla": "La ciudad de Granada recibirá más de 2,6 millones; la serie sísmica empezó el 14 de agosto cerca de Alhendín.",
+   "parrafos": [
+    "El miércoles 14 de octubre, el Consejo de Gobierno de la [[Junta de Andalucía|junta]] aprobó siete millones de euros en ayudas para 27 municipios de la provincia de Granada afectados por la [[serie sísmica|seriesismica]] ocurrida entre el 14 de agosto y el 7 de septiembre. El dinero servirá para reparar edificios, instalaciones y servicios municipales dañados. La ciudad de Granada recibirá 2.617.629 euros y Churriana de la Vega, 657.138. Los ayuntamientos podrán pedir las ayudas con una única solicitud, durante diez días desde la publicación del acuerdo en el boletín oficial de la Junta.",
+    "Una serie sísmica es un conjunto de muchos terremotos seguidos en la misma zona. Esta tuvo su centro cerca de [[Alhendín|alhendin]], en el área metropolitana de Granada. A principios de septiembre ya sumaba unos 1.700 terremotos, y el Instituto Geográfico Nacional ([[IGN|ign]]) registró dos de [[magnitud|magnitud]] 4,8 en agosto, sentidos en más de 500 localidades. Según el IGN, hubo daños no estructurales en Santa Fe y Atarfe, es decir, que no afectaron a la estructura de los edificios. La provincia de Granada es una de las zonas con más actividad sísmica de la península, así que estos temblores, aunque asustan, no son un hecho excepcional."
+   ],
+   "busqueda_imagenes": "terremotos Granada Alhendín ayudas Junta",
+   "fuentes": [
+    "Junta de Andalucía (Portavoz del Gobierno)",
+    "Andalucía Información",
+    "Ahora Granada",
+    "Última Hora",
+    "Instituto Geográfico Nacional",
+    "The Objective"
+   ],
+   "publicada": "2026-10-16",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "The regional government gives 7 million euros to 27 Granada municipalities for the August and September earthquake series",
+    "entradilla": "The city of Granada will receive more than 2.6 million; the seismic series began on 14 August near Alhendín.",
+    "parrafos": [
+     "On Wednesday 14 October, the Governing Council of the [[Junta de Andalucía|junta]] approved seven million euros in aid for 27 municipalities in the province of Granada affected by the [[seismic series|seriesismica]] that took place between 14 August and 7 September. The money will go towards repairing damaged buildings, facilities and municipal services. The city of Granada will receive 2,617,629 euros and Churriana de la Vega 657,138. Town councils can apply for the aid with a single application, within ten days of the agreement being published in the regional government's official gazette.",
+     "A seismic series is a group of many earthquakes in a row in the same area. This one was centred near [[Alhendín|alhendin]], in the Granada metropolitan area. By early September it already added up to some 1,700 earthquakes, and the National Geographic Institute ([[IGN|ign]]) recorded two of [[magnitude|magnitud]] 4.8 in August, felt in more than 500 towns. According to the IGN, there was non-structural damage in Santa Fe and Atarfe, meaning it did not affect the structure of the buildings. The province of Granada is one of the most seismically active areas of the peninsula, so these tremors, although frightening, are not an exceptional event."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
    "titular": "Ormuz: el estrecho que hace temblar al mundo",
-   "entradilla": "La guerra con Irán sigue afectando al petróleo de todo el planeta.",
+   "entradilla": "La guerra con Irán sigue afectando al petróleo de todo el planeta, con una oleada de ataques a barcos esta semana.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Las tensiones siguen. El 12 de octubre, según medios, Irán consideró insuficiente la respuesta de Estados Unidos a su propuesta (una tregua de una semana a cambio de levantar el [[bloqueo naval|bloqueo]] y las sanciones al petróleo, y reabrir Ormuz) y dijo que no habrá nuevas negociaciones ni tránsito normal hasta que se cumplan siete condiciones. Al día siguiente, en un mitin en Ohio, [[Donald Trump|trump]] admitió que quizá Estados Unidos «fue demasiado lejos» con los dirigentes iraníes, porque ya no sabe con quién negociar, y las conversaciones están estancadas. EE. UU. mantiene su cerco naval. Mientras no se resuelva, el conflicto seguirá afectando al precio del petróleo y de la gasolina que paga cualquier familia."
+    "Las tensiones han ido a más. Entre el 11 y el 13 de octubre fueron atacados al menos diez barcos, y la agencia británica UKMTO cuenta más de 18 ataques a mercantes este mes. La Guardia Revolucionaria iraní reivindica varios y los presenta como una lucha contra el «contrabando ilegal de petróleo». Omán, que mediaba, anunció el 14 de octubre que sus conversaciones con Irán sobre el estrecho han concluido y que reabrirlo depende de un acuerdo más amplio entre Teherán y Washington. El 13, [[Donald Trump|trump]] admitió que quizá EE. UU. «fue demasiado lejos» y que ya no sabe con quién negociar. Mientras no se resuelva, el conflicto seguirá encareciendo el petróleo y la gasolina."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -346,27 +348,27 @@
     "El Universal (Colombia)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-14",
-   "nota_actualizacion": "El 13 de octubre Trump admitió que quizá EE. UU. «fue demasiado lejos» con los dirigentes iraníes y que ya no sabe con quién negociar; las conversaciones están estancadas.",
+   "actualizada": "2026-10-16",
+   "nota_actualizacion": "Entre el 11 y el 13 de octubre fueron atacados al menos diez barcos cerca de Ormuz, y Omán anunció el 14 que sus conversaciones con Irán sobre el estrecho han concluido.",
    "en": {
     "titular": "Hormuz: the strait that makes the world tremble",
-    "entradilla": "The war with Iran is still affecting oil all over the planet.",
+    "entradilla": "The war with Iran is still affecting oil all over the planet, with a wave of attacks on ships this week.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Tensions continue. On 12 October, according to media reports, Iran judged the United States' reply to its proposal insufficient (a one-week truce in exchange for lifting the [[naval blockade|bloqueo]] and the oil sanctions, and reopening Hormuz) and said there will be no new talks or normal shipping until seven conditions are met. The next day, at a rally in Ohio, [[Donald Trump|trump]] admitted that the United States may have 'gone too far' with Iran's leaders, because he no longer knows whom to negotiate with, and talks are stalled. The US keeps its naval cordon. Until this is resolved, the conflict will keep affecting the price of oil and of the petrol that every family pays for."
+     "Tensions have risen. Between 11 and 13 October at least ten ships were attacked, and the British agency UKMTO counts more than 18 attacks on merchant ships this month. Iran's Revolutionary Guard claims several of them and presents them as a fight against 'illegal oil smuggling'. Oman, which had been mediating, announced on 14 October that its talks with Iran on the strait have ended and that reopening it depends on a broader deal between Tehran and Washington. On the 13th, [[Donald Trump|trump]] admitted that the US may have 'gone too far' and that he no longer knows whom to negotiate with. Until this is resolved, the conflict will keep pushing up the price of oil and petrol."
     ],
-    "nota_actualizacion": "On 13 October Trump admitted that the US may have 'gone too far' with Iran's leaders and that he no longer knows whom to negotiate with; talks are stalled."
+    "nota_actualizacion": "Between 11 and 13 October at least ten ships were attacked near Hormuz, and on 14 October Oman announced that its talks with Iran on the strait have ended."
    }
   },
   {
    "id": "gaza-un-alto-el-fuego-que-no-termina-de-llegar",
    "seccion": "int",
    "dibujo": "aid",
-   "titular": "Gaza: tres años del 7 de octubre y un alto el fuego que no frena la violencia",
-   "entradilla": "Tres años después del ataque de Hamás, siguen las muertes pese a la tregua.",
+   "titular": "Gaza: un año de alto el fuego y la ONU avisa de que el riesgo de volver a la guerra «nunca ha sido tan alto»",
+   "entradilla": "Los puntos centrales del acuerdo de 2025 siguen sin cumplirse y la tregua no frena las muertes.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas desde 2023 y más de 1.400 desde el acuerdo. El 9 de octubre, más de 100 organizaciones, entre ellas Amnistía Internacional, afirmaron que el alto el fuego «existe solo de nombre». Según ellas, desde que empezó han muerto más de 1.400 palestinos por ataques israelíes, al menos 327 niños; ningún hospital funciona del todo y 1,4 millones de personas sufren hambre grave. Las organizaciones de [[ayuda humanitaria|humanitaria]] avisan de que más de un millón y medio de personas en [[Gaza|gaza]] podrían quedarse sin ayuda este invierno."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas desde 2023. El 15 de octubre, al cumplirse un año del [[alto el fuego|altoelfuego]], el coordinador adjunto de la ONU para el proceso de paz en Oriente Medio, Ramiz Alakbarov, advirtió ante el Consejo de Seguridad de que el riesgo de volver a la guerra «nunca ha sido tan alto». Según cifras de ese ministerio citadas por la ONU, han muerto unos 1.500 palestinos desde la tregua, más de 320 de ellos niños. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen sin aplicarse. Casi 950.000 personas en [[Gaza|gaza]] corren riesgo de inundaciones este invierno."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -381,27 +383,27 @@
     "Amnistía Internacional"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-10",
-   "nota_actualizacion": "Más de 100 organizaciones dicen que el alto el fuego «existe solo de nombre»: 1.400 muertos y 1,4 millones de personas con hambre grave.",
+   "actualizada": "2026-10-16",
+   "nota_actualizacion": "El 15 de octubre, un año después de la tregua, la ONU avisó de que el riesgo de volver a la guerra «nunca ha sido tan alto»; unos 1.500 muertos desde el alto el fuego, según Sanidad de Gaza.",
    "en": {
-    "titular": "Gaza: three years since 7 October and a ceasefire that does not stop the violence",
-    "entradilla": "Three years after Hamas's attack, people are still dying despite the truce.",
+    "titular": "Gaza: a year of ceasefire and the UN warns the risk of a return to war 'has never been higher'",
+    "entradilla": "The central points of the 2025 agreement are still unfulfilled and the truce does not stop the deaths.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which Hamas controls, more than 74,000 people have died in the war since 2023 and more than 1,400 since the agreement. On 9 October, more than 100 organisations, including Amnesty International, said that the ceasefire \"exists in name only\". According to them, more than 1,400 Palestinians have been killed in Israeli attacks since it began, at least 327 of them children; no hospital is fully functioning and 1.4 million people face severe hunger. [[Humanitarian aid|humanitaria]] organisations warn that more than a million and a half people in [[Gaza|gaza]] could be left without help this winter."
+     "According to the Gaza Health Ministry, which Hamas controls, more than 74,000 people have died in the war since 2023. On 15 October, a year after the [[ceasefire|altoelfuego]], the UN's deputy coordinator for the Middle East peace process, Ramiz Alakbarov, told the Security Council that the risk of a return to war 'has never been higher'. According to figures from that ministry cited by the UN, about 1,500 Palestinians have died since the truce, more than 320 of them children. Hamas's disarmament, the Israeli withdrawal and the international force have still not been put in place. Almost 950,000 people in [[Gaza|gaza]] are at risk of flooding this winter."
     ],
-    "nota_actualizacion": "More than 100 organisations say the ceasefire \"exists in name only\": 1,400 dead and 1.4 million people facing severe hunger."
+    "nota_actualizacion": "On 15 October, a year after the truce, the UN warned that the risk of a return to war 'has never been higher'; about 1,500 dead since the ceasefire, according to the Gaza Health Ministry."
    }
   },
   {
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Rusia lanza un gran ataque contra la red eléctrica tres días después del anuncio de tregua de Trump",
-   "entradilla": "El Kremlin dice que el acuerdo energético nunca se cerró, así que no lo incumple; Kiev denuncia falta de respeto a EE. UU.",
+   "titular": "Ucrania: Kiev reanuda los ataques a refinerías rusas y da por acabada la pausa energética que Moscú nunca aceptó",
+   "entradilla": "Zelenski dice que solo aceptó tres días de pausa y denuncia que EE. UU. le limita los avisos de misiles mientras Rusia lanza más de 850 drones.",
    "parrafos": [
-    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania habían aceptado un [[alto el fuego|altoelfuego]] en el sector energético: no atacarían las [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Ni Moscú ni Kiev confirmaron el acuerdo. [[Zelenski|zelenski]] dijo que Ucrania lo respetaría si Rusia hacía lo mismo, y su país llevaba dos días sin atacar refinerías rusas. Pero el miércoles 14 Rusia lanzó su primer gran ataque contra el sistema eléctrico ucraniano desde el anuncio: según la compañía eléctrica estatal Ukrenergo, alcanzó tres centrales térmicas cerca de Kiev, y hubo cortes de luz en la capital, en Járkov y en otras seis zonas.",
-    "Según medios internacionales, el ataque mató al menos a cinco civiles y dejó sin electricidad a unas 600.000 personas. Zelenski dijo que mostraba falta de respeto hacia Estados Unidos. El Kremlin respondió, por boca de su portavoz Dmitri Peskov, que el acuerdo nunca llegó a concretarse y que por eso Rusia no lo incumple; el viceprimer ministro Alexandr Nóvak acusó a Ucrania de atacar dos refinerías, en las regiones de Sarátov y Riazán. Ya se anunció algo parecido el 14 de septiembre y los ataques no pararon. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados en [[Kiev|kiev]] y el resto del país."
+    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania habían aceptado un [[alto el fuego|altoelfuego]] en el sector energético: no atacarían las [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Ni Moscú ni Kiev lo confirmaron. El miércoles 14, Rusia lanzó su primer gran ataque contra la red eléctrica ucraniana desde el anuncio: según la compañía estatal Ukrenergo, alcanzó tres centrales térmicas cerca de Kiev, y hubo cortes de luz en la capital y en Járkov. Según medios internacionales, murieron al menos cinco civiles y unas 600.000 personas se quedaron sin electricidad. El Kremlin respondió, por boca de Dmitri Peskov, que el acuerdo nunca llegó a concretarse.",
+    "El jueves 15, Ucrania volvió a atacar refinerías rusas: hubo un incendio en la de Riazán, a unos 200 kilómetros de Moscú, y el viceprimer ministro ruso, Alexandr Nóvak, habla de ataques en Riazán y Sarátov. [[Zelenski|zelenski]] explicó que Ucrania solo había aceptado una pausa de tres días. Además, afirmó que Rusia lanzó más de 850 drones en las últimas horas, y denunció que EE. UU. dejó de avisarle dos veces esta semana de lanzamientos de misiles balísticos y amenaza con cortar la inteligencia compartida si sigue atacando refinerías. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados en [[Kiev|kiev]] y el resto del país."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -417,27 +419,27 @@
     "La Jornada"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-15",
-   "nota_actualizacion": "El miércoles 14 Rusia lanzó su primer gran ataque contra la red eléctrica ucraniana desde el anuncio de la tregua energética, que el Kremlin dice que nunca se cerró.",
+   "actualizada": "2026-10-16",
+   "nota_actualizacion": "El 15 de octubre Ucrania volvió a atacar refinerías rusas y dio por terminada la pausa energética, que según Zelenski solo duraba tres días.",
    "en": {
-    "titular": "Ukraine: Russia launches a major attack on the power grid three days after Trump's truce announcement",
-    "entradilla": "The Kremlin says the energy deal was never finalised, so it is not breaking it; Kyiv accuses Russia of disrespecting the US.",
+    "titular": "Ukraine: Kyiv resumes attacks on Russian refineries and ends the energy pause that Moscow never accepted",
+    "entradilla": "Zelensky says he only agreed to three days' pause and complains that the US is limiting its missile warnings while Russia launches more than 850 drones.",
     "parrafos": [
-     "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine had agreed to an energy-sector [[ceasefire|altoelfuego]]: they would not attack each other's [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Neither Moscow nor Kyiv confirmed the deal. [[Zelensky|zelenski]] said Ukraine would respect it if Russia did the same, and his country had gone two days without hitting Russian refineries. But on Wednesday 14 Russia launched its first major attack on Ukraine's power system since the announcement: according to the state electricity company Ukrenergo, it hit three thermal power plants near Kyiv, and there were power cuts in the capital, in Kharkiv and in six other areas.",
-     "According to international media, the attack killed at least five civilians and left around 600,000 people without electricity. Zelensky said it showed a lack of respect towards the United States. The Kremlin replied, through its spokesman Dmitry Peskov, that the deal never took shape and that Russia is therefore not breaking it; Deputy Prime Minister Alexander Novak accused Ukraine of attacking two refineries, in the Saratov and Ryazan regions. Something similar was announced on 14 September and the attacks did not stop. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people in [[Kyiv|kiev]] and across the rest of the country."
+     "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine had agreed to an energy-sector [[ceasefire|altoelfuego]]: they would not attack each other's [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Neither Moscow nor Kyiv confirmed it. On Wednesday 14, Russia launched its first major attack on Ukraine's power system since the announcement: according to the state company Ukrenergo, it hit three thermal power plants near Kyiv, and there were power cuts in the capital and in Kharkiv. According to international media, at least five civilians were killed and around 600,000 people were left without electricity. The Kremlin replied, through Dmitry Peskov, that the deal never took shape.",
+     "On Thursday 15, Ukraine again attacked Russian refineries: there was a fire at the one in Ryazan, some 200 kilometres from Moscow, and Russia's deputy prime minister, Alexander Novak, speaks of attacks in Ryazan and Saratov. [[Zelensky|zelenski]] explained that Ukraine had only agreed to a three-day pause. He also said Russia launched more than 850 drones in the last few hours, and complained that the US twice stopped warning him this week of ballistic missile launches and threatens to cut off shared intelligence if he keeps attacking refineries. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people in [[Kyiv|kiev]] and across the rest of the country."
     ],
-    "nota_actualizacion": "On Wednesday 14 Russia launched its first major attack on Ukraine's power grid since the energy truce was announced; the Kremlin says it was never finalised."
+    "nota_actualizacion": "On 15 October Ukraine again attacked Russian refineries and ended the energy pause, which according to Zelensky was only meant to last three days."
    }
   },
   {
    "id": "brasil-elige-presidente-este-domingo",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Flávio Bolsonaro gana la primera vuelta en Brasil y desafiará a Lula el 25 de octubre",
-   "entradilla": "Ningún candidato superó el 50 % y la presidencia se decidirá en una segunda vuelta muy disputada.",
+   "titular": "Brasil: Flávio Bolsonaro y Lula, en empate técnico a nueve días de la segunda vuelta",
+   "entradilla": "Tres encuestas dan entre 2 y 3 puntos de ventaja a Flávio Bolsonaro, dentro del margen de error.",
    "parrafos": [
     "El domingo 4 de octubre votaron más de 150 millones de brasileños y el resultado fue una sorpresa: [[Flávio Bolsonaro|flavio]], hijo del expresidente Jair Bolsonaro (condenado en 2025 por intentar un golpe de Estado), quedó primero, por delante del presidente [[Lula|lula]]. Las [[encuestas|encuesta]] daban ventaja a Lula, y él mismo reconoció que el resultado era inesperado. Según los medios, la diferencia entre los dos es de pocos puntos, y ninguno alcanzó el 50 % de los votos válidos necesario para ganar a la primera.",
-    "Por eso Flávio Bolsonaro y Lula se enfrentarán en una [[segunda vuelta|segundavuelta]] el 25 de octubre, y Lula se ha mostrado confiado en ganarla. Las tres semanas de campaña decidirán quién gobierna el país más grande de Sudamérica, cuyas decisiones importan para asuntos como la protección de la selva amazónica. El resto de candidatos quedó muy lejos, con porcentajes de entre el 2 % y el 3 %, así que sus votantes pueden resultar decisivos en el desempate."
+    "Por eso Flávio Bolsonaro y Lula se enfrentarán en una [[segunda vuelta|segundavuelta]] el 25 de octubre. Las encuestas publicadas esta semana apuntan a un empate técnico con ligera ventaja para Flávio: Quaest le da un 46 % frente al 44 % de Lula, Datafolha un 51 % frente al 49 % y BTG/Nexus un 48 % frente al 45 %. Como la diferencia está dentro del margen de error, ninguno tiene la victoria asegurada. Está en juego quién gobernará el país más grande de Sudamérica, cuyas decisiones importan para asuntos como la protección de la selva amazónica. Los votantes de los candidatos eliminados, que quedaron entre el 2 % y el 3 %, pueden ser decisivos."
    ],
    "busqueda_imagenes": "elecciones Brasil 2026",
    "fuentes": [
@@ -448,16 +450,16 @@
     "El Financiero"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-05",
-   "nota_actualizacion": "Ya hay resultado: Flávio Bolsonaro ganó la primera vuelta y se enfrentará a Lula en segunda vuelta el 25 de octubre.",
+   "actualizada": "2026-10-16",
+   "nota_actualizacion": "Las encuestas de esta semana (Quaest, Datafolha y BTG/Nexus) dan a Flávio Bolsonaro entre 2 y 3 puntos de ventaja sobre Lula, dentro del margen de error.",
    "en": {
-    "titular": "Flávio Bolsonaro wins the first round in Brazil and will face Lula on 25 October",
-    "entradilla": "No candidate passed 50%, so the presidency will be decided in a very tight second round.",
+    "titular": "Brazil: Flávio Bolsonaro and Lula in a statistical tie nine days before the second round",
+    "entradilla": "Three polls give Flávio Bolsonaro a lead of 2 to 3 points, within the margin of error.",
     "parrafos": [
      "On Sunday 4 October more than 150 million Brazilians voted, and the result was a surprise: [[Flávio Bolsonaro|flavio]], son of former president Jair Bolsonaro (convicted in 2025 of attempting a coup), came first, ahead of President [[Lula|lula]]. The [[polls|encuesta]] had given Lula the lead, and he himself admitted the result was unexpected. According to the media, the gap between the two is only a few points, and neither reached the 50% of valid votes needed to win outright.",
-     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on 25 October, and Lula has said he is confident of winning it. Three weeks of campaigning will decide who governs the largest country in South America, whose decisions matter for issues such as protecting the Amazon rainforest. The other candidates finished far behind, with between 2% and 3% each, so their voters could prove decisive in the tiebreak."
+     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on 25 October. Polls published this week point to a statistical tie with a slight lead for Flávio: Quaest gives him 46% against Lula's 44%, Datafolha 51% against 49% and BTG/Nexus 48% against 45%. Since the gap is within the margin of error, neither has victory assured. What is at stake is who will govern the largest country in South America, whose decisions matter for issues such as protecting the Amazon rainforest. The voters of the eliminated candidates, who finished with between 2% and 3%, could be decisive."
     ],
-    "nota_actualizacion": "The result is in: Flávio Bolsonaro won the first round and will face Lula in a second round on 25 October."
+    "nota_actualizacion": "This week's polls (Quaest, Datafolha and BTG/Nexus) give Flávio Bolsonaro a lead of 2 to 3 points over Lula, within the margin of error."
    }
   },
   {
@@ -743,11 +745,11 @@
    "id": "el-museo-sorolla-abre-su-ampliacion",
    "seccion": "cul",
    "dibujo": "frame",
-   "titular": "El Museo Sorolla de Madrid abre este jueves su ampliación",
-   "entradilla": "El nuevo edificio, pegado a la casa del pintor, añade salas para exposiciones temporales y un auditorio.",
+   "titular": "El Museo Sorolla de Madrid abre su ampliación y cierra la casa del pintor por obras",
+   "entradilla": "El nuevo edificio, pegado a la casa del pintor, suma más de 2.000 metros cuadrados, salas para exposiciones temporales y un auditorio.",
    "parrafos": [
-    "El jueves 15 de octubre abre al público la ampliación del Museo Sorolla, en el barrio madrileño de [[Chamberí|chamberi]]. El museo, que depende del Ministerio de Cultura, ocupa la casa donde vivió y trabajó el pintor valenciano [[Joaquín Sorolla|sorolla]] (1863-1923), famoso por sus cuadros llenos de luz mediterránea, con playas, niños jugando en el agua y paisajes. El edificio nuevo, diseñado por el estudio Nieto Sobejano Arquitectos, está junto a la casa histórica y tiene su propia entrada por la calle Zurbano.",
-    "La ampliación incluye salas para exposiciones temporales, un auditorio para conferencias y actividades culturales, y zonas para guardar y gestionar la colección. Al principio, las visitas se centrarán en el edificio nuevo, porque la casa histórica seguirá cerrada mientras se hacen obras de [[accesibilidad|accesibilidad]] y modernización. Para el público es una buena noticia: un museo pequeño podrá mostrar más obras y organizar más actos, y la casa donde el artista pintaba se preparará para que pueda visitarla más gente, también quienes tienen dificultades para moverse."
+    "El jueves 15 de octubre abrió al público la ampliación del Museo Sorolla, en el barrio madrileño de [[Chamberí|chamberi]]. El museo, que depende del Ministerio de Cultura, ocupa la casa donde vivió y trabajó el pintor valenciano [[Joaquín Sorolla|sorolla]] (1863-1923), famoso por sus cuadros llenos de luz mediterránea, con playas, niños jugando en el agua y paisajes. El edificio nuevo, diseñado por el estudio Nieto Sobejano Arquitectos, está en el número 68 de la calle Zurbano y suma más de 2.000 metros cuadrados. Entre la compra del inmueble, las obras y el equipamiento, el Ministerio cifra la inversión en más de 13 millones de euros.",
+    "La ampliación incluye salas para exposiciones temporales, un auditorio para conferencias y actividades culturales, y zonas para guardar y gestionar la colección. Se estrena con la muestra «Tras la casa del artista. Arquitecturas del Museo Sorolla (1905-2026)». La casa histórica seguirá cerrada mientras se hacen obras de [[accesibilidad|accesibilidad]] y modernización, y se restaurarán también los jardines. Para el público es una buena noticia: un museo pequeño podrá mostrar más obras y organizar más actos, y la casa donde el artista pintaba se preparará para que pueda visitarla más gente, también quienes tienen dificultades para moverse."
    ],
    "busqueda_imagenes": "Museo Sorolla ampliación Madrid 15 octubre",
    "fuentes": [
@@ -757,16 +759,16 @@
     "El Diario de Madrid"
    ],
    "publicada": "2026-10-14",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-16",
+   "nota_actualizacion": "La ampliación abrió el 15 de octubre con una exposición inaugural; la casa histórica cierra por obras.",
    "en": {
-    "titular": "Madrid's Sorolla Museum opens its extension this Thursday",
-    "entradilla": "The new building, next to the painter's house, adds rooms for temporary exhibitions and an auditorium.",
+    "titular": "Madrid's Sorolla Museum opens its extension and closes the painter's house for works",
+    "entradilla": "The new building, next to the painter's house, adds more than 2,000 square metres, rooms for temporary exhibitions and an auditorium.",
     "parrafos": [
-     "On Thursday 15 October the extension of the Sorolla Museum opens to the public, in Madrid's [[Chamberí|chamberi]] district. The museum, which belongs to the Ministry of Culture, occupies the house where the Valencian painter [[Joaquín Sorolla|sorolla]] (1863-1923) lived and worked, famous for his paintings full of Mediterranean light, with beaches, children playing in the water and landscapes. The new building, designed by the studio Nieto Sobejano Arquitectos, stands next to the historic house and has its own entrance on Zurbano Street.",
-     "The extension includes rooms for temporary exhibitions, an auditorium for talks and cultural activities, and areas for storing and managing the collection. At first, visits will focus on the new building, because the historic house will stay closed while work on [[accessibility|accesibilidad]] and modernisation is carried out. For the public it is good news: a small museum will be able to show more works and hold more events, and the house where the artist painted is being prepared so that more people can visit it, including those who find it hard to get around."
+     "On Thursday 15 October the extension of the Sorolla Museum opened to the public, in Madrid's [[Chamberí|chamberi]] district. The museum, which belongs to the Ministry of Culture, occupies the house where the Valencian painter [[Joaquín Sorolla|sorolla]] (1863-1923) lived and worked, famous for his paintings full of Mediterranean light, with beaches, children playing in the water and landscapes. The new building, designed by the studio Nieto Sobejano Arquitectos, is at number 68 Zurbano Street and covers more than 2,000 square metres. Counting the purchase of the property, the building work and the equipment, the Ministry puts the investment at more than 13 million euros.",
+     "The extension includes rooms for temporary exhibitions, an auditorium for talks and cultural activities, and areas for storing and managing the collection. It opens with the exhibition 'Behind the artist's house. Architectures of the Sorolla Museum (1905-2026)'. The historic house will stay closed while work on [[accessibility|accesibilidad]] and modernisation is carried out, and the gardens will also be restored. For the public it is good news: a small museum will be able to show more works and hold more events, and the house where the artist painted is being prepared so that more people can visit it, including those who find it hard to get around."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The extension opened on 15 October with an inaugural exhibition; the historic house is closing for works."
    }
   },
   {
@@ -927,7 +929,7 @@
    "titular": "Los precios suben un 4,9 %, lo máximo en más de tres años",
    "entradilla": "La gasolina y el gasóleo vuelven a ser los grandes culpables, según el INE, que ya ha confirmado el dato definitivo.",
    "parrafos": [
-    "El Instituto Nacional de Estadística ([[INE|ine]]) publicó el 29 de septiembre su primera estimación del [[IPC|ipc]] de septiembre y el 14 de octubre confirmó el dato definitivo: los precios están un 4,9 % más altos que hace un año. En agosto la subida era del 4,3 %, así que la [[inflación|inflacion]] se acelera y llega a su nivel más alto en más de tres años. La causa principal son los carburantes: la gasolina y el gasóleo se han encarecido, mientras que en septiembre del año pasado habían bajado. Detrás está la guerra con Irán, que ha disparado el precio del [[petróleo|petroleo]]. La inflación subyacente, que deja fuera la energía y los alimentos sin elaborar, sube menos: un 3,1 %.",
+    "El Instituto Nacional de Estadística ([[INE|ine]]) estimó el 29 de septiembre el [[IPC|ipc]] de septiembre y el 14 confirmó el dato definitivo: los precios están un 4,9 % más altos que hace un año. En agosto era un 4,3 %, así que la [[inflación|inflacion]] se acelera y llega a su nivel más alto en más de tres años. La causa principal son los carburantes, encarecidos por la guerra con Irán, que ha disparado el precio del [[petróleo|petroleo]]. Esta semana, según el Boletín Petrolero de la UE, la gasolina cuesta 1,79 euros el litro, tras bajar un 3,2 % en siete días, y el diésel 1,889. La subyacente, que deja fuera energía y alimentos sin elaborar, es del 3,1 %.",
     "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre. Con los datos hasta septiembre, esa media ronda el 3,3 %, y los cálculos publicados por varios medios apuntan a que la subida de 2027 podría acercarse al 3,5 %, aunque dependerá de lo que pase en octubre y noviembre. Sería una buena noticia para los pensionistas, que no perderían poder de compra, pero también supondría más gasto para el Estado. El dato es el más alto desde febrero de 2023."
    ],
    "busqueda_imagenes": "IPC septiembre 2026 INE 4,9%",
@@ -938,16 +940,16 @@
     "elEconomista"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-15",
-   "nota_actualizacion": "El INE confirmó el 14 de octubre el dato definitivo: 4,9 %, el más alto desde febrero de 2023.",
+   "actualizada": "2026-10-16",
+   "nota_actualizacion": "Esta semana la gasolina cuesta de media 1,79 euros el litro (un 3,2 % menos que hace siete días) y el diésel 1,889, según el Boletín Petrolero de la UE.",
    "en": {
     "titular": "Prices rise by 4.9%, the most in more than three years",
     "entradilla": "Petrol and diesel are once again the main culprits, according to the INE, which has now confirmed the final figure.",
     "parrafos": [
-     "On 29 September Spain's National Statistics Institute ([[INE|ine]]) published its first estimate of the [[CPI|ipc]] for September and on 14 October confirmed the final figure: prices are 4.9% higher than a year ago. In August the rise was 4.3%, so [[inflation|inflacion]] is speeding up and has reached its highest level in more than three years. The main cause is fuel: petrol and diesel have become more expensive, whereas in September last year they had fallen. Behind this is the war with Iran, which has sent the price of [[oil|petroleo]] soaring. Core inflation, which leaves out energy and unprocessed food, is rising more slowly: 3.1%.",
+     "On 29 September Spain's National Statistics Institute ([[INE|ine]]) estimated the September [[CPI|ipc]] and on 14 October confirmed the final figure: prices are 4.9% higher than a year ago. In August it was 4.3%, so [[inflation|inflacion]] is speeding up and has reached its highest level in more than three years. The main cause is fuel, made more expensive by the war with Iran, which has sent the price of [[oil|petroleo]] soaring. This week, according to the EU Oil Bulletin, petrol costs 1.79 euros a litre, after falling 3.2% in seven days, and diesel 1.889. Core inflation, without energy and unprocessed food, is 3.1%.",
      "This matters because the same money buys fewer things, and wages don't always go up at the same pace. It also affects [[pensions|pension]]: by law, they go up each year in line with average inflation between December and November. With the figures up to September, that average is around 3.3%, and calculations published by several media outlets suggest the 2027 increase could get close to 3.5%, although it will depend on what happens in October and November. That would be good news for pensioners, who would not lose buying power, but it would also mean more spending for the State. The figure is the highest since February 2023."
     ],
-    "nota_actualizacion": "On 14 October the INE confirmed the final figure: 4.9%, the highest since February 2023."
+    "nota_actualizacion": "This week petrol costs an average of 1.79 euros a litre (3.2% less than seven days ago) and diesel 1.889, according to the EU Oil Bulletin."
    }
   },
   {
@@ -2621,11 +2623,47 @@
     "n": "Yoshua Bengio",
     "x": "Canadian scientist, another pioneer of deep learning in artificial intelligence. He won the Turing Award in 2018."
    }
+  },
+  "seriesismica": {
+   "t": "palabra",
+   "n": "Serie sísmica",
+   "x": "Muchos terremotos seguidos en la misma zona, durante días o semanas. Casi todos son pequeños y solo algunos se notan.",
+   "en": {
+    "n": "Seismic series",
+    "x": "Many earthquakes in a row in the same area, over days or weeks. Almost all are small and only a few are felt."
+   }
+  },
+  "magnitud": {
+   "t": "palabra",
+   "n": "Magnitud",
+   "x": "El número que mide la energía que libera un terremoto. Cada punto más supone mucha más energía: uno de 4,8 es mucho más fuerte que uno de 3,8.",
+   "en": {
+    "n": "Magnitude",
+    "x": "The number that measures the energy an earthquake releases. Each extra point means much more energy: a 4.8 is far stronger than a 3.8."
+   }
+  },
+  "ign": {
+   "t": "lugar",
+   "n": "Instituto Geográfico Nacional",
+   "x": "Organismo público español que vigila los terremotos y publica dónde y con qué fuerza ocurren.",
+   "en": {
+    "n": "National Geographic Institute (IGN)",
+    "x": "The Spanish public body that monitors earthquakes and publishes where they happen and how strong they are."
+   }
+  },
+  "alhendin": {
+   "t": "lugar",
+   "n": "Alhendín",
+   "x": "Pueblo de la provincia de Granada, en el sur del área metropolitana de la capital, cerca del cual estuvo el centro de la serie de terremotos.",
+   "en": {
+    "n": "Alhendín",
+    "x": "A town in the province of Granada, in the south of the capital's metropolitan area, near which the earthquake series was centred."
+   }
   }
  },
- "edicion_en": "Thursday 15 October 2026",
+ "edicion_en": "Friday 16 October 2026",
  "destacada": {
-  "id": "ucrania-ataques-mientras-se-habla-de-paz",
-  "fecha": "2026-10-15"
+  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
+  "fecha": "2026-10-16"
  }
 }
