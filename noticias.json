@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-16T07:00:00+02:00",
- "edicion": "Viernes 16 de octubre de 2026",
+ "actualizado": "2026-10-17T07:00:00+02:00",
+ "edicion": "Sábado 17 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -107,11 +107,11 @@
    "id": "el-congreso-decide-sobre-las-leyes-de-vivienda",
    "seccion": "es",
    "dibujo": "congress",
-   "titular": "Sánchez convoca elecciones el 29 de noviembre y el PNV decidirá el 16 de octubre la suerte de los decretos de vivienda",
-   "entradilla": "La Diputación Permanente votará los decretos el viernes 16 de octubre, con el PNV como voto decisivo.",
+   "titular": "Sánchez convoca elecciones el 29 de noviembre y los decretos de vivienda se votarán el 12 de noviembre, con el PNV decisivo",
+   "entradilla": "La Diputación Permanente tiene previsto votarlos el 12 de noviembre, un día después de la huelga general y la víspera de la campaña.",
    "parrafos": [
     "El lunes 5 de octubre, [[Pedro Sánchez|sanchez]] anunció que adelanta las [[elecciones anticipadas|elecciones]] generales al domingo 29 de noviembre, después de que el [[Congreso|congreso]] rechazara los dos decretos de vivienda con 172 votos a favor y 178 en contra. El Boletín Oficial del Estado publicó el decreto el martes 6: las Cortes quedaron disueltas. Cuando se disuelven antes de tiempo, la ley dice que se vota 54 días después de publicar el decreto. Si no las hubiera adelantado, las elecciones habrían tocado en 2027.",
-    "El Gobierno volvió a aprobar los dos [[reales decretos-ley|rdl]], con retoques técnicos, para que los vote la [[Diputación Permanente|diputacionpermanente]], el grupo de 69 diputados que sustituye al Congreso mientras está disuelto. La Mesa del Congreso fijó la votación para el viernes 16 de octubre; la Constitución da 30 días para convalidarlos. Según los medios, las cuentas están muy ajustadas entre PP, Vox y Junts, por un lado, y PSOE, Sumar y sus aliados, por otro, así que el [[PNV|pnv]] es decisivo. Su portavoz anunció que votará a favor del primer decreto, con el escudo contra desahucios, y en contra del segundo, el de los alquileres."
+    "El Gobierno volvió a aprobar los dos [[reales decretos-ley|rdl]], con retoques técnicos, para que los vote la [[Diputación Permanente|diputacionpermanente]], el grupo de 69 diputados que sustituye al Congreso mientras está disuelto. La votación estaba fijada para el viernes 16 de octubre, pero el Congreso tiene ahora previsto celebrarla el 12 de noviembre. Según los medios, PP, Vox y Junts suman 34 votos frente a 35 del resto de grupos, así que el [[PNV|pnv]] es decisivo. Su portavoz anunció que votará a favor del primer decreto, con el escudo contra desahucios, y en contra del segundo, el de los alquileres: con un empate a 34, este último no se convalidaría."
    ],
    "busqueda_imagenes": "Congreso de los Diputados votación",
    "fuentes": [
@@ -123,19 +123,23 @@
     "Forbes España",
     "Público",
     "idealista/news",
-    "Maldita.es"
+    "Maldita.es",
+    "Infobae (Europa Press)",
+    "Deia",
+    "La Región",
+    "El Debate"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-10",
-   "nota_actualizacion": "La Mesa del Congreso fijó para el viernes 16 de octubre la votación de los decretos en la Diputación Permanente.",
+   "actualizada": "2026-10-17",
+   "nota_actualizacion": "Los decretos no se votarán el 16 de octubre: está previsto hacerlo el 12 de noviembre, un día después de la huelga general.",
    "en": {
-    "titular": "Sánchez calls an election for 29 November and the PNV will decide on 16 October the fate of the housing decrees",
-    "entradilla": "The Permanent Deputation will vote on the decrees on Friday 16 October, with the PNV holding the deciding vote.",
+    "titular": "Sánchez calls an election for 29 November and the housing decrees will be voted on 12 November, with the PNV holding the key",
+    "entradilla": "The Permanent Deputation plans to vote on them on 12 November, a day after the general strike and on the eve of the campaign.",
     "parrafos": [
      "On Monday 5 October, [[Pedro Sánchez|sanchez]] announced that he is bringing the general [[early election|elecciones]] forward to Sunday 29 November, after the [[Congress|congreso]] rejected the two housing decrees by 172 votes in favour to 178 against. The official state gazette (the BOE) published the decree on Tuesday 6: Parliament was dissolved. When Parliament is dissolved early, the law says the vote is held 54 days after the decree is published. Had he not brought it forward, the election would have been due in 2027.",
-     "The Government approved the two [[royal decree-laws|rdl]] again, with technical changes, so that the [[Permanent Deputation|diputacionpermanente]], the group of 69 MPs who stand in for Congress while it is dissolved, can vote on them. The Bureau of Congress set the vote for Friday 16 October; the Constitution allows 30 days to ratify them. According to the media, the numbers are very tight between PP, Vox and Junts on one side and PSOE, Sumar and their allies on the other, so the [[PNV|pnv]] holds the key. Its spokesperson announced that it will vote for the first decree, which contains the shield against evictions, and against the second one, on rents."
+     "The Government approved the two [[royal decree-laws|rdl]] again, with technical changes, so that the [[Permanent Deputation|diputacionpermanente]], the group of 69 MPs who stand in for Congress while it is dissolved, can vote on them. The vote had been set for Friday 16 October, but Congress now plans to hold it on 12 November. According to the media, PP, Vox and Junts have 34 votes against 35 for the other groups, so the [[PNV|pnv]] holds the key. Its spokesperson announced that it will vote for the first decree, which contains the shield against evictions, and against the second one, on rents: with a 34-34 tie, the latter would not be ratified."
     ],
-    "nota_actualizacion": "The Bureau of Congress set the vote on the decrees in the Permanent Deputation for Friday 16 October."
+    "nota_actualizacion": "The decrees will not be voted on 16 October: the vote is now planned for 12 November, a day after the general strike."
    }
   },
   {
@@ -173,10 +177,10 @@
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Huelga indefinida del profesorado en Madrid: en el segundo día, 32,2 % de seguimiento según la Comunidad y más del 60 % según los sindicatos",
-   "entradilla": "Miles de docentes cortaron la calle Alcalá y Cibeles; en seis provincias andaluzas había concentraciones de apoyo.",
+   "titular": "Huelga indefinida del profesorado en Madrid: en el tercer día, 26,7 % de seguimiento según la Comunidad y en torno al 60 % según los sindicatos",
+   "entradilla": "Entre 35.000 y 60.000 personas se manifestaron en Madrid; había concentraciones de apoyo convocadas en seis provincias andaluzas.",
    "parrafos": [
-    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y no tiene fecha de fin, algo inédito en la región. El primer día, CCOO habló de un 70 % de seguimiento y la Consejería de Educación de un 44,6 %. El jueves 15, miles de docentes con camisetas verdes se concentraron ante la Consejería, en la calle Alcalá, y cortaron también la plaza de Cibeles, con silbatos y cacerolas. La Consejería dice que la jornada transcurrió con normalidad y cifra el seguimiento en un 32,2 %; los sindicatos convocantes lo sitúan por encima del 60 %. En la [[Puerta del Sol|sol]] se manifestaron miles de personas el primer día.",
+    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y no tiene fecha de fin, algo inédito en la región. Afecta a unos 65.000 docentes, que dan clase a más de 666.000 alumnos. El viernes 16, tercer día, terminó con una gran manifestación: 35.000 personas según las autoridades y 60.000 según los sindicatos. El seguimiento también se cuenta de dos maneras: la [[Consejería de Educación|consejeria]] de la Comunidad lo cifra en un 26,7 %, 5,5 puntos menos que el jueves, y los sindicatos convocantes, en torno al 60 %. Los manifestantes pidieron además la dimisión de la responsable de Educación de la Comunidad.",
     "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden menos horas de clase, menos alumnos por aula, más personal y una subida de sueldo. Para las familias, una huelga indefinida significa incertidumbre sobre cuántos días habrá clase con normalidad."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
@@ -188,19 +192,21 @@
     "Teleprensa",
     "Infobae (EFE)",
     "Aragón Digital",
-    "Demócrata"
+    "Demócrata",
+    "El Español",
+    "Noticias para Municipios"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-10-16",
-   "nota_actualizacion": "En el segundo día, la Consejería cifra el seguimiento en un 32,2 % y los sindicatos en más de un 60 %; miles de docentes cortaron la calle Alcalá y Cibeles.",
+   "actualizada": "2026-10-17",
+   "nota_actualizacion": "En el tercer día, la Comunidad cifra el seguimiento en un 26,7 % y los sindicatos en torno al 60 %; la manifestación reunió a entre 35.000 y 60.000 personas.",
    "en": {
-    "titular": "Madrid teachers' indefinite strike: on day two, 32.2% turnout according to the regional government and over 60% according to the unions",
-    "entradilla": "Thousands of teachers blocked Alcalá Street and Cibeles; support rallies were called in six Andalusian provinces.",
+    "titular": "Madrid teachers' indefinite strike: on day three, 26.7% turnout according to the regional government and around 60% according to the unions",
+    "entradilla": "Between 35,000 and 60,000 people marched in Madrid; support rallies had been called in six Andalusian provinces.",
     "parrafos": [
-     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and has no end date, something unprecedented in the region. On the first day, CCOO spoke of 70% turnout and the regional Education Department of 44.6%. On Thursday 15, thousands of teachers in green shirts gathered outside the Education Department, on Alcalá Street, and also blocked Cibeles square, with whistles and pots and pans. The department says the day went ahead normally and puts turnout at 32.2%; the unions that called the strike put it above 60%. On the first day thousands of people marched in the [[Puerta del Sol|sol]].",
+     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and has no end date, something unprecedented in the region. It affects about 65,000 teachers, who teach more than 666,000 pupils. On Friday 16, the third day, it ended with a large demonstration: 35,000 people according to the authorities and 60,000 according to the unions. Turnout is also counted in two ways: the regional [[Education Department|consejeria]] puts it at 26.7%, 5.5 points lower than on Thursday, and the unions that called the strike at around 60%. The marchers also demanded the resignation of the region's person in charge of education.",
      "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want fewer teaching hours, fewer pupils per class, more staff and a pay rise. For families, an indefinite strike means uncertainty about how many days of normal lessons there will be."
     ],
-    "nota_actualizacion": "On day two, the regional government puts turnout at 32.2% and the unions at over 60%; thousands of teachers blocked Alcalá Street and Cibeles."
+    "nota_actualizacion": "On day three the regional government puts turnout at 26.7% and the unions at around 60%; the march drew between 35,000 and 60,000 people."
    }
   },
   {
@@ -235,30 +241,31 @@
    }
   },
   {
-   "id": "la-vacuna-de-la-gripe-llega-a-los-colegios-sin-p",
+   "id": "juicio-magrudis-listeria-sevilla",
    "seccion": "and",
-   "dibujo": "spray",
-   "titular": "La vacuna de la gripe llega a los colegios… sin pinchazo",
-   "entradilla": "Los niños de 3 y 4 años la recibirán con un espray nasal en clase.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-a\" cx=\"50\" cy=\"48\" rx=\"34\" ry=\"22\"/><ellipse class=\"d-b\" cx=\"44\" cy=\"42\" rx=\"16\" ry=\"9\"/><path class=\"d-l\" d=\"M16 48 H8\"/><circle class=\"d-w\" cx=\"86\" cy=\"30\" r=\"14\"/><circle class=\"d-l\" cx=\"86\" cy=\"30\" r=\"14\"/><path class=\"d-l\" d=\"M96 40 L110 56\"/><ellipse class=\"d-l\" cx=\"50\" cy=\"48\" rx=\"34\" ry=\"22\"/></svg>",
+   "titular": "Arranca en Sevilla el juicio por el brote de listeria de 2019 que causó cuatro muertes",
+   "entradilla": "Siete años después, los acusados del caso Magrudis se sientan ante la Audiencia por el mayor brote de listeriosis de España.",
    "parrafos": [
-    "El 30 de septiembre empezó en Andalucía la campaña de [[vacunación|vacuna]] contra la [[gripe|gripe]]. Primero se vacuna a los más vulnerables: niños de 6 meses a 5 años, embarazadas y profesores de los más pequeños. Más de 180.000 niños andaluces menores de cinco años pueden recibirla.",
-    "A los de 3 y 4 años se la ponen en el propio colegio con una [[vacuna intranasal|intranasal]]: un espray en la nariz. Andalucía fue de las primeras comunidades en usarla, y el curso pasado se vacunó el 65 % de esos niños. Vacunar a los menores de cinco años ha reducido un 70 % los ingresos en hospital por gripe grave en ese grupo, y además protege a sus abuelos, porque los niños contagian mucho."
+    "El viernes 16 de octubre empezó en la [[Audiencia Provincial|audiencia]] de [[Sevilla|sevilla]] el juicio por el brote de [[listeria|listeria]] de 2019, el mayor registrado hasta ahora en España. La carne mechada de la empresa Magrudis, que estaba contaminada, intoxicó a más de 200 personas y causó cuatro muertes. Entre los acusados están miembros de la familia propietaria de la empresa, un arquitecto técnico y una veterinaria municipal. Han pasado siete años desde el brote, y ahora un tribunal debe examinar qué falló y quién tuvo responsabilidad.",
+    "Se han previsto 43 sesiones, hasta el 27 de enero de 2027; los primeros días, hasta el lunes 19, se dedican a cuestiones previas. La listeria es una bacteria que puede vivir en alimentos y resulta especialmente peligrosa para embarazadas, personas mayores y personas con las defensas bajas. Que alguien se siente en el banquillo no significa que sea culpable: serán los jueces quienes decidan, tras escuchar a la acusación y a las defensas, si hubo responsabilidad. Casos así recuerdan por qué existen los controles sanitarios de los alimentos y por qué es importante que funcionen."
    ],
-   "busqueda_imagenes": "vacuna gripe intranasal niños",
+   "busqueda_imagenes": "juicio Magrudis listeria Audiencia de Sevilla",
    "fuentes": [
-    "Andalucía Informa",
-    "Redacción Médica",
-    "Alicante Plaza"
+    "Andalucía Información",
+    "Diario Siglo XXI (Europa Press)",
+    "101TV",
+    "elDiario.es"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-17",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "The flu vaccine comes to schools… with no needle",
-    "entradilla": "Children aged 3 and 4 will get it as a nasal spray in class.",
+    "titular": "Trial begins in Seville over the 2019 listeria outbreak that caused four deaths",
+    "entradilla": "Seven years later, the defendants in the Magrudis case face the Provincial Court over Spain's biggest listeriosis outbreak.",
     "parrafos": [
-     "On 30 September, the [[vaccination|vacuna]] campaign against [[flu|gripe]] began in Andalusia. The most vulnerable are vaccinated first: children from 6 months to 5 years old, pregnant women and teachers of the youngest children. More than 180,000 Andalusian children under five can receive it.",
-     "Children aged 3 and 4 get it at school itself with an [[intranasal vaccine|intranasal]]: a spray up the nose. Andalusia was one of the first regions to use it, and last school year 65% of those children were vaccinated. Vaccinating under-fives has cut hospital admissions for severe flu in that group by 70%, and it also protects their grandparents, because children spread infections a lot."
+     "On Friday 16 October, the trial began at the [[Provincial Court|audiencia]] in [[Seville|sevilla]] over the 2019 [[listeria|listeria]] outbreak, the biggest recorded in Spain so far. Contaminated pulled pork from the company Magrudis made more than 200 people ill and caused four deaths. The defendants include members of the family that owns the company, a technical architect and a municipal vet. Seven years have passed since the outbreak, and now a court must examine what went wrong and who was responsible.",
+     "There are 43 sessions scheduled, until 27 January 2027; the first days, up to Monday 19, are devoted to preliminary matters. Listeria is a bacterium that can live in food and is especially dangerous for pregnant women, older people and people with weak defences. Someone being in the dock does not mean they are guilty: it will be the judges who decide, after hearing the prosecution and the defence, whether anyone was responsible. Cases like this are a reminder of why food safety controls exist and why it matters that they work."
     ],
     "nota_actualizacion": null
    }
@@ -330,10 +337,10 @@
    "seccion": "int",
    "dibujo": "tanker",
    "titular": "Ormuz: el estrecho que hace temblar al mundo",
-   "entradilla": "La guerra con Irán sigue afectando al petróleo de todo el planeta, con una oleada de ataques a barcos esta semana.",
+   "entradilla": "La guerra con Irán sigue afectando al petróleo de todo el planeta: esta semana ha habido más de diez ataques a barcos y dos cargueros hundidos.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Las tensiones han ido a más. Entre el 11 y el 13 de octubre fueron atacados al menos diez barcos, y la agencia británica UKMTO cuenta más de 18 ataques a mercantes este mes. La Guardia Revolucionaria iraní reivindica varios y los presenta como una lucha contra el «contrabando ilegal de petróleo». Omán, que mediaba, anunció el 14 de octubre que sus conversaciones con Irán sobre el estrecho han concluido y que reabrirlo depende de un acuerdo más amplio entre Teherán y Washington. El 13, [[Donald Trump|trump]] admitió que quizá EE. UU. «fue demasiado lejos» y que ya no sabe con quién negociar. Mientras no se resuelva, el conflicto seguirá encareciendo el petróleo y la gasolina."
+    "Las tensiones han ido a más. Desde el domingo 11 de octubre al menos diez barcos han sido atacados en el estrecho o cerca de él, y según la CNN dos cargueros se han hundido tras ser alcanzados por proyectiles. La agencia británica UKMTO cuenta más de 18 ataques a mercantes este mes. Omán, que mediaba, anunció el 14 de octubre que sus conversaciones con Irán sobre el estrecho han concluido y que reabrirlo depende de un acuerdo más amplio entre Teherán y Washington. El 13, [[Donald Trump|trump]] admitió que quizá EE. UU. «fue demasiado lejos» y que ya no sabe con quién negociar. Mientras no se resuelva, el conflicto seguirá encareciendo el petróleo y la gasolina."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -345,19 +352,21 @@
     "Moncloa.com",
     "Emol",
     "El Debate",
-    "El Universal (Colombia)"
+    "El Universal (Colombia)",
+    "CNN en Español",
+    "Democracy Now"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-16",
-   "nota_actualizacion": "Entre el 11 y el 13 de octubre fueron atacados al menos diez barcos cerca de Ormuz, y Omán anunció el 14 que sus conversaciones con Irán sobre el estrecho han concluido.",
+   "actualizada": "2026-10-17",
+   "nota_actualizacion": "Desde el 11 de octubre al menos diez barcos han sido atacados cerca de Ormuz y, según la CNN, dos cargueros se han hundido.",
    "en": {
     "titular": "Hormuz: the strait that makes the world tremble",
-    "entradilla": "The war with Iran is still affecting oil all over the planet, with a wave of attacks on ships this week.",
+    "entradilla": "The war with Iran is still affecting oil all over the planet: this week there have been more than ten attacks on ships and two cargo ships sunk.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Tensions have risen. Between 11 and 13 October at least ten ships were attacked, and the British agency UKMTO counts more than 18 attacks on merchant ships this month. Iran's Revolutionary Guard claims several of them and presents them as a fight against 'illegal oil smuggling'. Oman, which had been mediating, announced on 14 October that its talks with Iran on the strait have ended and that reopening it depends on a broader deal between Tehran and Washington. On the 13th, [[Donald Trump|trump]] admitted that the US may have 'gone too far' and that he no longer knows whom to negotiate with. Until this is resolved, the conflict will keep pushing up the price of oil and petrol."
+     "Tensions have risen. Since Sunday 11 October at least ten ships have been attacked in or near the strait, and according to CNN two cargo ships have sunk after being hit by projectiles. The British agency UKMTO counts more than 18 attacks on merchant ships this month. Oman, which had been mediating, announced on 14 October that its talks with Iran on the strait have ended and that reopening it depends on a broader deal between Tehran and Washington. On the 13th, [[Donald Trump|trump]] admitted that the US may have 'gone too far' and that he no longer knows whom to negotiate with. Until this is resolved, the conflict will keep pushing up the price of oil and petrol."
     ],
-    "nota_actualizacion": "Between 11 and 13 October at least ten ships were attacked near Hormuz, and on 14 October Oman announced that its talks with Iran on the strait have ended."
+    "nota_actualizacion": "Since 11 October at least ten ships have been attacked near Hormuz and, according to CNN, two cargo ships have sunk."
    }
   },
   {
@@ -435,11 +444,11 @@
    "id": "brasil-elige-presidente-este-domingo",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Brasil: Flávio Bolsonaro y Lula, en empate técnico a nueve días de la segunda vuelta",
-   "entradilla": "Tres encuestas dan entre 2 y 3 puntos de ventaja a Flávio Bolsonaro, dentro del margen de error.",
+   "titular": "Brasil: Flávio Bolsonaro y Lula, en empate técnico a pocos días de la segunda vuelta",
+   "entradilla": "Las encuestas más recientes van de una ligera ventaja de Flávio Bolsonaro a un empate al 50 % de los votos válidos.",
    "parrafos": [
     "El domingo 4 de octubre votaron más de 150 millones de brasileños y el resultado fue una sorpresa: [[Flávio Bolsonaro|flavio]], hijo del expresidente Jair Bolsonaro (condenado en 2025 por intentar un golpe de Estado), quedó primero, por delante del presidente [[Lula|lula]]. Las [[encuestas|encuesta]] daban ventaja a Lula, y él mismo reconoció que el resultado era inesperado. Según los medios, la diferencia entre los dos es de pocos puntos, y ninguno alcanzó el 50 % de los votos válidos necesario para ganar a la primera.",
-    "Por eso Flávio Bolsonaro y Lula se enfrentarán en una [[segunda vuelta|segundavuelta]] el 25 de octubre. Las encuestas publicadas esta semana apuntan a un empate técnico con ligera ventaja para Flávio: Quaest le da un 46 % frente al 44 % de Lula, Datafolha un 51 % frente al 49 % y BTG/Nexus un 48 % frente al 45 %. Como la diferencia está dentro del margen de error, ninguno tiene la victoria asegurada. Está en juego quién gobernará el país más grande de Sudamérica, cuyas decisiones importan para asuntos como la protección de la selva amazónica. Los votantes de los candidatos eliminados, que quedaron entre el 2 % y el 3 %, pueden ser decisivos."
+    "Por eso Flávio Bolsonaro y Lula se enfrentarán en una [[segunda vuelta|segundavuelta]] el 25 de octubre. Las encuestas de esta semana apuntan a un empate técnico: Quaest da un 46 % a Flávio frente al 44 % de Lula, Datafolha un 51 % frente al 49 % y BTG/Nexus un 48 % frente al 45 %. El 16 de octubre, el sondeo CNT/MDA dio un 46,8 % a Flávio frente al 45,9 % de Lula, y PoderData/Aya los dejó empatados al 50 % de los votos válidos. Con diferencias dentro del margen de error, nadie tiene la victoria asegurada. Está en juego quién gobernará el país más grande de Sudamérica, con peso en asuntos como la protección de la Amazonia."
    ],
    "busqueda_imagenes": "elecciones Brasil 2026",
    "fuentes": [
@@ -447,19 +456,21 @@
     "La Nación",
     "El Español",
     "La Jornada",
-    "El Financiero"
+    "El Financiero",
+    "Yahoo Noticias",
+    "Bloomberg Línea"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-16",
-   "nota_actualizacion": "Las encuestas de esta semana (Quaest, Datafolha y BTG/Nexus) dan a Flávio Bolsonaro entre 2 y 3 puntos de ventaja sobre Lula, dentro del margen de error.",
+   "actualizada": "2026-10-17",
+   "nota_actualizacion": "Dos nuevas encuestas del 16 de octubre (CNT/MDA y PoderData/Aya) dan una ventaja mínima a Flávio Bolsonaro o un empate al 50 %.",
    "en": {
-    "titular": "Brazil: Flávio Bolsonaro and Lula in a statistical tie nine days before the second round",
-    "entradilla": "Three polls give Flávio Bolsonaro a lead of 2 to 3 points, within the margin of error.",
+    "titular": "Brazil: Flávio Bolsonaro and Lula in a statistical tie a few days before the second round",
+    "entradilla": "The latest polls range from a slight lead for Flávio Bolsonaro to a 50-50 tie among valid votes.",
     "parrafos": [
      "On Sunday 4 October more than 150 million Brazilians voted, and the result was a surprise: [[Flávio Bolsonaro|flavio]], son of former president Jair Bolsonaro (convicted in 2025 of attempting a coup), came first, ahead of President [[Lula|lula]]. The [[polls|encuesta]] had given Lula the lead, and he himself admitted the result was unexpected. According to the media, the gap between the two is only a few points, and neither reached the 50% of valid votes needed to win outright.",
-     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on 25 October. Polls published this week point to a statistical tie with a slight lead for Flávio: Quaest gives him 46% against Lula's 44%, Datafolha 51% against 49% and BTG/Nexus 48% against 45%. Since the gap is within the margin of error, neither has victory assured. What is at stake is who will govern the largest country in South America, whose decisions matter for issues such as protecting the Amazon rainforest. The voters of the eliminated candidates, who finished with between 2% and 3%, could be decisive."
+     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on 25 October. This week's polls point to a statistical tie: Quaest gives Flávio 46% against Lula's 44%, Datafolha 51% against 49% and BTG/Nexus 48% against 45%. On 16 October, the CNT/MDA poll gave Flávio 46.8% against Lula's 45.9%, and PoderData/Aya had them tied at 50% of valid votes. With gaps within the margin of error, nobody has victory assured. What is at stake is who will govern the largest country in South America, with weight on issues such as protecting the Amazon."
     ],
-    "nota_actualizacion": "This week's polls (Quaest, Datafolha and BTG/Nexus) give Flávio Bolsonaro a lead of 2 to 3 points over Lula, within the margin of error."
+    "nota_actualizacion": "Two new polls on 16 October (CNT/MDA and PoderData/Aya) give Flávio Bolsonaro a minimal lead or a 50-50 tie."
    }
   },
   {
@@ -557,11 +568,11 @@
    "id": "alcaraz-eliminado-shanghai-zverev-numero-uno",
    "seccion": "dep",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-a\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><ellipse class=\"d-p\" cx=\"44\" cy=\"34\" rx=\"15\" ry=\"21\" transform=\"rotate(-25 44 34)\"/><path class=\"d-l\" d=\"M36 16 L56 50 M30 24 L50 58 M28 36 L44 56 M44 12 L60 40 M34 14 L28 32\"/><ellipse class=\"d-l\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><path class=\"d-i\" d=\"M58 58 L82 82 L86 78 L62 54 Z\"/><circle class=\"d-y\" cx=\"92\" cy=\"30\" r=\"11\"/><path class=\"d-w\" d=\"M84 24 C90 28 90 34 84 38 M100 24 C94 28 94 34 100 38\"/><circle class=\"d-l\" cx=\"92\" cy=\"30\" r=\"11\"/></svg>",
-   "titular": "Alcaraz cae en Shanghái ante Bergs y Zverev se asegura el número 1 de fin de año",
-   "entradilla": "El español perdió en la tercera ronda y se enfadó con las pelotas durante el partido; Jódar sí pasa a cuartos.",
+   "titular": "Alcaraz cae en Shanghái ante Bergs, Zverev se asegura el número 1 de fin de año y Jódar llega a semifinales",
+   "entradilla": "El español perdió en la tercera ronda y se enfadó con las pelotas; Rafa Jódar, de 20 años, es semifinalista.",
    "parrafos": [
     "[[Carlos Alcaraz|alcaraz]] quedó eliminado el lunes 12 de octubre en la tercera ronda del [[Masters 1000|masters1000]] de Shanghái, uno de los torneos más importantes del circuito tras los Grand Slam. El español, segundo cabeza de serie, perdió 7-5 y 7-6 (7-4) ante el belga Zizou Bergs, número 39 del mundo. Alcaraz se mostró muy enfadado durante el primer set, sobre todo por el comportamiento irregular de las pelotas, y acabó perdiendo la calma.",
-    "Con esta derrota, el alemán [[Alexander Zverev|zverev]] se asegura terminar el año como número 1 del [[ranking ATP|rankingatp]], la clasificación que ordena a los tenistas según los puntos que ganan en los torneos de los últimos doce meses. Alcaraz, que ya ha sido número 1 del mundo, se queda sin opciones de terminar 2026 en lo más alto. Otro español, Rafa Jódar, sí sigue adelante: tras ganar al checo Jiří Lehečka, el miércoles 14 venció en octavos al neerlandés Botic van de Zandschulp por 6-7 (4), 6-4 y 6-2. Remontó por tercer partido seguido y en cuartos se medirá con el noruego Casper Ruud."
+    "Con esta derrota, el alemán [[Alexander Zverev|zverev]] se asegura terminar el año como número 1 del [[ranking ATP|rankingatp]], la clasificación que ordena a los tenistas según los puntos que ganan en los torneos de los últimos doce meses. Alcaraz, que ya ha sido número 1 del mundo, se queda sin opciones de terminar 2026 en lo más alto. Otro español, Rafa Jódar, sigue adelante: el viernes 16 ganó en cuartos al noruego Casper Ruud por 4-6, 6-4 y 6-3 y, con 20 años, es el semifinalista más joven en la historia del torneo. Se medirá con el ruso Daniil Medvedev, que venció a Tommy Paul."
    ],
    "busqueda_imagenes": "Alcaraz Bergs Masters Shanghái 2026",
    "fuentes": [
@@ -570,19 +581,21 @@
     "Emol",
     "Vanguardia",
     "Eurosport",
-    "La Nación"
+    "La Nación",
+    "ATP Tour",
+    "Listín Diario"
    ],
    "publicada": "2026-10-13",
-   "actualizada": "2026-10-15",
-   "nota_actualizacion": "Jódar remontó en octavos ante Van de Zandschulp y se medirá a Ruud en cuartos de final.",
+   "actualizada": "2026-10-17",
+   "nota_actualizacion": "Jódar ganó a Ruud en cuartos y es semifinalista; se medirá con Medvedev.",
    "en": {
-    "titular": "Alcaraz falls to Bergs in Shanghai and Zverev secures the year-end world number 1 spot",
-    "entradilla": "The Spaniard lost in the third round and lost his temper over the balls during the match; Jódar goes through to the quarter-finals.",
+    "titular": "Alcaraz falls to Bergs in Shanghai, Zverev secures the year-end world number 1 spot and Jódar reaches the semi-finals",
+    "entradilla": "The Spaniard lost in the third round and lost his temper over the balls; Rafa Jódar, aged 20, is a semi-finalist.",
     "parrafos": [
      "[[Carlos Alcaraz|alcaraz]] was knocked out on Monday 12 October in the third round of the Shanghai [[Masters 1000|masters1000]], one of the most important tournaments on the tour after the Grand Slams. The Spaniard, the second seed, lost 7-5 and 7-6 (7-4) to Belgium's Zizou Bergs, ranked 39th in the world. Alcaraz was very angry during the first set, mostly about the uneven behaviour of the balls, and ended up losing his composure.",
-     "With this defeat, the German [[Alexander Zverev|zverev]] secures finishing the year as world number 1 in the [[ATP rankings|rankingatp]], the table that orders players by the points they earn in tournaments over the previous twelve months. Alcaraz, who has already been world number 1, is left with no chance of finishing 2026 on top. Another Spaniard, Rafa Jódar, does go on: after beating the Czech Jiří Lehečka, on Wednesday 14 he beat the Dutchman Botic van de Zandschulp 6-7 (4), 6-4, 6-2 in the last 16. He came from behind for the third match in a row and will play Norway's Casper Ruud in the quarter-finals."
+     "With this defeat, the German [[Alexander Zverev|zverev]] secures finishing the year as world number 1 in the [[ATP rankings|rankingatp]], the table that orders players by the points they earn in tournaments over the previous twelve months. Alcaraz, who has already been world number 1, is left with no chance of finishing 2026 on top. Another Spaniard, Rafa Jódar, goes on: on Friday 16 he beat Norway's Casper Ruud 4-6, 6-4, 6-3 in the quarter-finals and, at 20, is the youngest semi-finalist in the history of the tournament. He will play Russia's Daniil Medvedev, who beat Tommy Paul."
     ],
-    "nota_actualizacion": "Jódar came from behind in the last 16 against Van de Zandschulp and will face Ruud in the quarter-finals."
+    "nota_actualizacion": "Jódar beat Ruud in the quarter-finals and is a semi-finalist; he will face Medvedev."
    }
   },
   {
@@ -742,33 +755,34 @@
    }
   },
   {
-   "id": "el-museo-sorolla-abre-su-ampliacion",
+   "id": "isabel-allende-gana-premio-planeta-2026",
    "seccion": "cul",
-   "dibujo": "frame",
-   "titular": "El Museo Sorolla de Madrid abre su ampliación y cierra la casa del pintor por obras",
-   "entradilla": "El nuevo edificio, pegado a la casa del pintor, suma más de 2.000 metros cuadrados, salas para exposiciones temporales y un auditorio.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-a\" d=\"M60 22 C46 12 28 12 14 18 V72 C28 66 46 66 60 76 Z\"/><path class=\"d-b\" d=\"M60 22 C74 12 92 12 106 18 V72 C92 66 74 66 60 76 Z\"/><path class=\"d-p\" d=\"M20 24 C32 21 44 22 54 28 V66 C44 62 32 61 20 64 Z\"/><path class=\"d-p\" d=\"M100 24 C88 21 76 22 66 28 V66 C76 62 88 61 100 64 Z\"/><path class=\"d-l\" d=\"M60 22 V76 M26 34 H48 M26 42 H48 M26 50 H48 M72 34 H94 M72 42 H94 M72 50 H94\"/><circle class=\"d-y\" cx=\"96\" cy=\"14\" r=\"5\"/></svg>",
+   "titular": "Isabel Allende gana el Premio Planeta 2026 con una continuación de «La casa de los espíritus»",
+   "entradilla": "La escritora chilena, de 84 años, recibió el millón de euros del premio en la gala del 75.º aniversario, en Barcelona.",
    "parrafos": [
-    "El jueves 15 de octubre abrió al público la ampliación del Museo Sorolla, en el barrio madrileño de [[Chamberí|chamberi]]. El museo, que depende del Ministerio de Cultura, ocupa la casa donde vivió y trabajó el pintor valenciano [[Joaquín Sorolla|sorolla]] (1863-1923), famoso por sus cuadros llenos de luz mediterránea, con playas, niños jugando en el agua y paisajes. El edificio nuevo, diseñado por el estudio Nieto Sobejano Arquitectos, está en el número 68 de la calle Zurbano y suma más de 2.000 metros cuadrados. Entre la compra del inmueble, las obras y el equipamiento, el Ministerio cifra la inversión en más de 13 millones de euros.",
-    "La ampliación incluye salas para exposiciones temporales, un auditorio para conferencias y actividades culturales, y zonas para guardar y gestionar la colección. Se estrena con la muestra «Tras la casa del artista. Arquitecturas del Museo Sorolla (1905-2026)». La casa histórica seguirá cerrada mientras se hacen obras de [[accesibilidad|accesibilidad]] y modernización, y se restaurarán también los jardines. Para el público es una buena noticia: un museo pequeño podrá mostrar más obras y organizar más actos, y la casa donde el artista pintaba se preparará para que pueda visitarla más gente, también quienes tienen dificultades para moverse."
+    "La escritora chilena [[Isabel Allende|allende]], de 84 años, ganó el jueves 15 de octubre el [[Premio Planeta|planeta]] de novela con «La hora antes del alba». El premio, de un millón de euros, se entregó en una gala en Montjuïc, en Barcelona, a la que asistieron los Reyes, en la 75.ª edición del galardón. El finalista fue el escritor valenciano Sergio Hernández Carrasco con «La añoranza». El Planeta es uno de los premios más conocidos de la literatura en español, y su ganador se anuncia cada otoño en una ceremonia muy seguida.",
+    "«La hora antes del alba» continúa la historia de «[[La casa de los espíritus|casaespiritus]]», la novela que Allende publicó hace unos 45 años y que la hizo famosa en todo el mundo. Responde a una pregunta que muchos lectores se hacían: qué fue de Alba, la nieta de la familia, después del final de aquel libro. La nueva obra habla de las consecuencias de la violencia política durante la dictadura de [[Augusto Pinochet|pinochet]] en Chile y de cómo una joven intenta rehacer su vida. Es una buena ocasión para acercarse a una de las autoras en español más leídas del mundo."
    ],
-   "busqueda_imagenes": "Museo Sorolla ampliación Madrid 15 octubre",
+   "busqueda_imagenes": "Isabel Allende Premio Planeta 2026",
    "fuentes": [
-    "Infobae",
-    "Qué!",
-    "Enredando",
-    "El Diario de Madrid"
+    "Crónica Global (El Español)",
+    "Hola",
+    "Vozpópuli",
+    "El Universo",
+    "Radio Concierto"
    ],
-   "publicada": "2026-10-14",
-   "actualizada": "2026-10-16",
-   "nota_actualizacion": "La ampliación abrió el 15 de octubre con una exposición inaugural; la casa histórica cierra por obras.",
+   "publicada": "2026-10-17",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Madrid's Sorolla Museum opens its extension and closes the painter's house for works",
-    "entradilla": "The new building, next to the painter's house, adds more than 2,000 square metres, rooms for temporary exhibitions and an auditorium.",
+    "titular": "Isabel Allende wins the 2026 Planeta Prize with a sequel to 'The House of the Spirits'",
+    "entradilla": "The 84-year-old Chilean writer received the prize's one million euros at the 75th-anniversary gala in Barcelona.",
     "parrafos": [
-     "On Thursday 15 October the extension of the Sorolla Museum opened to the public, in Madrid's [[Chamberí|chamberi]] district. The museum, which belongs to the Ministry of Culture, occupies the house where the Valencian painter [[Joaquín Sorolla|sorolla]] (1863-1923) lived and worked, famous for his paintings full of Mediterranean light, with beaches, children playing in the water and landscapes. The new building, designed by the studio Nieto Sobejano Arquitectos, is at number 68 Zurbano Street and covers more than 2,000 square metres. Counting the purchase of the property, the building work and the equipment, the Ministry puts the investment at more than 13 million euros.",
-     "The extension includes rooms for temporary exhibitions, an auditorium for talks and cultural activities, and areas for storing and managing the collection. It opens with the exhibition 'Behind the artist's house. Architectures of the Sorolla Museum (1905-2026)'. The historic house will stay closed while work on [[accessibility|accesibilidad]] and modernisation is carried out, and the gardens will also be restored. For the public it is good news: a small museum will be able to show more works and hold more events, and the house where the artist painted is being prepared so that more people can visit it, including those who find it hard to get around."
+     "The Chilean writer [[Isabel Allende|allende]], aged 84, won the [[Planeta Prize|planeta]] for fiction on Thursday 15 October with 'La hora antes del alba' ('The Hour Before Dawn'). The prize, worth one million euros, was presented at a gala at Montjuïc in Barcelona, attended by the King and Queen, at the award's 75th edition. The runner-up was the Valencian writer Sergio Hernández Carrasco with 'La añoranza' ('The Longing'). The Planeta is one of the best-known prizes in Spanish-language literature, and its winner is announced every autumn at a closely followed ceremony.",
+     "'La hora antes del alba' continues the story of '[[The House of the Spirits|casaespiritus]]', the novel Allende published some 45 years ago and which made her famous around the world. It answers a question many readers had: what became of Alba, the family's granddaughter, after the end of that book. The new work deals with the consequences of political violence under the dictatorship of [[Augusto Pinochet|pinochet]] in Chile and with how a young woman tries to rebuild her life. It is a good chance to get to know one of the most widely read authors in Spanish in the world."
     ],
-    "nota_actualizacion": "The extension opened on 15 October with an inaugural exhibition; the historic house is closing for works."
+    "nota_actualizacion": null
    }
   },
   {
@@ -894,10 +908,10 @@
    "seccion": "tec",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M60 14 V74 M36 76 H84 M26 28 H94\"/><path class=\"d-b\" d=\"M26 28 L14 54 H38 Z\"/><path class=\"d-b\" d=\"M94 28 L82 54 H106 Z\"/><path class=\"d-l\" d=\"M26 28 L14 54 H38 Z M94 28 L82 54 H106 Z\"/><circle class=\"d-y\" cx=\"60\" cy=\"12\" r=\"5\"/><rect class=\"d-a\" x=\"46\" y=\"68\" width=\"28\" height=\"8\" rx=\"2\"/></svg>",
    "titular": "OpenAI y Anthropic piden al Parlamento británico leyes obligatorias sobre inteligencia artificial",
-   "entradilla": "Mientras tanto, más de 300 científicos piden un organismo internacional que registre los fallos de seguridad de la IA.",
+   "entradilla": "Más de 300 científicos piden un organismo internacional que registre los fallos de seguridad de la IA, y Bruselas pide explicaciones a las dos empresas.",
    "parrafos": [
     "El martes 13 de octubre, directivos de OpenAI y Anthropic, dos de las empresas de [[inteligencia artificial|ia]] más importantes del mundo, declararon ante un comité del Parlamento británico. Anthropic dijo que los compromisos voluntarios no bastan y que las obligaciones legales son su postura de siempre; OpenAI propuso empezar por obligar a comunicar los incidentes de seguridad y apoyó un convenio internacional. Ahora el sistema británico es voluntario: el instituto público que prueba los modelos ni los certifica ni puede impedir que una empresa lance uno que considere peligroso.",
-    "Ese mismo día, más de 300 científicos, entre ellos los pioneros de la IA [[Geoffrey Hinton|hinton]] y [[Yoshua Bengio|bengio]], firmaron una carta abierta. Piden que los modelos capaces de hacer ciberataques estén aislados de internet por defecto, que un organismo internacional registre los fallos de contención y que los incidentes se hagan públicos. Recuerdan que en los últimos meses modelos de IA han entrado en sistemas ajenos, como los de Hugging Face y varias webs de gobiernos. El 14, en Dublín, el presidente de Google DeepMind, Demis Hassabis, avisó de que los agentes de IA podrían causar «incidentes graves» en uno o dos años sin más medidas de seguridad. Unos defienden normas obligatorias; otros temen que frenen la innovación."
+    "Ese mismo día, más de 300 científicos, entre ellos los pioneros de la IA [[Geoffrey Hinton|hinton]] y [[Yoshua Bengio|bengio]], firmaron una carta abierta. Piden que los modelos capaces de hacer ciberataques estén aislados de internet, que un organismo internacional registre los fallos de contención y que los incidentes se hagan públicos. El 14, en Dublín, la vicepresidenta de la Comisión Europea Henna Virkkunen anunció, según varios medios, que la Oficina Europea de IA ha pedido información formal a OpenAI y Anthropic sobre la seguridad de sus modelos: es el primer paso de la ley europea, no una sanción. Ese día Demis Hassabis, de Google DeepMind, avisó de «incidentes graves» en uno o dos años sin más medidas de seguridad."
    ],
    "busqueda_imagenes": "inteligencia artificial regulación Parlamento británico científicos carta",
    "fuentes": [
@@ -907,19 +921,21 @@
     "ABC News (Australia)",
     "Reporte Asia",
     "Qz",
-    "ABC Color"
+    "ABC Color",
+    "DiarioBitcoin",
+    "NeoTeo"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-10-15",
-   "nota_actualizacion": "El 14 de octubre, el presidente de Google DeepMind avisó en Dublín de que los agentes de IA podrían causar «incidentes graves» en uno o dos años sin más seguridad.",
+   "actualizada": "2026-10-17",
+   "nota_actualizacion": "El 14 de octubre la Comisión Europea pidió formalmente información a OpenAI y Anthropic sobre la seguridad de sus modelos, primer paso de la ley europea de IA.",
    "en": {
     "titular": "OpenAI and Anthropic ask the British Parliament for mandatory laws on artificial intelligence",
-    "entradilla": "Meanwhile, more than 300 scientists call for an international body to record AI safety failures.",
+    "entradilla": "More than 300 scientists call for an international body to record AI safety failures, and Brussels asks both companies for explanations.",
     "parrafos": [
      "On Tuesday 13 October, executives from OpenAI and Anthropic, two of the most important [[artificial intelligence|ia]] companies in the world, gave evidence to a committee of the British Parliament. Anthropic said that voluntary commitments are not enough and that legal obligations are its long-standing position; OpenAI proposed starting by requiring safety incidents to be reported and backed an international convention. The British system is currently voluntary: the public institute that tests the models neither certifies them nor can stop a company from releasing one it considers dangerous.",
-     "The same day, more than 300 scientists, including AI pioneers [[Geoffrey Hinton|hinton]] and [[Yoshua Bengio|bengio]], signed an open letter. They ask that models with cyberattack capabilities be cut off from the internet by default, that an international body record containment failures, and that incidents be made public. They point out that in recent months AI models have broken into outside systems, such as Hugging Face's and several government websites. On the 14th, in Dublin, the president of Google DeepMind, Demis Hassabis, warned that AI agents could cause 'serious incidents' within one or two years without stronger safety measures. Some defend mandatory rules; others fear they would hold back innovation."
+     "The same day, more than 300 scientists, including AI pioneers [[Geoffrey Hinton|hinton]] and [[Yoshua Bengio|bengio]], signed an open letter. They ask that models with cyberattack capabilities be cut off from the internet by default, that an international body record containment failures, and that incidents be made public. On the 14th, in Dublin, European Commission Vice-President Henna Virkkunen announced, according to several media outlets, that the European AI Office has formally asked OpenAI and Anthropic for information on the safety of their models: it is the first step under the European law, not a penalty. That day Demis Hassabis, of Google DeepMind, warned of 'serious incidents' within one or two years without stronger safety measures."
     ],
-    "nota_actualizacion": "On 14 October, the president of Google DeepMind warned in Dublin that AI agents could cause 'serious incidents' within one or two years without stronger safety."
+    "nota_actualizacion": "On 14 October the European Commission formally asked OpenAI and Anthropic for information on the safety of their models, the first step under the European AI law."
    }
   },
   {
@@ -989,7 +1005,7 @@
    "titular": "La inflación en la zona euro, en su nivel más alto en tres años",
    "entradilla": "La subida presiona al Banco Central Europeo y encarece las hipotecas.",
    "parrafos": [
-    "Según el dato adelantado que publicó el 2 de octubre Eurostat, la oficina de estadística europea, los precios en los 21 países que usan el euro subieron en septiembre un 3,8 % respecto a hace un año, frente al 3,2 % de agosto. La gran responsable es la energía, que está un 18,8 % más cara. España, con un 5 % según el índice armonizado que se usa para comparar países, tiene la inflación más alta de las grandes economías del euro, por delante de Italia (4,1 %), Francia (3,4 %) y Alemania (3,3 %). La guerra con Irán, que afecta al paso de barcos por el [[estrecho de Ormuz|ormuz]], explica buena parte del problema.",
+    "Eurostat, la oficina de estadística europea, confirmó el 16 de octubre que los precios en los 21 países que usan el euro subieron en septiembre un 3,8 % respecto a hace un año, frente al 3,2 % de agosto. La gran responsable es la energía, que según el dato adelantado está un 18,8 % más cara. España, con un 5 % según el índice armonizado que se usa para comparar países, tiene la inflación más alta de las grandes economías del euro, por delante de Italia (4,1 %), Francia (3,4 %) y Alemania (3,3 %). La guerra con Irán, que afecta al paso de barcos por el [[estrecho de Ormuz|ormuz]], explica buena parte del problema.",
     "Controlar los precios es la tarea del [[Banco Central Europeo|bce]], que busca una inflación cercana al 2 %. Su herramienta principal son los [[tipos de interés|tiposinteres]], el precio que se paga por pedir dinero prestado. El 10 de septiembre los subió por segunda vez este año, hasta el 2,5 %, y los mercados esperan otra subida antes de que acabe 2026. Subir los tipos frena el gasto, pero tiene un coste: el [[euríbor|euribor]], al que están ligadas muchas [[hipotecas|hipoteca]] en España, cerró septiembre con una media cercana al 3,25 %, la más alta del año. Quien revise ahora su hipoteca pagará más cada mes. Dentro del BCE hay debate: unos piden actuar ya; otros temen frenar demasiado la economía."
    ],
    "busqueda_imagenes": "inflación eurozona septiembre 2026 BCE",
@@ -997,19 +1013,20 @@
     "El Español",
     "Infobae (EFE)",
     "Moncloa.com",
-    "Rankia"
+    "Rankia",
+    "Telemadrid"
    ],
    "publicada": "2026-10-02",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-17",
+   "nota_actualizacion": "Eurostat confirmó el 16 de octubre la inflación de septiembre: 3,8 % en la eurozona y 5 % en España.",
    "en": {
     "titular": "Euro area inflation hits its highest level in three years",
     "entradilla": "The rise is putting pressure on the European Central Bank and making mortgages more expensive.",
     "parrafos": [
-     "According to the early estimate published on 2 October by Eurostat, the European statistics office, prices in the 21 countries that use the euro rose by 3.8% in September compared with a year ago, up from 3.2% in August. The main culprit is energy, which is 18.8% more expensive. Spain, at 5% on the harmonised index used to compare countries, has the highest inflation of the big euro economies, ahead of Italy (4.1%), France (3.4%) and Germany (3.3%). The war with Iran, which affects ships passing through the [[Strait of Hormuz|ormuz]], explains much of the problem.",
+     "Eurostat, the European statistics office, confirmed on 16 October that prices in the 21 countries that use the euro rose by 3.8% in September compared with a year ago, up from 3.2% in August. The main culprit is energy, which according to the early estimate is 18.8% more expensive. Spain, at 5% on the harmonised index used to compare countries, has the highest inflation of the big euro economies, ahead of Italy (4.1%), France (3.4%) and Germany (3.3%). The war with Iran, which affects ships passing through the [[Strait of Hormuz|ormuz]], explains much of the problem.",
      "Keeping prices under control is the job of the [[European Central Bank|bce]], which aims for inflation of around 2%. Its main tool is [[interest rates|tiposinteres]], the price paid for borrowing money. On 10 September it raised them for the second time this year, to 2.5%, and markets expect another rise before the end of 2026. Raising rates slows spending, but it comes at a cost: the [[Euribor|euribor]], to which many [[mortgages|hipoteca]] in Spain are linked, ended September with an average of about 3.25%, the highest this year. Anyone whose mortgage is reviewed now will pay more each month. Inside the ECB there is debate: some want to act now; others fear slowing the economy too much."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On 16 October Eurostat confirmed September inflation: 3.8% in the euro area and 5% in Spain."
    }
   },
   {
@@ -1116,7 +1133,7 @@
    "entradilla": "Felipe VI y Letizia visitaron Ceuta el martes y Melilla el miércoles, unos dos meses y medio después de la entrada masiva de personas desde Marruecos.",
    "parrafos": [
     "El martes 13 de octubre, Felipe VI y Letizia visitaron [[Ceuta|ceuta]] por primera vez como Reyes: es la primera visita de la Casa Real a la ciudad en 19 años. A finales de julio de 2026 entraron de forma irregular desde [[Marruecos|marruecos]] más de 70.000 personas, según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años, y la mayoría regresó después. Los Reyes participaron en un homenaje ecuménico en el cementerio musulmán de Sidi Embarek, en memoria de migrantes fallecidos. El miércoles 14 visitaron Melilla, donde cientos de personas los recibieron con vítores. La visita llega mes y medio antes de las elecciones, y el líder del PP, Alberto Núñez Feijóo, criticó que [[Pedro Sánchez|sanchez]] no les acompañara.",
-    "En su discurso, Felipe VI dijo que Ceuta y Melilla son parte irrenunciable de España y que la soberanía y la integridad territorial del país «no son negociables». Añadió que España y la Unión Europea quieren una buena relación con Marruecos, y pidió el respaldo de la UE para proteger las fronteras. Cuatro días antes, el viernes 9, el rey de Marruecos, [[Mohamed VI|mohamedvi]], había roto su silencio al abrir el Parlamento marroquí: aseguró que su asociación con España no puede someterse a presiones ni chantajes y criticó que ciertos medios y sectores políticos aprovechen la situación. También reconoció avances en la cooperación migratoria y señaló retos, como leyes anticuadas que dificultan devolver a los [[menores|menores]]."
+    "En su discurso, Felipe VI dijo que Ceuta y Melilla son parte irrenunciable de España y que la soberanía y la integridad territorial del país «no son negociables». Añadió que España y la Unión Europea quieren una buena relación con Marruecos. Cuatro días antes, el viernes 9, el rey de Marruecos, [[Mohamed VI|mohamedvi]], había roto su silencio al abrir el Parlamento marroquí: aseguró que su asociación con España no puede someterse a presiones ni chantajes. Después, el diario ABC publicó que una patrullera marroquí estuvo horas en aguas españolas de Ceuta el jueves 15; el Gobierno y la Guardia Civil lo desmienten, y Feijóo exigió desplegar la Armada."
    ],
    "busqueda_imagenes": "Reyes Felipe VI Letizia visita Ceuta",
    "fuentes": [
@@ -1127,19 +1144,21 @@
     "Moncloa.com",
     "France 24",
     "The Objective",
-    "Euronews"
+    "Euronews",
+    "Ceuta Actualidad",
+    "RTVCE"
    ],
    "publicada": "2026-10-10",
-   "actualizada": "2026-10-15",
-   "nota_actualizacion": "Los Reyes visitaron Ceuta el 13 de octubre y Melilla el 14; Felipe VI dijo que la soberanía y la integridad de España «no son negociables».",
+   "actualizada": "2026-10-17",
+   "nota_actualizacion": "ABC publicó que una patrullera marroquí estuvo horas en aguas de Ceuta el 15 de octubre; el Gobierno y la Guardia Civil lo desmienten.",
    "en": {
     "titular": "The King and Queen visit Ceuta and Felipe VI says Spain's sovereignty is 'not negotiable'",
     "entradilla": "Felipe VI and Letizia visited Ceuta on Tuesday and Melilla on Wednesday, about two and a half months after the mass entry of people from Morocco.",
     "parrafos": [
      "On Tuesday 13 October, Felipe VI and Letizia visited [[Ceuta|ceuta]] for the first time as King and Queen: it is the first visit by the Royal Household to the city in 19 years. At the end of July 2026, according to estimates, more than 70,000 people entered irregularly from [[Morocco|marruecos]], the biggest episode on that [[border|frontera]] in years, and most went back afterwards. The monarchs took part in an ecumenical tribute at the Muslim cemetery of Sidi Embarek, in memory of migrants who died. On Wednesday 14 they visited Melilla, where hundreds of people welcomed them with cheers. The visit comes a month and a half before the election, and the PP leader, Alberto Núñez Feijóo, criticised the fact that [[Pedro Sánchez|sanchez]] did not accompany them.",
-     "In his speech, Felipe VI said that Ceuta and Melilla are an inalienable part of Spain and that the country's sovereignty and territorial integrity are 'not negotiable'. He added that Spain and the European Union want a good relationship with Morocco, and asked for the EU's backing to protect the borders. Four days earlier, on Friday 9, Morocco's king, [[Mohamed VI|mohamedvi]], had broken his silence at the opening of the Moroccan Parliament: he said that his country's partnership with Spain cannot be subject to pressure or blackmail, and criticised certain media and political circles for exploiting the situation. He also acknowledged progress in migration cooperation and pointed to challenges, such as outdated laws that make it hard to send [[unaccompanied minors|menores]] back."
+     "In his speech, Felipe VI said that Ceuta and Melilla are an inalienable part of Spain and that the country's sovereignty and territorial integrity are 'not negotiable'. He added that Spain and the European Union want a good relationship with Morocco. Four days earlier, on Friday 9, Morocco's king, [[Mohamed VI|mohamedvi]], had broken his silence at the opening of the Moroccan Parliament: he said that his country's partnership with Spain cannot be subject to pressure or blackmail. Afterwards, the newspaper ABC reported that a Moroccan patrol boat spent hours in Spanish waters off Ceuta on Thursday 15; the Government and the Civil Guard deny it, and Feijóo demanded that the Navy be deployed."
     ],
-    "nota_actualizacion": "The King and Queen visited Ceuta on 13 October and Melilla on 14 October; Felipe VI said Spain's sovereignty and integrity are 'not negotiable'."
+    "nota_actualizacion": "ABC reported that a Moroccan patrol boat spent hours in waters off Ceuta on 15 October; the Government and the Civil Guard deny it."
    }
   },
   {
@@ -2659,11 +2678,83 @@
     "n": "Alhendín",
     "x": "A town in the province of Granada, in the south of the capital's metropolitan area, near which the earthquake series was centred."
    }
+  },
+  "listeria": {
+   "t": "palabra",
+   "n": "Listeria",
+   "x": "Bacteria que puede estar en alimentos mal conservados o contaminados. A la mayoría de la gente le da una enfermedad leve, pero puede ser grave en embarazadas, personas mayores o con las defensas bajas.",
+   "en": {
+    "n": "Listeria",
+    "x": "A bacterium that can be found in poorly stored or contaminated food. Most people get a mild illness, but it can be serious for pregnant women, older people or those with weak defences."
+   }
+  },
+  "audiencia": {
+   "t": "palabra",
+   "n": "Audiencia Provincial",
+   "x": "Tribunal que juzga en cada provincia los delitos más graves. La de Sevilla juzga este caso.",
+   "en": {
+    "n": "Provincial Court",
+    "x": "A court that tries the more serious crimes in each province. The one in Seville is trying this case."
+   }
+  },
+  "sevilla": {
+   "t": "lugar",
+   "n": "Sevilla",
+   "x": "Capital de Andalucía, a orillas del río Guadalquivir.",
+   "en": {
+    "n": "Seville",
+    "x": "Capital of Andalusia, on the banks of the Guadalquivir river."
+   }
+  },
+  "consejeria": {
+   "t": "palabra",
+   "n": "Consejería",
+   "x": "Cada departamento del gobierno de una comunidad autónoma, como un ministerio pero regional. La de Educación gestiona los colegios e institutos públicos de la región.",
+   "en": {
+    "n": "Regional department",
+    "x": "Each department of an autonomous community's government, like a ministry but regional. The Education one runs the region's public schools."
+   }
+  },
+  "planeta": {
+   "t": "palabra",
+   "n": "Premio Planeta",
+   "x": "Premio literario español de novela que se concede cada otoño en Barcelona. El ganador recibe un millón de euros.",
+   "en": {
+    "n": "Planeta Prize",
+    "x": "A Spanish literary prize for fiction awarded every autumn in Barcelona. The winner receives one million euros."
+   }
+  },
+  "allende": {
+   "t": "persona",
+   "n": "Isabel Allende",
+   "x": "Escritora chilena nacida en Perú en 1942 y autora de «La casa de los espíritus». Sus libros se han traducido a decenas de idiomas.",
+   "en": {
+    "n": "Isabel Allende",
+    "x": "A Chilean writer born in Peru in 1942 and author of 'The House of the Spirits'. Her books have been translated into dozens of languages."
+   }
+  },
+  "casaespiritus": {
+   "t": "palabra",
+   "n": "La casa de los espíritus",
+   "x": "Novela de Isabel Allende que cuenta la historia de varias generaciones de una familia chilena. Es su obra más famosa.",
+   "en": {
+    "n": "The House of the Spirits",
+    "x": "A novel by Isabel Allende that tells the story of several generations of a Chilean family. It is her most famous work."
+   }
+  },
+  "pinochet": {
+   "t": "persona",
+   "n": "Augusto Pinochet",
+   "x": "Militar que dio un golpe de Estado en Chile en 1973 y gobernó como dictador hasta 1990. Su régimen encarceló y torturó a muchos opositores.",
+   "en": {
+    "n": "Augusto Pinochet",
+    "x": "A military officer who led a coup in Chile in 1973 and ruled as dictator until 1990. His regime imprisoned and tortured many opponents."
+   }
   }
  },
- "edicion_en": "Friday 16 October 2026",
+ "edicion_en": "Saturday 17 October 2026",
  "destacada": {
   "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-10-16"
+  "fecha": "2026-10-17"
  }
 }
