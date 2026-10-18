@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-17T07:00:00+02:00",
- "edicion": "Sábado 17 de octubre de 2026",
+ "actualizado": "2026-10-18T07:00:00+02:00",
+ "edicion": "Domingo 18 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -174,6 +174,38 @@
    }
   },
   {
+   "id": "dana-adam-almeria-inundaciones-alerta-roja-valencia",
+   "seccion": "and",
+   "dibujo": "rain",
+   "titular": "La DANA Adam inunda Almería y pone en alerta roja a Valencia y Alicante este domingo",
+   "entradilla": "El sábado hubo 155 incidencias en Andalucía, 121 en Almería; la Aemet prevé hasta 300 litros por metro cuadrado en 24 horas en el litoral valenciano.",
+   "parrafos": [
+    "Una [[DANA|dana]] a la que los meteorólogos llaman «Adam» está dejando lluvias muy fuertes en el este y el sur de la península. El sábado 17, el servicio de emergencias 112 atendió en Andalucía 155 incidencias por la lluvia hasta las 18:30, de ellas 121 en Almería: casas y carreteras inundadas y personas rescatadas, sin heridos. Hubo aviso rojo en la zona de [[El Ejido|elejido]], con hasta 60 litros por metro cuadrado en una hora, y se envió un [[Es-Alert|esalert]] a los móviles de Almería. Andalucía elevó a situación 1 su plan de emergencias por riesgo de inundaciones.",
+    "Hoy, domingo 18, el peligro se concentra en levante. La [[Aemet|aemet]] ha activado la [[alerta roja|alertaroja]], el nivel máximo, en el litoral sur de Valencia y el norte de Alicante desde las 10:00 de hoy hasta las 10:00 del lunes: prevé más de 200 litros por metro cuadrado en 12 horas, hasta 300 en 24, y avisa de posibles inundaciones y crecidas de ríos y barrancos. Hay avisos naranjas en Andalucía, Murcia, Cataluña y Baleares, entre otras zonas. Valencia sufrió en octubre de 2024 una DANA con más de 200 muertos, y por eso se sigue con tanta atención. La Aemet pide evitar las zonas inundables."
+   ],
+   "busqueda_imagenes": "dana Adam Almería El Ejido inundaciones",
+   "fuentes": [
+    "Infobae (Europa Press)",
+    "Moncloa.com",
+    "El Debate",
+    "101TV",
+    "Libertad Digital",
+    "Telecinco"
+   ],
+   "publicada": "2026-10-18",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Storm Adam floods Almería and puts Valencia and Alicante on red alert this Sunday",
+    "entradilla": "On Saturday there were 155 incidents in Andalusia, 121 of them in Almería; Aemet forecasts up to 300 litres per square metre in 24 hours on the Valencian coast.",
+    "parrafos": [
+     "A [[DANA|dana]] that meteorologists have named 'Adam' is bringing very heavy rain to the east and south of the peninsula. On Saturday 17, the 112 emergency service handled 155 rain-related incidents in Andalusia up to 18:30, 121 of them in Almería: flooded homes and roads and people rescued, with no injuries. There was a red warning around [[El Ejido|elejido]], with up to 60 litres per square metre in an hour, and an [[Es-Alert|esalert]] was sent to phones in Almería. Andalusia raised its flood-risk emergency plan to situation 1.",
+     "Today, Sunday 18, the danger is concentrated in the Mediterranean east. [[Aemet|aemet]] has activated the [[red alert|alertaroja]], the highest level, for the southern coast of Valencia and northern Alicante from 10:00 today until 10:00 on Monday: it forecasts more than 200 litres per square metre in 12 hours, up to 300 in 24, and warns of possible floods and swollen rivers and ravines. There are orange warnings in Andalusia, Murcia, Catalonia and the Balearic Islands, among other areas. In October 2024 Valencia suffered a DANA with more than 200 deaths, which is why this one is being followed so closely. Aemet asks people to avoid flood-prone areas."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
@@ -271,36 +303,6 @@
    }
   },
   {
-   "id": "fiebre-del-nilo-quinta-muerte-andalucia",
-   "seccion": "and",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-b\" cx=\"62\" cy=\"26\" rx=\"18\" ry=\"8\" transform=\"rotate(-20 62 26)\"/><ellipse class=\"d-b\" cx=\"80\" cy=\"30\" rx=\"16\" ry=\"7\" transform=\"rotate(15 80 30)\"/><ellipse class=\"d-l\" cx=\"62\" cy=\"26\" rx=\"18\" ry=\"8\" transform=\"rotate(-20 62 26)\"/><ellipse class=\"d-l\" cx=\"80\" cy=\"30\" rx=\"16\" ry=\"7\" transform=\"rotate(15 80 30)\"/><ellipse class=\"d-a\" cx=\"42\" cy=\"50\" rx=\"24\" ry=\"7\"/><ellipse class=\"d-a\" cx=\"72\" cy=\"46\" rx=\"11\" ry=\"9\"/><circle class=\"d-i\" cx=\"88\" cy=\"46\" r=\"6\"/><path class=\"d-l\" d=\"M93 48 L112 62\"/><path class=\"d-l\" d=\"M66 53 L60 70 L52 80 M74 53 L78 70 L76 82 M56 54 L44 68 L34 74\"/><path class=\"d-l\" d=\"M22 52 L14 54\"/></svg>",
-   "titular": "Quinta muerte por fiebre del Nilo en Andalucía este año",
-   "entradilla": "Un hombre de 75 años de Aznalcázar (Sevilla) falleció tras más de un mes ingresado; hay alertas en 12 municipios.",
-   "parrafos": [
-    "Andalucía ha registrado su quinta muerte de 2026 por [[fiebre del Nilo Occidental|nilo]]. Era un hombre de 75 años, vecino de Aznalcázar (Sevilla), con otras enfermedades previas, que estaba ingresado desde el 26 de agosto con la forma neuroinvasiva, la que afecta al sistema nervioso. La noticia se conoció el 9 de octubre. En lo que va de temporada se han diagnosticado 74 casos en la comunidad: 42 leves y 32 graves.",
-    "Hay [[alerta sanitaria|alertasanitaria]] en 12 municipios, tres barrios y una entidad de población de Almería, Cádiz, Córdoba, Huelva y Sevilla, y en Santa Ana la Real (Huelva) se mantiene hasta el 31 de octubre, después de confirmarse allí un caso de meningitis vírica causada por el virus. La [[Junta de Andalucía|junta]] aplica planes de actuación en las zonas afectadas. El virus pasa de las aves a las personas a través de los mosquitos y no se contagia entre personas. La mayoría de los infectados no enferma gravemente, pero los casos serios son más probables en personas mayores o con otras enfermedades. Los expertos recomiendan evitar las picaduras, por ejemplo con repelente y mosquiteras."
-   ],
-   "busqueda_imagenes": "fiebre del Nilo mosquito Andalucía",
-   "fuentes": [
-    "The Objective",
-    "COPE",
-    "Moncloa.com",
-    "Crónica de Andalucía"
-   ],
-   "publicada": "2026-10-13",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "Fifth West Nile fever death in Andalusia this year",
-    "entradilla": "A 75-year-old man from Aznalcázar (Seville) died after more than a month in hospital; there are alerts in 12 municipalities.",
-    "parrafos": [
-     "Andalusia has recorded its fifth death of 2026 from [[West Nile fever|nilo]]. He was a 75-year-old man, a resident of Aznalcázar (Seville), with other previous illnesses, who had been in hospital since 26 August with the neuroinvasive form, the one that affects the nervous system. The news came out on 9 October. So far this season 74 cases have been diagnosed in the region: 42 mild and 32 severe.",
-     "There is a [[health alert|alertasanitaria]] in 12 municipalities, three neighbourhoods and one small population centre in Almería, Cádiz, Córdoba, Huelva and Seville, and in Santa Ana la Real (Huelva) it remains in force until 31 October, after a case of viral meningitis caused by the virus was confirmed there. The [[Junta de Andalucía|junta]] is applying action plans in the affected areas. The virus passes from birds to people through mosquitoes and does not spread from person to person. Most infected people do not become seriously ill, but serious cases are more likely in older people or people with other illnesses. Experts recommend avoiding bites, for example with repellent and mosquito nets."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
    "id": "ayudas-junta-terremotos-granada-siete-millones",
    "seccion": "and",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-b\" d=\"M0 58 H54 L60 66 L52 72 L62 80 L56 90 H0 Z\"/><path class=\"d-b\" d=\"M120 58 H68 L74 66 L66 74 L72 82 L66 90 H120 Z\"/><g transform=\"rotate(-8 30 40)\"><rect class=\"d-a\" x=\"14\" y=\"34\" width=\"32\" height=\"24\"/><path class=\"d-y\" d=\"M10 36 L30 18 L50 36 Z\"/><rect class=\"d-p\" x=\"26\" y=\"44\" width=\"8\" height=\"14\"/></g><path class=\"d-l\" d=\"M70 24 L76 18 L82 26 L88 18 L94 26 M74 38 L80 32 L86 40 L92 32 L98 40\"/><path class=\"d-l\" d=\"M0 58 H54 M68 58 H120\"/></svg>",
@@ -337,10 +339,10 @@
    "seccion": "int",
    "dibujo": "tanker",
    "titular": "Ormuz: el estrecho que hace temblar al mundo",
-   "entradilla": "La guerra con Irán sigue afectando al petróleo de todo el planeta: esta semana ha habido más de diez ataques a barcos y dos cargueros hundidos.",
+   "entradilla": "Irán ofrece reabrir el estrecho en siete días si EE. UU. acepta su plan, mientras siguen los ataques a barcos y dos petroleros se incendian.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Las tensiones han ido a más. Desde el domingo 11 de octubre al menos diez barcos han sido atacados en el estrecho o cerca de él, y según la CNN dos cargueros se han hundido tras ser alcanzados por proyectiles. La agencia británica UKMTO cuenta más de 18 ataques a mercantes este mes. Omán, que mediaba, anunció el 14 de octubre que sus conversaciones con Irán sobre el estrecho han concluido y que reabrirlo depende de un acuerdo más amplio entre Teherán y Washington. El 13, [[Donald Trump|trump]] admitió que quizá EE. UU. «fue demasiado lejos» y que ya no sabe con quién negociar. Mientras no se resuelva, el conflicto seguirá encareciendo el petróleo y la gasolina."
+    "Las tensiones han ido a más. Desde el domingo 11 de octubre al menos diez barcos han sido atacados en el estrecho o cerca de él y, según la CNN, dos cargueros se han hundido. El sábado 17, la Armada de la Guardia Revolucionaria iraní informó de que dos petroleros, con unos dos millones de barriles de crudo, se incendiaron al chocar con minas navales cuando intentaban cruzar por una ruta no autorizada. Ese día, el ministro de Exteriores iraní, Abbas Araqchí, dijo que el estrecho podría reabrirse en siete días si Estados Unidos acepta el plan que Teherán le envió por Catar. [[Donald Trump|trump]] rechazó el 26 de septiembre un plan iraní de siete días, y no consta aún respuesta a la nueva oferta."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -354,19 +356,21 @@
     "El Debate",
     "El Universal (Colombia)",
     "CNN en Español",
-    "Democracy Now"
+    "Democracy Now",
+    "France 24",
+    "Infobae (agencias)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-17",
-   "nota_actualizacion": "Desde el 11 de octubre al menos diez barcos han sido atacados cerca de Ormuz y, según la CNN, dos cargueros se han hundido.",
+   "actualizada": "2026-10-18",
+   "nota_actualizacion": "El 17 de octubre dos petroleros se incendiaron al chocar con minas, según la Guardia Revolucionaria, e Irán ofreció reabrir Ormuz en siete días si EE. UU. acepta su plan.",
    "en": {
     "titular": "Hormuz: the strait that makes the world tremble",
-    "entradilla": "The war with Iran is still affecting oil all over the planet: this week there have been more than ten attacks on ships and two cargo ships sunk.",
+    "entradilla": "Iran offers to reopen the strait within seven days if the US accepts its plan, while attacks on ships continue and two tankers catch fire.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Tensions have risen. Since Sunday 11 October at least ten ships have been attacked in or near the strait, and according to CNN two cargo ships have sunk after being hit by projectiles. The British agency UKMTO counts more than 18 attacks on merchant ships this month. Oman, which had been mediating, announced on 14 October that its talks with Iran on the strait have ended and that reopening it depends on a broader deal between Tehran and Washington. On the 13th, [[Donald Trump|trump]] admitted that the US may have 'gone too far' and that he no longer knows whom to negotiate with. Until this is resolved, the conflict will keep pushing up the price of oil and petrol."
+     "Tensions have risen. Since Sunday 11 October at least ten ships have been attacked in or near the strait and, according to CNN, two cargo ships have sunk. On Saturday 17, the Navy of Iran's Revolutionary Guard reported that two tankers, carrying about two million barrels of crude, caught fire after hitting naval mines while trying to cross by an unauthorised route. That day, Iran's foreign minister, Abbas Araqchi, said the strait could reopen within seven days if the United States accepts the plan Tehran sent it through Qatar. [[Donald Trump|trump]] rejected a seven-day Iranian plan on 26 September, and there is still no known reply to the new offer."
     ],
-    "nota_actualizacion": "Since 11 October at least ten ships have been attacked near Hormuz and, according to CNN, two cargo ships have sunk."
+    "nota_actualizacion": "On 17 October two tankers caught fire after hitting mines, according to the Revolutionary Guard, and Iran offered to reopen Hormuz within seven days if the US accepts its plan."
    }
   },
   {
@@ -408,36 +412,36 @@
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Kiev reanuda los ataques a refinerías rusas y da por acabada la pausa energética que Moscú nunca aceptó",
-   "entradilla": "Zelenski dice que solo aceptó tres días de pausa y denuncia que EE. UU. le limita los avisos de misiles mientras Rusia lanza más de 850 drones.",
+   "titular": "Ucrania: Trump suspende temporalmente las sanciones a Rusia y Zelenski avisa de que eso anima a Putin a seguir atacando",
+   "entradilla": "La decisión llega una semana después del acuerdo para importar diésel ruso y tras otro ataque ruso contra la energía ucraniana.",
    "parrafos": [
-    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció que Rusia y Ucrania habían aceptado un [[alto el fuego|altoelfuego]] en el sector energético: no atacarían las [[infraestructuras energéticas|energia]] del otro, para que la población no pase el invierno sin luz ni calefacción. Ni Moscú ni Kiev lo confirmaron. El miércoles 14, Rusia lanzó su primer gran ataque contra la red eléctrica ucraniana desde el anuncio: según la compañía estatal Ukrenergo, alcanzó tres centrales térmicas cerca de Kiev, y hubo cortes de luz en la capital y en Járkov. Según medios internacionales, murieron al menos cinco civiles y unas 600.000 personas se quedaron sin electricidad. El Kremlin respondió, por boca de Dmitri Peskov, que el acuerdo nunca llegó a concretarse.",
-    "El jueves 15, Ucrania volvió a atacar refinerías rusas: hubo un incendio en la de Riazán, a unos 200 kilómetros de Moscú, y el viceprimer ministro ruso, Alexandr Nóvak, habla de ataques en Riazán y Sarátov. [[Zelenski|zelenski]] explicó que Ucrania solo había aceptado una pausa de tres días. Además, afirmó que Rusia lanzó más de 850 drones en las últimas horas, y denunció que EE. UU. dejó de avisarle dos veces esta semana de lanzamientos de misiles balísticos y amenaza con cortar la inteligencia compartida si sigue atacando refinerías. La guerra empezó en febrero de 2022, cuando [[Vladímir Putin|putin]] ordenó invadir Ucrania, y ha causado muchos miles de muertos y millones de desplazados en [[Kiev|kiev]] y el resto del país."
+    "El domingo 11 de octubre, [[Donald Trump|trump]] anunció una pausa de los ataques a las [[infraestructuras energéticas|energia]] entre Rusia y Ucrania, pero ni Moscú ni Kiev la confirmaron. El miércoles 14, Rusia lanzó su primer gran ataque contra la red eléctrica ucraniana desde el anuncio: según la compañía estatal Ukrenergo, alcanzó tres centrales térmicas cerca de Kiev, y según medios internacionales murieron al menos cinco civiles y unas 600.000 personas se quedaron sin luz. El Kremlin respondió que el acuerdo nunca llegó a concretarse. El jueves 15, Ucrania atacó refinerías rusas, como la de Riazán, y [[Zelenski|zelenski]] explicó que solo había aceptado una pausa de tres días.",
+    "El viernes 16, Trump firmó una orden que suspende temporalmente buena parte de las [[sanciones|sanciones]] a Rusia que había aprobado el Congreso estadounidense. Llega una semana después de que anunciara con [[Vladímir Putin|putin]] un acuerdo para importar diésel ruso y abaratar la energía. Zelenski criticó que Washington ignore esa ley justo cuando, según él, Rusia ha hecho otro ataque masivo contra el sector energético ucraniano, y dijo que relajar la presión sobre el agresor solo le anima a seguir atacando. La guerra empezó en febrero de 2022 y ha causado muchos miles de muertos y millones de desplazados."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
     "Euronews",
     "CNN en Español",
     "Infobae",
+    "Moncloa.com",
+    "Proceso",
+    "Vanguardia",
+    "La Tercera",
+    "Excélsior",
     "Swissinfo",
-    "Diario Libre",
-    "Perfil",
-    "El Español",
-    "ABC Color",
-    "Revista Mercado",
-    "La Jornada"
+    "El Español"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-16",
-   "nota_actualizacion": "El 15 de octubre Ucrania volvió a atacar refinerías rusas y dio por terminada la pausa energética, que según Zelenski solo duraba tres días.",
+   "actualizada": "2026-10-18",
+   "nota_actualizacion": "El 16 de octubre Trump suspendió temporalmente buena parte de las sanciones a Rusia; Zelenski dice que eso anima a Putin a seguir atacando.",
    "en": {
-    "titular": "Ukraine: Kyiv resumes attacks on Russian refineries and ends the energy pause that Moscow never accepted",
-    "entradilla": "Zelensky says he only agreed to three days' pause and complains that the US is limiting its missile warnings while Russia launches more than 850 drones.",
+    "titular": "Ukraine: Trump temporarily suspends sanctions on Russia and Zelensky warns it encourages Putin to keep attacking",
+    "entradilla": "The decision comes a week after the deal to import Russian diesel and after another Russian attack on Ukrainian energy.",
     "parrafos": [
-     "On Sunday 11 October, [[Donald Trump|trump]] announced that Russia and Ukraine had agreed to an energy-sector [[ceasefire|altoelfuego]]: they would not attack each other's [[energy infrastructure|energia]], so that people do not spend the winter without electricity or heating. Neither Moscow nor Kyiv confirmed it. On Wednesday 14, Russia launched its first major attack on Ukraine's power system since the announcement: according to the state company Ukrenergo, it hit three thermal power plants near Kyiv, and there were power cuts in the capital and in Kharkiv. According to international media, at least five civilians were killed and around 600,000 people were left without electricity. The Kremlin replied, through Dmitry Peskov, that the deal never took shape.",
-     "On Thursday 15, Ukraine again attacked Russian refineries: there was a fire at the one in Ryazan, some 200 kilometres from Moscow, and Russia's deputy prime minister, Alexander Novak, speaks of attacks in Ryazan and Saratov. [[Zelensky|zelenski]] explained that Ukraine had only agreed to a three-day pause. He also said Russia launched more than 850 drones in the last few hours, and complained that the US twice stopped warning him this week of ballistic missile launches and threatens to cut off shared intelligence if he keeps attacking refineries. The war began in February 2022, when [[Vladimir Putin|putin]] ordered the invasion of Ukraine, and it has caused many thousands of deaths and millions of displaced people in [[Kyiv|kiev]] and across the rest of the country."
+     "On Sunday 11 October, [[Donald Trump|trump]] announced a pause in attacks on each other's [[energy infrastructure|energia]] between Russia and Ukraine, but neither Moscow nor Kyiv confirmed it. On Wednesday 14, Russia launched its first major attack on Ukraine's power grid since the announcement: according to the state company Ukrenergo, it hit three thermal power plants near Kyiv, and according to international media at least five civilians were killed and some 600,000 people lost electricity. The Kremlin replied that the deal never took shape. On Thursday 15, Ukraine attacked Russian refineries, such as the one in Ryazan, and [[Zelensky|zelenski]] explained that it had only agreed to a three-day pause.",
+     "On Friday 16, Trump signed an order temporarily suspending a large part of the [[sanctions|sanciones]] on Russia that the US Congress had approved. It comes a week after he announced, with [[Vladimir Putin|putin]], a deal to import Russian diesel and bring down energy prices. Zelensky criticised Washington for ignoring that law just when, he says, Russia has carried out another massive attack on Ukraine's energy sector, and said that easing pressure on the aggressor only encourages him to keep attacking. The war began in February 2022 and has caused many thousands of deaths and millions of displaced people."
     ],
-    "nota_actualizacion": "On 15 October Ukraine again attacked Russian refineries and ended the energy pause, which according to Zelensky was only meant to last three days."
+    "nota_actualizacion": "On 16 October Trump temporarily suspended a large part of the sanctions on Russia; Zelensky says this encourages Putin to keep attacking."
    }
   },
   {
@@ -568,34 +572,32 @@
    "id": "alcaraz-eliminado-shanghai-zverev-numero-uno",
    "seccion": "dep",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-a\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><ellipse class=\"d-p\" cx=\"44\" cy=\"34\" rx=\"15\" ry=\"21\" transform=\"rotate(-25 44 34)\"/><path class=\"d-l\" d=\"M36 16 L56 50 M30 24 L50 58 M28 36 L44 56 M44 12 L60 40 M34 14 L28 32\"/><ellipse class=\"d-l\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><path class=\"d-i\" d=\"M58 58 L82 82 L86 78 L62 54 Z\"/><circle class=\"d-y\" cx=\"92\" cy=\"30\" r=\"11\"/><path class=\"d-w\" d=\"M84 24 C90 28 90 34 84 38 M100 24 C94 28 94 34 100 38\"/><circle class=\"d-l\" cx=\"92\" cy=\"30\" r=\"11\"/></svg>",
-   "titular": "Alcaraz cae en Shanghái ante Bergs, Zverev se asegura el número 1 de fin de año y Jódar llega a semifinales",
-   "entradilla": "El español perdió en la tercera ronda y se enfadó con las pelotas; Rafa Jódar, de 20 años, es semifinalista.",
+   "titular": "Final española en Shanghái: Jódar, de 20 años, y Davidovich se juegan hoy el Masters 1000",
+   "entradilla": "Jódar ganó a Medvedev y Davidovich a Zverev en las semifinales; es la primera final del torneo entre dos españoles.",
    "parrafos": [
-    "[[Carlos Alcaraz|alcaraz]] quedó eliminado el lunes 12 de octubre en la tercera ronda del [[Masters 1000|masters1000]] de Shanghái, uno de los torneos más importantes del circuito tras los Grand Slam. El español, segundo cabeza de serie, perdió 7-5 y 7-6 (7-4) ante el belga Zizou Bergs, número 39 del mundo. Alcaraz se mostró muy enfadado durante el primer set, sobre todo por el comportamiento irregular de las pelotas, y acabó perdiendo la calma.",
-    "Con esta derrota, el alemán [[Alexander Zverev|zverev]] se asegura terminar el año como número 1 del [[ranking ATP|rankingatp]], la clasificación que ordena a los tenistas según los puntos que ganan en los torneos de los últimos doce meses. Alcaraz, que ya ha sido número 1 del mundo, se queda sin opciones de terminar 2026 en lo más alto. Otro español, Rafa Jódar, sigue adelante: el viernes 16 ganó en cuartos al noruego Casper Ruud por 4-6, 6-4 y 6-3 y, con 20 años, es el semifinalista más joven en la historia del torneo. Se medirá con el ruso Daniil Medvedev, que venció a Tommy Paul."
+    "[[Rafa Jódar|jodar]], de 20 años y número 13 del [[ranking ATP|rankingatp]], venció el sábado 17 al ruso Daniil Medvedev por 6-3 y 6-4 y llegó a su primera final de un [[Masters 1000|masters1000]], uno de los torneos más importantes del circuito después de los Grand Slam. Su rival será [[Alejandro Davidovich|davidovich]], malagueño y número 26, que remontó al alemán [[Alexander Zverev|zverev]] por 5-7, 6-4 y 6-3. Es la primera final de Shanghái entre dos españoles, y se juega hoy, domingo 18.",
+    "El torneo empezó con una sorpresa: [[Carlos Alcaraz|alcaraz]], segundo cabeza de serie, quedó eliminado el lunes 12 en la tercera ronda ante el belga Zizou Bergs, número 39 del mundo, por 7-5 y 7-6 (7-4), y se enfadó mucho con las pelotas. Jódar, en cambio, fue avanzando: el viernes 16 ganó en cuartos al noruego Casper Ruud por 4-6, 6-4 y 6-3 y, con 20 años, se convirtió en el semifinalista más joven de la historia del torneo. Ahora le queda un último partido contra un compatriota que ya ha derrotado a Zverev."
    ],
    "busqueda_imagenes": "Alcaraz Bergs Masters Shanghái 2026",
    "fuentes": [
+    "The Sunday Guardian",
+    "Milenio",
+    "El Deportivo",
+    "Perfect Tennis",
     "Infobae",
-    "Diario Libre",
-    "Emol",
-    "Vanguardia",
-    "Eurosport",
-    "La Nación",
-    "ATP Tour",
-    "Listín Diario"
+    "ATP Tour"
    ],
    "publicada": "2026-10-13",
-   "actualizada": "2026-10-17",
-   "nota_actualizacion": "Jódar ganó a Ruud en cuartos y es semifinalista; se medirá con Medvedev.",
+   "actualizada": "2026-10-18",
+   "nota_actualizacion": "Jódar y Davidovich jugarán hoy la primera final entre españoles en la historia del Masters de Shanghái.",
    "en": {
-    "titular": "Alcaraz falls to Bergs in Shanghai, Zverev secures the year-end world number 1 spot and Jódar reaches the semi-finals",
-    "entradilla": "The Spaniard lost in the third round and lost his temper over the balls; Rafa Jódar, aged 20, is a semi-finalist.",
+    "titular": "All-Spanish final in Shanghai: 20-year-old Jódar and Davidovich play for the Masters 1000 title today",
+    "entradilla": "Jódar beat Medvedev and Davidovich beat Zverev in the semi-finals; it is the first final in the tournament between two Spaniards.",
     "parrafos": [
-     "[[Carlos Alcaraz|alcaraz]] was knocked out on Monday 12 October in the third round of the Shanghai [[Masters 1000|masters1000]], one of the most important tournaments on the tour after the Grand Slams. The Spaniard, the second seed, lost 7-5 and 7-6 (7-4) to Belgium's Zizou Bergs, ranked 39th in the world. Alcaraz was very angry during the first set, mostly about the uneven behaviour of the balls, and ended up losing his composure.",
-     "With this defeat, the German [[Alexander Zverev|zverev]] secures finishing the year as world number 1 in the [[ATP rankings|rankingatp]], the table that orders players by the points they earn in tournaments over the previous twelve months. Alcaraz, who has already been world number 1, is left with no chance of finishing 2026 on top. Another Spaniard, Rafa Jódar, goes on: on Friday 16 he beat Norway's Casper Ruud 4-6, 6-4, 6-3 in the quarter-finals and, at 20, is the youngest semi-finalist in the history of the tournament. He will play Russia's Daniil Medvedev, who beat Tommy Paul."
+     "[[Rafa Jódar|jodar]], aged 20 and ranked 13th in the [[ATP ranking|rankingatp]], beat Russia's Daniil Medvedev 6-3, 6-4 on Saturday 17 and reached his first [[Masters 1000|masters1000]] final, one of the most important tournaments on the tour after the Grand Slams. His opponent will be [[Alejandro Davidovich|davidovich]], from Málaga and ranked 26th, who came back to beat Germany's [[Alexander Zverev|zverev]] 5-7, 6-4, 6-3. It is the first Shanghai final between two Spaniards, and it is played today, Sunday 18.",
+     "The tournament began with a surprise: [[Carlos Alcaraz|alcaraz]], the second seed, was knocked out on Monday 12 in the third round by Belgium's Zizou Bergs, ranked 39th in the world, 7-5, 7-6 (7-4), and he lost his temper over the balls. Jódar, on the other hand, kept moving forward: on Friday 16 he beat Norway's Casper Ruud 4-6, 6-4, 6-3 in the quarter-finals and, at 20, became the youngest semi-finalist in the tournament's history. Now he has one last match against a compatriot who has already beaten Zverev."
     ],
-    "nota_actualizacion": "Jódar beat Ruud in the quarter-finals and is a semi-finalist; he will face Medvedev."
+    "nota_actualizacion": "Jódar and Davidovich will play today the first final between Spaniards in the history of the Shanghai Masters."
    }
   },
   {
@@ -1062,31 +1064,30 @@
    }
   },
   {
-   "id": "aforo-aceite-oliva-andalucia-2026-27",
+   "id": "vivienda-sube-142-septiembre-supera-maximo-burbuja-tinsa",
    "seccion": "eco",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M14 70 C40 60 70 40 104 14\"/><ellipse class=\"d-g\" cx=\"40\" cy=\"54\" rx=\"12\" ry=\"5\" transform=\"rotate(-30 40 54)\"/><ellipse class=\"d-g\" cx=\"70\" cy=\"34\" rx=\"12\" ry=\"5\" transform=\"rotate(-40 70 34)\"/><ellipse class=\"d-g\" cx=\"88\" cy=\"30\" rx=\"10\" ry=\"4\" transform=\"rotate(20 88 30)\"/><ellipse class=\"d-a\" cx=\"54\" cy=\"58\" rx=\"6\" ry=\"8\"/><ellipse class=\"d-a\" cx=\"80\" cy=\"44\" rx=\"6\" ry=\"8\"/><path class=\"d-y\" d=\"M92 56 h10 v6 c4 2 6 6 6 12 v8 h-22 v-8 c0 -6 2 -10 6 -12 Z\"/><path class=\"d-l\" d=\"M92 56 h10 v6 c4 2 6 6 6 12 v8 h-22 v-8 c0 -6 2 -10 6 -12 Z\"/></svg>",
-   "titular": "Andalucía espera una gran cosecha de aceite de oliva",
-   "entradilla": "La Junta prevé producir casi un 24 % más que el año pasado.",
+   "dibujo": "house",
+   "titular": "La vivienda sube un 14,2 % en un año y supera ya el máximo de 2007 sin descontar la inflación",
+   "entradilla": "Según la tasadora Tinsa, las casas se encarecen casi un 15 % en lo que va de año, aunque el ritmo se modera en las capitales.",
    "parrafos": [
-    "El 29 de septiembre, en Mengíbar (Jaén), la [[Junta de Andalucía|junta]] presentó su [[aforo|aforo]], la previsión de cuánto aceite de oliva se producirá en la campaña que empieza ahora. Calcula 1.261.200 toneladas, un 23,9 % más que en la campaña anterior y un 44 % por encima de la media de los últimos cinco años. Jaén será, de lejos, la provincia que más produzca, con unas 575.000 toneladas, seguida de Córdoba, con casi 340.000. Las abundantes lluvias del invierno ayudaron a los olivos, aunque el calor impidió que la cosecha fuera todavía mayor. Andalucía produce la gran mayoría del aceite de España, el primer productor del mundo.",
-    "Para Andalucía es una noticia económica de primer orden. Según la Junta, la campaña dará unos 21,6 millones de jornales, es decir, días de trabajo, la mayoría en la recogida de la aceituna, que luego se lleva a la [[almazara|almazara]] para sacarle el aceite. La producción ecológica crecerá todavía más. Una cosecha grande suele traer precios más estables en las tiendas, tras unos años en los que la sequía disparó lo que costaba una botella. Pero para los agricultores hay otra cara: si el precio baja demasiado, recoger puede dejar de compensarles. Además, las cifras son solo una previsión, y el tiempo de los próximos meses puede cambiarlas."
+    "El precio de la vivienda, nueva y usada, subió en septiembre un 14,2 % respecto a hace un año, según [[Tinsa|tinsa]], una empresa que tasa inmuebles. Es 8,8 puntos más que la [[inflación|inflacion]], así que las casas se encarecen mucho más deprisa que el resto de productos, y en lo que va de año el aumento ronda el 15 %. Las subidas mayores se dan en la costa mediterránea (17,2 %) y en las áreas metropolitanas (16,6 %), mientras que en las capitales y grandes ciudades es del 13,4 % y en el resto de municipios del 10,4 %. En las capitales el avance se modera.",
+    "Con estos datos, la vivienda ya vale de media un 2,5 % más que en el máximo de la [[burbuja inmobiliaria|burbuja]] de 2007, pero solo si no se tiene en cuenta que el dinero vale menos que entonces: descontando la inflación, sigue un 32 % por debajo. Para una familia significa que comprar una casa es cada vez más difícil, sobre todo si los sueldos suben más despacio que los pisos. El precio de las casas está en el centro del debate que ha llevado a las protestas y a la [[huelga general|huelgageneral]] convocada para el 11 de noviembre. Tinsa subraya que las subidas siguen por encima del 9 % que la Comisión Europea usa como señal de alerta."
    ],
-   "busqueda_imagenes": "aforo aceite de oliva Andalucía 2026/27 Mengíbar",
+   "busqueda_imagenes": "precio vivienda España Tinsa septiembre 2026",
    "fuentes": [
-    "Infobae (Europa Press)",
-    "Huelva Red",
-    "Cordópolis",
-    "Agronews"
+    "Tinsa",
+    "Infobae",
+    "Qué!"
    ],
-   "publicada": "2026-10-02",
+   "publicada": "2026-10-18",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Andalusia expects a big olive oil harvest",
-    "entradilla": "The regional government forecasts almost 24% more than last year.",
+    "titular": "Housing rises 14.2% in a year and now tops the 2007 peak before adjusting for inflation",
+    "entradilla": "According to the valuer Tinsa, homes have become almost 15% more expensive so far this year, although the pace is slowing in the capital cities.",
     "parrafos": [
-     "On 29 September, in Mengíbar (Jaén), the [[Junta de Andalucía|junta]] presented its [[harvest forecast|aforo]], its estimate of how much olive oil will be produced in the season that is starting now. It expects 1,261,200 tonnes, 23.9% more than last season and 44% above the average of the last five years. Jaén will be by far the biggest producing province, with about 575,000 tonnes, followed by Córdoba, with almost 340,000. Heavy winter rain helped the olive trees, although the heat stopped the harvest from being even bigger. Andalusia produces the vast majority of Spain's olive oil, and Spain is the world's top producer.",
-     "For Andalusia this is major economic news. According to the regional government, the season will provide about 21.6 million days' wages – that is, working days – most of them picking olives, which are then taken to the [[olive mill|almazara]] to extract the oil. Organic production will grow even faster. A big harvest usually brings steadier prices in the shops, after a few years in which drought sent the cost of a bottle soaring. But there is another side for farmers: if the price falls too far, harvesting may stop being worth it. And the figures are only a forecast: the weather over the coming months could change them."
+     "The price of housing, new and second-hand, rose 14.2% in September compared with a year earlier, according to [[Tinsa|tinsa]], a company that values property. That is 8.8 points more than [[inflation|inflacion]], so homes are getting more expensive much faster than other goods, and so far this year the increase is around 15%. The biggest rises are on the Mediterranean coast (17.2%) and in metropolitan areas (16.6%), while in the capitals and big cities it is 13.4% and in other municipalities 10.4%. In the capitals the rise is slowing.",
+     "On these figures, housing is now worth on average 2.5% more than at the peak of the 2007 [[housing bubble|burbuja]], but only if you ignore that money is worth less than it was then: adjusted for inflation, it is still 32% lower. For a family it means that buying a home is getting harder, especially if wages rise more slowly than flat prices. House prices are at the centre of the debate that has led to protests and to the [[general strike|huelgageneral]] called for 11 November. Tinsa stresses that the rises remain above the 9% that the European Commission uses as a warning signal."
     ],
     "nota_actualizacion": null
    }
@@ -2750,11 +2751,65 @@
     "n": "Augusto Pinochet",
     "x": "A military officer who led a coup in Chile in 1973 and ruled as dictator until 1990. His regime imprisoned and tortured many opponents."
    }
+  },
+  "elejido": {
+   "t": "lugar",
+   "n": "El Ejido",
+   "x": "Municipio de la provincia de Almería, en la zona del Poniente, conocido por sus miles de invernaderos donde se cultivan frutas y verduras.",
+   "en": {
+    "n": "El Ejido",
+    "x": "A town in the province of Almería, in the Poniente area, known for its thousands of greenhouses where fruit and vegetables are grown."
+   }
+  },
+  "jodar": {
+   "t": "persona",
+   "n": "Rafa Jódar",
+   "x": "Tenista español nacido en 2006. Con 20 años es una de las grandes promesas del tenis y acaba de llegar a su primera final de un Masters 1000.",
+   "en": {
+    "n": "Rafa Jódar",
+    "x": "A Spanish tennis player born in 2006. At 20 he is one of the great young hopes of tennis and has just reached his first Masters 1000 final."
+   }
+  },
+  "davidovich": {
+   "t": "persona",
+   "n": "Alejandro Davidovich",
+   "x": "Tenista español nacido en Málaga en 1999 que juega con mucha creatividad. Ya ha jugado finales de torneos Masters 1000.",
+   "en": {
+    "n": "Alejandro Davidovich",
+    "x": "A Spanish tennis player born in Málaga in 1999 who plays with a lot of creativity. He has already played Masters 1000 finals."
+   }
+  },
+  "sanciones": {
+   "t": "palabra",
+   "n": "Sanciones",
+   "x": "Castigos económicos que un país impone a otro para presionarlo, por ejemplo prohibiendo comprarle productos o bloqueando su dinero en el extranjero.",
+   "en": {
+    "n": "Sanctions",
+    "x": "Economic punishments that one country imposes on another to put pressure on it, for example by banning purchases of its products or freezing its money abroad."
+   }
+  },
+  "tinsa": {
+   "t": "lugar",
+   "n": "Tinsa",
+   "x": "Empresa española que tasa casas, es decir, calcula cuánto valen. Cada mes publica un índice con la evolución del precio de la vivienda.",
+   "en": {
+    "n": "Tinsa",
+    "x": "A Spanish company that appraises homes, that is, works out how much they are worth. Every month it publishes an index of how housing prices are changing."
+   }
+  },
+  "burbuja": {
+   "t": "palabra",
+   "n": "Burbuja inmobiliaria",
+   "x": "Cuando el precio de las casas sube muchísimo, más de lo que realmente valen, y después se hunde. En España la última llegó hasta 2007 y su estallido provocó una larga crisis económica.",
+   "en": {
+    "n": "Housing bubble",
+    "x": "When house prices rise enormously, more than they are really worth, and then collapse. In Spain the last one lasted until 2007 and its bursting caused a long economic crisis."
+   }
   }
  },
- "edicion_en": "Saturday 17 October 2026",
+ "edicion_en": "Sunday 18 October 2026",
  "destacada": {
-  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-10-17"
+  "id": "dana-adam-almeria-inundaciones-alerta-roja-valencia",
+  "fecha": "2026-10-18"
  }
 }
