@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-18T07:00:00+02:00",
- "edicion": "Domingo 18 de octubre de 2026",
+ "actualizado": "2026-10-19T07:00:00+02:00",
+ "edicion": "Lunes 19 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -177,42 +177,44 @@
    "id": "dana-adam-almeria-inundaciones-alerta-roja-valencia",
    "seccion": "and",
    "dibujo": "rain",
-   "titular": "La DANA Adam inunda Almería y pone en alerta roja a Valencia y Alicante este domingo",
-   "entradilla": "El sábado hubo 155 incidencias en Andalucía, 121 en Almería; la Aemet prevé hasta 300 litros por metro cuadrado en 24 horas en el litoral valenciano.",
+   "titular": "La dana Adam deja dos muertos y 579 emergencias en Andalucía, y mantiene la alerta roja en Valencia y Alicante",
+   "entradilla": "Dos mujeres murieron en Cataluña y la Comunidad Valenciana; el 112 andaluz atendió 310 avisos el domingo y Baleares pidió ayuda a la UME.",
    "parrafos": [
-    "Una [[DANA|dana]] a la que los meteorólogos llaman «Adam» está dejando lluvias muy fuertes en el este y el sur de la península. El sábado 17, el servicio de emergencias 112 atendió en Andalucía 155 incidencias por la lluvia hasta las 18:30, de ellas 121 en Almería: casas y carreteras inundadas y personas rescatadas, sin heridos. Hubo aviso rojo en la zona de [[El Ejido|elejido]], con hasta 60 litros por metro cuadrado en una hora, y se envió un [[Es-Alert|esalert]] a los móviles de Almería. Andalucía elevó a situación 1 su plan de emergencias por riesgo de inundaciones.",
-    "Hoy, domingo 18, el peligro se concentra en levante. La [[Aemet|aemet]] ha activado la [[alerta roja|alertaroja]], el nivel máximo, en el litoral sur de Valencia y el norte de Alicante desde las 10:00 de hoy hasta las 10:00 del lunes: prevé más de 200 litros por metro cuadrado en 12 horas, hasta 300 en 24, y avisa de posibles inundaciones y crecidas de ríos y barrancos. Hay avisos naranjas en Andalucía, Murcia, Cataluña y Baleares, entre otras zonas. Valencia sufrió en octubre de 2024 una DANA con más de 200 muertos, y por eso se sigue con tanta atención. La Aemet pide evitar las zonas inundables."
+    "La dana Adam ha causado al menos dos muertes. Una mujer de unos 35 años fue arrastrada el sábado por la riera de Cabrera de Mar, en Barcelona, cuando intentaba cruzarla tras salir de un polideportivo con su marido y sus dos hijos; su cuerpo fue localizado cerca del puerto de Premià de Mar. Otra mujer, de 55 años, desapareció tras bañarse en Sagunto, en Valencia, con aviso naranja, y la hallaron sin vida en la playa de Canet d'en Berenguer. Es un recordatorio de por qué las autoridades piden no acercarse a ríos, rieras ni playas durante una [[DANA|dana]].",
+    "En Andalucía el 112 gestionó 579 emergencias desde el inicio del episodio, 310 de ellas el domingo 18: casas y calles inundadas, problemas de tráfico, desprendimientos y rescates, sobre todo en Almería (165 avisos), Málaga (135) y Cádiz (125). Aun así, el mayor peligro está en levante: la [[Aemet|aemet]] mantiene la [[alerta roja|alertaroja]] en el litoral de Valencia y Alicante hasta la mañana del lunes 19, con hasta 300 litros por metro cuadrado en 24 horas. En Baleares se envió un [[Es-Alert|esalert]] y el Govern pidió ayuda a la [[Unidad Militar de Emergencias|ume]], el cuerpo del Ejército que acude a las catástrofes. Valencia sufrió en octubre de 2024 una dana con más de 200 muertos."
    ],
    "busqueda_imagenes": "dana Adam Almería El Ejido inundaciones",
    "fuentes": [
     "Infobae (Europa Press)",
+    "Infobae (EFE)",
     "Moncloa.com",
     "El Debate",
+    "Telecinco",
+    "Segre",
     "101TV",
-    "Libertad Digital",
-    "Telecinco"
+    "Libertad Digital"
    ],
    "publicada": "2026-10-18",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-19",
+   "nota_actualizacion": "La dana ha causado dos muertes (en Cataluña y la Comunidad Valenciana) y 579 emergencias en Andalucía; la alerta roja sigue en Valencia y Alicante hasta el lunes.",
    "en": {
-    "titular": "Storm Adam floods Almería and puts Valencia and Alicante on red alert this Sunday",
-    "entradilla": "On Saturday there were 155 incidents in Andalusia, 121 of them in Almería; Aemet forecasts up to 300 litres per square metre in 24 hours on the Valencian coast.",
+    "titular": "Storm Adam leaves two dead and 579 emergencies in Andalusia, and red alert stays in place for Valencia and Alicante",
+    "entradilla": "Two women died in Catalonia and the Valencian Community; Andalusia's 112 service handled 310 calls on Sunday and the Balearic Islands asked the UME for help.",
     "parrafos": [
-     "A [[DANA|dana]] that meteorologists have named 'Adam' is bringing very heavy rain to the east and south of the peninsula. On Saturday 17, the 112 emergency service handled 155 rain-related incidents in Andalusia up to 18:30, 121 of them in Almería: flooded homes and roads and people rescued, with no injuries. There was a red warning around [[El Ejido|elejido]], with up to 60 litres per square metre in an hour, and an [[Es-Alert|esalert]] was sent to phones in Almería. Andalusia raised its flood-risk emergency plan to situation 1.",
-     "Today, Sunday 18, the danger is concentrated in the Mediterranean east. [[Aemet|aemet]] has activated the [[red alert|alertaroja]], the highest level, for the southern coast of Valencia and northern Alicante from 10:00 today until 10:00 on Monday: it forecasts more than 200 litres per square metre in 12 hours, up to 300 in 24, and warns of possible floods and swollen rivers and ravines. There are orange warnings in Andalusia, Murcia, Catalonia and the Balearic Islands, among other areas. In October 2024 Valencia suffered a DANA with more than 200 deaths, which is why this one is being followed so closely. Aemet asks people to avoid flood-prone areas."
+     "Storm Adam has caused at least two deaths. A woman of about 35 was swept away on Saturday by the stream at Cabrera de Mar, near Barcelona, as she tried to cross it after leaving a sports hall with her husband and two children; her body was found near the port of Premià de Mar. Another woman, aged 55, disappeared after swimming at Sagunto, in Valencia, under an orange warning, and was found dead on the beach at Canet d'en Berenguer. It is a reminder of why the authorities ask people to stay away from rivers, streams and beaches during a [[DANA|dana]].",
+     "In Andalusia the 112 service handled 579 emergencies from the start of the episode, 310 of them on Sunday 18: flooded homes and streets, traffic problems, landslides and rescues, mainly in Almería (165 calls), Málaga (135) and Cádiz (125). Even so, the greatest danger is in the Mediterranean east: [[Aemet|aemet]] is keeping the [[red alert|alertaroja]] on the coast of Valencia and Alicante until Monday morning, 19th, with up to 300 litres per square metre in 24 hours. An [[Es-Alert|esalert]] was sent in the Balearic Islands and its government asked for help from the [[Military Emergencies Unit|ume]], the army corps that responds to disasters. In October 2024 Valencia suffered a DANA with more than 200 deaths."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The storm has caused two deaths (in Catalonia and the Valencian Community) and 579 emergencies in Andalusia; the red alert remains for Valencia and Alicante until Monday."
    }
   },
   {
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Huelga indefinida del profesorado en Madrid: en el tercer día, 26,7 % de seguimiento según la Comunidad y en torno al 60 % según los sindicatos",
-   "entradilla": "Entre 35.000 y 60.000 personas se manifestaron en Madrid; había concentraciones de apoyo convocadas en seis provincias andaluzas.",
+   "titular": "Huelga indefinida del profesorado en Madrid: comienza la segunda semana con nuevas protestas",
+   "entradilla": "En el tercer día, la Comunidad cifró el seguimiento en un 26,7 % y los sindicatos en torno al 60 %; el jueves 22 habrá una manifestación.",
    "parrafos": [
-    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y no tiene fecha de fin, algo inédito en la región. Afecta a unos 65.000 docentes, que dan clase a más de 666.000 alumnos. El viernes 16, tercer día, terminó con una gran manifestación: 35.000 personas según las autoridades y 60.000 según los sindicatos. El seguimiento también se cuenta de dos maneras: la [[Consejería de Educación|consejeria]] de la Comunidad lo cifra en un 26,7 %, 5,5 puntos menos que el jueves, y los sindicatos convocantes, en torno al 60 %. Los manifestantes pidieron además la dimisión de la responsable de Educación de la Comunidad.",
+    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y no tiene fecha de fin. Afecta a unos 65.000 docentes, que dan clase a más de 666.000 alumnos. El viernes 16, tercer día, terminó con una gran manifestación: 35.000 personas según las autoridades y 60.000 según los sindicatos. El seguimiento de ese día también se cuenta de dos maneras: la [[Consejería de Educación|consejeria]] lo cifra en un 26,7 % y los sindicatos convocantes, en torno al 60 %. La segunda semana arranca hoy, lunes 19, con una concentración a las 12:00; el jueves 22 habrá otra ante la Asamblea de Madrid y, a las 18:00, una manifestación desde Atocha.",
     "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden menos horas de clase, menos alumnos por aula, más personal y una subida de sueldo. Para las familias, una huelga indefinida significa incertidumbre sobre cuántos días habrá clase con normalidad."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
@@ -226,19 +228,20 @@
     "Aragón Digital",
     "Demócrata",
     "El Español",
-    "Noticias para Municipios"
+    "Noticias para Municipios",
+    "Moncloa.com"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-10-17",
-   "nota_actualizacion": "En el tercer día, la Comunidad cifra el seguimiento en un 26,7 % y los sindicatos en torno al 60 %; la manifestación reunió a entre 35.000 y 60.000 personas.",
+   "actualizada": "2026-10-19",
+   "nota_actualizacion": "La segunda semana de huelga arranca el 19 de octubre con una concentración y una manifestación el jueves 22 desde Atocha.",
    "en": {
-    "titular": "Madrid teachers' indefinite strike: on day three, 26.7% turnout according to the regional government and around 60% according to the unions",
-    "entradilla": "Between 35,000 and 60,000 people marched in Madrid; support rallies had been called in six Andalusian provinces.",
+    "titular": "Madrid teachers' indefinite strike: second week begins with new protests",
+    "entradilla": "On day three the regional government put turnout at 26.7% and the unions at around 60%; there will be a march on Thursday 22.",
     "parrafos": [
-     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and has no end date, something unprecedented in the region. It affects about 65,000 teachers, who teach more than 666,000 pupils. On Friday 16, the third day, it ended with a large demonstration: 35,000 people according to the authorities and 60,000 according to the unions. Turnout is also counted in two ways: the regional [[Education Department|consejeria]] puts it at 26.7%, 5.5 points lower than on Thursday, and the unions that called the strike at around 60%. The marchers also demanded the resignation of the region's person in charge of education.",
+     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and has no end date. It affects about 65,000 teachers, who teach more than 666,000 pupils. On Friday 16, the third day, it ended with a large demonstration: 35,000 people according to the authorities and 60,000 according to the unions. Turnout that day is also counted in two ways: the regional [[Education Department|consejeria]] puts it at 26.7% and the unions that called the strike at around 60%. The second week begins today, Monday 19, with a rally at 12:00; on Thursday 22 there will be another in front of the Madrid Assembly and, at 18:00, a march from Atocha.",
      "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want fewer teaching hours, fewer pupils per class, more staff and a pay rise. For families, an indefinite strike means uncertainty about how many days of normal lessons there will be."
     ],
-    "nota_actualizacion": "On day three the regional government puts turnout at 26.7% and the unions at around 60%; the march drew between 35,000 and 60,000 people."
+    "nota_actualizacion": "The second week of the strike begins on 19 October with a rally, and a march from Atocha on Thursday 22."
    }
   },
   {
@@ -416,7 +419,7 @@
    "entradilla": "La decisión llega una semana después del acuerdo para importar diésel ruso y tras otro ataque ruso contra la energía ucraniana.",
    "parrafos": [
     "El domingo 11 de octubre, [[Donald Trump|trump]] anunció una pausa de los ataques a las [[infraestructuras energéticas|energia]] entre Rusia y Ucrania, pero ni Moscú ni Kiev la confirmaron. El miércoles 14, Rusia lanzó su primer gran ataque contra la red eléctrica ucraniana desde el anuncio: según la compañía estatal Ukrenergo, alcanzó tres centrales térmicas cerca de Kiev, y según medios internacionales murieron al menos cinco civiles y unas 600.000 personas se quedaron sin luz. El Kremlin respondió que el acuerdo nunca llegó a concretarse. El jueves 15, Ucrania atacó refinerías rusas, como la de Riazán, y [[Zelenski|zelenski]] explicó que solo había aceptado una pausa de tres días.",
-    "El viernes 16, Trump firmó una orden que suspende temporalmente buena parte de las [[sanciones|sanciones]] a Rusia que había aprobado el Congreso estadounidense. Llega una semana después de que anunciara con [[Vladímir Putin|putin]] un acuerdo para importar diésel ruso y abaratar la energía. Zelenski criticó que Washington ignore esa ley justo cuando, según él, Rusia ha hecho otro ataque masivo contra el sector energético ucraniano, y dijo que relajar la presión sobre el agresor solo le anima a seguir atacando. La guerra empezó en febrero de 2022 y ha causado muchos miles de muertos y millones de desplazados."
+    "El viernes 16, Trump firmó una orden que suspende temporalmente buena parte de las [[sanciones|sanciones]] a Rusia que había aprobado el Congreso estadounidense. Llega una semana después de que anunciara con [[Vladímir Putin|putin]] un acuerdo para importar diésel ruso y abaratar la energía. [[Zelenski|zelenski]] criticó que Washington ignore esa ley justo cuando, según él, Rusia ha hecho otro ataque masivo contra el sector energético ucraniano, y el sábado 17 dijo temer que Trump siga levantando sanciones y que el acuerdo del diésel sea solo «el primer paso». Para él, relajar la presión sobre el agresor le anima a seguir atacando. La guerra empezó en febrero de 2022 y ha causado muchos miles de muertos."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -429,19 +432,20 @@
     "La Tercera",
     "Excélsior",
     "Swissinfo",
-    "El Español"
+    "El Español",
+    "France 24"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-18",
-   "nota_actualizacion": "El 16 de octubre Trump suspendió temporalmente buena parte de las sanciones a Rusia; Zelenski dice que eso anima a Putin a seguir atacando.",
+   "actualizada": "2026-10-19",
+   "nota_actualizacion": "El 17 de octubre Zelenski dijo temer que Trump siga levantando sanciones a Rusia y que el acuerdo del diésel sea «el primer paso».",
    "en": {
     "titular": "Ukraine: Trump temporarily suspends sanctions on Russia and Zelensky warns it encourages Putin to keep attacking",
     "entradilla": "The decision comes a week after the deal to import Russian diesel and after another Russian attack on Ukrainian energy.",
     "parrafos": [
      "On Sunday 11 October, [[Donald Trump|trump]] announced a pause in attacks on each other's [[energy infrastructure|energia]] between Russia and Ukraine, but neither Moscow nor Kyiv confirmed it. On Wednesday 14, Russia launched its first major attack on Ukraine's power grid since the announcement: according to the state company Ukrenergo, it hit three thermal power plants near Kyiv, and according to international media at least five civilians were killed and some 600,000 people lost electricity. The Kremlin replied that the deal never took shape. On Thursday 15, Ukraine attacked Russian refineries, such as the one in Ryazan, and [[Zelensky|zelenski]] explained that it had only agreed to a three-day pause.",
-     "On Friday 16, Trump signed an order temporarily suspending a large part of the [[sanctions|sanciones]] on Russia that the US Congress had approved. It comes a week after he announced, with [[Vladimir Putin|putin]], a deal to import Russian diesel and bring down energy prices. Zelensky criticised Washington for ignoring that law just when, he says, Russia has carried out another massive attack on Ukraine's energy sector, and said that easing pressure on the aggressor only encourages him to keep attacking. The war began in February 2022 and has caused many thousands of deaths and millions of displaced people."
+     "On Friday 16, Trump signed an order temporarily suspending a large part of the [[sanctions|sanciones]] on Russia that the US Congress had approved. It comes a week after he announced, with [[Vladimir Putin|putin]], a deal to import Russian diesel and bring down energy prices. [[Zelensky|zelenski]] criticised Washington for ignoring that law just when, he says, Russia has carried out another massive attack on Ukraine's energy sector, and on Saturday 17 he said he feared Trump would keep lifting sanctions and that the diesel deal is only 'the first step'. In his view, easing pressure on the aggressor encourages him to keep attacking. The war began in February 2022 and has caused many thousands of deaths."
     ],
-    "nota_actualizacion": "On 16 October Trump temporarily suspended a large part of the sanctions on Russia; Zelensky says this encourages Putin to keep attacking."
+    "nota_actualizacion": "On 17 October Zelensky said he feared Trump would keep lifting sanctions on Russia and that the diesel deal is 'the first step'."
    }
   },
   {
@@ -449,10 +453,10 @@
    "seccion": "int",
    "dibujo": "ballot",
    "titular": "Brasil: Flávio Bolsonaro y Lula, en empate técnico a pocos días de la segunda vuelta",
-   "entradilla": "Las encuestas más recientes van de una ligera ventaja de Flávio Bolsonaro a un empate al 50 % de los votos válidos.",
+   "entradilla": "Tras su primer debate televisado, las encuestas oscilan entre una ligera ventaja de Flávio Bolsonaro y una de Lula.",
    "parrafos": [
     "El domingo 4 de octubre votaron más de 150 millones de brasileños y el resultado fue una sorpresa: [[Flávio Bolsonaro|flavio]], hijo del expresidente Jair Bolsonaro (condenado en 2025 por intentar un golpe de Estado), quedó primero, por delante del presidente [[Lula|lula]]. Las [[encuestas|encuesta]] daban ventaja a Lula, y él mismo reconoció que el resultado era inesperado. Según los medios, la diferencia entre los dos es de pocos puntos, y ninguno alcanzó el 50 % de los votos válidos necesario para ganar a la primera.",
-    "Por eso Flávio Bolsonaro y Lula se enfrentarán en una [[segunda vuelta|segundavuelta]] el 25 de octubre. Las encuestas de esta semana apuntan a un empate técnico: Quaest da un 46 % a Flávio frente al 44 % de Lula, Datafolha un 51 % frente al 49 % y BTG/Nexus un 48 % frente al 45 %. El 16 de octubre, el sondeo CNT/MDA dio un 46,8 % a Flávio frente al 45,9 % de Lula, y PoderData/Aya los dejó empatados al 50 % de los votos válidos. Con diferencias dentro del margen de error, nadie tiene la victoria asegurada. Está en juego quién gobernará el país más grande de Sudamérica, con peso en asuntos como la protección de la Amazonia."
+    "Por eso Flávio Bolsonaro y Lula se enfrentan en una [[segunda vuelta|segundavuelta]] el 25 de octubre. El domingo 18 celebraron en São Paulo, en la cadena Band, su primer debate televisado cara a cara, y el primer tema fue la seguridad pública. Las encuestas siguen apuntando a un empate técnico: Datafolha da un 51 % a Flávio frente al 49 % de Lula, y Quaest un 46 % frente al 44 %; el 16 de octubre, CNT/MDA dio 46,8 % frente a 45,9 % y PoderData/Aya los dejó al 50 %. En cambio, un sondeo de Vox Brasil daba a Lula el 51 % de los votos válidos frente al 49 %. Nadie tiene la victoria asegurada."
    ],
    "busqueda_imagenes": "elecciones Brasil 2026",
    "fuentes": [
@@ -462,19 +466,21 @@
     "La Jornada",
     "El Financiero",
     "Yahoo Noticias",
-    "Bloomberg Línea"
+    "Bloomberg Línea",
+    "Euronews",
+    "Cooperativa"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-17",
-   "nota_actualizacion": "Dos nuevas encuestas del 16 de octubre (CNT/MDA y PoderData/Aya) dan una ventaja mínima a Flávio Bolsonaro o un empate al 50 %.",
+   "actualizada": "2026-10-19",
+   "nota_actualizacion": "El 18 de octubre Lula y Flávio Bolsonaro celebraron su primer debate televisado; una encuesta de Vox Brasil da la ventaja a Lula (51 % frente a 49 %), mientras Datafolha se la da a Flávio.",
    "en": {
     "titular": "Brazil: Flávio Bolsonaro and Lula in a statistical tie a few days before the second round",
-    "entradilla": "The latest polls range from a slight lead for Flávio Bolsonaro to a 50-50 tie among valid votes.",
+    "entradilla": "After their first televised debate, polls range from a slight lead for Flávio Bolsonaro to a slight lead for Lula.",
     "parrafos": [
      "On Sunday 4 October more than 150 million Brazilians voted, and the result was a surprise: [[Flávio Bolsonaro|flavio]], son of former president Jair Bolsonaro (convicted in 2025 of attempting a coup), came first, ahead of President [[Lula|lula]]. The [[polls|encuesta]] had given Lula the lead, and he himself admitted the result was unexpected. According to the media, the gap between the two is only a few points, and neither reached the 50% of valid votes needed to win outright.",
-     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on 25 October. This week's polls point to a statistical tie: Quaest gives Flávio 46% against Lula's 44%, Datafolha 51% against 49% and BTG/Nexus 48% against 45%. On 16 October, the CNT/MDA poll gave Flávio 46.8% against Lula's 45.9%, and PoderData/Aya had them tied at 50% of valid votes. With gaps within the margin of error, nobody has victory assured. What is at stake is who will govern the largest country in South America, with weight on issues such as protecting the Amazon."
+     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on 25 October. On Sunday 18 they held their first face-to-face televised debate, in São Paulo on the Band channel, and the first topic was public security. Polls still point to a statistical tie: Datafolha gives Flávio 51% against Lula's 49%, and Quaest 46% against 44%; on 16 October CNT/MDA gave 46.8% against 45.9% and PoderData/Aya had them at 50% each. By contrast, a Vox Brasil poll gave Lula 51% of valid votes against 49%. Nobody has victory assured."
     ],
-    "nota_actualizacion": "Two new polls on 16 October (CNT/MDA and PoderData/Aya) give Flávio Bolsonaro a minimal lead or a 50-50 tie."
+    "nota_actualizacion": "On 18 October Lula and Flávio Bolsonaro held their first televised debate; a Vox Brasil poll gives Lula the lead (51% to 49%), while Datafolha gives it to Flávio."
    }
   },
   {
@@ -502,37 +508,6 @@
      "The Spanish Government says it also wants returns to be faster, but it doubts that those centres will respect people's rights and wonders how much they will cost. The debate comes just as Spain is going through the Ceuta crisis. A difficult question that many countries ask themselves: how can you be firm with people who come in without permission and, at the same time, treat every person with dignity?"
     ],
     "nota_actualizacion": null
-   }
-  },
-  {
-   "id": "dos-partidos-mas-antes-del-paron",
-   "seccion": "dep",
-   "dibujo": "calendar",
-   "titular": "España remonta en Croacia con dos goles de Merino y se mete en los cuartos de la Nations League",
-   "entradilla": "La selección ganó 2-1 en Split tras ir perdiendo y suma cuatro victorias seguidas en su grupo.",
-   "parrafos": [
-    "España ganó 2-1 a Croacia el martes 6 de octubre en Split, en la [[Nations League|nations]], después de ir perdiendo. Ivan Perišić adelantó a los croatas en la primera parte. Mikel Merino empató en el minuto 61 y en el 88 marcó el 2-1 tras controlar un pase dentro del área. Perišić fue expulsado en el 79 por una segunda tarjeta amarilla tras una falta a Cucurella. Con esta victoria, la selección se asegura un puesto en los cuartos de final de la competición, que se jugarán el año que viene.",
-    "Unos días antes, el sábado 3 de octubre, España había vencido 3-1 a Chequia en Oviedo, con goles de [[Lamine Yamal|lamine]], Rodri y el propio Merino. Es su cuarta victoria seguida en este grupo. El seleccionador, [[Luis de la Fuente|delafuente]], aprovecha estos partidos para probar a jugadores jóvenes de cara a la Eurocopa de 2028. En la Nations League las selecciones se agrupan por nivel y las mejores pasan a una fase final; para los jugadores es una forma de mantener el ritmo entre grandes torneos."
-   ],
-   "busqueda_imagenes": "selección española fútbol",
-   "fuentes": [
-    "Al Jazeera",
-    "ESPN",
-    "Goal",
-    "Milenio",
-    "Cooperativa"
-   ],
-   "publicada": "2026-10-02",
-   "actualizada": "2026-10-13",
-   "nota_actualizacion": "España ganó 2-1 a Croacia, con dos goles de Merino, y se asegura los cuartos de final.",
-   "en": {
-    "titular": "Spain come from behind in Croatia with two Merino goals and reach the Nations League quarter-finals",
-    "entradilla": "The national team won 2-1 in Split after going behind and have four wins in a row in their group.",
-    "parrafos": [
-     "Spain beat Croatia 2-1 on Tuesday 6 October in Split, in the [[Nations League|nations]], after going behind. Ivan Perišić put the Croats ahead in the first half. Mikel Merino equalised in the 61st minute and in the 88th scored the winner after controlling a pass inside the box. Perišić was sent off in the 79th for a second yellow card after a foul on Cucurella. With this win, the team secure a place in the competition's quarter-finals, which will be played next year.",
-     "A few days earlier, on Saturday 3 October, Spain had beaten Czechia 3-1 in Oviedo, with goals from [[Lamine Yamal|lamine]], Rodri and Merino himself. It is their fourth win in a row in this group. The manager, [[Luis de la Fuente|delafuente]], uses these matches to try out young players ahead of Euro 2028. In the Nations League national teams are grouped by level and the best ones go through to a final stage; for the players it is a way of keeping up their rhythm between big tournaments."
-    ],
-    "nota_actualizacion": "Spain beat Croatia 2-1, with two goals from Merino, and have secured a place in the quarter-finals."
    }
   },
   {
@@ -572,32 +547,31 @@
    "id": "alcaraz-eliminado-shanghai-zverev-numero-uno",
    "seccion": "dep",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-a\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><ellipse class=\"d-p\" cx=\"44\" cy=\"34\" rx=\"15\" ry=\"21\" transform=\"rotate(-25 44 34)\"/><path class=\"d-l\" d=\"M36 16 L56 50 M30 24 L50 58 M28 36 L44 56 M44 12 L60 40 M34 14 L28 32\"/><ellipse class=\"d-l\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><path class=\"d-i\" d=\"M58 58 L82 82 L86 78 L62 54 Z\"/><circle class=\"d-y\" cx=\"92\" cy=\"30\" r=\"11\"/><path class=\"d-w\" d=\"M84 24 C90 28 90 34 84 38 M100 24 C94 28 94 34 100 38\"/><circle class=\"d-l\" cx=\"92\" cy=\"30\" r=\"11\"/></svg>",
-   "titular": "Final española en Shanghái: Jódar, de 20 años, y Davidovich se juegan hoy el Masters 1000",
-   "entradilla": "Jódar ganó a Medvedev y Davidovich a Zverev en las semifinales; es la primera final del torneo entre dos españoles.",
+   "titular": "Davidovich remonta a Jódar y gana el Masters 1000 de Shanghái, su primer título de ese nivel",
+   "entradilla": "El malagueño ganó 1-6, 7-6 (5) y 6-4 en la primera final española del torneo y suma su tercer título seguido.",
    "parrafos": [
-    "[[Rafa Jódar|jodar]], de 20 años y número 13 del [[ranking ATP|rankingatp]], venció el sábado 17 al ruso Daniil Medvedev por 6-3 y 6-4 y llegó a su primera final de un [[Masters 1000|masters1000]], uno de los torneos más importantes del circuito después de los Grand Slam. Su rival será [[Alejandro Davidovich|davidovich]], malagueño y número 26, que remontó al alemán [[Alexander Zverev|zverev]] por 5-7, 6-4 y 6-3. Es la primera final de Shanghái entre dos españoles, y se juega hoy, domingo 18.",
-    "El torneo empezó con una sorpresa: [[Carlos Alcaraz|alcaraz]], segundo cabeza de serie, quedó eliminado el lunes 12 en la tercera ronda ante el belga Zizou Bergs, número 39 del mundo, por 7-5 y 7-6 (7-4), y se enfadó mucho con las pelotas. Jódar, en cambio, fue avanzando: el viernes 16 ganó en cuartos al noruego Casper Ruud por 4-6, 6-4 y 6-3 y, con 20 años, se convirtió en el semifinalista más joven de la historia del torneo. Ahora le queda un último partido contra un compatriota que ya ha derrotado a Zverev."
+    "[[Alejandro Davidovich|davidovich]], malagueño de 27 años, ganó el domingo 18 el [[Masters 1000|masters1000]] de Shanghái al derrotar a [[Rafa Jódar|jodar]], de 20, por 1-6, 7-6 (5) y 6-4 en dos horas y 28 minutos. Perdía por un set y una rotura (1-6, 2-3) y aun así dio la vuelta al partido. Es su primer título de ese nivel, uno de los más importantes del circuito después de los Grand Slam, y llega tras haber perdido sus cinco primeras finales. Además es su tercer título consecutivo, tras los de Mallorca y Chengdu, y lleva diez victorias seguidas en China.",
+    "Con este resultado Davidovich subirá al puesto 13 del [[ranking ATP|rankingatp]], el mejor de su carrera, y Jódar al 11, también su mejor posición. Jódar había llegado a la final de forma brillante: eliminó a Casper Ruud en cuartos y a Medvedev en semifinales, y con 20 años fue el semifinalista más joven de la historia del torneo. Davidovich, por su parte, había derrotado en semifinales a [[Alexander Zverev|zverev]]. El torneo había empezado con otra sorpresa: [[Carlos Alcaraz|alcaraz]], segundo cabeza de serie, cayó el lunes 12 en la tercera ronda ante el belga Zizou Bergs, número 39 del mundo."
    ],
    "busqueda_imagenes": "Alcaraz Bergs Masters Shanghái 2026",
    "fuentes": [
-    "The Sunday Guardian",
-    "Milenio",
-    "El Deportivo",
-    "Perfect Tennis",
-    "Infobae",
-    "ATP Tour"
+    "ATP Tour",
+    "Washington Times (AP)",
+    "France 24 (AFP)",
+    "Olympics.com",
+    "Dawn"
    ],
    "publicada": "2026-10-13",
-   "actualizada": "2026-10-18",
-   "nota_actualizacion": "Jódar y Davidovich jugarán hoy la primera final entre españoles en la historia del Masters de Shanghái.",
+   "actualizada": "2026-10-19",
+   "nota_actualizacion": "Davidovich ganó la final a Jódar por 1-6, 7-6 (5) y 6-4 y logró su primer Masters 1000.",
    "en": {
-    "titular": "All-Spanish final in Shanghai: 20-year-old Jódar and Davidovich play for the Masters 1000 title today",
-    "entradilla": "Jódar beat Medvedev and Davidovich beat Zverev in the semi-finals; it is the first final in the tournament between two Spaniards.",
+    "titular": "Davidovich comes back to beat Jódar and wins the Shanghai Masters 1000, his first title at that level",
+    "entradilla": "The man from Málaga won 1-6, 7-6 (5), 6-4 in the first all-Spanish final at the tournament and has now won three titles in a row.",
     "parrafos": [
-     "[[Rafa Jódar|jodar]], aged 20 and ranked 13th in the [[ATP ranking|rankingatp]], beat Russia's Daniil Medvedev 6-3, 6-4 on Saturday 17 and reached his first [[Masters 1000|masters1000]] final, one of the most important tournaments on the tour after the Grand Slams. His opponent will be [[Alejandro Davidovich|davidovich]], from Málaga and ranked 26th, who came back to beat Germany's [[Alexander Zverev|zverev]] 5-7, 6-4, 6-3. It is the first Shanghai final between two Spaniards, and it is played today, Sunday 18.",
-     "The tournament began with a surprise: [[Carlos Alcaraz|alcaraz]], the second seed, was knocked out on Monday 12 in the third round by Belgium's Zizou Bergs, ranked 39th in the world, 7-5, 7-6 (7-4), and he lost his temper over the balls. Jódar, on the other hand, kept moving forward: on Friday 16 he beat Norway's Casper Ruud 4-6, 6-4, 6-3 in the quarter-finals and, at 20, became the youngest semi-finalist in the tournament's history. Now he has one last match against a compatriot who has already beaten Zverev."
+     "[[Alejandro Davidovich|davidovich]], a 27-year-old from Málaga, won the Shanghai [[Masters 1000|masters1000]] on Sunday 18 by beating [[Rafa Jódar|jodar]], aged 20, 1-6, 7-6 (5), 6-4 in two hours and 28 minutes. He was a set and a break down (1-6, 2-3) and still turned the match around. It is his first title at that level, one of the most important on the tour after the Grand Slams, and it comes after he had lost his first five finals. It is also his third title in a row, after Mallorca and Chengdu, and he has now won ten matches in a row in China.",
+     "With this result Davidovich will rise to 13th in the [[ATP ranking|rankingatp]], the best of his career, and Jódar to 11th, also his best position. Jódar had reached the final in brilliant style: he knocked out Casper Ruud in the quarter-finals and Medvedev in the semi-finals, and at 20 he was the youngest semi-finalist in the tournament's history. Davidovich, for his part, had beaten [[Alexander Zverev|zverev]] in the semi-finals. The tournament had begun with another surprise: [[Carlos Alcaraz|alcaraz]], the second seed, went out on Monday 12 in the third round to Belgium's Zizou Bergs, ranked 39th in the world."
     ],
-    "nota_actualizacion": "Jódar and Davidovich will play today the first final between Spaniards in the history of the Shanghai Masters."
+    "nota_actualizacion": "Davidovich won the final against Jódar 1-6, 7-6 (5), 6-4 and took his first Masters 1000."
    }
   },
   {
@@ -1189,6 +1163,37 @@
     "parrafos": [
      "On Sunday 11 October, [[Max Verstappen|verstappen]], of Red Bull, won the Singapore Grand Prix of [[Formula 1|formula1]], at the [[Marina Bay|marinabay]] street circuit. He crossed the line 7.3 seconds ahead of Charles Leclerc (Ferrari), and Kimi Antonelli (Mercedes) was third. Verstappen had won Saturday's [[sprint race|sprint]], the short version, and had started from first place in both races, so he dominated the whole weekend.",
      "It was his 73rd Formula 1 win, the third-highest total in history, and his first in Singapore, a circuit where he had never won. Only Lewis Hamilton (more than a hundred) and Michael Schumacher (91) have more victories. Sergio Pérez, with the Cadillac team, finished seventeenth. Singapore is a street circuit, run at night among skyscrapers, with walls very close to the cars, where overtaking is hard and any mistake is costly."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "barca-lider-madrid-gana-liga-clasico-25-octubre",
+   "seccion": "dep",
+   "dibujo": "wembley",
+   "titular": "El Barça lidera la Liga con nueve victorias en nueve jornadas y el Madrid responde antes del Clásico",
+   "entradilla": "El Barcelona goleó 5-2 al Betis, el Madrid ganó 4-1 al Sevilla y los dos se ven las caras el domingo 25 en el Camp Nou.",
+   "parrafos": [
+    "La jornada 9 de [[LaLiga|laliga]] dejó dos goleadas de los grandes. El Barcelona ganó 5-2 al Betis el sábado 17 y suma nueve victorias en nueve partidos, con 27 puntos. El domingo 18, el Real Madrid venció 4-1 al Sevilla, con dos goles de [[Kylian Mbappé|mbappe]], uno de ellos de penalti, y otro de Güler. El Atlético de Madrid, que ganó al Espanyol en el minuto 89, es segundo con 22 puntos; el Madrid es tercero con 21, y el Betis, cuarto con 19. El Barcelona llega con 39 goles a favor y solo 9 en contra.",
+    "Ahora llega el primer [[Clásico|clasico]] de la temporada, el domingo 25 de octubre a las 21:00 en el Camp Nou, en la jornada 10. Si el Barcelona gana, aumentará su ventaja sobre el Madrid; si gana el Madrid, se quedará a tres puntos. Un Clásico es el partido entre los dos clubes más laureados de España y se sigue en todo el mundo. Aún quedan muchas jornadas, porque la Liga tiene 38, pero este partido puede marcar el ánimo de la temporada: el Barcelona quiere mantener su racha y el Madrid, que perdió hace poco ante el Atlético, busca demostrar que puede disputarle el título."
+   ],
+   "busqueda_imagenes": "Barcelona Real Madrid Clásico 25 octubre Camp Nou",
+   "fuentes": [
+    "Infobae (EFE)",
+    "Meridiano",
+    "El Independiente",
+    "ABC Color",
+    "Tunota"
+   ],
+   "publicada": "2026-10-19",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Barça top La Liga with nine wins from nine and Madrid respond ahead of the Clásico",
+    "entradilla": "Barcelona thrashed Betis 5-2, Madrid beat Sevilla 4-1 and the two meet on Sunday 25 at the Camp Nou.",
+    "parrafos": [
+     "Matchday 9 of [[LaLiga|laliga]] brought two big wins for the giants. Barcelona beat Betis 5-2 on Saturday 17 and have won nine out of nine, with 27 points. On Sunday 18, Real Madrid beat Sevilla 4-1, with two goals from [[Kylian Mbappé|mbappe]], one of them a penalty, and another from Güler. Atlético de Madrid, who beat Espanyol in the 89th minute, are second with 22 points; Madrid are third with 21, and Betis fourth with 19. Barcelona arrive with 39 goals scored and only 9 conceded.",
+     "Now comes the season's first [[Clásico|clasico]], on Sunday 25 October at 21:00 at the Camp Nou, in matchday 10. If Barcelona win, they will extend their lead over Madrid; if Madrid win, they will be three points behind. A Clásico is the match between the two most successful clubs in Spain and is followed all over the world. There are still many rounds to go, since La Liga has 38, but this match could set the mood for the season: Barcelona want to keep their run going and Madrid, who recently lost to Atlético, want to show they can challenge for the title."
     ],
     "nota_actualizacion": null
    }
@@ -2805,11 +2810,47 @@
     "n": "Housing bubble",
     "x": "When house prices rise enormously, more than they are really worth, and then collapse. In Spain the last one lasted until 2007 and its bursting caused a long economic crisis."
    }
+  },
+  "laliga": {
+   "t": "palabra",
+   "n": "LaLiga",
+   "x": "La competición de liga del fútbol profesional español: veinte equipos juegan 38 jornadas y el que más puntos suma al final es el campeón.",
+   "en": {
+    "n": "LaLiga",
+    "x": "The league competition of Spanish professional football: twenty teams play 38 rounds and the one with the most points at the end is the champion."
+   }
+  },
+  "mbappe": {
+   "t": "persona",
+   "n": "Kylian Mbappé",
+   "x": "Delantero francés del Real Madrid, uno de los mejores goleadores del mundo.",
+   "en": {
+    "n": "Kylian Mbappé",
+    "x": "A French striker at Real Madrid and one of the best goalscorers in the world."
+   }
+  },
+  "clasico": {
+   "t": "palabra",
+   "n": "El Clásico",
+   "x": "Nombre del partido entre el Real Madrid y el FC Barcelona, los dos clubes más laureados de España; se juega dos veces por temporada en la Liga.",
+   "en": {
+    "n": "El Clásico",
+    "x": "The name given to the match between Real Madrid and FC Barcelona, the two most successful clubs in Spain; it is played twice a season in La Liga."
+   }
+  },
+  "ume": {
+   "t": "palabra",
+   "n": "UME (Unidad Militar de Emergencias)",
+   "x": "Cuerpo del Ejército español especializado en ayudar en catástrofes como inundaciones, incendios o terremotos.",
+   "en": {
+    "n": "UME (Military Emergencies Unit)",
+    "x": "A unit of the Spanish army specialised in helping during disasters such as floods, fires or earthquakes."
+   }
   }
  },
- "edicion_en": "Sunday 18 October 2026",
+ "edicion_en": "Monday 19 October 2026",
  "destacada": {
   "id": "dana-adam-almeria-inundaciones-alerta-roja-valencia",
-  "fecha": "2026-10-18"
+  "fecha": "2026-10-19"
  }
 }
