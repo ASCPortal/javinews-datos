@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-22T07:00:00+02:00",
- "edicion": "Jueves 22 de octubre de 2026",
+ "actualizado": "2026-10-23T07:00:00+02:00",
+ "edicion": "Viernes 23 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -149,10 +149,10 @@
    "seccion": "es",
    "dibujo": "ballot",
    "titular": "El Supremo mantiene sin voto el 29 de noviembre a 163.020 nacionalizados por la «ley de nietos»",
-   "entradilla": "El tribunal rechazó levantar la suspensión que pedía el Gobierno, que la califica de «extraordinariamente grave».",
+   "entradilla": "El Constitucional no admitió el recurso del Defensor del Pueblo y el asunto vuelve al Supremo, mientras la Junta Electoral prepara el envío de la documentación.",
    "parrafos": [
     "El lunes 12 de octubre, el [[Tribunal Supremo|supremo]] decidió mantener la [[suspensión cautelar|suspensioncautelar]] del voto de 163.020 personas que se han nacionalizado españolas con la llamada [[ley de nietos|leynietos]]. Esa norma permite pedir la nacionalidad a hijos y nietos de españoles que se exiliaron, sobre todo durante la Guerra Civil y la dictadura. Los afectados no podrán votar en las elecciones del 29 de noviembre, salvo que un consulado certifique que su antepasado salió de España por exilio. El tribunal rechazó la petición del Gobierno de levantar la medida: sostiene que sigue existiendo el riesgo de formar un [[censo electoral|censo]] de forma irregular.",
-    "La suspensión la pidieron Vox y la asociación Iustitia Europa, que sostienen que una instrucción del Ministerio de Justicia amplió la ley al dar por supuesto que quien salió de España entre 1936 y 1955 lo hizo por exilio. El Gobierno, cuya portavoz, Elma Saiz, calificó la decisión de «extraordinariamente grave», responde que se restringe un derecho fundamental, el voto. El martes 20, el Supremo dio 24 horas, hasta las 15:00 del miércoles 21, a las partes para opinar sobre una decisión de la [[Junta Electoral Central|jec]] del 16 de octubre: enviar la documentación de voto a todos los inscritos en el censo de residentes ausentes."
+    "La suspensión la pidieron Vox y la asociación Iustitia Europa, que sostienen que una instrucción del Ministerio de Justicia amplió la ley al dar por supuesto que quien salió de España entre 1936 y 1955 lo hizo por exilio. El Gobierno, cuya portavoz, Elma Saiz, calificó la decisión de «extraordinariamente grave», responde que se restringe un derecho fundamental, el voto. Esta semana el [[Tribunal Constitucional|tc]] no admitió, por 10 votos contra 2, el recurso del Defensor del Pueblo, porque lo consideró prematuro: el Supremo todavía tramita el caso. La [[Junta Electoral Central|jec]] enviará del 24 al 30 de octubre la documentación de voto a todos los inscritos en el censo de residentes ausentes, avisándoles de que no todos podrán votar."
    ],
    "busqueda_imagenes": "Tribunal Supremo ley de nietos voto 29N",
    "fuentes": [
@@ -163,19 +163,22 @@
     "La Región",
     "Euronews",
     "RTVC",
-    "esdiario"
+    "esdiario",
+    "Público",
+    "COPE",
+    "Democrata"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-10-21",
-   "nota_actualizacion": "El 20 de octubre el Supremo dio 24 horas a las partes, hasta las 15:00 del 21, para opinar sobre la decisión de la Junta Electoral Central de enviar la documentación de voto a todos los inscritos en el censo de residentes ausentes.",
+   "actualizada": "2026-10-23",
+   "nota_actualizacion": "El Constitucional no admitió (10 votos contra 2) el recurso del Defensor del Pueblo y la Junta Electoral enviará del 24 al 30 de octubre la documentación de voto a todos los inscritos en el censo de residentes ausentes.",
    "en": {
     "titular": "The Supreme Court keeps 163,020 people naturalised under the 'grandchildren's law' from voting on 29 November",
-    "entradilla": "The court refused to lift the suspension the Government had asked for; the Government calls the ruling 'extraordinarily serious'.",
+    "entradilla": "The Constitutional Court did not admit the Ombudsman's appeal and the matter goes back to the Supreme Court, while the Electoral Board prepares to send out the documents.",
     "parrafos": [
      "On Monday 12 October, the [[Supreme Court|supremo]] decided to keep in place the [[precautionary suspension|suspensioncautelar]] of the vote of 163,020 people who have become Spanish nationals under the so-called [[grandchildren's law|leynietos]]. That rule lets the children and grandchildren of Spaniards who went into exile, mainly during the Civil War and the dictatorship, apply for nationality. Those affected will not be able to vote in the 29 November election unless a consulate certifies that their ancestor left Spain because of exile. The court rejected the Government's request to lift the measure: it maintains that the risk of building an [[electoral roll|censo]] irregularly still exists.",
-     "The suspension was requested by Vox and the association Iustitia Europa, who argue that an instruction from the Ministry of Justice stretched the law by assuming that anyone who left Spain between 1936 and 1955 did so because of exile. The Government, whose spokesperson, Elma Saiz, called the decision 'extraordinarily serious', replies that a fundamental right, the right to vote, is being restricted. On Tuesday 20, the Supreme Court gave the parties 24 hours, until 15:00 on Wednesday 21, to comment on a decision by the [[Central Electoral Board|jec]] of 16 October: to send voting documents to everyone on the register of Spaniards living abroad."
+     "The suspension was requested by Vox and the association Iustitia Europa, who argue that a Ministry of Justice instruction stretched the law by assuming that anyone who left Spain between 1936 and 1955 did so because of exile. The Government, whose spokesperson, Elma Saiz, called the decision 'extraordinarily serious', replies that a fundamental right, the right to vote, is being restricted. This week the [[Constitutional Court|tc]] refused to admit, by 10 votes to 2, the Ombudsman's appeal, deeming it premature: the Supreme Court is still handling the case. The [[Central Electoral Board|jec]] will send voting documents between 24 and 30 October to everyone on the register of Spaniards abroad, warning that not all can vote."
     ],
-    "nota_actualizacion": "On 20 October the Supreme Court gave the parties 24 hours, until 15:00 on the 21st, to comment on the Central Electoral Board's decision to send voting documents to everyone on the register of Spaniards living abroad."
+    "nota_actualizacion": "The Constitutional Court refused to admit (10 votes to 2) the Ombudsman's appeal, and the Electoral Board will send voting documents to everyone on the register of Spaniards living abroad between 24 and 30 October."
    }
   },
   {
@@ -219,11 +222,11 @@
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Huelga indefinida del profesorado en Madrid: la Comunidad cifra el seguimiento en un 10,2 % en el sexto día y los sindicatos, en un 50 %",
-   "entradilla": "La Consejería sigue sin negociar, según los sindicatos; el jueves 22 habrá otra manifestación.",
+   "titular": "Huelga indefinida del profesorado en Madrid: unas 20.000 personas marchan en el séptimo día, según la Delegación del Gobierno",
+   "entradilla": "Los sindicatos piden a la Consejería que negocie; la Comunidad y los sindicatos siguen sin coincidir en el seguimiento de la huelga.",
    "parrafos": [
-    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y no tiene fecha de fin. Afecta a unos 65.000 docentes. El seguimiento se cuenta de dos maneras: el viernes 16, la [[Consejería de Educación|consejeria]] lo cifró en un 26,7 % y los sindicatos, en torno al 60 %. El miércoles 21, sexto día, la Consejería habló de un 10,2 % y los sindicatos, de un 50 %. Ese día unos cien docentes entraron en el Museo Reina Sofía y protestaron ante el Guernica. Los sindicatos dicen que la Consejería ni negocia ni ha convocado el comité de huelga. CSIF convoca además paros parciales los días 22, 26 y 30.",
-    "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden menos horas de clase, menos alumnos por aula, más personal y una subida de sueldo; CCOO asegura que la huelga se extenderá si la Consejería no negocia. El jueves 22 habrá otra manifestación desde Atocha, a las 18:00."
+    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y no tiene fecha de fin. Afecta a unos 65.000 docentes. El seguimiento se cuenta de dos maneras: el miércoles 21, sexto día, la [[Consejería de Educación|consejeria]] habló de un 10,2 % y los sindicatos, de un 50 %. El jueves 22, séptimo día, unas 20.000 personas, según la Delegación del Gobierno, marcharon con camisetas verdes desde Atocha hasta la sede de la Consejería, en la calle de Alcalá. Los sindicatos, entre ellos CCOO, UGT, CGT y STEM, le piden que negocie. CSIF convoca además paros parciales los días 26 y 30.",
+    "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden menos horas de clase, menos alumnos por aula, más personal y una subida de sueldo; CCOO asegura que la huelga se extenderá si la Consejería no negocia."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
    "fuentes": [
@@ -239,19 +242,49 @@
     "Noticias para Municipios",
     "Moncloa.com",
     "Última Hora",
-    "Madridiario"
+    "Madridiario",
+    "Infobae (agencias)"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-10-22",
-   "nota_actualizacion": "El miércoles 21, sexto día, la Comunidad habló de un 10,2 % de seguimiento y los sindicatos, de un 50 %; unos cien docentes protestaron en el Reina Sofía.",
+   "actualizada": "2026-10-23",
+   "nota_actualizacion": "El jueves 22, séptimo día, unas 20.000 personas se manifestaron en Madrid, según la Delegación del Gobierno; los sindicatos piden a la Consejería que negocie.",
    "en": {
-    "titular": "Madrid teachers' indefinite strike: regional government puts turnout at 10.2% on day six, unions at 50%",
-    "entradilla": "The unions say the Department still refuses to negotiate; there will be another march on Thursday 22.",
+    "titular": "Madrid teachers' indefinite strike: about 20,000 march on day seven, according to the Government Delegation",
+    "entradilla": "The unions ask the Department to negotiate; the regional government and the unions still disagree on how many are striking.",
     "parrafos": [
-     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and has no end date. It affects about 65,000 teachers. Turnout is counted in two ways: on Friday 16, the regional [[Education Department|consejeria]] put it at 26.7% and the unions at around 60%. On Wednesday 21, day six, the Department spoke of 10.2% and the unions of 50%. That day about a hundred teachers went into the Reina Sofía Museum and protested in front of Guernica. The unions say the Department is neither negotiating nor has it convened the strike committee. CSIF is also calling partial stoppages on 22, 26 and 30 October.",
-     "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want fewer teaching hours, fewer pupils per class, more staff and a pay rise; CCOO says the strike will spread if the Department does not negotiate. On Thursday 22 there will be another march from Atocha, at 18:00."
+     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and has no end date. It affects about 65,000 teachers. Turnout is counted in two ways: on Wednesday 21, day six, the regional [[Education Department|consejeria]] spoke of 10.2% and the unions of 50%. On Thursday 22, day seven, about 20,000 people, according to the Government Delegation, marched in green T-shirts from Atocha to the Department's headquarters on Calle de Alcalá. The unions, including CCOO, UGT, CGT and STEM, ask it to negotiate. CSIF is also calling partial stoppages on 26 and 30 October.",
+     "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want fewer teaching hours, fewer pupils per class, more staff and a pay rise; CCOO says the strike will spread if the Department does not negotiate."
     ],
-    "nota_actualizacion": "On Wednesday 21, day six, the regional government spoke of 10.2% turnout and the unions of 50%; about a hundred teachers protested in the Reina Sofía."
+    "nota_actualizacion": "On Thursday 22, day seven, about 20,000 people marched in Madrid, according to the Government Delegation; the unions ask the Department to negotiate."
+   }
+  },
+  {
+   "id": "moreno-presupuesto-andalucia-2027-54716-millones",
+   "seccion": "and",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-y\" cx=\"32\" cy=\"74\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-y\" cx=\"32\" cy=\"64\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-y\" cx=\"32\" cy=\"54\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"74\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"64\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"54\" rx=\"20\" ry=\"7\"/><text class=\"d-i\" x=\"26\" y=\"58\" font-size=\"12\" font-family=\"sans-serif\" font-weight=\"bold\">€</text><path class=\"d-a\" d=\"M62 38 L88 22 L114 38 Z\"/><rect class=\"d-b\" x=\"64\" y=\"38\" width=\"48\" height=\"6\"/><rect class=\"d-w\" x=\"68\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-w\" x=\"81\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-w\" x=\"94\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-a\" x=\"62\" y=\"70\" width=\"52\" height=\"7\"/><path class=\"d-l\" d=\"M62 38 L88 22 L114 38 Z M62 70 H114\"/></svg>",
+   "titular": "Moreno anuncia un presupuesto andaluz de 54.716 millones para 2027, el primero pactado con Vox",
+   "entradilla": "El gasto de la Junta crecería un 6 % y dos de cada tres euros irían a políticas sociales; el Parlamento empezará a debatirlo el 11 de noviembre.",
+   "parrafos": [
+    "El jueves 22 de octubre, [[Juanma Moreno|moreno]] anunció en el Parlamento andaluz el [[presupuesto|presupuesto]] de la [[Junta de Andalucía|junta]] para 2027: 54.716 millones de euros, un 6 % más que los 51.597 millones de este año. Es el primero que se pacta con [[Vox|vox]] y el octavo que presenta Moreno. El Consejo de Gobierno lo aprobará la próxima semana y el Parlamento empezará a debatirlo el 11 de noviembre, el mismo día de la huelga general convocada por los sindicatos.",
+    "Según Moreno, dos de cada tres euros irán a políticas sociales, unos 35.246 millones. La sanidad recibiría casi 17.000 millones, la educación 11.889, la dependencia 3.308 y la vivienda 963, un 31 % más que en 2026. Un presupuesto decide, por ejemplo, cuántos médicos, profesores o ayudas habrá. La oposición discrepa: Adelante Andalucía critica que la sanidad pública encargue servicios, como el cribado del cáncer de mama, a empresas privadas, y Moreno defiende su gestión. Son las cifras anunciadas por la Junta, y el Parlamento todavía puede cambiarlas."
+   ],
+   "busqueda_imagenes": "presupuesto Andalucía 2027 Parlamento Moreno",
+   "fuentes": [
+    "Última Hora",
+    "Moncloa.com",
+    "Vozpópuli"
+   ],
+   "publicada": "2026-10-23",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Moreno announces an Andalusian budget of 54,716 million euros for 2027, the first agreed with Vox",
+    "entradilla": "The regional government's spending would rise 6% and two out of every three euros would go on social policies; Parliament will begin debating it on 11 November.",
+    "parrafos": [
+     "On Thursday 22 October, [[Juanma Moreno|moreno]] announced in the Andalusian Parliament the [[budget|presupuesto]] of the [[Junta de Andalucía|junta]] for 2027: 54,716 million euros, 6% more than this year's 51,597 million. It is the first to be agreed with [[Vox|vox]] and the eighth Moreno has presented. The Governing Council will approve it next week and Parliament will begin debating it on 11 November, the same day as the general strike called by the unions.",
+     "According to Moreno, two out of every three euros will go on social policies, about 35,246 million. Health would receive almost 17,000 million, education 11,889, dependency care 3,308 and housing 963, 31% more than in 2026. A budget decides, for example, how many doctors, teachers or grants there will be. The opposition disagrees: Adelante Andalucía criticises the public health service for hiring private companies for services such as breast cancer screening, and Moreno defends his record. These are the figures announced by the regional government, and Parliament can still change them."
+    ],
+    "nota_actualizacion": null
    }
   },
   {
@@ -316,46 +349,14 @@
    }
   },
   {
-   "id": "ayudas-junta-terremotos-granada-siete-millones",
-   "seccion": "and",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-b\" d=\"M0 58 H54 L60 66 L52 72 L62 80 L56 90 H0 Z\"/><path class=\"d-b\" d=\"M120 58 H68 L74 66 L66 74 L72 82 L66 90 H120 Z\"/><g transform=\"rotate(-8 30 40)\"><rect class=\"d-a\" x=\"14\" y=\"34\" width=\"32\" height=\"24\"/><path class=\"d-y\" d=\"M10 36 L30 18 L50 36 Z\"/><rect class=\"d-p\" x=\"26\" y=\"44\" width=\"8\" height=\"14\"/></g><path class=\"d-l\" d=\"M70 24 L76 18 L82 26 L88 18 L94 26 M74 38 L80 32 L86 40 L92 32 L98 40\"/><path class=\"d-l\" d=\"M0 58 H54 M68 58 H120\"/></svg>",
-   "titular": "La Junta da 7 millones a 27 municipios de Granada por la serie de terremotos de agosto y septiembre",
-   "entradilla": "La ciudad de Granada recibirá más de 2,6 millones; la serie sísmica empezó el 14 de agosto cerca de Alhendín.",
-   "parrafos": [
-    "El miércoles 14 de octubre, el Consejo de Gobierno de la [[Junta de Andalucía|junta]] aprobó siete millones de euros en ayudas para 27 municipios de la provincia de Granada afectados por la [[serie sísmica|seriesismica]] ocurrida entre el 14 de agosto y el 7 de septiembre. El dinero servirá para reparar edificios, instalaciones y servicios municipales dañados. La ciudad de Granada recibirá 2.617.629 euros y Churriana de la Vega, 657.138. Los ayuntamientos podrán pedir las ayudas con una única solicitud, durante diez días desde la publicación del acuerdo en el boletín oficial de la Junta.",
-    "Una serie sísmica es un conjunto de muchos terremotos seguidos en la misma zona. Esta tuvo su centro cerca de [[Alhendín|alhendin]], en el área metropolitana de Granada. A principios de septiembre ya sumaba unos 1.700 terremotos, y el Instituto Geográfico Nacional ([[IGN|ign]]) registró dos de [[magnitud|magnitud]] 4,8 en agosto, sentidos en más de 500 localidades. Según el IGN, hubo daños no estructurales en Santa Fe y Atarfe, es decir, que no afectaron a la estructura de los edificios. La provincia de Granada es una de las zonas con más actividad sísmica de la península, así que estos temblores, aunque asustan, no son un hecho excepcional."
-   ],
-   "busqueda_imagenes": "terremotos Granada Alhendín ayudas Junta",
-   "fuentes": [
-    "Junta de Andalucía (Portavoz del Gobierno)",
-    "Andalucía Información",
-    "Ahora Granada",
-    "Última Hora",
-    "Instituto Geográfico Nacional",
-    "The Objective"
-   ],
-   "publicada": "2026-10-16",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "The regional government gives 7 million euros to 27 Granada municipalities for the August and September earthquake series",
-    "entradilla": "The city of Granada will receive more than 2.6 million; the seismic series began on 14 August near Alhendín.",
-    "parrafos": [
-     "On Wednesday 14 October, the Governing Council of the [[Junta de Andalucía|junta]] approved seven million euros in aid for 27 municipalities in the province of Granada affected by the [[seismic series|seriesismica]] that took place between 14 August and 7 September. The money will go towards repairing damaged buildings, facilities and municipal services. The city of Granada will receive 2,617,629 euros and Churriana de la Vega 657,138. Town councils can apply for the aid with a single application, within ten days of the agreement being published in the regional government's official gazette.",
-     "A seismic series is a group of many earthquakes in a row in the same area. This one was centred near [[Alhendín|alhendin]], in the Granada metropolitan area. By early September it already added up to some 1,700 earthquakes, and the National Geographic Institute ([[IGN|ign]]) recorded two of [[magnitude|magnitud]] 4.8 in August, felt in more than 500 towns. According to the IGN, there was non-structural damage in Santa Fe and Atarfe, meaning it did not affect the structure of the buildings. The province of Granada is one of the most seismically active areas of the peninsula, so these tremors, although frightening, are not an exceptional event."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: el estrecho que hace temblar al mundo",
-   "entradilla": "Irán mantiene cerrado el estrecho hasta que EE. UU. levante el bloqueo; Trump habla de ganar «por las malas», aunque la Casa Blanca no atacará antes del 3 de noviembre.",
+   "titular": "Ormuz: Irán mantiene cerrado el estrecho, los hutíes atacan Arabia Saudí y el petróleo sube a 112 dólares",
+   "entradilla": "El bloqueo naval de EE. UU. cumple cien días y Trump habla de ganar «por las malas», aunque la Casa Blanca no atacará antes del 3 de noviembre.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Desde el domingo 11 de octubre al menos diez barcos han sido atacados en el estrecho o cerca de él, y el sábado 17 dos petroleros se incendiaron al chocar con minas, según la Guardia Revolucionaria iraní. Irán dice que negocia con EE. UU. a través de Pakistán y Catar, pero que Ormuz seguirá cerrado hasta que Washington levante el bloqueo naval y las sanciones. El miércoles 21, [[Donald Trump|trump]] dijo que EE. UU. debe decidir si gana «por las buenas o por las malas», y el secretario de Estado, Marco Rubio, acusó a Irán de usar «tácticas de U-boat nazi». La Casa Blanca asegura que no atacará antes de las elecciones legislativas estadounidenses del 3 de noviembre."
+    "Desde el 11 de octubre al menos diez barcos han sido atacados en el estrecho o cerca. Irán dice que negocia con EE. UU. vía Pakistán y Catar, pero que Ormuz seguirá cerrado mientras dure el bloqueo, que según el Mando Central de EE. UU. ha frenado exportaciones de crudo iraní por al menos 25.000 millones de dólares. El miércoles 21, Trump dijo que EE. UU. debe decidir si gana «por las buenas o por las malas», aunque la Casa Blanca no atacará antes del 3 de noviembre. El jueves 22, los [[hutíes|hutis]], grupo yemení apoyado por Irán, reivindicaron ataques con misiles y drones contra Arabia Saudí, con muertos, y el Brent llegó a 112,55 dólares, su máximo desde mayo."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -374,19 +375,23 @@
     "Infobae (agencias)",
     "Total News Agency",
     "El Destape",
-    "Resumen Latinoamericano"
+    "Resumen Latinoamericano",
+    "CENTCOM",
+    "ABC Color",
+    "Proceso",
+    "NX Noticias"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-22",
-   "nota_actualizacion": "El 21 de octubre Trump dijo que EE. UU. debe ganar «por las buenas o por las malas»; Irán mantiene cerrado Ormuz y la Casa Blanca descarta atacar antes del 3 de noviembre.",
+   "actualizada": "2026-10-23",
+   "nota_actualizacion": "El 22 de octubre los hutíes de Yemen reivindicaron ataques contra Arabia Saudí y el Brent llegó a 112,55 dólares, su máximo desde mayo; el bloqueo de EE. UU. a Irán cumple cien días.",
    "en": {
-    "titular": "Hormuz: the strait that makes the world tremble",
-    "entradilla": "Iran keeps the strait closed until the US lifts the blockade; Trump talks of winning 'the hard way', although the White House will not attack before 3 November.",
+    "titular": "Hormuz: Iran keeps the strait closed, the Houthis attack Saudi Arabia and oil rises to 112 dollars",
+    "entradilla": "The US naval blockade reaches a hundred days and Trump talks of winning 'the hard way', although the White House will not attack before 3 November.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Since Sunday 11 October at least ten ships have been attacked in or near the strait, and on Saturday 17 two tankers caught fire after hitting mines, according to Iran's Revolutionary Guard. Iran says it is negotiating with the US through Pakistan and Qatar, but that Hormuz will stay closed until Washington lifts the naval blockade and sanctions. On Wednesday 21, [[Donald Trump|trump]] said the US must decide whether to win 'the easy way or the hard way', and Secretary of State Marco Rubio accused Iran of using 'Nazi U-boat tactics'. The White House says it will not attack before the US midterm elections on 3 November."
+     "Since 11 October at least ten ships have been attacked in or near the strait. Iran says it is negotiating with the US through Pakistan and Qatar, but that Hormuz will stay closed as long as the blockade lasts; according to US Central Command, the blockade has stopped Iranian crude exports worth at least 25 billion dollars. On Wednesday 21, Donald Trump said the US must decide whether to win 'the easy way or the hard way', although the White House will not attack before 3 November. On Thursday 22, the [[Houthis|hutis]], an Iran-backed Yemeni group, claimed missile and drone attacks on Saudi Arabia, with deaths, and Brent reached 112.55 dollars, its highest since May."
     ],
-    "nota_actualizacion": "On 21 October Trump said the US must win 'the easy way or the hard way'; Iran keeps Hormuz closed and the White House rules out attacking before 3 November."
+    "nota_actualizacion": "On 22 October the Houthis of Yemen claimed attacks on Saudi Arabia and Brent reached 112.55 dollars, its highest since May; the US blockade of Iran reaches a hundred days."
    }
   },
   {
@@ -429,10 +434,10 @@
    "seccion": "int",
    "dibujo": "sunflower",
    "titular": "Ucrania: Putin acepta «en principio» reanudar las conversaciones a tres con EE. UU. y Kiev tras reunirse con Witkoff",
-   "entradilla": "La reunión de tres horas en San Petersburgo no trae un acuerdo de paz; las charlas podrían empezar después del 10 de noviembre.",
+   "entradilla": "La reunión de tres horas en San Petersburgo no trae un acuerdo de paz, y horas después Rusia ataca Ucrania con al menos siete muertos.",
    "parrafos": [
     "El miércoles 21, el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], se reunió unas tres horas con [[Vladímir Putin|putin]] en San Petersburgo y le presentó las ideas de paz que el día anterior había recibido de [[Zelenski|zelenski]] en Oslo. Según Yuri Ushakov, asesor de Putin, Rusia acepta «en principio» retomar las conversaciones a tres bandas con Ucrania y Estados Unidos, que podrían celebrarse después del 10 de noviembre, quizá en Abu Dabi. Zelenski dijo que Ucrania quiere hablar cuanto antes, no más tarde de principios de noviembre. Como gesto, Rusia liberó a un estadounidense que tenía preso.",
-    "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. El lunes 19, Rusia había atacado [[Kiev|kiev]] con misiles y más de 200 drones; murió una persona y hubo ocho heridos, según las autoridades ucranianas. [[Donald Trump|trump]] dijo el martes que Zelenski «tiene que llegar a un acuerdo», y su Gobierno ha suspendido buena parte de las [[sanciones|sanciones]] a Rusia, también las de la venta de diésel ruso. Zelenski ha dicho que cree que se intenta convencer a su país de que se rinda. La guerra empezó en febrero de 2022 y ha causado muchos miles de muertos."
+    "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. Horas después de la reunión, Rusia lanzó un nuevo ataque: murieron al menos siete personas (una en Sumy, una en Járkov, tres en Zaporiyia y dos en Donetsk) y hubo 15 heridos en [[Kiev|kiev]], según las autoridades ucranianas. Zelenski habló de 21 misiles balísticos y más de 200 drones y dijo que «no ha habido un cambio real» en la actitud de Rusia. [[Donald Trump|trump]] dijo el martes que Zelenski «tiene que llegar a un acuerdo», y su Gobierno ha suspendido buena parte de las [[sanciones|sanciones]] a Rusia. La guerra empezó en febrero de 2022 y ha causado muchos miles de muertos."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -455,16 +460,16 @@
     "El Deber (BBC)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-22",
-   "nota_actualizacion": "El 21 de octubre Witkoff se reunió con Putin en San Petersburgo: Rusia acepta «en principio» reanudar las conversaciones a tres bandas, que podrían celebrarse después del 10 de noviembre.",
+   "actualizada": "2026-10-23",
+   "nota_actualizacion": "Horas después de la reunión con Witkoff, Rusia atacó Ucrania con al menos siete muertos, según las autoridades ucranianas; Zelenski dice que la actitud rusa no ha cambiado.",
    "en": {
     "titular": "Ukraine: Putin accepts 'in principle' to resume three-way talks with the US and Kyiv after meeting Witkoff",
-    "entradilla": "The three-hour meeting in Saint Petersburg brings no peace deal; talks could start after 10 November.",
+    "entradilla": "The three-hour meeting in Saint Petersburg brings no peace deal, and hours later Russia attacks Ukraine, killing at least seven people.",
     "parrafos": [
      "On Wednesday 21, the White House envoy, [[Steve Witkoff|witkoff]], met [[Vladimir Putin|putin]] for about three hours in Saint Petersburg and presented the peace ideas he had received the day before from [[Zelensky|zelenski]] in Oslo. According to Yuri Ushakov, an aide to Putin, Russia accepts 'in principle' resuming three-way talks with Ukraine and the United States, which could be held after 10 November, perhaps in Abu Dhabi. Zelensky said Ukraine wants to talk as soon as possible, no later than early November. As a gesture, Russia freed an American it had been holding.",
-     "There is still no peace deal: what has been agreed is to sit down and talk again. On Monday 19, Russia had attacked [[Kyiv|kiev]] with missiles and more than 200 drones; one person was killed and eight were injured, according to Ukrainian authorities. [[Donald Trump|trump]] said on Tuesday that Zelensky 'has to reach a deal', and his administration has suspended a large part of the [[sanctions|sanciones]] on Russia, including those on sales of Russian diesel. Zelensky has said he believes efforts are being made to convince his country to surrender. The war began in February 2022 and has caused many thousands of deaths."
+     "There is still no peace deal: what has been agreed is to sit down and talk again. Hours after the meeting, Russia launched a new attack: at least seven people were killed (one in Sumy, one in Kharkiv, three in Zaporizhzhia and two in Donetsk) and 15 were injured in [[Kyiv|kiev]], according to Ukrainian authorities. Zelensky spoke of 21 ballistic missiles and more than 200 drones and said there had been 'no real change' in Russia's attitude. [[Donald Trump|trump]] said on Tuesday that Zelensky 'has to reach a deal', and his administration has suspended a large part of the [[sanctions|sanciones]] on Russia. The war began in February 2022 and has caused many thousands of deaths."
     ],
-    "nota_actualizacion": "On 21 October Witkoff met Putin in Saint Petersburg: Russia accepts 'in principle' to resume three-way talks, which could be held after 10 November."
+    "nota_actualizacion": "Hours after the meeting with Witkoff, Russia attacked Ukraine, killing at least seven people according to Ukrainian authorities; Zelensky says Russia's attitude has not changed."
    }
   },
   {
@@ -475,7 +480,7 @@
    "entradilla": "Tras su primer debate televisado, las encuestas siguen sin señalar un ganador claro.",
    "parrafos": [
     "El domingo 4 de octubre votaron más de 150 millones de brasileños y el resultado fue una sorpresa: [[Flávio Bolsonaro|flavio]], hijo del expresidente Jair Bolsonaro (condenado en 2025 por intentar un golpe de Estado), quedó primero, por delante del presidente [[Lula|lula]]. Las [[encuestas|encuesta]] daban ventaja a Lula, y él mismo reconoció que el resultado era inesperado. Según los medios, la diferencia entre los dos es de pocos puntos, y ninguno alcanzó el 50 % de los votos válidos necesario para ganar a la primera.",
-    "Por eso Flávio Bolsonaro y Lula se enfrentan en una [[segunda vuelta|segundavuelta]] el domingo 25 de octubre. El domingo 18 celebraron en São Paulo, en la cadena Band, su primer debate televisado cara a cara, con muchos cruces y recriminaciones y pocas propuestas; el primer tema fue la seguridad pública. Las encuestas siguen apuntando a un empate técnico: Datafolha da un 51 % a Flávio frente al 49 % de Lula, Quaest un 46 % frente al 44 % y PoderData/Aya los deja al 50 % cada uno. Después del debate, BTG/Nexus sitúa a Flávio en el 50,3 % y a Lula en el 49,7 %. Nadie tiene la victoria asegurada."
+    "Por eso Flávio Bolsonaro y Lula se enfrentan en una [[segunda vuelta|segundavuelta]] el domingo 25 de octubre. El domingo 18 celebraron en São Paulo su primer debate televisado cara a cara, con muchos cruces y recriminaciones y pocas propuestas; el primer tema fue la seguridad pública. Las encuestas de esta semana siguen apuntando a un empate técnico: Datafolha da un 47 % a Flávio frente al 45 % de Lula, Quaest un 45 % frente al 44 % (hace una semana la ventaja era de dos puntos) y PoderData/AYA un 51 % frente al 49 % de los votos válidos. Nadie tiene la victoria asegurada."
    ],
    "busqueda_imagenes": "elecciones Brasil 2026",
    "fuentes": [
@@ -489,19 +494,20 @@
     "Euronews",
     "Cooperativa",
     "BioBioChile",
-    "La Tercera"
+    "La Tercera",
+    "Prensa Latina"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-20",
-   "nota_actualizacion": "Tras el debate del 18 de octubre, las encuestas siguen en empate técnico: BTG/Nexus da a Flávio un 50,3 % y a Lula un 49,7 %.",
+   "actualizada": "2026-10-23",
+   "nota_actualizacion": "Las encuestas de esta semana siguen en empate técnico: Datafolha da un 47 % a Flávio y un 45 % a Lula, y Quaest, un 45 % frente a un 44 %.",
    "en": {
     "titular": "Brazil: Flávio Bolsonaro and Lula in a statistical tie days before the second round",
     "entradilla": "After their first televised debate, polls still point to no clear winner.",
     "parrafos": [
      "On Sunday 4 October more than 150 million Brazilians voted, and the result was a surprise: [[Flávio Bolsonaro|flavio]], son of former president Jair Bolsonaro (convicted in 2025 of attempting a coup), came first, ahead of President [[Lula|lula]]. The [[polls|encuesta]] had given Lula the lead, and he himself admitted the result was unexpected. According to the media, the gap between the two is only a few points, and neither reached the 50% of valid votes needed to win outright.",
-     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on Sunday 25 October. On Sunday 18 they held their first face-to-face televised debate, in São Paulo on the Band channel, with plenty of clashes and recriminations and few proposals; the first topic was public security. Polls still point to a statistical tie: Datafolha gives Flávio 51% against Lula's 49%, Quaest 46% against 44%, and PoderData/Aya has them level at 50% each. After the debate, BTG/Nexus puts Flávio at 50.3% and Lula at 49.7%. Nobody has victory assured."
+     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on Sunday 25 October. On Sunday 18 they held their first face-to-face televised debate, in São Paulo, with plenty of clashes and recriminations and few proposals; the first topic was public security. This week's polls still point to a statistical tie: Datafolha gives Flávio 47% against Lula's 45%, Quaest 45% against 44% (a week ago the lead was two points) and PoderData/AYA 51% against 49% of valid votes. Nobody has victory assured."
     ],
-    "nota_actualizacion": "After the 18 October debate, polls remain in a statistical tie: BTG/Nexus gives Flávio 50.3% and Lula 49.7%."
+    "nota_actualizacion": "This week's polls remain in a statistical tie: Datafolha gives Flávio 47% and Lula 45%, and Quaest 45% against 44%."
    }
   },
   {
@@ -634,6 +640,37 @@
      "With this result, Martín retakes the championship lead with 355 points, two more than Márquez. Bezzecchi is third with 309 and five rounds remain. Márquez won the title in 2025 and Martín in 2024, so this year's fight pits two Spanish world champions on different makes against each other. In each long race the winner takes 25 points, so a two-point lead can be lost or won in a single Sunday."
     ],
     "nota_actualizacion": "Bezzecchi won in Indonesia and Martín retook the lead by two points over Márquez, who finished sixth."
+   }
+  },
+  {
+   "id": "europa-league-real-sociedad-golea-celta-remonta-en-glasgow",
+   "seccion": "dep",
+   "dibujo": "trophy",
+   "titular": "La Real Sociedad golea 0-6 al Lillestrøm y el Celta remonta 1-2 en Glasgow, en la Europa League",
+   "entradilla": "Los dos equipos españoles ganaron fuera de casa en la tercera jornada y lograron su primera victoria en esta fase.",
+   "parrafos": [
+    "La Real Sociedad ganó el jueves 22 de octubre por 0-6 en el campo del Lillestrøm, en Noruega, en la tercera jornada de la [[Europa League|europaleague]]. Marcaron Sergio Gómez (en los minutos 25 y 27), Luka Sučić (en el 33 y el 72), Orri Steinn Óskarsson y Arsen Zakharyan. Fue la mayor goleada de una jornada de 18 partidos y la primera victoria del conjunto donostiarra en esta fase de la competición, que reúne a clubes de toda Europa.",
+    "El Celta, por su parte, remontó en Glasgow y ganó 1-2 al Celtic con dos goles de Javi Rodríguez, en los minutos 68 y 71, después de ir perdiendo; su portero, Radu, fue clave para defender el resultado. La Europa League es la segunda competición europea de clubes, por detrás de la [[Champions League|champions]], y usa el mismo sistema de [[fase de liga|fasedeliga]]: una sola clasificación y ocho partidos contra rivales distintos."
+   ],
+   "busqueda_imagenes": "Real Sociedad Lillestrøm Celta Celtic Europa League",
+   "fuentes": [
+    "UEFA",
+    "Infobae (EFE)",
+    "The Objective",
+    "Libertad Digital",
+    "UNANIMO Deportes"
+   ],
+   "publicada": "2026-10-23",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Real Sociedad thrash Lillestrøm 6-0 away and Celta come from behind to win 2-1 in Glasgow, in the Europa League",
+    "entradilla": "Both Spanish teams won away from home in the third round and picked up their first win in this phase.",
+    "parrafos": [
+     "Real Sociedad won 6-0 away at Lillestrøm, in Norway, on Thursday 22 October, in the third round of the [[Europa League|europaleague]]. The scorers were Sergio Gómez (in the 25th and 27th minutes), Luka Sučić (in the 33rd and 72nd), Orri Steinn Óskarsson and Arsen Zakharyan. It was the biggest winning margin of a round of 18 matches and the San Sebastián side's first win in this phase of the competition, which brings together clubs from all over Europe.",
+     "Celta, for their part, came from behind in Glasgow to win 2-1 at Celtic with two goals from Javi Rodríguez, in the 68th and 71st minutes; their goalkeeper, Radu, was key in protecting the result for the visitors. The Europa League is the second European club competition, behind the [[Champions League|champions]], and uses the same [[league phase|fasedeliga]] system: a single table for all the teams and eight matches for each of them against different opponents."
+    ],
+    "nota_actualizacion": null
    }
   },
   {
@@ -892,30 +929,33 @@
    "id": "ley-redes-sociales-menores-16-congreso",
    "seccion": "tec",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-i\" x=\"42\" y=\"6\" width=\"36\" height=\"78\" rx=\"6\"/><rect class=\"d-w\" x=\"46\" y=\"14\" width=\"28\" height=\"60\" rx=\"2\"/><rect class=\"d-b\" x=\"49\" y=\"20\" width=\"22\" height=\"8\" rx=\"2\"/><rect class=\"d-b\" x=\"49\" y=\"32\" width=\"22\" height=\"8\" rx=\"2\"/><rect class=\"d-b\" x=\"49\" y=\"44\" width=\"22\" height=\"8\" rx=\"2\"/><circle class=\"d-a\" cx=\"92\" cy=\"28\" r=\"12\"/><text class=\"d-w\" x=\"86\" y=\"33\" font-size=\"14\" font-family=\"sans-serif\" font-weight=\"bold\">16</text><path class=\"d-l\" d=\"M84 20 L100 36\"/></svg>",
-   "titular": "Redes sociales desde los 16: la ley sigue su camino en el Congreso",
-   "entradilla": "Mientras tanto, Europa prepara su propia norma, con otras edades.",
+   "titular": "La ley española de redes sociales desde los 16 años decae con la disolución de las Cortes, y Europa sigue con su propuesta",
+   "entradilla": "Al disolverse el Parlamento para las elecciones del 29 de noviembre, el proyecto no llegó a votarse y habrá que presentarlo de nuevo en la próxima legislatura.",
    "parrafos": [
-    "El [[Congreso de los Diputados|congreso]] ha retomado esta semana el trabajo sobre la ley para proteger a los menores en internet. La [[ponencia|ponencia]], un grupo pequeño de diputados que repasa el texto antes de votarlo, se reunió el martes 29 de septiembre y continuará en las próximas semanas, sin fecha para terminar. Según los cambios pactados por PSOE y Sumar, los partidos del Gobierno, los menores de 16 años no podrían entrar en redes sociales que incluyan contenidos dañinos. Además, las plataformas tendrían que demostrar ante la [[CNMC|cnmc]] que no usan diseños pensados para enganchar, que protegen la intimidad y que frenan los contactos no deseados.",
-    "Los cambios también convierten en delito manipular los [[algoritmos|algoritmo]], las reglas con las que una red decide qué te enseña, para que se difunda contenido dañino. Quienes apoyan la ley creen que las plataformas llevan años sin proteger bien a los niños; queda una gran pregunta: cómo comprobar la edad de cada usuario sin pedir demasiados datos a todo el mundo. Por su parte, la Comisión Europea presentó el 17 de septiembre la propuesta EU KIDS Act para toda la [[Unión Europea|ue]]: ninguna cuenta antes de los 13 años, «minicuentas» vigiladas por los padres y con un máximo de una hora al día entre los 13 y los 15, y cuentas propias desde los 15. Aún debe negociarse."
+    "El proyecto de ley para proteger a los menores en internet, con el que el Gobierno quería impedir que los menores de 16 años entraran en redes sociales con contenidos dañinos, ha decaído. Seguía en tramitación en la comisión de Justicia del [[Congreso de los Diputados|congreso]] cuando se disolvieron las [[Cortes Generales|cortes]] para convocar las elecciones del 29 de noviembre. Nadie lo rechazó: simplemente se acabó el tiempo, y en la próxima legislatura habrá que presentarlo otra vez. Según los cambios pactados por PSOE y Sumar, también convertía en delito manipular los [[algoritmos|algoritmo]], las reglas con las que una red decide qué te enseña, para difundir contenido dañino.",
+    "Mientras tanto, la Comisión Europea presentó el 17 de septiembre la propuesta EU KIDS Act para toda la [[Unión Europea|ue]]: ninguna cuenta en redes sociales antes de los 13 años, «minicuentas» vinculadas a las de los padres entre los 13 y los 15, y cuentas propias desde los 15. Todavía no está en vigor: el Parlamento Europeo y los Estados miembros deben negociarla, y la Comisión recibe opiniones de familias, docentes, menores y empresas hasta el 3 de diciembre. Queda una gran pregunta sin resolver: cómo comprobar la edad de cada usuario sin pedir demasiados datos personales a todo el mundo."
    ],
    "busqueda_imagenes": "ley menores entornos digitales redes sociales 16 años Congreso",
    "fuentes": [
     "The Objective",
     "Atlántico",
     "Comisión Europea (Representación en España)",
-    "Moncloa.com"
+    "Moncloa.com",
+    "Qué!",
+    "RTVC",
+    "España Digital (Gobierno)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-23",
+   "nota_actualizacion": "La ley española decayó al disolverse las Cortes por las elecciones del 29 de noviembre; la propuesta europea EU KIDS Act sigue en negociación.",
    "en": {
-    "titular": "Social media from 16: the law moves ahead in Congress",
-    "entradilla": "Meanwhile, Europe is preparing its own rules, with different ages.",
+    "titular": "Spain's law on social media from age 16 lapses with the dissolution of Parliament, while Europe presses on with its proposal",
+    "entradilla": "With Parliament dissolved for the 29 November election, the bill never came to a vote and will have to be presented again in the next legislature.",
     "parrafos": [
-     "This week the [[Congress of Deputies|congreso]] went back to work on the law to protect children and teenagers online. The [[drafting committee|ponencia]], a small group of MPs who go through the text before it is voted on, met on Tuesday 29 September and will carry on over the coming weeks, with no end date. Under the changes agreed by PSOE and Sumar, the parties in government, under-16s would not be allowed into social networks that include harmful content. On top of that, platforms would have to prove to the [[CNMC|cnmc]] that they don't use designs meant to get people hooked, that they protect privacy and that they stop unwanted contact.",
-     "The changes also make it a crime to manipulate [[algorithms|algoritmo]] – the rules a network uses to decide what to show you – so that harmful content spreads. Supporters of the law believe platforms have spent years failing to protect children properly; one big question remains: how to check each user's age without asking everyone for too much personal information. Separately, on 17 September the European Commission presented the EU KIDS Act proposal for the whole [[European Union|ue]]: no accounts before 13, parent-supervised 'mini-accounts' limited to one hour a day between 13 and 15, and independent accounts from 15. It still has to be negotiated."
+     "The bill to protect children and teenagers online, with which the Government wanted to stop under-16s from entering social networks with harmful content, has lapsed. It was still being processed in the Justice committee of the [[Congress of Deputies|congreso]] when the [[Cortes Generales|cortes]] were dissolved to call the 29 November election. Nobody rejected it: time simply ran out, and in the next legislature it will have to be presented again. Under the changes agreed by PSOE and Sumar, it would also have made it a crime to manipulate [[algorithms|algoritmo]] – the rules a network uses to decide what to show you – in order to spread harmful content.",
+     "Meanwhile, on 17 September the European Commission presented the EU KIDS Act proposal for the whole [[European Union|ue]]: no social media account before 13, parent-linked 'mini-accounts' between 13 and 15, and independent accounts from 15. It is not yet in force: the European Parliament and the member states must negotiate it, and the Commission is collecting views from families, teachers, minors and companies until 3 December. One big question remains unresolved: how to check each user's age without asking everyone for too much personal data."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The Spanish bill lapsed when Parliament was dissolved for the 29 November election; the European EU KIDS Act proposal is still under negotiation."
    }
   },
   {
@@ -1043,38 +1083,6 @@
    }
   },
   {
-   "id": "fmi-eleva-prevision-crecimiento-espana-2026",
-   "seccion": "eco",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-b\" x=\"16\" y=\"56\" width=\"18\" height=\"24\"/><rect class=\"d-a\" x=\"42\" y=\"42\" width=\"18\" height=\"38\"/><rect class=\"d-g\" x=\"68\" y=\"26\" width=\"18\" height=\"54\"/><path class=\"d-l\" d=\"M10 82 H110\"/><path class=\"d-l\" d=\"M18 44 L50 30 L80 14\"/><path class=\"d-l\" d=\"M70 12 L82 12 L80 24\"/></svg>",
-   "titular": "El FMI eleva al 2,5 % el crecimiento de España en 2026, pero avisa de una inflación del 3,7 %",
-   "entradilla": "El organismo prevé que España siga liderando el crecimiento entre las grandes economías europeas, con un paro que se mantendría en el 9,8 %.",
-   "parrafos": [
-    "El Fondo Monetario Internacional ([[FMI|fmi]]), el organismo que vigila la salud de la economía mundial, publicó el martes 13 de octubre sus nuevas previsiones. Calcula que el [[PIB|pib]] de España, es decir, todo lo que produce el país en un año, crecerá un 2,5 % en 2026, cuatro décimas más que en su cálculo anterior, y un 1,8 % en 2027. Es más del doble de lo que prevé para la zona euro este año (1,1 %) y más que Estados Unidos (2,3 %). Según el FMI, España sigue siendo la gran economía europea más dinámica.",
-    "Hay también cifras menos buenas. El FMI prevé que los precios suban de media un 3,7 % en España este año y un 2,7 % el próximo, una [[inflación|inflacion]] alta en un momento en que la guerra con Irán ha encarecido la energía. Y calcula que el paro seguirá en el 9,8 % en 2026 y en 2027, una cifra todavía elevada. Para una familia, que la economía crezca suele significar más empleo y más ingresos para el Estado, pero si los precios suben más deprisa que los sueldos se compra menos con el mismo dinero. Además, son solo previsiones: pueden cambiar si cambia la guerra o el precio del petróleo."
-   ],
-   "busqueda_imagenes": "FMI previsión crecimiento España octubre 2026",
-   "fuentes": [
-    "Infobae (Europa Press)",
-    "The Objective",
-    "Moncloa.com",
-    "idealista/news",
-    "Deia",
-    "El Correo Gallego"
-   ],
-   "publicada": "2026-10-14",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "The IMF raises Spain's 2026 growth forecast to 2.5%, but warns of 3.7% inflation",
-    "entradilla": "The organisation expects Spain to keep leading growth among Europe's big economies, with unemployment staying at 9.8%.",
-    "parrafos": [
-     "The International Monetary Fund ([[IMF|fmi]]), the organisation that monitors the health of the world economy, published its new forecasts on Tuesday 13 October. It calculates that Spain's [[GDP|pib]], that is, everything the country produces in a year, will grow by 2.5% in 2026, four tenths more than in its previous estimate, and by 1.8% in 2027. That is more than double what it expects for the euro area this year (1.1%) and more than the United States (2.3%). According to the IMF, Spain remains Europe's most dynamic big economy.",
-     "There are also less positive figures. The IMF expects prices to rise by an average of 3.7% in Spain this year and 2.7% next year, a high level of [[inflation|inflacion]] at a time when the war with Iran has made energy more expensive. And it estimates that unemployment will stay at 9.8% in 2026 and 2027, a figure that is still high. For a family, a growing economy usually means more jobs and more income for the State, but if prices rise faster than wages, the same money buys less. Besides, these are only forecasts: they could change if the war or the price of oil changes."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
    "id": "vivienda-sube-142-septiembre-supera-maximo-burbuja-tinsa",
    "seccion": "eco",
    "dibujo": "house",
@@ -1108,10 +1116,10 @@
    "seccion": "es",
    "dibujo": "congress",
    "titular": "El Supremo aplica la amnistía por malversación a Junqueras, Romeva, Turull y Bassa tras la orden del Constitucional",
-   "entradilla": "El tribunal acata la doctrina del Constitucional, pero critica con dureza su actuación; queda por ver qué pasa con Puigdemont.",
+   "entradilla": "El tribunal acata la doctrina del Constitucional pero critica con dureza su actuación; un día antes, el juez Llarena había aplicado la amnistía a Puigdemont.",
    "parrafos": [
     "El martes 20 de octubre, la Sala de lo Penal del Tribunal Supremo aplicó la [[ley de amnistía|amnistia]] a la [[malversación|malversacion]] de Oriol Junqueras, Raül Romeva, Jordi Turull y Dolors Bassa, condenados en 2019 por el [[procés|proces]]. Con ello da por extinguida su responsabilidad penal y levanta las inhabilitaciones que tenían hasta 2031, así que podrán volver a presentarse a elecciones y ocupar cargos públicos. El Supremo actúa catorce días después de que el Tribunal Constitucional, que vigila que las leyes y las sentencias respeten la Constitución, le ordenara revisar su decisión de excluir ese delito de la amnistía.",
-    "Los magistrados del [[Tribunal Supremo|supremo]] acatan la orden, pero critican con dureza al Constitucional: hablan de «expansionismo» y de una «mutación» que, según ellos, deforma el diseño constitucional de 1978. Quienes defienden la amnistía sostienen que la ley cubre los hechos del procés salvo el enriquecimiento personal; sus críticos, que se perdona el uso de dinero público. Queda por ver cómo afecta a [[Carles Puigdemont|puigdemont]], cuyas órdenes de detención nacionales dejó sin efecto el juez Llarena el 6 de octubre. El asunto también afecta a [[Junts|junts]], su partido."
+    "Los magistrados del [[Tribunal Supremo|supremo]] acatan la orden, pero critican con dureza al Constitucional: hablan de «expansionismo» y de una «mutación» que, según ellos, deforma el diseño constitucional de 1978. Quienes defienden la amnistía sostienen que la ley cubre los hechos del procés salvo el enriquecimiento personal; sus críticos, que se perdona el uso de dinero público. El lunes 19, el juez Pablo Llarena consideró aplicable la amnistía a [[Carles Puigdemont|puigdemont]], Toni Comín y Lluís Puig, y confirmó que sigue sin efecto su orden de detención nacional, lo que acerca el final de su proceso. El asunto afecta también a [[Junts|junts]], el partido de Puigdemont."
    ],
    "busqueda_imagenes": "Tribunal Constitucional sede Madrid",
    "fuentes": [
@@ -1123,19 +1131,21 @@
     "Infobae",
     "elDiario.es",
     "The Objective",
-    "Poder Judicial"
+    "Poder Judicial",
+    "Infobae (Europa Press)",
+    "ABC Color"
    ],
    "publicada": "2026-10-08",
-   "actualizada": "2026-10-21",
-   "nota_actualizacion": "El 20 de octubre el Supremo aplicó la amnistía por malversación a Junqueras, Romeva, Turull y Bassa y levantó sus inhabilitaciones, con duras críticas al Constitucional.",
+   "actualizada": "2026-10-23",
+   "nota_actualizacion": "El 20 de octubre el Supremo aplicó la amnistía por malversación a Junqueras, Romeva, Turull y Bassa; un día antes, el juez Llarena la había aplicado a Puigdemont, Comín y Puig.",
    "en": {
     "titular": "The Supreme Court applies the amnesty for embezzlement to Junqueras, Romeva, Turull and Bassa after the Constitutional Court's order",
-    "entradilla": "The court complies with the Constitutional Court's doctrine but sharply criticises its conduct; what happens to Puigdemont remains to be seen.",
+    "entradilla": "The court complies with the Constitutional Court's doctrine but sharply criticises its conduct; a day earlier, Judge Llarena had applied the amnesty to Puigdemont.",
     "parrafos": [
      "On Tuesday 20 October, the Criminal Chamber of the Supreme Court applied the [[amnesty law|amnistia]] to the [[embezzlement|malversacion]] of Oriol Junqueras, Raül Romeva, Jordi Turull and Dolors Bassa, convicted in 2019 over the [[procés|proces]]. This extinguishes their criminal liability and lifts the bans from public office they had until 2031, so they will be able to stand for election again and hold public posts. The Supreme Court acts fourteen days after the Constitutional Court, which checks that laws and rulings respect the Constitution, ordered it to review its decision to exclude that crime from the amnesty.",
-     "The judges of the [[Supreme Court|supremo]] comply with the order but sharply criticise the Constitutional Court: they speak of 'expansionism' and of a 'mutation' that, in their view, distorts the constitutional design of 1978. Those who defend the amnesty argue that the law covers the events of the procés except personal enrichment; its critics, that the use of public money is being forgiven. It remains to be seen how this affects [[Carles Puigdemont|puigdemont]], whose national arrest warrants Judge Llarena withdrew on 6 October. The matter also concerns [[Junts|junts]], his party."
+     "The judges of the [[Supreme Court|supremo]] comply with the order but sharply criticise the Constitutional Court: they speak of 'expansionism' and of a 'mutation' that, in their view, distorts the constitutional design of 1978. Those who defend the amnesty argue that the law covers the events of the procés except personal enrichment; its critics, that the use of public money is being forgiven. On Monday 19, Judge Pablo Llarena found the amnesty applicable to [[Carles Puigdemont|puigdemont]], Toni Comín and Lluís Puig, and confirmed that his national arrest warrant remains void, which brings his case closer to its end. The matter also concerns [[Junts|junts]], Puigdemont's party."
     ],
-    "nota_actualizacion": "On 20 October the Supreme Court applied the amnesty for embezzlement to Junqueras, Romeva, Turull and Bassa and lifted their bans from office, with harsh criticism of the Constitutional Court."
+    "nota_actualizacion": "On 20 October the Supreme Court applied the embezzlement amnesty to Junqueras, Romeva, Turull and Bassa; the day before, Judge Llarena had applied it to Puigdemont, Comín and Puig."
    }
   },
   {
@@ -1177,37 +1187,6 @@
    }
   },
   {
-   "id": "verstappen-gana-en-singapur",
-   "seccion": "dep",
-   "dibujo": "trophy",
-   "titular": "Verstappen gana en Singapur y suma 73 victorias en la Fórmula 1",
-   "entradilla": "El piloto de Red Bull logró su primer triunfo en Marina Bay tras dominar todo el fin de semana.",
-   "parrafos": [
-    "El domingo 11 de octubre, [[Max Verstappen|verstappen]], de Red Bull, ganó el Gran Premio de Singapur de [[Fórmula 1|formula1]], en el circuito urbano de [[Marina Bay|marinabay]]. Cruzó la meta con 7,3 segundos de ventaja sobre Charles Leclerc (Ferrari), y el tercero fue Kimi Antonelli (Mercedes). Verstappen había ganado el sábado la [[carrera sprint|sprint]], la versión corta, y había salido primero en las dos carreras, así que dominó todo el fin de semana.",
-    "Fue su victoria número 73 en la Fórmula 1, la tercera cifra más alta de la historia, y su primera en Singapur, un circuito donde nunca había ganado. Solo Lewis Hamilton (más de cien) y Michael Schumacher (91) tienen más triunfos. Sergio Pérez, con el equipo Cadillac, acabó decimoséptimo. Singapur es un circuito de calles, de noche y entre rascacielos, con muros muy cerca de los coches, donde cuesta adelantar y cualquier error se paga caro."
-   ],
-   "busqueda_imagenes": "Verstappen Singapur 2026 Marina Bay",
-   "fuentes": [
-    "Motorsport.com",
-    "Grupo Milenio",
-    "beIN Sports",
-    "Mediotiempo",
-    "La Lista"
-   ],
-   "publicada": "2026-10-12",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "Verstappen wins in Singapore and reaches 73 Formula 1 victories",
-    "entradilla": "The Red Bull driver took his first win at Marina Bay after dominating the whole weekend.",
-    "parrafos": [
-     "On Sunday 11 October, [[Max Verstappen|verstappen]], of Red Bull, won the Singapore Grand Prix of [[Formula 1|formula1]], at the [[Marina Bay|marinabay]] street circuit. He crossed the line 7.3 seconds ahead of Charles Leclerc (Ferrari), and Kimi Antonelli (Mercedes) was third. Verstappen had won Saturday's [[sprint race|sprint]], the short version, and had started from first place in both races, so he dominated the whole weekend.",
-     "It was his 73rd Formula 1 win, the third-highest total in history, and his first in Singapore, a circuit where he had never won. Only Lewis Hamilton (more than a hundred) and Michael Schumacher (91) have more victories. Sergio Pérez, with the Cadillac team, finished seventeenth. Singapore is a street circuit, run at night among skyscrapers, with walls very close to the cars, where overtaking is hard and any mistake is costly."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
    "id": "barca-lider-madrid-gana-liga-clasico-25-octubre",
    "seccion": "dep",
    "dibujo": "wembley",
@@ -1215,7 +1194,7 @@
    "entradilla": "El Barcelona goleó 5-2 al Betis, el Madrid ganó 4-1 al Sevilla y los dos se ven las caras el domingo 25 en el Camp Nou.",
    "parrafos": [
     "La jornada 9 de [[LaLiga|laliga]] dejó dos goleadas de los grandes. El Barcelona ganó 5-2 al Betis el sábado 17 y suma nueve victorias en nueve partidos, con 27 puntos. El domingo 18, el Real Madrid venció 4-1 al Sevilla, con dos goles de [[Kylian Mbappé|mbappe]], uno de ellos de penalti, y otro de Güler. El Atlético de Madrid, que ganó al Espanyol en el minuto 89, es segundo con 22 puntos; el Madrid es tercero con 21, y el Betis, cuarto con 19. El Barcelona llega con 39 goles a favor y solo 9 en contra.",
-    "Ahora llega el primer [[Clásico|clasico]] de la temporada, el domingo 25 de octubre a las 21:00 en el Camp Nou, en la jornada 10. Si el Barcelona gana, aumentará su ventaja sobre el Madrid; si gana el Madrid, se quedará a tres puntos. Un Clásico es el partido entre los dos clubes más laureados de España y se sigue en todo el mundo. Aún quedan muchas jornadas, porque la Liga tiene 38, pero este partido puede marcar el ánimo de la temporada: el Barcelona quiere mantener su racha y el Madrid, que perdió hace poco ante el Atlético, busca demostrar que puede disputarle el título."
+    "Ahora llega el primer [[Clásico|clasico]] de la temporada, el domingo 25 de octubre a las 21:00 en el Camp Nou, en la jornada 10. Si el Barcelona gana, aumentará su ventaja sobre el Madrid; si gana el Madrid, se quedará a tres puntos. Ninguno llega completo: el Madrid no tendrá a Vinícius, sancionado con cuatro partidos por su expulsión ante el Villarreal, y el Barça no contará con Dani Olmo, lesionado ante el PSG, ni con Eric García. Un Clásico es el partido entre los dos clubes más laureados de España y se sigue en todo el mundo. Aún quedan muchas jornadas, pero este partido puede marcar el ánimo de la temporada."
    ],
    "busqueda_imagenes": "Barcelona Real Madrid Clásico 25 octubre Camp Nou",
    "fuentes": [
@@ -1223,17 +1202,50 @@
     "Meridiano",
     "El Independiente",
     "ABC Color",
-    "Tunota"
+    "Tunota",
+    "Telemundo",
+    "El Desmarque"
    ],
    "publicada": "2026-10-19",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-23",
+   "nota_actualizacion": "Antes del Clásico, el Madrid pierde a Vinícius (sancionado con cuatro partidos) y el Barça, a Dani Olmo y Eric García por lesión.",
    "en": {
     "titular": "Barça top La Liga with nine wins from nine and Madrid respond ahead of the Clásico",
     "entradilla": "Barcelona thrashed Betis 5-2, Madrid beat Sevilla 4-1 and the two meet on Sunday 25 at the Camp Nou.",
     "parrafos": [
      "Matchday 9 of [[LaLiga|laliga]] brought two big wins for the giants. Barcelona beat Betis 5-2 on Saturday 17 and have won nine out of nine, with 27 points. On Sunday 18, Real Madrid beat Sevilla 4-1, with two goals from [[Kylian Mbappé|mbappe]], one of them a penalty, and another from Güler. Atlético de Madrid, who beat Espanyol in the 89th minute, are second with 22 points; Madrid are third with 21, and Betis fourth with 19. Barcelona arrive with 39 goals scored and only 9 conceded.",
-     "Now comes the season's first [[Clásico|clasico]], on Sunday 25 October at 21:00 at the Camp Nou, in matchday 10. If Barcelona win, they will extend their lead over Madrid; if Madrid win, they will be three points behind. A Clásico is the match between the two most successful clubs in Spain and is followed all over the world. There are still many rounds to go, since La Liga has 38, but this match could set the mood for the season: Barcelona want to keep their run going and Madrid, who recently lost to Atlético, want to show they can challenge for the title."
+     "Now comes the first [[Clásico|clasico]] of the season, on Sunday 25 October at 21:00 at the Camp Nou, in round 10. If Barcelona win, they will extend their lead over Madrid; if Madrid win, they will be three points behind. Neither side arrives at full strength: Madrid will be without Vinícius, banned for four matches after his red card against Villarreal, and Barça will be without Dani Olmo, injured against PSG, and Eric García. A Clásico is the match between the two most successful clubs in Spain and is followed all over the world. There are still many rounds to go, but this match could set the mood for the season."
+    ],
+    "nota_actualizacion": "Ahead of the Clásico, Madrid lose Vinícius (banned for four matches) and Barça lose Dani Olmo and Eric García through injury."
+   }
+  },
+  {
+   "id": "petroleo-112-dolares-hutis-arabia-saudi-ibex-cae",
+   "seccion": "eco",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-a\" x=\"22\" y=\"26\" width=\"40\" height=\"52\" rx=\"6\"/><path class=\"d-b\" d=\"M22 40 H62 M22 64 H62\"/><rect class=\"d-l\" x=\"22\" y=\"26\" width=\"40\" height=\"52\" rx=\"6\"/><path class=\"d-l\" d=\"M22 40 H62 M22 64 H62\"/><path class=\"d-y\" d=\"M88 70 V32 H80 L94 14 L108 32 H100 V70 Z\"/><path class=\"d-l\" d=\"M88 70 V32 H80 L94 14 L108 32 H100 V70 Z\"/></svg>",
+   "titular": "El petróleo sube a 112 dólares tras los ataques hutíes a Arabia Saudí y el Ibex 35 cae un 2,1 %",
+   "entradilla": "El Brent llegó a su nivel más alto desde mayo; para las familias, puede acabar encareciendo la gasolina y manteniendo alta la inflación.",
+   "parrafos": [
+    "El jueves 22 de octubre el barril de [[Brent|brent]] llegó a 112,55 dólares, su nivel más alto desde el 18 de mayo, después de que los hutíes de Yemen reivindicaran ataques con misiles y drones contra instalaciones de Arabia Saudí. Los mercados temen que se interrumpa el suministro de Oriente Medio, la región que más crudo exporta del mundo. Las bolsas europeas cayeron: el [[Ibex 35|ibex]] perdió un 2,12 % y cerró por debajo de los 19.000 puntos, con los bancos entre los más castigados, y la rentabilidad de la deuda francesa a diez años superó el 5 %.",
+    "Cuando el crudo se encarece, suelen subir después la gasolina, el gasóleo y el transporte, y eso alimenta la [[inflación|inflacion]], que en España fue del 4,9 % en septiembre. Esta semana la gasolina costaba de media 1,79 euros el litro, según el Boletín Petrolero de la UE, antes de esta subida del crudo. El [[Banco Central Europeo|bce]], que se reúne el 29 de octubre, vigila esa inflación cuando decide los [[tipos de interés|tiposinteres]], de los que dependen las hipotecas. Todo dependerá de si los ataques continúan: el precio del petróleo cambia cada día."
+   ],
+   "busqueda_imagenes": "precio petróleo Brent Ibex 35 22 octubre 2026",
+   "fuentes": [
+    "Proceso",
+    "Infobae",
+    "Tiempo de Inversión",
+    "Revista E&N",
+    "ABC Color"
+   ],
+   "publicada": "2026-10-23",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Oil rises to 112 dollars after Houthi attacks on Saudi Arabia and the Ibex 35 falls 2.1%",
+    "entradilla": "Brent reached its highest level since May; for families it could end up making petrol more expensive and keeping inflation high.",
+    "parrafos": [
+     "On Thursday 22 October a barrel of [[Brent|brent]] reached 112.55 dollars, its highest level since 18 May, after the Houthis of Yemen claimed missile and drone attacks on facilities in Saudi Arabia. Markets fear that supplies from the Middle East, the region that exports the most crude in the world, could be interrupted. European stock markets fell: the [[Ibex 35|ibex]] lost 2.12% and closed below 19,000 points, with banks among the hardest hit, and the yield on French ten-year debt rose above 5%.",
+     "When crude gets more expensive, petrol, diesel and transport usually rise afterwards, and that feeds [[inflation|inflacion]], which in Spain was 4.9% in September. This week petrol cost an average of 1.79 euros a litre, according to the EU Oil Bulletin, before this rise in crude. The [[European Central Bank|bce]], which meets on 29 October, watches that inflation when it decides [[interest rates|tiposinteres]], on which mortgages depend. Everything will depend on whether the attacks continue: the price of oil changes every day."
     ],
     "nota_actualizacion": null
    }
@@ -2314,10 +2326,10 @@
   "puigdemont": {
    "t": "persona",
    "n": "Carles Puigdemont",
-   "x": "Expresidente de Cataluña y líder de Junts. Vive fuera de España desde 2017 y tiene una orden de detención pendiente por el procés.",
+   "x": "Expresidente de Cataluña y líder de Junts. Se marchó de España en 2017 tras el procés; en octubre de 2026 el Supremo ha dejado sin efecto sus órdenes de detención nacionales al aplicarle la amnistía.",
    "en": {
     "n": "Carles Puigdemont",
-    "x": "Former president of Catalonia and leader of Junts. He has lived outside Spain since 2017 and has an arrest warrant pending over the procés."
+    "x": "Former president of Catalonia and leader of Junts. He left Spain in 2017 after the procés; in October 2026 the Supreme Court withdrew his national arrest warrants by applying the amnesty to him."
    }
   },
   "pillay": {
@@ -3039,11 +3051,83 @@
     "n": "AI agent",
     "x": "An artificial intelligence program that does not just answer questions but carries out tasks on its own, such as writing code or operating other applications."
    }
+  },
+  "tc": {
+   "t": "lugar",
+   "n": "Tribunal Constitucional",
+   "x": "Tribunal que vigila que las leyes y las sentencias respeten la Constitución. Está formado por 12 magistrados.",
+   "en": {
+    "n": "Constitutional Court",
+    "x": "The court that checks that laws and rulings respect the Constitution. It is made up of 12 judges."
+   }
+  },
+  "cortes": {
+   "t": "lugar",
+   "n": "Cortes Generales",
+   "x": "El Parlamento de España: el Congreso de los Diputados y el Senado juntos. Se disuelven antes de unas elecciones.",
+   "en": {
+    "n": "Cortes Generales",
+    "x": "Spain's Parliament: the Congress of Deputies and the Senate together. They are dissolved before an election."
+   }
+  },
+  "hutis": {
+   "t": "palabra",
+   "n": "Hutíes",
+   "x": "Grupo armado de Yemen, apoyado por Irán, que controla una parte de ese país y ataca con misiles y drones a sus rivales.",
+   "en": {
+    "n": "Houthis",
+    "x": "An armed group in Yemen, backed by Iran, that controls part of that country and attacks its rivals with missiles and drones."
+   }
+  },
+  "brent": {
+   "t": "palabra",
+   "n": "Brent",
+   "x": "Un tipo de petróleo del mar del Norte cuyo precio sirve de referencia en Europa. Se mide en dólares por barril.",
+   "en": {
+    "n": "Brent",
+    "x": "A type of North Sea oil whose price is the benchmark in Europe. It is measured in dollars per barrel."
+   }
+  },
+  "ibex": {
+   "t": "palabra",
+   "n": "Ibex 35",
+   "x": "El índice de la bolsa española: sigue el valor de las 35 mayores empresas que cotizan en ella.",
+   "en": {
+    "n": "Ibex 35",
+    "x": "The Spanish stock-market index: it tracks the value of the 35 biggest companies listed on it."
+   }
+  },
+  "presupuesto": {
+   "t": "palabra",
+   "n": "Presupuesto",
+   "x": "El plan de cuánto dinero va a ingresar y a gastar un gobierno en un año, y en qué.",
+   "en": {
+    "n": "Budget",
+    "x": "A government's plan for how much money it will take in and spend in a year, and on what."
+   }
+  },
+  "vox": {
+   "t": "palabra",
+   "n": "Vox",
+   "x": "Partido político de derecha con representación en el Congreso y en el Parlamento de Andalucía.",
+   "en": {
+    "n": "Vox",
+    "x": "A right-wing political party with seats in the Congress and in the Andalusian Parliament."
+   }
+  },
+  "europaleague": {
+   "t": "palabra",
+   "n": "Europa League",
+   "x": "La segunda competición europea de clubes de fútbol, por detrás de la Champions League.",
+   "en": {
+    "n": "Europa League",
+    "x": "The second European club football competition, after the Champions League."
+   }
   }
  },
- "edicion_en": "Thursday 22 October 2026",
+ "edicion_en": "Friday 23 October 2026",
  "destacada": {
-  "id": "ucrania-ataques-mientras-se-habla-de-paz",
-  "fecha": "2026-10-22"
+  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
+  "fecha": "2026-10-23"
  }
 }
