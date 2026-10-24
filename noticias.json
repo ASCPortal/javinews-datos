@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-23T07:00:00+02:00",
- "edicion": "Viernes 23 de octubre de 2026",
+ "actualizado": "2026-10-24T07:00:00+02:00",
+ "edicion": "Sábado 24 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -222,10 +222,10 @@
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Huelga indefinida del profesorado en Madrid: unas 20.000 personas marchan en el séptimo día, según la Delegación del Gobierno",
-   "entradilla": "Los sindicatos piden a la Consejería que negocie; la Comunidad y los sindicatos siguen sin coincidir en el seguimiento de la huelga.",
+   "titular": "Huelga indefinida del profesorado en Madrid: entra en su tercera semana sin negociación",
+   "entradilla": "La Consejería no negocia y los sindicatos mantienen la huelga; el jueves 22 marcharon unas 20.000 personas, según la Delegación del Gobierno.",
    "parrafos": [
-    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y no tiene fecha de fin. Afecta a unos 65.000 docentes. El seguimiento se cuenta de dos maneras: el miércoles 21, sexto día, la [[Consejería de Educación|consejeria]] habló de un 10,2 % y los sindicatos, de un 50 %. El jueves 22, séptimo día, unas 20.000 personas, según la Delegación del Gobierno, marcharon con camisetas verdes desde Atocha hasta la sede de la Consejería, en la calle de Alcalá. Los sindicatos, entre ellos CCOO, UGT, CGT y STEM, le piden que negocie. CSIF convoca además paros parciales los días 26 y 30.",
+    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre, afecta a unos 65.000 docentes y entra en su tercera semana sin mesa de negociación. La consejera de Educación, Mercedes Zarzalejo, sostiene que no se puede negociar lo que no se puede conseguir; los sindicatos (CCOO, UGT, CGT y STEM) le piden que negocie. El seguimiento se cuenta de dos maneras: el miércoles 21, sexto día, la [[Consejería de Educación|consejeria]] habló de un 10,2 % y los sindicatos, de un 50 %. El jueves 22, unas 20.000 personas, según la Delegación del Gobierno, marcharon desde Atocha hasta la sede de la Consejería. CSIF convoca además paros parciales los días 26 y 30.",
     "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden menos horas de clase, menos alumnos por aula, más personal y una subida de sueldo; CCOO asegura que la huelga se extenderá si la Consejería no negocia."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
@@ -243,19 +243,21 @@
     "Moncloa.com",
     "Última Hora",
     "Madridiario",
-    "Infobae (agencias)"
+    "Infobae (agencias)",
+    "Público",
+    "El Diario de la Educación"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-10-23",
-   "nota_actualizacion": "El jueves 22, séptimo día, unas 20.000 personas se manifestaron en Madrid, según la Delegación del Gobierno; los sindicatos piden a la Consejería que negocie.",
+   "actualizada": "2026-10-24",
+   "nota_actualizacion": "La huelga entra en su tercera semana sin mesa de negociación: la consejera Zarzalejo dice que no se puede negociar lo que no se puede conseguir.",
    "en": {
-    "titular": "Madrid teachers' indefinite strike: about 20,000 march on day seven, according to the Government Delegation",
-    "entradilla": "The unions ask the Department to negotiate; the regional government and the unions still disagree on how many are striking.",
+    "titular": "Madrid teachers' indefinite strike: it enters its third week with no negotiation",
+    "entradilla": "The Department is not negotiating and the unions are keeping up the strike; on Thursday 22 about 20,000 people marched, according to the Government Delegation.",
     "parrafos": [
-     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and has no end date. It affects about 65,000 teachers. Turnout is counted in two ways: on Wednesday 21, day six, the regional [[Education Department|consejeria]] spoke of 10.2% and the unions of 50%. On Thursday 22, day seven, about 20,000 people, according to the Government Delegation, marched in green T-shirts from Atocha to the Department's headquarters on Calle de Alcalá. The unions, including CCOO, UGT, CGT and STEM, ask it to negotiate. CSIF is also calling partial stoppages on 26 and 30 October.",
+     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October, affects about 65,000 teachers and enters its third week with no negotiating table. The regional education councillor, Mercedes Zarzalejo, maintains that it is not possible to negotiate what cannot be achieved; the unions (CCOO, UGT, CGT and STEM) ask her to negotiate. Turnout is counted in two ways: on Wednesday 21, day six, the regional [[Education Department|consejeria]] spoke of 10.2% and the unions of 50%. On Thursday 22, about 20,000 people, according to the Government Delegation, marched from Atocha to the Department's headquarters. CSIF is also calling partial stoppages on 26 and 30 October.",
      "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want fewer teaching hours, fewer pupils per class, more staff and a pay rise; CCOO says the strike will spread if the Department does not negotiate."
     ],
-    "nota_actualizacion": "On Thursday 22, day seven, about 20,000 people marched in Madrid, according to the Government Delegation; the unions ask the Department to negotiate."
+    "nota_actualizacion": "The strike enters its third week with no negotiating table: councillor Zarzalejo says it is not possible to negotiate what cannot be achieved."
    }
   },
   {
@@ -288,34 +290,35 @@
    }
   },
   {
-   "id": "moreno-defiende-fondos-europeos-bruselas-presupuesto-ue",
+   "id": "narcolancha-guardia-civil-huelva-moreno-basta-ya",
    "seccion": "and",
-   "dibujo": "eu",
-   "titular": "Moreno defiende en Bruselas los fondos europeos para las regiones y Sánchez rechaza el recorte del presupuesto de la UE",
-   "entradilla": "Los líderes llegaron divididos a la cumbre del 15 de octubre y ven difícil cerrar el presupuesto 2028-2034 este año.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-b\" d=\"M0 66 Q10 60 20 66 T40 66 T60 66 T80 66 T100 66 T120 66 V90 H0 Z\"/><path class=\"d-a\" d=\"M12 50 H98 L112 36 H78 L68 24 H44 L36 36 H24 Z\"/><rect class=\"d-w\" x=\"46\" y=\"28\" width=\"18\" height=\"8\"/><path class=\"d-p\" d=\"M12 50 H98 L94 58 H20 Z\"/><path class=\"d-l\" d=\"M12 50 H98 L112 36 H78 L68 24 H44 L36 36 H24 Z M12 50 L20 58 H94 L98 50\"/><path class=\"d-l\" d=\"M0 66 Q10 60 20 66 T40 66 T60 66 T80 66 T100 66 T120 66\"/></svg>",
+   "titular": "Una narcolancha embiste una patrullera de la Guardia Civil en Huelva y Moreno pide «más recursos» contra el narcotráfico",
+   "entradilla": "Varios agentes sufrieron contusiones leves y los cinco ocupantes de la lancha fueron detenidos; Moreno dice que esto se repite «día tras día».",
    "parrafos": [
-    "El lunes 12 de octubre, [[Juanma Moreno|moreno]] habló en el Parlamento Europeo, en Bruselas, durante la Semana Europea de las Regiones y las Ciudades. Se opuso a que los Gobiernos nacionales se queden con la gestión de los fondos del próximo [[presupuesto de la UE|presupuestoue]], el de 2028 a 2034, y defendió que las regiones y los ayuntamientos sigan decidiendo en qué se gasta. Según Moreno, cuando Europa pierde presencia sobre el terreno la gente deja de notar el proyecto europeo en su vida diaria, y la [[política de cohesión|cohesion]] ha beneficiado a toda Europa, no solo a las zonas más pobres.",
-    "El debate llegó a la cumbre de líderes del jueves 15 en Bruselas. La presidencia irlandesa del Consejo de la [[Unión Europea|ue]] había presentado el sábado 10 un borrador del presupuesto de 2028 a 2034 de 1,62 billones de euros, frente a los 1,76 billones de la Comisión: un 8 % menos. Según el Gobierno español, recorta más de un 20 % la política agraria común. Pedro Sánchez lo calificó de «no asumible ni aceptable». Los países «frugales», como Alemania, Países Bajos o Suecia, piden gastar menos; el grupo de los «amigos de la cohesión», con España, Italia, Portugal y Grecia, defiende la agricultura y la cohesión. Los líderes ven difícil un acuerdo este año."
+    "La tarde del jueves 22 de octubre, una [[narcolancha|narcolancha]] embistió una patrullera de la [[Guardia Civil|guardiacivil]] en aguas de Huelva. Según los medios, los agentes habían detectado un traspaso de combustible entre dos lanchas rápidas ligadas al narcotráfico; una de ellas huyó y chocó con la patrullera, que sufrió daños visibles. Varios guardias civiles resultaron con contusiones leves y siguieron la persecución hasta detener a los cinco ocupantes de la lancha. Una narcolancha es una embarcación muy rápida que usan las mafias para mover droga o combustible por el mar y los ríos.",
+    "El viernes 23, [[Juanma Moreno|moreno]], presidente de la [[Junta de Andalucía|junta]], escribió en la red social X que esto se repite día tras día en Andalucía, que las mafias de la droga se expanden por toda la costa y que cualquier intervención puede acabar otra vez en tragedia. Pidió «más recursos» y el apoyo total del Estado para las fuerzas de seguridad. La Guardia Civil depende del [[Ministerio del Interior|interior]], es decir, del Gobierno de España y no de la Junta, así que la petición se dirige al Estado, que es quien decide cuántos agentes y barcos hay."
    ],
-   "busqueda_imagenes": "Parlamento Europeo Bruselas Semana de las Regiones",
+   "busqueda_imagenes": "narcolancha Guardia Civil Huelva patrullera",
    "fuentes": [
+    "Última Hora",
     "Andalucía Información",
-    "Infobae (Europa Press)",
-    "Moncloa.com",
-    "Deia",
-    "El Plural"
+    "Huelva Red",
+    "Teleprensa",
+    "Democrata",
+    "El Mira"
    ],
-   "publicada": "2026-10-13",
-   "actualizada": "2026-10-16",
-   "nota_actualizacion": "En la cumbre del 15 de octubre Sánchez calificó el borrador de «no asumible ni aceptable» y los líderes ven difícil un acuerdo este año.",
+   "publicada": "2026-10-24",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Moreno defends European funds for the regions in Brussels and Sánchez rejects the EU budget cut",
-    "entradilla": "Leaders arrived at the 15 October summit divided and see it as hard to close the 2028-2034 budget this year.",
+    "titular": "A drug-running speedboat rams a Civil Guard patrol boat in Huelva and Moreno asks for 'more resources' against drug trafficking",
+    "entradilla": "Several officers suffered minor bruises and the five people aboard the speedboat were arrested; Moreno says this happens 'day after day'.",
     "parrafos": [
-     "On Monday 12 October, [[Juanma Moreno|moreno]] spoke in the European Parliament in Brussels, during the European Week of Regions and Cities. He opposed national governments keeping control of the funds in the next [[EU budget|presupuestoue]], the one for 2028 to 2034, and argued that regions and town councils should keep deciding what the money is spent on. According to Moreno, when Europe loses its presence on the ground people stop noticing the European project in their daily lives, and [[cohesion policy|cohesion]] has benefited the whole of Europe, not just the poorest areas.",
-     "The debate reached the leaders' summit on Thursday 15 in Brussels. Ireland, which holds the presidency of the Council of the [[European Union|ue]], had presented on Saturday 10 a draft budget for 2028 to 2034 of 1.62 trillion euros, compared with the Commission's 1.76 trillion: 8% less. According to the Spanish Government, it cuts the common agricultural policy by more than 20%. Pedro Sánchez called it 'neither acceptable nor workable'. The so-called 'frugal' countries, such as Germany, the Netherlands or Sweden, want to spend less; the group of 'friends of cohesion', with Spain, Italy, Portugal and Greece, defends agriculture and cohesion. The leaders see a deal this year as difficult."
+     "On the afternoon of Thursday 22 October, a [[narcolancha|narcolancha]] (a drug-running speedboat) rammed a patrol boat of the [[Civil Guard|guardiacivil]] in the waters off Huelva. According to the media, the officers had spotted fuel being transferred between two fast boats linked to drug trafficking; one of them fled and hit the patrol boat, which suffered visible damage. Several Civil Guard officers had minor bruises and carried on the chase until they arrested the five people aboard the speedboat. A narcolancha is a very fast boat that criminal gangs use to move drugs or fuel across the sea and rivers.",
+     "On Friday 23, [[Juanma Moreno|moreno]], president of the [[Junta de Andalucía|junta]], wrote on the social network X that this happens day after day in Andalusia, that the drug gangs are expanding along the whole coast and that any operation can end in tragedy again. He asked for 'more resources' and full State backing for the security forces. The Civil Guard answers to the [[Ministry of the Interior|interior]], that is, to the Spanish Government and not to the regional government, so the request is addressed to the State, which decides how many officers and boats there are."
     ],
-    "nota_actualizacion": "At the 15 October summit Sánchez called the draft 'neither acceptable nor workable' and the leaders see a deal this year as difficult."
+    "nota_actualizacion": null
    }
   },
   {
@@ -352,11 +355,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán mantiene cerrado el estrecho, los hutíes atacan Arabia Saudí y el petróleo sube a 112 dólares",
-   "entradilla": "El bloqueo naval de EE. UU. cumple cien días y Trump habla de ganar «por las malas», aunque la Casa Blanca no atacará antes del 3 de noviembre.",
+   "titular": "Ormuz: Irán afirma haber alcanzado siete petroleros, Trump lo llama invento y el crudo supera los 116 dólares",
+   "entradilla": "La Guardia Revolucionaria avisa de que el conflicto puede llegar a las bases de EE. UU.; no hay confirmación independiente y la Casa Blanca no atacará antes del 3 de noviembre.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Desde el 11 de octubre al menos diez barcos han sido atacados en el estrecho o cerca. Irán dice que negocia con EE. UU. vía Pakistán y Catar, pero que Ormuz seguirá cerrado mientras dure el bloqueo, que según el Mando Central de EE. UU. ha frenado exportaciones de crudo iraní por al menos 25.000 millones de dólares. El miércoles 21, Trump dijo que EE. UU. debe decidir si gana «por las buenas o por las malas», aunque la Casa Blanca no atacará antes del 3 de noviembre. El jueves 22, los [[hutíes|hutis]], grupo yemení apoyado por Irán, reivindicaron ataques con misiles y drones contra Arabia Saudí, con muertos, y el Brent llegó a 112,55 dólares, su máximo desde mayo."
+    "Desde el 11 de octubre al menos diez barcos han sido atacados en el estrecho o cerca. Según la Guardia Revolucionaria iraní, la noche del 21 al 22 cuatro petroleros se incendiaron y tres chocaron con minas; añadió que, si sigue la tensión, el conflicto llegará a las bases de EE. UU. en la zona. No hay confirmación independiente, y Trump dijo que Irán inventa ataques para subir el petróleo antes de las elecciones estadounidenses. El jueves 22, los [[hutíes|hutis]], grupo yemení apoyado por Irán, reivindicaron ataques contra Arabia Saudí, y el viernes el Brent superó los 116 dólares. La Casa Blanca no atacará antes del 3 de noviembre."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -379,19 +382,22 @@
     "CENTCOM",
     "ABC Color",
     "Proceso",
-    "NX Noticias"
+    "NX Noticias",
+    "Al Jazeera",
+    "Times Live",
+    "The Hill"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-23",
-   "nota_actualizacion": "El 22 de octubre los hutíes de Yemen reivindicaron ataques contra Arabia Saudí y el Brent llegó a 112,55 dólares, su máximo desde mayo; el bloqueo de EE. UU. a Irán cumple cien días.",
+   "actualizada": "2026-10-24",
+   "nota_actualizacion": "La Guardia Revolucionaria asegura que siete petroleros fueron alcanzados el 21-22 de octubre (sin confirmación independiente); Trump lo llama invento y el Brent superó los 116 dólares el viernes.",
    "en": {
-    "titular": "Hormuz: Iran keeps the strait closed, the Houthis attack Saudi Arabia and oil rises to 112 dollars",
-    "entradilla": "The US naval blockade reaches a hundred days and Trump talks of winning 'the hard way', although the White House will not attack before 3 November.",
+    "titular": "Hormuz: Iran says it hit seven tankers, Trump calls it made up, and crude passes 116 dollars",
+    "entradilla": "The Revolutionary Guard warns that the conflict may reach US bases; there is no independent confirmation and the White House will not attack before 3 November.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Since 11 October at least ten ships have been attacked in or near the strait. Iran says it is negotiating with the US through Pakistan and Qatar, but that Hormuz will stay closed as long as the blockade lasts; according to US Central Command, the blockade has stopped Iranian crude exports worth at least 25 billion dollars. On Wednesday 21, Donald Trump said the US must decide whether to win 'the easy way or the hard way', although the White House will not attack before 3 November. On Thursday 22, the [[Houthis|hutis]], an Iran-backed Yemeni group, claimed missile and drone attacks on Saudi Arabia, with deaths, and Brent reached 112.55 dollars, its highest since May."
+     "Since 11 October at least ten ships have been attacked in or near the strait. According to Iran's Revolutionary Guard, on the night of 21–22 October four tankers caught fire and three hit mines; it added that, if the tension continues, the conflict will reach US bases in the area. There is no independent confirmation, and Donald Trump said Iran is making up attacks to push up the oil price before the US elections. On Thursday 22, the [[Houthis|hutis]], an Iran-backed Yemeni group, claimed attacks on Saudi Arabia, and on Friday Brent passed 116 dollars. The White House will not attack before 3 November."
     ],
-    "nota_actualizacion": "On 22 October the Houthis of Yemen claimed attacks on Saudi Arabia and Brent reached 112.55 dollars, its highest since May; the US blockade of Iran reaches a hundred days."
+    "nota_actualizacion": "The Revolutionary Guard says seven tankers were hit on 21–22 October (no independent confirmation); Trump calls it made up and Brent passed 116 dollars on Friday."
    }
   },
   {
@@ -433,11 +439,11 @@
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Putin acepta «en principio» reanudar las conversaciones a tres con EE. UU. y Kiev tras reunirse con Witkoff",
-   "entradilla": "La reunión de tres horas en San Petersburgo no trae un acuerdo de paz, y horas después Rusia ataca Ucrania con al menos siete muertos.",
+   "titular": "Ucrania: Rusia y Kiev negociarán con EE. UU. en Abu Dabi en la primera quincena de noviembre",
+   "entradilla": "Putin quiere hablar de un acuerdo definitivo y no de una pausa corta; Zelenski rechaza entregar Sloviansk y Kramatorsk, y los ataques rusos continúan.",
    "parrafos": [
-    "El miércoles 21, el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], se reunió unas tres horas con [[Vladímir Putin|putin]] en San Petersburgo y le presentó las ideas de paz que el día anterior había recibido de [[Zelenski|zelenski]] en Oslo. Según Yuri Ushakov, asesor de Putin, Rusia acepta «en principio» retomar las conversaciones a tres bandas con Ucrania y Estados Unidos, que podrían celebrarse después del 10 de noviembre, quizá en Abu Dabi. Zelenski dijo que Ucrania quiere hablar cuanto antes, no más tarde de principios de noviembre. Como gesto, Rusia liberó a un estadounidense que tenía preso.",
-    "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. Horas después de la reunión, Rusia lanzó un nuevo ataque: murieron al menos siete personas (una en Sumy, una en Járkov, tres en Zaporiyia y dos en Donetsk) y hubo 15 heridos en [[Kiev|kiev]], según las autoridades ucranianas. Zelenski habló de 21 misiles balísticos y más de 200 drones y dijo que «no ha habido un cambio real» en la actitud de Rusia. [[Donald Trump|trump]] dijo el martes que Zelenski «tiene que llegar a un acuerdo», y su Gobierno ha suspendido buena parte de las [[sanciones|sanciones]] a Rusia. La guerra empezó en febrero de 2022 y ha causado muchos miles de muertos."
+    "El miércoles 21, el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], se reunió unas tres horas con [[Vladímir Putin|putin]] en San Petersburgo y le presentó las ideas de paz que había recibido de [[Zelenski|zelenski]] en Oslo. Después, el Kremlin anunció que las conversaciones a tres bandas entre Rusia, Ucrania y Estados Unidos serán en Abu Dabi en la primera quincena de noviembre, y Zelenski confirmó el viernes que sus negociadores asistirán. Putin dijo que Rusia quiere hablar de un arreglo definitivo y de la seguridad de ambos países, no de una pausa breve en los combates. Zelenski considera más realista parar la lucha en las líneas actuales.",
+    "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. Zelenski descartó entregar Sloviansk y Kramatorsk, los últimos bastiones ucranianos en la provincia de Donetsk, porque abriría a las tropas rusas el camino hacia Dnipro. Mientras tanto, Rusia siguió atacando: tras la reunión con Witkoff murieron al menos siete personas en varias regiones y hubo 15 heridos en [[Kiev|kiev]], según las autoridades ucranianas, que hablaron de 21 misiles balísticos y más de 200 drones. [[Donald Trump|trump]] dijo que Zelenski «tiene que llegar a un acuerdo», y su Gobierno ha suspendido buena parte de las [[sanciones|sanciones]] a Rusia."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -457,30 +463,31 @@
     "Al Jazeera",
     "CNN en Español",
     "Audacy",
-    "El Deber (BBC)"
+    "El Deber (BBC)",
+    "Euronews"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-23",
-   "nota_actualizacion": "Horas después de la reunión con Witkoff, Rusia atacó Ucrania con al menos siete muertos, según las autoridades ucranianas; Zelenski dice que la actitud rusa no ha cambiado.",
+   "actualizada": "2026-10-24",
+   "nota_actualizacion": "El Kremlin y Zelenski confirmaron que las conversaciones a tres serán en Abu Dabi en la primera quincena de noviembre; Zelenski rechaza entregar Sloviansk y Kramatorsk.",
    "en": {
-    "titular": "Ukraine: Putin accepts 'in principle' to resume three-way talks with the US and Kyiv after meeting Witkoff",
-    "entradilla": "The three-hour meeting in Saint Petersburg brings no peace deal, and hours later Russia attacks Ukraine, killing at least seven people.",
+    "titular": "Ukraine: Russia and Kyiv to hold talks with the US in Abu Dhabi in the first half of November",
+    "entradilla": "Putin wants to discuss a definitive deal, not a short pause; Zelensky refuses to give up Sloviansk and Kramatorsk, and Russian attacks continue.",
     "parrafos": [
-     "On Wednesday 21, the White House envoy, [[Steve Witkoff|witkoff]], met [[Vladimir Putin|putin]] for about three hours in Saint Petersburg and presented the peace ideas he had received the day before from [[Zelensky|zelenski]] in Oslo. According to Yuri Ushakov, an aide to Putin, Russia accepts 'in principle' resuming three-way talks with Ukraine and the United States, which could be held after 10 November, perhaps in Abu Dhabi. Zelensky said Ukraine wants to talk as soon as possible, no later than early November. As a gesture, Russia freed an American it had been holding.",
-     "There is still no peace deal: what has been agreed is to sit down and talk again. Hours after the meeting, Russia launched a new attack: at least seven people were killed (one in Sumy, one in Kharkiv, three in Zaporizhzhia and two in Donetsk) and 15 were injured in [[Kyiv|kiev]], according to Ukrainian authorities. Zelensky spoke of 21 ballistic missiles and more than 200 drones and said there had been 'no real change' in Russia's attitude. [[Donald Trump|trump]] said on Tuesday that Zelensky 'has to reach a deal', and his administration has suspended a large part of the [[sanctions|sanciones]] on Russia. The war began in February 2022 and has caused many thousands of deaths."
+     "On Wednesday 21, the White House envoy, [[Steve Witkoff|witkoff]], met [[Vladimir Putin|putin]] for about three hours in Saint Petersburg and presented the peace ideas he had received from [[Zelensky|zelenski]] in Oslo. Afterwards the Kremlin announced that the three-way talks between Russia, Ukraine and the United States will be held in Abu Dhabi in the first half of November, and Zelensky confirmed on Friday that his negotiators will attend. Putin said Russia wants to discuss a definitive settlement and the security of both countries, not a brief pause in the fighting. Zelensky thinks stopping the fighting along the current lines is more realistic.",
+     "There is still no peace deal: what has been agreed is to sit down and talk again. Zelensky ruled out handing over Sloviansk and Kramatorsk, Ukraine's last strongholds in the province of Donetsk, because it would open the way to Dnipro for Russian troops. Meanwhile Russia kept attacking: after the meeting with Witkoff at least seven people died in several regions and 15 were injured in [[Kyiv|kiev]], according to Ukrainian authorities, who spoke of 21 ballistic missiles and more than 200 drones. [[Donald Trump|trump]] said Zelensky 'has to reach a deal', and his administration has suspended a large part of the [[sanctions|sanciones]] on Russia."
     ],
-    "nota_actualizacion": "Hours after the meeting with Witkoff, Russia attacked Ukraine, killing at least seven people according to Ukrainian authorities; Zelensky says Russia's attitude has not changed."
+    "nota_actualizacion": "The Kremlin and Zelensky confirmed that the three-way talks will be held in Abu Dhabi in the first half of November; Zelensky refuses to give up Sloviansk and Kramatorsk."
    }
   },
   {
    "id": "brasil-elige-presidente-este-domingo",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Brasil: Flávio Bolsonaro y Lula, en empate técnico a pocos días de la segunda vuelta",
-   "entradilla": "Tras su primer debate televisado, las encuestas siguen sin señalar un ganador claro.",
+   "titular": "Brasil vota este domingo: Lula y Flávio Bolsonaro, empatados al 50 % en la última encuesta de Datafolha",
+   "entradilla": "Tras dos semanas de ventaja de Bolsonaro, el sondeo del 22 de octubre da un empate exacto entre los votos válidos.",
    "parrafos": [
     "El domingo 4 de octubre votaron más de 150 millones de brasileños y el resultado fue una sorpresa: [[Flávio Bolsonaro|flavio]], hijo del expresidente Jair Bolsonaro (condenado en 2025 por intentar un golpe de Estado), quedó primero, por delante del presidente [[Lula|lula]]. Las [[encuestas|encuesta]] daban ventaja a Lula, y él mismo reconoció que el resultado era inesperado. Según los medios, la diferencia entre los dos es de pocos puntos, y ninguno alcanzó el 50 % de los votos válidos necesario para ganar a la primera.",
-    "Por eso Flávio Bolsonaro y Lula se enfrentan en una [[segunda vuelta|segundavuelta]] el domingo 25 de octubre. El domingo 18 celebraron en São Paulo su primer debate televisado cara a cara, con muchos cruces y recriminaciones y pocas propuestas; el primer tema fue la seguridad pública. Las encuestas de esta semana siguen apuntando a un empate técnico: Datafolha da un 47 % a Flávio frente al 45 % de Lula, Quaest un 45 % frente al 44 % (hace una semana la ventaja era de dos puntos) y PoderData/AYA un 51 % frente al 49 % de los votos válidos. Nadie tiene la victoria asegurada."
+    "Flávio Bolsonaro y Lula se enfrentan en la [[segunda vuelta|segundavuelta]] este domingo 25 de octubre. La última [[encuesta|encuesta]] de Datafolha, hecha del 20 al 22, da un empate del 50 % entre los votos válidos, que no cuentan los blancos, los nulos ni los indecisos; es la primera vez que este instituto los iguala. Hace dos semanas daba un 48 % a Lula y un 52 % a Flávio. Otro sondeo, el de BTG/Nexus del día 19, daba un 50,3 % a Flávio y un 49,7 % a Lula, y Quaest, un 45 % frente a un 44 % sobre el total de votos. Nadie tiene la victoria asegurada."
    ],
    "busqueda_imagenes": "elecciones Brasil 2026",
    "fuentes": [
@@ -495,30 +502,34 @@
     "Cooperativa",
     "BioBioChile",
     "La Tercera",
-    "Prensa Latina"
+    "Prensa Latina",
+    "El Nacional (Paraguay)",
+    "La FM",
+    "El Expreso",
+    "Análisis Urbano"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-23",
-   "nota_actualizacion": "Las encuestas de esta semana siguen en empate técnico: Datafolha da un 47 % a Flávio y un 45 % a Lula, y Quaest, un 45 % frente a un 44 %.",
+   "actualizada": "2026-10-24",
+   "nota_actualizacion": "El último sondeo de Datafolha (20-22 de octubre) da por primera vez un empate del 50 %; la segunda vuelta es este domingo 25.",
    "en": {
-    "titular": "Brazil: Flávio Bolsonaro and Lula in a statistical tie days before the second round",
-    "entradilla": "After their first televised debate, polls still point to no clear winner.",
+    "titular": "Brazil votes on Sunday: Lula and Flávio Bolsonaro tied at 50% in Datafolha's latest poll",
+    "entradilla": "After two weeks with Bolsonaro ahead, the poll of 22 October shows an exact tie among valid votes.",
     "parrafos": [
      "On Sunday 4 October more than 150 million Brazilians voted, and the result was a surprise: [[Flávio Bolsonaro|flavio]], son of former president Jair Bolsonaro (convicted in 2025 of attempting a coup), came first, ahead of President [[Lula|lula]]. The [[polls|encuesta]] had given Lula the lead, and he himself admitted the result was unexpected. According to the media, the gap between the two is only a few points, and neither reached the 50% of valid votes needed to win outright.",
-     "That is why Flávio Bolsonaro and Lula will face each other in a [[second round|segundavuelta]] on Sunday 25 October. On Sunday 18 they held their first face-to-face televised debate, in São Paulo, with plenty of clashes and recriminations and few proposals; the first topic was public security. This week's polls still point to a statistical tie: Datafolha gives Flávio 47% against Lula's 45%, Quaest 45% against 44% (a week ago the lead was two points) and PoderData/AYA 51% against 49% of valid votes. Nobody has victory assured."
+     "Flávio Bolsonaro and Lula face each other in the [[second round|segundavuelta]] this Sunday 25 October. The latest Datafolha [[poll|encuesta]], carried out on 20–22 October, shows a 50% tie among valid votes, which leave out blank votes, spoiled ballots and the undecided; it is the first time this institute has put them level. Two weeks ago it gave Lula 48% and Flávio 52%. Another poll, BTG/Nexus on the 19th, gave Flávio 50.3% and Lula 49.7%, and Quaest 45% against 44% of all votes. Nobody has victory assured."
     ],
-    "nota_actualizacion": "This week's polls remain in a statistical tie: Datafolha gives Flávio 47% and Lula 45%, and Quaest 45% against 44%."
+    "nota_actualizacion": "Datafolha's latest poll (20–22 October) shows a 50% tie for the first time; the second round is this Sunday 25 October."
    }
   },
   {
    "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Israel vota el 27 de octubre con Netanyahu y Eisenkot casi empatados y sin mayoría clara",
+   "titular": "Israel vota el 27 de octubre con el bloque de Eisenkot por delante del de Netanyahu, pero sin mayoría clara",
    "entradilla": "Son las primeras elecciones desde el ataque de Hamás de 2023 y las encuestas no dan los 61 escaños necesarios a ningún bloque.",
    "parrafos": [
     "El martes 27 de octubre, Israel celebra elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Los israelíes eligen a los 120 diputados de la [[Knesset|knesset]], su Parlamento, y quien reúna 61 escaños podrá formar Gobierno. El primer ministro, [[Benjamín Netanyahu|netanyahu]], busca seguir en el poder tras años de desgaste político y críticas por la seguridad del 7 de octubre. Su principal rival es [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, cuyo partido, Yashar, encabeza las últimas [[encuestas|encuesta]].",
-    "Según la media de cuatro sondeos de los canales Kan, 12 y 13 y del diario Maariv que recoge el Jerusalem Post, Yashar obtendría unos 21 escaños y el Likud de Netanyahu, unos 19. Cada bloque, el del Gobierno y el de la oposición, rondaría los 51, y los partidos árabes, unos 14, de modo que ninguno se acerca a los 61. Por eso las negociaciones después del voto podrían ser largas, y los partidos árabes y las listas pequeñas podrían ser decisivos. Entre los temas de campaña están la guerra de Gaza, el servicio militar de los judíos ultraortodoxos y el voto árabe."
+    "Según el último sondeo del Canal 12, del 23 de octubre, el bloque de Eisenkot tendría 55 escaños y el de Netanyahu, 51; los partidos árabes sumarían unos 14, así que ninguno llega a los 61. Yashar obtendría 23 escaños y el Likud de Netanyahu, 19. Por eso las negociaciones después del voto podrían ser largas, y los partidos árabes y las listas pequeñas podrían ser decisivos. Entre los temas de campaña están la guerra de Gaza, el servicio militar de los judíos ultraortodoxos y el voto árabe."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -526,19 +537,21 @@
     "France 24",
     "Emol",
     "Infobae",
-    "Ámbito"
+    "Ámbito",
+    "Público",
+    "Infobae (EFE)"
    ],
    "publicada": "2026-10-20",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-24",
+   "nota_actualizacion": "El último sondeo del Canal 12 (23 de octubre) da 55 escaños al bloque de Eisenkot y 51 al de Netanyahu; ninguno llega a 61.",
    "en": {
-    "titular": "Israel votes on 27 October with Netanyahu and Eisenkot almost level and no clear majority",
+    "titular": "Israel votes on 27 October with Eisenkot's bloc ahead of Netanyahu's, but no clear majority",
     "entradilla": "It is the first election since the 2023 Hamas attack, and polls give neither bloc the 61 seats needed.",
     "parrafos": [
      "On Tuesday 27 October, Israel holds parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. Israelis elect the 120 members of the [[Knesset|knesset]], their Parliament, and whoever gathers 61 seats can form a government. The prime minister, [[Benjamin Netanyahu|netanyahu]], is trying to stay in power after years of political wear and tear and criticism over security on 7 October. His main rival is [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, whose party, Yashar, leads the latest [[polls|encuesta]].",
-     "According to the average of four polls by the channels Kan, 12 and 13 and the newspaper Maariv, reported by the Jerusalem Post, Yashar would win about 21 seats and Netanyahu's Likud about 19. Each bloc, the government's and the opposition's, would be around 51, and the Arab parties about 14, so neither comes close to 61. That is why negotiations after the vote could be long, and the Arab parties and small lists could prove decisive. Campaign themes include the war in Gaza, military service for ultra-Orthodox Jews and the Arab vote."
+     "According to the latest Channel 12 poll, from 23 October, Eisenkot's bloc would win 55 seats and Netanyahu's 51; the Arab parties would add about 14, so neither reaches 61. Yashar would win 23 seats and Netanyahu's Likud 19. That is why negotiations after the vote could be long, and the Arab parties and small lists could prove decisive. Campaign themes include the war in Gaza, military service for ultra-Orthodox Jews and the Arab vote."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The latest Channel 12 poll (23 October) gives 55 seats to Eisenkot's bloc and 51 to Netanyahu's; neither reaches 61."
    }
   },
   {
@@ -740,29 +753,31 @@
    "id": "premios-princesa-de-asturias-2026-semana",
    "seccion": "cul",
    "dibujo": "trophy",
-   "titular": "Messi, Patti Smith y Studio Ghibli, entre los premiados de los Princesa de Asturias 2026",
-   "entradilla": "Esta semana empiezan los actos y la ceremonia será el 23 de octubre en Oviedo.",
+   "titular": "Leonor abre por primera vez la ceremonia de los Princesa de Asturias, con Messi, Patti Smith y Studio Ghibli entre los premiados",
+   "entradilla": "La princesa abrió la ceremonia en Oviedo con un discurso dirigido a los jóvenes; este sábado se entrega el premio al Pueblo Ejemplar.",
    "parrafos": [
     "Los [[Premios Princesa de Asturias|princesa]] de 2026 ya tienen todos sus ganadores. Entre ellos están la cantante y escritora Patti Smith (Artes), [[Studio Ghibli|ghibli]], el estudio de animación japonés (Comunicación y Humanidades), el escritor británico Julian Barnes (Letras) y el futbolista [[Leo Messi|messi]] (Deportes). También reciben premio el historiador Timothy Garton Ash (Ciencias Sociales), los científicos David Klenerman, Shankar Balasubramanian y Pascal Mayer (Investigación Científica y Técnica), la astronauta Christina Koch (Concordia) y la [[Bóveda Global de Semillas de Svalbard|svalbard]] (Cooperación Internacional).",
-    "Del 14 al 24 de octubre habrá 65 actividades en distintas localidades asturianas para acercar al público la obra de los premiados. La ceremonia de entrega será el viernes 23 de octubre, a las 18:30, en el Teatro Campoamor de Oviedo, y el sábado 24 se entregará en Llanes el premio al Pueblo Ejemplar de Asturias. Que el mismo año reciban premio una artista del rock, un estudio de dibujos animados, un futbolista y un almacén de semillas muestra lo amplio que es el abanico de estos galardones."
+    "La ceremonia se celebró el viernes 23 de octubre en el Teatro Campoamor de Oviedo. Por primera vez fue la princesa [[Leonor|leonor]] quien abrió el acto con su discurso. Habló sobre todo a los jóvenes: reconoció sentir «una mezcla de vértigo e ilusión», defendió la esperanza frente al desencanto social y citó entre los problemas de su generación la falta de expectativas, los extremismos y las guerras. El sábado 24 se entrega en Llanes el premio al Pueblo Ejemplar de Asturias. Que el mismo año reciban premio una artista del rock, un estudio de dibujos animados y un futbolista muestra lo amplio que es el abanico de estos galardones."
    ],
    "busqueda_imagenes": "Premios Princesa de Asturias 2026 Oviedo",
    "fuentes": [
     "Fundación Princesa de Asturias",
     "Olympics.com",
-    "El Búscolu"
+    "El Búscolu",
+    "Moncloa.com",
+    "Herqles"
    ],
    "publicada": "2026-10-13",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-24",
+   "nota_actualizacion": "La ceremonia del 23 de octubre la abrió por primera vez la princesa Leonor, con un discurso dirigido a los jóvenes.",
    "en": {
-    "titular": "Messi, Patti Smith and Studio Ghibli among the 2026 Princess of Asturias Award winners",
-    "entradilla": "This week the events begin and the ceremony will be on 23 October in Oviedo.",
+    "titular": "Leonor opens the Princess of Asturias ceremony for the first time, with Messi, Patti Smith and Studio Ghibli among the winners",
+    "entradilla": "The princess opened the ceremony in Oviedo with a speech aimed at young people; on Saturday the Exemplary Town of Asturias award is presented.",
     "parrafos": [
      "The 2026 [[Princess of Asturias Awards|princesa]] now have all their winners. They include the singer and writer Patti Smith (Arts), [[Studio Ghibli|ghibli]], the Japanese animation studio (Communication and Humanities), the British writer Julian Barnes (Literature) and the footballer [[Lionel Messi|messi]] (Sports). Awards also go to the historian Timothy Garton Ash (Social Sciences), the scientists David Klenerman, Shankar Balasubramanian and Pascal Mayer (Technical and Scientific Research), the astronaut Christina Koch (Concord) and the [[Svalbard Global Seed Vault|svalbard]] (International Cooperation).",
-     "From 14 to 24 October there will be 65 activities in different towns in Asturias to bring the winners' work closer to the public. The award ceremony will be on Friday 23 October, at 18:30, at the Campoamor Theatre in Oviedo, and on Saturday 24 the Exemplary Town of Asturias award will be presented in Llanes. That in the same year an award goes to a rock artist, an animation studio, a footballer and a seed store shows how wide the range of these awards is."
+     "The ceremony took place on Friday 23 October at the Campoamor Theatre in Oviedo. For the first time it was Princess [[Leonor|leonor]] who opened the event with her speech. She spoke mainly to young people: she admitted feeling 'a mix of vertigo and excitement', defended hope in the face of social disenchantment and named among the problems of her generation the lack of prospects, extremism and wars. On Saturday 24 the Exemplary Town of Asturias award is presented in Llanes. That in the same year an award goes to a rock artist, an animation studio and a footballer shows how wide the range of these awards is."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "Princess Leonor opened the 23 October ceremony for the first time, with a speech aimed at young people."
    }
   },
   {
@@ -1223,10 +1238,10 @@
    "id": "petroleo-112-dolares-hutis-arabia-saudi-ibex-cae",
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-a\" x=\"22\" y=\"26\" width=\"40\" height=\"52\" rx=\"6\"/><path class=\"d-b\" d=\"M22 40 H62 M22 64 H62\"/><rect class=\"d-l\" x=\"22\" y=\"26\" width=\"40\" height=\"52\" rx=\"6\"/><path class=\"d-l\" d=\"M22 40 H62 M22 64 H62\"/><path class=\"d-y\" d=\"M88 70 V32 H80 L94 14 L108 32 H100 V70 Z\"/><path class=\"d-l\" d=\"M88 70 V32 H80 L94 14 L108 32 H100 V70 Z\"/></svg>",
-   "titular": "El petróleo sube a 112 dólares tras los ataques hutíes a Arabia Saudí y el Ibex 35 cae un 2,1 %",
-   "entradilla": "El Brent llegó a su nivel más alto desde mayo; para las familias, puede acabar encareciendo la gasolina y manteniendo alta la inflación.",
+   "titular": "El petróleo supera los 116 dólares y el Ibex 35 cierra la semana con una caída del 1,74 %",
+   "entradilla": "El Brent volvió a subir el viernes por los ataques en Oriente Medio; para las familias, puede encarecer la gasolina y mantener alta la inflación.",
    "parrafos": [
-    "El jueves 22 de octubre el barril de [[Brent|brent]] llegó a 112,55 dólares, su nivel más alto desde el 18 de mayo, después de que los hutíes de Yemen reivindicaran ataques con misiles y drones contra instalaciones de Arabia Saudí. Los mercados temen que se interrumpa el suministro de Oriente Medio, la región que más crudo exporta del mundo. Las bolsas europeas cayeron: el [[Ibex 35|ibex]] perdió un 2,12 % y cerró por debajo de los 19.000 puntos, con los bancos entre los más castigados, y la rentabilidad de la deuda francesa a diez años superó el 5 %.",
+    "El viernes 23 de octubre el barril de [[Brent|brent]] subió cerca de un 3 % y superó los 116 dólares, después de haber llegado el jueves a 112,55. Los mercados temen que se interrumpa el suministro de Oriente Medio, la región que más crudo exporta del mundo, por los ataques que los hutíes de Yemen reivindican contra Arabia Saudí y por los que sufren los barcos cerca del [[estrecho de Ormuz|ormuz]]. El [[Ibex 35|ibex]] subió un 0,4 % el viernes, hasta los 18.989,8 puntos, pero cerró la semana con una caída del 1,74 %, tras perder un 2,12 % el jueves. Entre las empresas que más subieron estuvo la petrolera Repsol, con un 4,25 %.",
     "Cuando el crudo se encarece, suelen subir después la gasolina, el gasóleo y el transporte, y eso alimenta la [[inflación|inflacion]], que en España fue del 4,9 % en septiembre. Esta semana la gasolina costaba de media 1,79 euros el litro, según el Boletín Petrolero de la UE, antes de esta subida del crudo. El [[Banco Central Europeo|bce]], que se reúne el 29 de octubre, vigila esa inflación cuando decide los [[tipos de interés|tiposinteres]], de los que dependen las hipotecas. Todo dependerá de si los ataques continúan: el precio del petróleo cambia cada día."
    ],
    "busqueda_imagenes": "precio petróleo Brent Ibex 35 22 octubre 2026",
@@ -1235,19 +1250,22 @@
     "Infobae",
     "Tiempo de Inversión",
     "Revista E&N",
-    "ABC Color"
+    "ABC Color",
+    "Infobae (EFE)",
+    "The Objective",
+    "Press Digital"
    ],
    "publicada": "2026-10-23",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-24",
+   "nota_actualizacion": "El viernes 23 el Brent superó los 116 dólares y el Ibex 35 cerró la semana con una caída del 1,74 %.",
    "en": {
-    "titular": "Oil rises to 112 dollars after Houthi attacks on Saudi Arabia and the Ibex 35 falls 2.1%",
-    "entradilla": "Brent reached its highest level since May; for families it could end up making petrol more expensive and keeping inflation high.",
+    "titular": "Oil tops 116 dollars and the Ibex 35 ends the week down 1.74%",
+    "entradilla": "Brent rose again on Friday amid attacks in the Middle East; for families, it can make petrol more expensive and keep inflation high.",
     "parrafos": [
-     "On Thursday 22 October a barrel of [[Brent|brent]] reached 112.55 dollars, its highest level since 18 May, after the Houthis of Yemen claimed missile and drone attacks on facilities in Saudi Arabia. Markets fear that supplies from the Middle East, the region that exports the most crude in the world, could be interrupted. European stock markets fell: the [[Ibex 35|ibex]] lost 2.12% and closed below 19,000 points, with banks among the hardest hit, and the yield on French ten-year debt rose above 5%.",
+     "On Friday 23 October a barrel of [[Brent|brent]] rose by about 3% and passed 116 dollars, after reaching 112.55 on Thursday. Markets fear that supplies from the Middle East, the region that exports the most crude in the world, could be interrupted by the attacks that the Houthis of Yemen claim against Saudi Arabia and by those suffered by ships near the [[Strait of Hormuz|ormuz]]. The [[Ibex 35|ibex]] rose 0.4% on Friday, to 18,989.8 points, but ended the week down 1.74%, after losing 2.12% on Thursday. Among the biggest risers was the oil company Repsol, up 4.25%.",
      "When crude gets more expensive, petrol, diesel and transport usually rise afterwards, and that feeds [[inflation|inflacion]], which in Spain was 4.9% in September. This week petrol cost an average of 1.79 euros a litre, according to the EU Oil Bulletin, before this rise in crude. The [[European Central Bank|bce]], which meets on 29 October, watches that inflation when it decides [[interest rates|tiposinteres]], on which mortgages depend. Everything will depend on whether the attacks continue: the price of oil changes every day."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On Friday 23 October Brent passed 116 dollars and the Ibex 35 ended the week down 1.74%."
    }
   }
  ],
@@ -3123,11 +3141,47 @@
     "n": "Europa League",
     "x": "The second European club football competition, after the Champions League."
    }
+  },
+  "leonor": {
+   "t": "persona",
+   "n": "Leonor de Borbón",
+   "x": "Es la princesa de Asturias, hija mayor de los Reyes y heredera de la Corona de España.",
+   "en": {
+    "n": "Leonor de Borbón",
+    "x": "She is the Princess of Asturias, the eldest daughter of the King and Queen and heir to the Spanish Crown."
+   }
+  },
+  "narcolancha": {
+   "t": "palabra",
+   "n": "Narcolancha",
+   "x": "Lancha muy rápida que usan las mafias del narcotráfico para llevar droga o combustible por el mar y los ríos. Perseguirlas es peligroso para los agentes.",
+   "en": {
+    "n": "Narcolancha",
+    "x": "A very fast speedboat that drug-trafficking gangs use to carry drugs or fuel across the sea and rivers. Chasing them is dangerous for the officers."
+   }
+  },
+  "guardiacivil": {
+   "t": "palabra",
+   "n": "Guardia Civil",
+   "x": "Cuerpo de seguridad del Estado que vigila, entre otras cosas, las costas, las fronteras y las carreteras. Depende sobre todo del Ministerio del Interior.",
+   "en": {
+    "n": "Civil Guard",
+    "x": "A State security force that watches, among other things, the coasts, the borders and the roads. It answers mainly to the Ministry of the Interior."
+   }
+  },
+  "interior": {
+   "t": "palabra",
+   "n": "Ministerio del Interior",
+   "x": "Departamento del Gobierno de España que dirige la Policía Nacional y la Guardia Civil y se ocupa de la seguridad de los ciudadanos.",
+   "en": {
+    "n": "Ministry of the Interior",
+    "x": "The Spanish Government department that runs the National Police and the Civil Guard and is responsible for public security."
+   }
   }
  },
- "edicion_en": "Friday 23 October 2026",
+ "edicion_en": "Saturday 24 October 2026",
  "destacada": {
   "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-10-23"
+  "fecha": "2026-10-24"
  }
 }
