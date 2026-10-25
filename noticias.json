@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-24T07:00:00+02:00",
- "edicion": "Sábado 24 de octubre de 2026",
+ "actualizado": "2026-10-25T07:00:00+01:00",
+ "edicion": "Domingo 25 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -355,11 +355,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán afirma haber alcanzado siete petroleros, Trump lo llama invento y el crudo supera los 116 dólares",
-   "entradilla": "La Guardia Revolucionaria avisa de que el conflicto puede llegar a las bases de EE. UU.; no hay confirmación independiente y la Casa Blanca no atacará antes del 3 de noviembre.",
+   "titular": "Ormuz: Irán dice que otros dos superpetroleros tocaron minas, Trump dice que EE. UU. podría atacar de nuevo y el crudo cierra en 116 dólares",
+   "entradilla": "Irán asegura que el viernes dos superpetroleros más tocaron minas; no hay confirmación independiente y Trump no descarta otro ataque.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Desde el 11 de octubre al menos diez barcos han sido atacados en el estrecho o cerca. Según la Guardia Revolucionaria iraní, la noche del 21 al 22 cuatro petroleros se incendiaron y tres chocaron con minas; añadió que, si sigue la tensión, el conflicto llegará a las bases de EE. UU. en la zona. No hay confirmación independiente, y Trump dijo que Irán inventa ataques para subir el petróleo antes de las elecciones estadounidenses. El jueves 22, los [[hutíes|hutis]], grupo yemení apoyado por Irán, reivindicaron ataques contra Arabia Saudí, y el viernes el Brent superó los 116 dólares. La Casa Blanca no atacará antes del 3 de noviembre."
+    "Según la Guardia Revolucionaria iraní, entre el miércoles y el jueves siete petroleros se incendiaron o chocaron con minas, y el viernes otros dos superpetroleros, con más de 4,5 millones de barriles de crudo, tocaron minas en una ruta «no autorizada». No hay confirmación independiente. Trump acusó a Irán de inventar incidentes para encarecer el petróleo antes de las elecciones estadounidenses del 3 de noviembre, y en un mitin dijo que EE. UU. «podría hacer otra pequeña Furia Épica». Irán puso sus fuerzas en alerta y su jefe del Estado Mayor, Ali Abdollahi, afirmó que no permitirá entrar a buques de guerra de EE. UU. en el Golfo. El viernes el Brent cerró en 116,30 dólares."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -385,19 +385,22 @@
     "NX Noticias",
     "Al Jazeera",
     "Times Live",
-    "The Hill"
+    "The Hill",
+    "Herqles",
+    "El Imparcial",
+    "Prensa Latina"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-24",
-   "nota_actualizacion": "La Guardia Revolucionaria asegura que siete petroleros fueron alcanzados el 21-22 de octubre (sin confirmación independiente); Trump lo llama invento y el Brent superó los 116 dólares el viernes.",
+   "actualizada": "2026-10-25",
+   "nota_actualizacion": "La Guardia Revolucionaria dice que otros dos superpetroleros tocaron minas el viernes; Trump dice que EE. UU. podría atacar de nuevo y el Brent cerró en 116,30 dólares.",
    "en": {
-    "titular": "Hormuz: Iran says it hit seven tankers, Trump calls it made up, and crude passes 116 dollars",
-    "entradilla": "The Revolutionary Guard warns that the conflict may reach US bases; there is no independent confirmation and the White House will not attack before 3 November.",
+    "titular": "Hormuz: Iran says two more supertankers hit mines, Trump says the US could strike again, and crude closes at 116 dollars",
+    "entradilla": "Iran says two more supertankers hit mines on Friday; there is no independent confirmation and Trump does not rule out another attack.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Since 11 October at least ten ships have been attacked in or near the strait. According to Iran's Revolutionary Guard, on the night of 21–22 October four tankers caught fire and three hit mines; it added that, if the tension continues, the conflict will reach US bases in the area. There is no independent confirmation, and Donald Trump said Iran is making up attacks to push up the oil price before the US elections. On Thursday 22, the [[Houthis|hutis]], an Iran-backed Yemeni group, claimed attacks on Saudi Arabia, and on Friday Brent passed 116 dollars. The White House will not attack before 3 November."
+     "According to Iran's Revolutionary Guard, between Wednesday and Thursday seven tankers caught fire or hit mines, and on Friday two more supertankers, carrying more than 4.5 million barrels of crude, hit mines on an 'unauthorised' route. There is no independent confirmation. Donald Trump accused Iran of making up incidents to push up the oil price before the US elections on 3 November, and at a rally said the US 'may do another little Epic Fury'. Iran put its forces on alert and its chief of staff, Ali Abdollahi, said it will not allow US warships into the Gulf. On Friday Brent closed at 116.30 dollars."
     ],
-    "nota_actualizacion": "The Revolutionary Guard says seven tankers were hit on 21–22 October (no independent confirmation); Trump calls it made up and Brent passed 116 dollars on Friday."
+    "nota_actualizacion": "The Revolutionary Guard says two more supertankers hit mines on Friday; Trump says the US could strike again and Brent closed at 116.30 dollars."
    }
   },
   {
@@ -628,31 +631,31 @@
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Bezzecchi gana en Indonesia y Martín recupera el liderato por dos puntos",
-   "entradilla": "Aprilia hace un 1-2-3-4 en Mandalika y el Mundial sigue entre Martín y Márquez, separados por solo dos puntos.",
+   "titular": "Martín se fractura el antebrazo, Márquez lidera el Mundial por diez puntos y se cancela la carrera de Australia",
+   "entradilla": "Marc Márquez ganó la sprint, Jorge Martín se rompió el antebrazo derecho y la carrera del domingo se canceló por la lluvia.",
    "parrafos": [
-    "El italiano [[Marco Bezzecchi|bezzecchi]], de Aprilia, ganó el domingo 11 de octubre el Gran Premio de Indonesia de [[MotoGP|motogp]], en el circuito de Mandalika. Fue su quinta victoria del año. Segundo quedó Raúl Fernández, a 4,2 segundos, tercero [[Jorge Martín|martin]] y cuarto Ai Ogura: las cuatro primeras plazas fueron para motos Aprilia. [[Marc Márquez|marquez]], de Ducati, había ganado el sábado la [[carrera sprint|sprint]] y llegó a ponerse líder, pero en la carrera larga terminó sexto.",
-    "Con este resultado, Martín recupera el liderato del campeonato con 355 puntos, dos más que Márquez. Bezzecchi es tercero con 309 y quedan cinco citas. Márquez ganó el título en 2025 y Martín en 2024, así que la lucha de este año enfrenta a dos campeones del mundo españoles con marcas distintas. En cada carrera larga el ganador se lleva 25 puntos, de modo que una ventaja de dos puntos se puede perder o ganar en un solo domingo."
+    "El sábado 24 de octubre, [[Marc Márquez|marquez]], de Ducati, ganó la [[carrera sprint|sprint]] del Gran Premio de Australia, en Phillip Island, saliendo desde la pole. Su hermano Álex fue segundo y Fabio Di Giannantonio, tercero. En la vuelta 8, cuando [[Jorge Martín|martin]], de Aprilia, peleaba con él por la victoria, el líder del campeonato sufrió una fuerte caída y tuvo que salir en camilla. Aprilia informó de que se ha roto el radio del antebrazo derecho, y los médicos le declararon no apto para la carrera del domingo.",
+    "Con la victoria en la sprint, Márquez suma 365 puntos y recupera el liderato del [[MotoGP|motogp]]: tiene diez más que Martín, que se queda en 355. El domingo no hubo carreras: la organización canceló las de Moto3, Moto2 y MotoGP porque la lluvia y el viento impedían volar al helicóptero médico, que debe poder llevar a un herido al hospital de Melbourne. Los pilotos solo dieron una vuelta tras el coche de seguridad para despedirse de la afición. Como no se repartieron puntos, la clasificación no cambia, y el Mundial tiene todavía cuatro citas con Martín lesionado."
    ],
-   "busqueda_imagenes": "Bezzecchi Mandalika 2026 MotoGP",
+   "busqueda_imagenes": "Márquez Phillip Island sprint Martín caída",
    "fuentes": [
+    "Grande Premio",
     "Motorsport.com",
-    "Noticias Argentinas",
-    "Detik Sport",
-    "Antara News",
-    "Autoracing"
+    "Infobae (EFE)",
+    "OKDiario",
+    "Los Andes"
    ],
    "publicada": "2026-10-06",
-   "actualizada": "2026-10-12",
-   "nota_actualizacion": "Bezzecchi ganó en Indonesia y Martín recuperó el liderato por dos puntos sobre Márquez, que fue sexto.",
+   "actualizada": "2026-10-25",
+   "nota_actualizacion": "Martín se fracturó el antebrazo derecho en la sprint de Australia, Márquez lidera con 365 puntos y la carrera del domingo se canceló por la lluvia.",
    "en": {
-    "titular": "Bezzecchi wins in Indonesia and Martín retakes the lead by two points",
-    "entradilla": "Aprilia takes a 1-2-3-4 in Mandalika and the title fight stays between Martín and Márquez, just two points apart.",
+    "titular": "Martín fractures his forearm, Márquez leads the championship by ten points and the Australian race is cancelled",
+    "entradilla": "Marc Márquez won the sprint, Jorge Martín broke his right forearm and Sunday's race was called off because of the rain.",
     "parrafos": [
-     "Italian [[Marco Bezzecchi|bezzecchi]], on an Aprilia, won the [[MotoGP|motogp]] Indonesian Grand Prix on Sunday 11 October, at the Mandalika circuit. It was his fifth win of the year. Raúl Fernández was second, 4.2 seconds behind, [[Jorge Martín|martin]] third and Ai Ogura fourth: the first four places went to Aprilia bikes. [[Marc Márquez|marquez]], on a Ducati, had won Saturday's [[sprint race|sprint]] and briefly moved into the lead, but finished sixth in the long race.",
-     "With this result, Martín retakes the championship lead with 355 points, two more than Márquez. Bezzecchi is third with 309 and five rounds remain. Márquez won the title in 2025 and Martín in 2024, so this year's fight pits two Spanish world champions on different makes against each other. In each long race the winner takes 25 points, so a two-point lead can be lost or won in a single Sunday."
+     "On Saturday 24 October, [[Marc Márquez|marquez]], on a Ducati, won the [[sprint race|sprint]] of the Australian Grand Prix at Phillip Island, starting from pole. His brother Álex was second and Fabio Di Giannantonio third. On lap 8, while [[Jorge Martín|martin]], on an Aprilia, was fighting him for the win, the championship leader suffered a heavy crash and had to be taken away on a stretcher. Aprilia reported that he has broken the radius bone in his right forearm, and doctors declared him unfit for Sunday's race.",
+     "With the sprint win, Márquez has 365 points and retakes the [[MotoGP|motogp]] lead: he is ten ahead of Martín, who stays on 355. There were no races on Sunday: the organisers cancelled the Moto3, Moto2 and MotoGP races because rain and wind made it impossible for the medical helicopter to fly, and it must be able to take an injured rider to hospital in Melbourne. The riders only did one lap behind the safety car to say goodbye to the fans. As no points were awarded, the standings do not change, and the championship still has four rounds to go with Martín injured."
     ],
-    "nota_actualizacion": "Bezzecchi won in Indonesia and Martín retook the lead by two points over Márquez, who finished sixth."
+    "nota_actualizacion": "Martín broke his right forearm in the Australian sprint, Márquez leads with 365 points and Sunday's race was cancelled because of the rain."
    }
   },
   {
@@ -754,10 +757,10 @@
    "seccion": "cul",
    "dibujo": "trophy",
    "titular": "Leonor abre por primera vez la ceremonia de los Princesa de Asturias, con Messi, Patti Smith y Studio Ghibli entre los premiados",
-   "entradilla": "La princesa abrió la ceremonia en Oviedo con un discurso dirigido a los jóvenes; este sábado se entrega el premio al Pueblo Ejemplar.",
+   "entradilla": "La princesa abrió la ceremonia en Oviedo con un discurso dirigido a los jóvenes; el sábado se entregó en Llanes el premio al Pueblo Ejemplar a su Cofradía de Pescadores.",
    "parrafos": [
     "Los [[Premios Princesa de Asturias|princesa]] de 2026 ya tienen todos sus ganadores. Entre ellos están la cantante y escritora Patti Smith (Artes), [[Studio Ghibli|ghibli]], el estudio de animación japonés (Comunicación y Humanidades), el escritor británico Julian Barnes (Letras) y el futbolista [[Leo Messi|messi]] (Deportes). También reciben premio el historiador Timothy Garton Ash (Ciencias Sociales), los científicos David Klenerman, Shankar Balasubramanian y Pascal Mayer (Investigación Científica y Técnica), la astronauta Christina Koch (Concordia) y la [[Bóveda Global de Semillas de Svalbard|svalbard]] (Cooperación Internacional).",
-    "La ceremonia se celebró el viernes 23 de octubre en el Teatro Campoamor de Oviedo. Por primera vez fue la princesa [[Leonor|leonor]] quien abrió el acto con su discurso. Habló sobre todo a los jóvenes: reconoció sentir «una mezcla de vértigo e ilusión», defendió la esperanza frente al desencanto social y citó entre los problemas de su generación la falta de expectativas, los extremismos y las guerras. El sábado 24 se entrega en Llanes el premio al Pueblo Ejemplar de Asturias. Que el mismo año reciban premio una artista del rock, un estudio de dibujos animados y un futbolista muestra lo amplio que es el abanico de estos galardones."
+    "La ceremonia se celebró el viernes 23 de octubre en el Teatro Campoamor de Oviedo. Por primera vez fue la princesa [[Leonor|leonor]] quien abrió el acto con su discurso. Habló sobre todo a los jóvenes: reconoció sentir «una mezcla de vértigo e ilusión», defendió la esperanza frente al desencanto social y citó entre los problemas de su generación la falta de expectativas, los extremismos y las guerras. El sábado 24 se entregó en Llanes el premio al Pueblo Ejemplar de Asturias a la Cofradía de Pescadores de la localidad. Que el mismo año reciban premio una artista del rock, un estudio de dibujos animados y un futbolista muestra lo amplio que es el abanico de estos galardones."
    ],
    "busqueda_imagenes": "Premios Princesa de Asturias 2026 Oviedo",
    "fuentes": [
@@ -765,19 +768,20 @@
     "Olympics.com",
     "El Búscolu",
     "Moncloa.com",
-    "Herqles"
+    "Herqles",
+    "Infobae"
    ],
    "publicada": "2026-10-13",
-   "actualizada": "2026-10-24",
-   "nota_actualizacion": "La ceremonia del 23 de octubre la abrió por primera vez la princesa Leonor, con un discurso dirigido a los jóvenes.",
+   "actualizada": "2026-10-25",
+   "nota_actualizacion": "La ceremonia del 23 de octubre la abrió por primera vez la princesa Leonor; el 24, el Pueblo Ejemplar de Asturias fue para la Cofradía de Pescadores de Llanes.",
    "en": {
     "titular": "Leonor opens the Princess of Asturias ceremony for the first time, with Messi, Patti Smith and Studio Ghibli among the winners",
-    "entradilla": "The princess opened the ceremony in Oviedo with a speech aimed at young people; on Saturday the Exemplary Town of Asturias award is presented.",
+    "entradilla": "The princess opened the ceremony in Oviedo with a speech aimed at young people; on Saturday the Exemplary Town of Asturias award was presented in Llanes to its Fishermen's Guild.",
     "parrafos": [
      "The 2026 [[Princess of Asturias Awards|princesa]] now have all their winners. They include the singer and writer Patti Smith (Arts), [[Studio Ghibli|ghibli]], the Japanese animation studio (Communication and Humanities), the British writer Julian Barnes (Literature) and the footballer [[Lionel Messi|messi]] (Sports). Awards also go to the historian Timothy Garton Ash (Social Sciences), the scientists David Klenerman, Shankar Balasubramanian and Pascal Mayer (Technical and Scientific Research), the astronaut Christina Koch (Concord) and the [[Svalbard Global Seed Vault|svalbard]] (International Cooperation).",
-     "The ceremony took place on Friday 23 October at the Campoamor Theatre in Oviedo. For the first time it was Princess [[Leonor|leonor]] who opened the event with her speech. She spoke mainly to young people: she admitted feeling 'a mix of vertigo and excitement', defended hope in the face of social disenchantment and named among the problems of her generation the lack of prospects, extremism and wars. On Saturday 24 the Exemplary Town of Asturias award is presented in Llanes. That in the same year an award goes to a rock artist, an animation studio and a footballer shows how wide the range of these awards is."
+     "The ceremony took place on Friday 23 October at the Campoamor Theatre in Oviedo. For the first time it was Princess [[Leonor|leonor]] who opened the event with her speech. She spoke mainly to young people: she admitted feeling 'a mix of vertigo and excitement', defended hope in the face of social disenchantment and named among the problems of her generation the lack of prospects, extremism and wars. On Saturday 24 the Exemplary Town of Asturias award was presented in Llanes to the town's Fishermen's Guild. That in the same year an award goes to a rock artist, an animation studio and a footballer shows how wide the range of these awards is."
     ],
-    "nota_actualizacion": "Princess Leonor opened the 23 October ceremony for the first time, with a speech aimed at young people."
+    "nota_actualizacion": "Princess Leonor opened the 23 October ceremony for the first time; on the 24th the Exemplary Town of Asturias award went to Llanes's Fishermen's Guild."
    }
   },
   {
@@ -3179,9 +3183,9 @@
    }
   }
  },
- "edicion_en": "Saturday 24 October 2026",
+ "edicion_en": "Sunday 25 October 2026",
  "destacada": {
   "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-10-24"
+  "fecha": "2026-10-25"
  }
 }
