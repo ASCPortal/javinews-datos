@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-25T07:00:00+01:00",
- "edicion": "Domingo 25 de octubre de 2026",
+ "actualizado": "2026-10-26T07:00:00+01:00",
+ "edicion": "Lunes 26 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -322,31 +322,33 @@
    }
   },
   {
-   "id": "juicio-magrudis-listeria-sevilla",
+   "id": "tractorada-madrid-28-octubre-agricultores-asaja-coag",
    "seccion": "and",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-a\" cx=\"50\" cy=\"48\" rx=\"34\" ry=\"22\"/><ellipse class=\"d-b\" cx=\"44\" cy=\"42\" rx=\"16\" ry=\"9\"/><path class=\"d-l\" d=\"M16 48 H8\"/><circle class=\"d-w\" cx=\"86\" cy=\"30\" r=\"14\"/><circle class=\"d-l\" cx=\"86\" cy=\"30\" r=\"14\"/><path class=\"d-l\" d=\"M96 40 L110 56\"/><ellipse class=\"d-l\" cx=\"50\" cy=\"48\" rx=\"34\" ry=\"22\"/></svg>",
-   "titular": "Arranca en Sevilla el juicio por el brote de listeria de 2019 que causó cuatro muertes",
-   "entradilla": "Siete años después, los acusados del caso Magrudis se sientan ante la Audiencia por el mayor brote de listeriosis de España.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><rect class=\"d-a\" x=\"14\" y=\"40\" width=\"46\" height=\"22\" rx=\"3\"/><rect class=\"d-a\" x=\"52\" y=\"24\" width=\"38\" height=\"38\" rx=\"3\"/><rect class=\"d-w\" x=\"58\" y=\"29\" width=\"26\" height=\"18\"/><rect class=\"d-i\" x=\"22\" y=\"26\" width=\"5\" height=\"16\"/><circle class=\"d-i\" cx=\"30\" cy=\"64\" r=\"10\"/><circle class=\"d-y\" cx=\"30\" cy=\"64\" r=\"4\"/><circle class=\"d-i\" cx=\"76\" cy=\"60\" r=\"15\"/><circle class=\"d-y\" cx=\"76\" cy=\"60\" r=\"6\"/><path class=\"d-l\" d=\"M14 40 H60 V62 H14 Z M52 24 H90 V62 H52\"/></svg>",
+   "titular": "Los agricultores llevarán sus tractores a Madrid el 28 de octubre por los costes del campo",
+   "entradilla": "ASAJA, COAG y Unión de Uniones piden un plan de choque; ASAJA acampará frente al Ministerio de Agricultura hasta el 12 de noviembre.",
    "parrafos": [
-    "El viernes 16 de octubre empezó en la [[Audiencia Provincial|audiencia]] de [[Sevilla|sevilla]] el juicio por el brote de [[listeria|listeria]] de 2019, el mayor registrado hasta ahora en España. La carne mechada de la empresa Magrudis, que estaba contaminada, intoxicó a más de 200 personas y causó cuatro muertes. Entre los acusados están miembros de la familia propietaria de la empresa, un arquitecto técnico y una veterinaria municipal. Han pasado siete años desde el brote, y ahora un tribunal debe examinar qué falló y quién tuvo responsabilidad.",
-    "Se han previsto 43 sesiones, hasta el 27 de enero de 2027; los primeros días, hasta el lunes 19, se dedican a cuestiones previas. La listeria es una bacteria que puede vivir en alimentos y resulta especialmente peligrosa para embarazadas, personas mayores y personas con las defensas bajas. Que alguien se siente en el banquillo no significa que sea culpable: serán los jueces quienes decidan, tras escuchar a la acusación y a las defensas, si hubo responsabilidad. Casos así recuerdan por qué existen los controles sanitarios de los alimentos y por qué es importante que funcionen."
+    "El miércoles 28 de octubre, agricultores y ganaderos de toda España, también de Andalucía, harán una [[tractorada|tractorada]] en Madrid: una marcha con tractores que terminará frente al Ministerio de Agricultura, junto a la estación de Atocha. La convocan ASAJA, COAG y Unión de Uniones con el lema «Producimos tu comida, merecemos vivir de nuestro trabajo», y los organizadores prevén unos 500 tractores. Además, ASAJA acampará delante del Ministerio desde el 29 de octubre hasta el 12 de noviembre, con delegaciones de cada provincia que se irán turnando. En Andalucía, dirigentes de ASAJA-Sevilla y COAG-Andalucía han defendido la protesta.",
+    "Piden, sobre todo, un plan de choque contra los costes de producir, entre ellos el [[gasóleo|diesel]], que no deja de subir. También quieren que la futura [[PAC|pac]], las ayudas agrarias de la Unión Europea, mantenga fondos suficientes, que se cumpla la ley de la cadena alimentaria, menos papeleo y que los productos importados de fuera de la UE cumplan las mismas normas que los europeos, con una revisión de los acuerdos con [[Mercosur|mercosur]] y Marruecos. Según los organizadores, el Ministerio de Agricultura se ha reunido con ellos, pero las medidas ofrecidas son insuficientes. Si producir cuesta más, el agricultor puede ganar menos o subir el precio, y por eso la protesta también interesa a quien compra comida."
    ],
-   "busqueda_imagenes": "juicio Magrudis listeria Audiencia de Sevilla",
+   "busqueda_imagenes": "tractorada Madrid 28 octubre agricultores Ministerio de Agricultura",
    "fuentes": [
-    "Andalucía Información",
-    "Diario Siglo XXI (Europa Press)",
-    "101TV",
-    "elDiario.es"
+    "ASAJA",
+    "Canal Sur",
+    "Moncloa.com",
+    "Diario en Positivo",
+    "Región Digital",
+    "Guía del Ocio"
    ],
-   "publicada": "2026-10-17",
+   "publicada": "2026-10-26",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Trial begins in Seville over the 2019 listeria outbreak that caused four deaths",
-    "entradilla": "Seven years later, the defendants in the Magrudis case face the Provincial Court over Spain's biggest listeriosis outbreak.",
+    "titular": "Farmers will take their tractors to Madrid on 28 October over farming costs",
+    "entradilla": "ASAJA, COAG and Unión de Uniones are demanding an emergency plan; ASAJA will camp in front of the Ministry of Agriculture until 12 November.",
     "parrafos": [
-     "On Friday 16 October, the trial began at the [[Provincial Court|audiencia]] in [[Seville|sevilla]] over the 2019 [[listeria|listeria]] outbreak, the biggest recorded in Spain so far. Contaminated pulled pork from the company Magrudis made more than 200 people ill and caused four deaths. The defendants include members of the family that owns the company, a technical architect and a municipal vet. Seven years have passed since the outbreak, and now a court must examine what went wrong and who was responsible.",
-     "There are 43 sessions scheduled, until 27 January 2027; the first days, up to Monday 19, are devoted to preliminary matters. Listeria is a bacterium that can live in food and is especially dangerous for pregnant women, older people and people with weak defences. Someone being in the dock does not mean they are guilty: it will be the judges who decide, after hearing the prosecution and the defence, whether anyone was responsible. Cases like this are a reminder of why food safety controls exist and why it matters that they work."
+     "On Wednesday 28 October, farmers and livestock breeders from all over Spain, including Andalusia, will hold a [[tractor protest|tractorada]] in Madrid: a march with tractors that will end in front of the Ministry of Agriculture, next to Atocha station. It is called by ASAJA, COAG and Unión de Uniones under the slogan 'We produce your food, we deserve to make a living from our work', and the organisers expect about 500 tractors. In addition, ASAJA will camp outside the Ministry from 29 October to 12 November, with delegations from each province taking turns. In Andalusia, leaders of ASAJA-Sevilla and COAG-Andalucía have defended the protest.",
+     "Above all they ask for an emergency plan against production costs, including [[diesel|diesel]], which keeps rising. They also want the future [[CAP|pac]], the European Union's farm subsidies, to keep enough funding, the food supply chain law to be enforced, less paperwork, and imported products from outside the EU to meet the same rules as European ones, with a review of the agreements with [[Mercosur|mercosur]] and Morocco. According to the organisers, the Ministry of Agriculture has met them, but the measures offered are insufficient. If producing costs more, the farmer can earn less or raise the price, which is why the protest also matters to anyone who buys food."
     ],
     "nota_actualizacion": null
    }
@@ -359,7 +361,7 @@
    "entradilla": "Irán asegura que el viernes dos superpetroleros más tocaron minas; no hay confirmación independiente y Trump no descarta otro ataque.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Según la Guardia Revolucionaria iraní, entre el miércoles y el jueves siete petroleros se incendiaron o chocaron con minas, y el viernes otros dos superpetroleros, con más de 4,5 millones de barriles de crudo, tocaron minas en una ruta «no autorizada». No hay confirmación independiente. Trump acusó a Irán de inventar incidentes para encarecer el petróleo antes de las elecciones estadounidenses del 3 de noviembre, y en un mitin dijo que EE. UU. «podría hacer otra pequeña Furia Épica». Irán puso sus fuerzas en alerta y su jefe del Estado Mayor, Ali Abdollahi, afirmó que no permitirá entrar a buques de guerra de EE. UU. en el Golfo. El viernes el Brent cerró en 116,30 dólares."
+    "Según la Guardia Revolucionaria iraní, entre el miércoles y el jueves siete petroleros se incendiaron o chocaron con minas, y el viernes otros dos superpetroleros, con más de 4,5 millones de barriles de crudo, tocaron minas en una ruta «no autorizada». No hay confirmación independiente. Trump acusó a Irán de inventar incidentes para encarecer el petróleo antes de las elecciones estadounidenses del 3 de noviembre, y en un mitin dijo que EE. UU. «podría hacer otra pequeña Furia Épica». Irán puso sus fuerzas en alerta y su jefe del Estado Mayor, Ali Abdollahi, afirmó que no permitirá entrar a buques de guerra de EE. UU. en el Golfo. El viernes el Brent superó los 116 dólares."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -392,15 +394,15 @@
    ],
    "publicada": "2026-10-02",
    "actualizada": "2026-10-25",
-   "nota_actualizacion": "La Guardia Revolucionaria dice que otros dos superpetroleros tocaron minas el viernes; Trump dice que EE. UU. podría atacar de nuevo y el Brent cerró en 116,30 dólares.",
+   "nota_actualizacion": "La Guardia Revolucionaria dice que otros dos superpetroleros tocaron minas el viernes; Trump dice que EE. UU. podría atacar de nuevo y el Brent superó los 116 dólares.",
    "en": {
     "titular": "Hormuz: Iran says two more supertankers hit mines, Trump says the US could strike again, and crude closes at 116 dollars",
     "entradilla": "Iran says two more supertankers hit mines on Friday; there is no independent confirmation and Trump does not rule out another attack.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "According to Iran's Revolutionary Guard, between Wednesday and Thursday seven tankers caught fire or hit mines, and on Friday two more supertankers, carrying more than 4.5 million barrels of crude, hit mines on an 'unauthorised' route. There is no independent confirmation. Donald Trump accused Iran of making up incidents to push up the oil price before the US elections on 3 November, and at a rally said the US 'may do another little Epic Fury'. Iran put its forces on alert and its chief of staff, Ali Abdollahi, said it will not allow US warships into the Gulf. On Friday Brent closed at 116.30 dollars."
+     "According to Iran's Revolutionary Guard, between Wednesday and Thursday seven tankers caught fire or hit mines, and on Friday two more supertankers, carrying more than 4.5 million barrels of crude, hit mines on an 'unauthorised' route. There is no independent confirmation. Donald Trump accused Iran of making up incidents to push up the oil price before the US elections on 3 November, and at a rally said the US 'may do another little Epic Fury'. Iran put its forces on alert and its chief of staff, Ali Abdollahi, said it will not allow US warships into the Gulf. On Friday Brent rose above 116 dollars."
     ],
-    "nota_actualizacion": "The Revolutionary Guard says two more supertankers hit mines on Friday; Trump says the US could strike again and Brent closed at 116.30 dollars."
+    "nota_actualizacion": "The Revolutionary Guard says two more supertankers hit mines on Friday; Trump says the US could strike again and Brent rose above 116 dollars."
    }
   },
   {
@@ -411,7 +413,7 @@
    "entradilla": "Los puntos centrales del acuerdo de 2025 siguen sin cumplirse y la tregua no frena las muertes.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas desde 2023. El 15 de octubre, al cumplirse un año del [[alto el fuego|altoelfuego]], el coordinador adjunto de la ONU para el proceso de paz en Oriente Medio, Ramiz Alakbarov, advirtió ante el Consejo de Seguridad de que el riesgo de volver a la guerra «nunca ha sido tan alto». Según cifras de ese ministerio citadas por la ONU, han muerto unos 1.500 palestinos desde la tregua, más de 320 de ellos niños. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen sin aplicarse. Casi 950.000 personas en [[Gaza|gaza]] corren riesgo de inundaciones este invierno."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas. El 15 de octubre, al cumplirse un año del [[alto el fuego|altoelfuego]], el coordinador adjunto de la ONU para el proceso de paz en Oriente Medio, Ramiz Alakbarov, advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El domingo 25, según fuentes palestinas, un bombardeo israelí contra el campus de la Universidad Islámica de [[Gaza|gaza]] mató a tres personas; Hamás lo calificó de «crimen de guerra». Las autoridades sanitarias palestinas cuentan más de 1.500 muertos desde la tregua. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen sin aplicarse."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -423,19 +425,22 @@
     "Semana",
     "Atlas News",
     "Al Jazeera",
-    "Amnistía Internacional"
+    "Amnistía Internacional",
+    "El Imparcial",
+    "Prensa Latina",
+    "Unitel"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-16",
-   "nota_actualizacion": "El 15 de octubre, un año después de la tregua, la ONU avisó de que el riesgo de volver a la guerra «nunca ha sido tan alto»; unos 1.500 muertos desde el alto el fuego, según Sanidad de Gaza.",
+   "actualizada": "2026-10-26",
+   "nota_actualizacion": "El 25 de octubre un bombardeo israelí contra la Universidad Islámica de Gaza mató a tres personas, según fuentes palestinas; las autoridades sanitarias palestinas cuentan más de 1.500 muertos desde la tregua.",
    "en": {
     "titular": "Gaza: a year of ceasefire and the UN warns the risk of a return to war 'has never been higher'",
     "entradilla": "The central points of the 2025 agreement are still unfulfilled and the truce does not stop the deaths.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which Hamas controls, more than 74,000 people have died in the war since 2023. On 15 October, a year after the [[ceasefire|altoelfuego]], the UN's deputy coordinator for the Middle East peace process, Ramiz Alakbarov, told the Security Council that the risk of a return to war 'has never been higher'. According to figures from that ministry cited by the UN, about 1,500 Palestinians have died since the truce, more than 320 of them children. Hamas's disarmament, the Israeli withdrawal and the international force have still not been put in place. Almost 950,000 people in [[Gaza|gaza]] are at risk of flooding this winter."
+     "According to the Gaza Health Ministry, which Hamas controls, more than 74,000 people have died in the war. On 15 October, a year after the [[ceasefire|altoelfuego]], the UN's deputy coordinator for the Middle East peace process, Ramiz Alakbarov, warned that the risk of a return to war 'has never been higher'. On Sunday 25, according to Palestinian sources, an Israeli air strike on the campus of the Islamic University of [[Gaza|gaza]] killed three people; Hamas called it a 'war crime'. Palestinian health authorities count more than 1,500 deaths since the truce. Hamas's disarmament, the Israeli withdrawal and the international force have still not been put in place."
     ],
-    "nota_actualizacion": "On 15 October, a year after the truce, the UN warned that the risk of a return to war 'has never been higher'; about 1,500 dead since the ceasefire, according to the Gaza Health Ministry."
+    "nota_actualizacion": "On 25 October an Israeli air strike on the Islamic University of Gaza killed three people, according to Palestinian sources; Palestinian health authorities count more than 1,500 deaths since the truce."
    }
   },
   {
@@ -486,42 +491,33 @@
    "id": "brasil-elige-presidente-este-domingo",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Brasil vota este domingo: Lula y Flávio Bolsonaro, empatados al 50 % en la última encuesta de Datafolha",
-   "entradilla": "Tras dos semanas de ventaja de Bolsonaro, el sondeo del 22 de octubre da un empate exacto entre los votos válidos.",
+   "titular": "Lula gana en Brasil su cuarto mandato con un 51,8 % y Flávio Bolsonaro dice que pedirá anular las elecciones",
+   "entradilla": "Lula remontó el resultado de la primera vuelta con unos 4,4 millones de votos de ventaja, pero su rival no reconoce el resultado.",
    "parrafos": [
-    "El domingo 4 de octubre votaron más de 150 millones de brasileños y el resultado fue una sorpresa: [[Flávio Bolsonaro|flavio]], hijo del expresidente Jair Bolsonaro (condenado en 2025 por intentar un golpe de Estado), quedó primero, por delante del presidente [[Lula|lula]]. Las [[encuestas|encuesta]] daban ventaja a Lula, y él mismo reconoció que el resultado era inesperado. Según los medios, la diferencia entre los dos es de pocos puntos, y ninguno alcanzó el 50 % de los votos válidos necesario para ganar a la primera.",
-    "Flávio Bolsonaro y Lula se enfrentan en la [[segunda vuelta|segundavuelta]] este domingo 25 de octubre. La última [[encuesta|encuesta]] de Datafolha, hecha del 20 al 22, da un empate del 50 % entre los votos válidos, que no cuentan los blancos, los nulos ni los indecisos; es la primera vez que este instituto los iguala. Hace dos semanas daba un 48 % a Lula y un 52 % a Flávio. Otro sondeo, el de BTG/Nexus del día 19, daba un 50,3 % a Flávio y un 49,7 % a Lula, y Quaest, un 45 % frente a un 44 % sobre el total de votos. Nadie tiene la victoria asegurada."
+    "Luiz Inácio Lula da Silva ganó el domingo 25 de octubre la [[segunda vuelta|segundavuelta]] de las elecciones de Brasil y tendrá un cuarto mandato, algo que nunca había ocurrido en el país. Según el Tribunal Superior Electoral, [[Lula|lula]] obtuvo alrededor del 51,8 % de los votos y [[Flávio Bolsonaro|flavio]], el 48,2 %: unos 4,4 millones de votos de diferencia. Es una remontada, porque Flávio había quedado primero en la primera vuelta del 4 de octubre y las últimas [[encuestas|encuesta]] hablaban de un empate. Lula, de 80 años, ya presidió Brasil entre 2003 y 2010 y volvió a ganar en 2022.",
+    "Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, no reconoce el resultado. Dijo que «es imposible reconocer» estas elecciones y que pedirá anularlas, porque durante la jornada un ministro del [[Supremo Tribunal Federal|stf]], Cristiano Zanin, amplió dos horas el horario de votación en todo el país. Zanin fue abogado de Lula antes de que este lo nombrara juez en 2023. Según los medios, la ampliación se justificó por problemas de transporte en varios estados y por las lluvias en el sur, y las dos campañas habían pedido más tiempo. Flávio anunció que presentará su petición; falta ver qué deciden los tribunales."
    ],
-   "busqueda_imagenes": "elecciones Brasil 2026",
+   "busqueda_imagenes": "Lula reelegido Brasil segunda vuelta 2026",
    "fuentes": [
-    "Infobae",
-    "La Nación",
-    "El Español",
-    "La Jornada",
+    "CNN en Español",
     "El Financiero",
-    "Yahoo Noticias",
-    "Bloomberg Línea",
-    "Euronews",
-    "Cooperativa",
-    "BioBioChile",
-    "La Tercera",
-    "Prensa Latina",
-    "El Nacional (Paraguay)",
-    "La FM",
-    "El Expreso",
-    "Análisis Urbano"
+    "La Nación",
+    "La Jornada",
+    "elDiarioAR",
+    "Perfil",
+    "Unitel"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-24",
-   "nota_actualizacion": "El último sondeo de Datafolha (20-22 de octubre) da por primera vez un empate del 50 %; la segunda vuelta es este domingo 25.",
+   "actualizada": "2026-10-26",
+   "nota_actualizacion": "Lula ganó la segunda vuelta con alrededor del 51,8 % de los votos y Flávio Bolsonaro dice que pedirá anular las elecciones.",
    "en": {
-    "titular": "Brazil votes on Sunday: Lula and Flávio Bolsonaro tied at 50% in Datafolha's latest poll",
-    "entradilla": "After two weeks with Bolsonaro ahead, the poll of 22 October shows an exact tie among valid votes.",
+    "titular": "Lula wins a fourth term in Brazil with 51.8% and Flávio Bolsonaro says he will ask for the election to be annulled",
+    "entradilla": "Lula overturned the first-round result with a lead of about 4.4 million votes, but his rival does not accept the outcome.",
     "parrafos": [
-     "On Sunday 4 October more than 150 million Brazilians voted, and the result was a surprise: [[Flávio Bolsonaro|flavio]], son of former president Jair Bolsonaro (convicted in 2025 of attempting a coup), came first, ahead of President [[Lula|lula]]. The [[polls|encuesta]] had given Lula the lead, and he himself admitted the result was unexpected. According to the media, the gap between the two is only a few points, and neither reached the 50% of valid votes needed to win outright.",
-     "Flávio Bolsonaro and Lula face each other in the [[second round|segundavuelta]] this Sunday 25 October. The latest Datafolha [[poll|encuesta]], carried out on 20–22 October, shows a 50% tie among valid votes, which leave out blank votes, spoiled ballots and the undecided; it is the first time this institute has put them level. Two weeks ago it gave Lula 48% and Flávio 52%. Another poll, BTG/Nexus on the 19th, gave Flávio 50.3% and Lula 49.7%, and Quaest 45% against 44% of all votes. Nobody has victory assured."
+     "Luiz Inácio Lula da Silva won the [[second round|segundavuelta]] of Brazil's election on Sunday 25 October and will serve a fourth term, something that has never happened in the country before. According to the Superior Electoral Court, [[Lula|lula]] took about 51.8% of the votes and [[Flávio Bolsonaro|flavio]] 48.2%: a gap of some 4.4 million votes. It is a comeback, because Flávio had come first in the first round on 4 October and the latest [[polls|encuesta]] spoke of a tie. Lula, aged 80, already presided over Brazil from 2003 to 2010 and won again in 2022.",
+     "Flávio Bolsonaro, son of former president Jair Bolsonaro, does not accept the result. He said it is 'impossible to recognise' these elections and that he will ask for them to be annulled, because during the day a minister of the [[Federal Supreme Court|stf]], Cristiano Zanin, extended voting hours by two hours across the country. Zanin was Lula's lawyer before Lula appointed him a judge in 2023. According to the media, the extension was justified by transport problems in several states and by rain in the south, and both campaigns had asked for more time. Flávio said he will file his request; it remains to be seen what the courts decide."
     ],
-    "nota_actualizacion": "Datafolha's latest poll (20–22 October) shows a 50% tie for the first time; the second round is this Sunday 25 October."
+    "nota_actualizacion": "Lula won the second round with about 51.8% of the votes and Flávio Bolsonaro says he will ask for the election to be annulled."
    }
   },
   {
@@ -532,7 +528,7 @@
    "entradilla": "Son las primeras elecciones desde el ataque de Hamás de 2023 y las encuestas no dan los 61 escaños necesarios a ningún bloque.",
    "parrafos": [
     "El martes 27 de octubre, Israel celebra elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Los israelíes eligen a los 120 diputados de la [[Knesset|knesset]], su Parlamento, y quien reúna 61 escaños podrá formar Gobierno. El primer ministro, [[Benjamín Netanyahu|netanyahu]], busca seguir en el poder tras años de desgaste político y críticas por la seguridad del 7 de octubre. Su principal rival es [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, cuyo partido, Yashar, encabeza las últimas [[encuestas|encuesta]].",
-    "Según el último sondeo del Canal 12, del 23 de octubre, el bloque de Eisenkot tendría 55 escaños y el de Netanyahu, 51; los partidos árabes sumarían unos 14, así que ninguno llega a los 61. Yashar obtendría 23 escaños y el Likud de Netanyahu, 19. Por eso las negociaciones después del voto podrían ser largas, y los partidos árabes y las listas pequeñas podrían ser decisivos. Entre los temas de campaña están la guerra de Gaza, el servicio militar de los judíos ultraortodoxos y el voto árabe."
+    "Según el último sondeo del Canal 12, del 23 de octubre, el bloque de Eisenkot tendría 55 escaños y el de Netanyahu, 51; los partidos árabes sumarían unos 14, así que ninguno llega a los 61. Yashar sería el partido con más escaños, por delante del Likud de Netanyahu. Por eso las negociaciones después del voto podrían ser largas, y los partidos árabes y las listas pequeñas podrían ser decisivos. Entre los temas de campaña están la guerra de Gaza, el servicio militar de los judíos ultraortodoxos y el voto árabe."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -552,7 +548,7 @@
     "entradilla": "It is the first election since the 2023 Hamas attack, and polls give neither bloc the 61 seats needed.",
     "parrafos": [
      "On Tuesday 27 October, Israel holds parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. Israelis elect the 120 members of the [[Knesset|knesset]], their Parliament, and whoever gathers 61 seats can form a government. The prime minister, [[Benjamin Netanyahu|netanyahu]], is trying to stay in power after years of political wear and tear and criticism over security on 7 October. His main rival is [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, whose party, Yashar, leads the latest [[polls|encuesta]].",
-     "According to the latest Channel 12 poll, from 23 October, Eisenkot's bloc would win 55 seats and Netanyahu's 51; the Arab parties would add about 14, so neither reaches 61. Yashar would win 23 seats and Netanyahu's Likud 19. That is why negotiations after the vote could be long, and the Arab parties and small lists could prove decisive. Campaign themes include the war in Gaza, military service for ultra-Orthodox Jews and the Arab vote."
+     "According to the latest Channel 12 poll, from 23 October, Eisenkot's bloc would win 55 seats and Netanyahu's 51; the Arab parties would add about 14, so neither reaches 61. Yashar would be the party with the most seats, ahead of Netanyahu's Likud. That is why negotiations after the vote could be long, and the Arab parties and small lists could prove decisive. Campaign themes include the war in Gaza, military service for ultra-Orthodox Jews and the Arab vote."
     ],
     "nota_actualizacion": "The latest Channel 12 poll (23 October) gives 55 seats to Eisenkot's bloc and 51 to Netanyahu's; neither reaches 61."
    }
@@ -1209,33 +1205,33 @@
    "id": "barca-lider-madrid-gana-liga-clasico-25-octubre",
    "seccion": "dep",
    "dibujo": "wembley",
-   "titular": "El Barça lidera la Liga con nueve victorias en nueve jornadas y el Madrid responde antes del Clásico",
-   "entradilla": "El Barcelona goleó 5-2 al Betis, el Madrid ganó 4-1 al Sevilla y los dos se ven las caras el domingo 25 en el Camp Nou.",
+   "titular": "Mbappé decide el Clásico: el Madrid gana 1-2 en el Camp Nou y recorta la ventaja del Barça a tres puntos",
+   "entradilla": "Mbappé marcó los dos goles, el segundo en el minuto 87, y el Barcelona perdió su primer partido de Liga después de nueve victorias seguidas.",
    "parrafos": [
-    "La jornada 9 de [[LaLiga|laliga]] dejó dos goleadas de los grandes. El Barcelona ganó 5-2 al Betis el sábado 17 y suma nueve victorias en nueve partidos, con 27 puntos. El domingo 18, el Real Madrid venció 4-1 al Sevilla, con dos goles de [[Kylian Mbappé|mbappe]], uno de ellos de penalti, y otro de Güler. El Atlético de Madrid, que ganó al Espanyol en el minuto 89, es segundo con 22 puntos; el Madrid es tercero con 21, y el Betis, cuarto con 19. El Barcelona llega con 39 goles a favor y solo 9 en contra.",
-    "Ahora llega el primer [[Clásico|clasico]] de la temporada, el domingo 25 de octubre a las 21:00 en el Camp Nou, en la jornada 10. Si el Barcelona gana, aumentará su ventaja sobre el Madrid; si gana el Madrid, se quedará a tres puntos. Ninguno llega completo: el Madrid no tendrá a Vinícius, sancionado con cuatro partidos por su expulsión ante el Villarreal, y el Barça no contará con Dani Olmo, lesionado ante el PSG, ni con Eric García. Un Clásico es el partido entre los dos clubes más laureados de España y se sigue en todo el mundo. Aún quedan muchas jornadas, pero este partido puede marcar el ánimo de la temporada."
+    "El Real Madrid ganó 1-2 al Barcelona el domingo 25 de octubre en el Camp Nou, en el primer [[Clásico|clasico]] de la temporada, con dos goles de [[Kylian Mbappé|mbappe]]. El delantero francés adelantó a los blancos en el minuto 41, aprovechando un rechace en el área. Raphinha empató para el Barça en el 61 y, a solo tres minutos del final, Mbappé marcó el segundo gol. El Madrid jugó sin Vinícius, sancionado con cuatro partidos por su expulsión ante el Villarreal, pero logró una victoria que deja a los azulgranas sin su récord perfecto en el campeonato de Liga.",
+    "Con la derrota, el Barcelona pierde su primer partido de [[LaLiga|laliga]] tras nueve victorias seguidas y se queda con 27 puntos; el Madrid sube a 24 y se coloca a tres del líder. Solo cinco días antes, el Barça había caído 4-2 en París ante el PSG en la [[Liga de Campeones|champions]], así que acumula dos derrotas en una semana. La temporada tiene 38 jornadas y falta casi todo por decidir, pero ganar un Clásico en el campo del rival da confianza al vencedor y obliga al líder a reaccionar."
    ],
-   "busqueda_imagenes": "Barcelona Real Madrid Clásico 25 octubre Camp Nou",
+   "busqueda_imagenes": "Barcelona Real Madrid Clásico Mbappé Camp Nou 25 octubre 2026",
    "fuentes": [
-    "Infobae (EFE)",
-    "Meridiano",
-    "El Independiente",
-    "ABC Color",
-    "Tunota",
-    "Telemundo",
-    "El Desmarque"
+    "ESPN",
+    "El Financiero",
+    "Clarosports",
+    "El Heraldo (Colombia)",
+    "El Espectador",
+    "Ámbito",
+    "Teleamazonas"
    ],
    "publicada": "2026-10-19",
-   "actualizada": "2026-10-23",
-   "nota_actualizacion": "Antes del Clásico, el Madrid pierde a Vinícius (sancionado con cuatro partidos) y el Barça, a Dani Olmo y Eric García por lesión.",
+   "actualizada": "2026-10-26",
+   "nota_actualizacion": "El Real Madrid ganó 1-2 al Barça en el Clásico, con dos goles de Mbappé, y se queda a tres puntos del líder.",
    "en": {
-    "titular": "Barça top La Liga with nine wins from nine and Madrid respond ahead of the Clásico",
-    "entradilla": "Barcelona thrashed Betis 5-2, Madrid beat Sevilla 4-1 and the two meet on Sunday 25 at the Camp Nou.",
+    "titular": "Mbappé decides the Clásico: Madrid win 2-1 at the Camp Nou and cut Barça's lead to three points",
+    "entradilla": "Mbappé scored both goals, the second in the 87th minute, and Barcelona lost their first league match after nine straight wins.",
     "parrafos": [
-     "Matchday 9 of [[LaLiga|laliga]] brought two big wins for the giants. Barcelona beat Betis 5-2 on Saturday 17 and have won nine out of nine, with 27 points. On Sunday 18, Real Madrid beat Sevilla 4-1, with two goals from [[Kylian Mbappé|mbappe]], one of them a penalty, and another from Güler. Atlético de Madrid, who beat Espanyol in the 89th minute, are second with 22 points; Madrid are third with 21, and Betis fourth with 19. Barcelona arrive with 39 goals scored and only 9 conceded.",
-     "Now comes the first [[Clásico|clasico]] of the season, on Sunday 25 October at 21:00 at the Camp Nou, in round 10. If Barcelona win, they will extend their lead over Madrid; if Madrid win, they will be three points behind. Neither side arrives at full strength: Madrid will be without Vinícius, banned for four matches after his red card against Villarreal, and Barça will be without Dani Olmo, injured against PSG, and Eric García. A Clásico is the match between the two most successful clubs in Spain and is followed all over the world. There are still many rounds to go, but this match could set the mood for the season."
+     "Real Madrid won 2-1 away at Barcelona on Sunday 25 October, at the Camp Nou, in the first [[Clásico|clasico]] of the season, with two goals from [[Kylian Mbappé|mbappe]]. The French striker put the visitors ahead in the 41st minute, pouncing on a rebound in the box. Raphinha levelled for Barça in the 61st and, with only three minutes left, Mbappé scored the second goal. Madrid played without Vinícius, who is banned for four matches after his sending-off against Villarreal, but they took a win that ends the Catalans' perfect record in the league.",
+     "With the defeat, Barcelona lose their first [[LaLiga|laliga]] match after nine wins in a row and stay on 27 points; Madrid go up to 24 and sit three behind the leaders. Just five days earlier, Barça had lost 4-2 in Paris to PSG in the [[Champions League|champions]], so they have now lost twice in a week. The season has 38 rounds and almost everything is still to be decided, but winning a Clásico on the rival's pitch gives the winner confidence and forces the leader to react."
     ],
-    "nota_actualizacion": "Ahead of the Clásico, Madrid lose Vinícius (banned for four matches) and Barça lose Dani Olmo and Eric García through injury."
+    "nota_actualizacion": "Real Madrid beat Barça 2-1 in the Clásico, with two goals from Mbappé, and are now three points behind the leaders."
    }
   },
   {
@@ -1565,19 +1561,19 @@
   "lula": {
    "t": "persona",
    "n": "Luiz Inácio Lula da Silva",
-   "x": "Es el presidente de Brasil. Ya lo fue entre 2003 y 2010 y volvió a ganar en 2022.",
+   "x": "Es el presidente de Brasil. Ya lo fue entre 2003 y 2010, volvió a ganar en 2022 y el 25 de octubre de 2026 fue reelegido para un cuarto mandato.",
    "en": {
     "n": "Luiz Inácio Lula da Silva",
-    "x": "He is the president of Brazil. He already held the job from 2003 to 2010 and won again in 2022."
+    "x": "He is the president of Brazil. He already held the job from 2003 to 2010, won again in 2022 and was re-elected for a fourth term on 25 October 2026."
    }
   },
   "flavio": {
    "t": "persona",
    "n": "Flávio Bolsonaro",
-   "x": "Senador brasileño y principal rival de Lula. Es hijo del expresidente Jair Bolsonaro.",
+   "x": "Senador brasileño e hijo del expresidente Jair Bolsonaro. Fue el rival de Lula en la segunda vuelta de 2026 y perdió.",
    "en": {
     "n": "Flávio Bolsonaro",
-    "x": "A Brazilian senator and Lula's main rival. He is the son of former president Jair Bolsonaro."
+    "x": "A Brazilian senator and son of former president Jair Bolsonaro. He was Lula's rival in the 2026 second round and lost."
    }
   },
   "segundavuelta": {
@@ -3181,11 +3177,47 @@
     "n": "Ministry of the Interior",
     "x": "The Spanish Government department that runs the National Police and the Civil Guard and is responsible for public security."
    }
+  },
+  "stf": {
+   "t": "palabra",
+   "n": "Supremo Tribunal Federal",
+   "x": "El tribunal más alto de Brasil. Sus jueces, llamados ministros, vigilan que se cumpla la Constitución.",
+   "en": {
+    "n": "Federal Supreme Court",
+    "x": "Brazil's highest court. Its judges, called ministers, make sure the Constitution is respected."
+   }
+  },
+  "tractorada": {
+   "t": "palabra",
+   "n": "Tractorada",
+   "x": "Protesta en la que agricultores y ganaderos van con sus tractores a una ciudad para pedir mejoras a las autoridades.",
+   "en": {
+    "n": "Tractor protest",
+    "x": "A protest in which farmers and livestock breeders drive their tractors into a city to ask the authorities for improvements."
+   }
+  },
+  "pac": {
+   "t": "palabra",
+   "n": "PAC (Política Agrícola Común)",
+   "x": "El sistema de ayudas de la Unión Europea al campo. Reparte dinero a agricultores y ganaderos de todos los países miembros.",
+   "en": {
+    "n": "CAP (Common Agricultural Policy)",
+    "x": "The European Union's system of support for farming. It distributes money to farmers and livestock breeders in all member countries."
+   }
+  },
+  "mercosur": {
+   "t": "palabra",
+   "n": "Mercosur",
+   "x": "Bloque comercial de países sudamericanos como Brasil, Argentina, Uruguay y Paraguay. La Unión Europea ha negociado con él un acuerdo comercial que parte del campo europeo cuestiona.",
+   "en": {
+    "n": "Mercosur",
+    "x": "A trade bloc of South American countries such as Brazil, Argentina, Uruguay and Paraguay. The European Union has negotiated a trade agreement with it that part of European farming questions."
+   }
   }
  },
- "edicion_en": "Sunday 25 October 2026",
+ "edicion_en": "Monday 26 October 2026",
  "destacada": {
-  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-10-25"
+  "id": "brasil-elige-presidente-este-domingo",
+  "fecha": "2026-10-26"
  }
 }
