@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-26T07:00:00+01:00",
- "edicion": "Lunes 26 de octubre de 2026",
+ "actualizado": "2026-10-27T07:10:00+01:00",
+ "edicion": "Martes 27 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -185,11 +185,11 @@
    "id": "dana-adam-almeria-inundaciones-alerta-roja-valencia",
    "seccion": "and",
    "dibujo": "rain",
-   "titular": "La dana Adam deja cinco muertos, uno en Málaga, y Sánchez anuncia zona catastrófica para los municipios afectados",
-   "entradilla": "Aemet prevé cielos poco nubosos en Andalucía desde el miércoles; en el sur de Valencia se superaron los 700 litros por metro cuadrado.",
+   "titular": "La dana Adam deja cinco muertos, uno en Málaga, y el Gobierno aprobará hoy la declaración de zona catastrófica",
+   "entradilla": "El Consejo de Ministros lo aprobará este martes; el Consorcio de Seguros suma 150 peritos tras recibir unas 13.000 solicitudes hasta el domingo.",
    "parrafos": [
-    "La [[dana|dana]] Adam ha causado cinco muertes. Una mujer fue arrastrada el sábado por una riera en Cabrera de Mar (Barcelona) y otra fue hallada sin vida tras bañarse en Sagunto (Valencia). El lunes 19 murieron dos personas en Oliva (Valencia) y un hombre en Benaoján (Málaga), al que le cayó una roca sobre el coche; otras tres personas resultaron heridas. En el sur de Valencia y el norte de Alicante se superaron los 700 litros por metro cuadrado y hubo cerca de un millar de rescates. Desde Oliva, Pedro Sánchez anunció el martes que el Consejo de Ministros declarará zona catastrófica los municipios afectados, lo que activa ayudas del Estado.",
-    "En Andalucía, el 112 gestionó 673 emergencias entre el sábado 17 al mediodía y el lunes 19 por la tarde: Almería (175), Cádiz (155), Málaga (150) y Sevilla (81), con casas inundadas, desprendimientos y rescates. La [[Aemet|aemet]] prevé que la dana se debilite y que desde el miércoles 21 las altas presiones dejen cielos despejados o poco nubosos en gran parte de la península, también en Andalucía. Aun así, las autoridades repiten que durante una dana hay que alejarse de ríos, rieras y barrancos y hacer caso al aviso [[Es-Alert|esalert]] del móvil. En octubre de 2024 una dana dejó en Valencia más de 200 muertos."
+    "La [[dana|dana]] Adam ha causado cinco muertes. Una mujer fue arrastrada el sábado por una riera en Cabrera de Mar (Barcelona) y otra fue hallada sin vida tras bañarse en Sagunto (Valencia). El lunes 19 murieron dos personas en Oliva (Valencia) y un hombre en Benaoján (Málaga), al que le cayó una roca sobre el coche; otras tres personas resultaron heridas. En el sur de Valencia y el norte de Alicante se superaron los 700 litros por metro cuadrado y hubo cerca de un millar de rescates. Pedro Sánchez anunció desde Oliva que el Consejo de Ministros declararía [[zona afectada gravemente|zonacatastrofica]] los municipios afectados, lo que activa ayudas del Estado, y este martes 27 lo aprobará.",
+    "En Andalucía, el 112 gestionó 673 emergencias entre el sábado 17 al mediodía y el lunes 19 por la tarde: Almería (175), Cádiz (155), Málaga (150) y Sevilla (81), con casas inundadas, desprendimientos y rescates. En Valencia, el [[Consorcio de Compensación de Seguros|consorcio]], el organismo público que paga los daños a quienes tienen seguro, había recibido hasta el domingo unas 13.000 solicitudes, la mitad de Oliva, y añadirá 150 peritos para ir más rápido. Las autoridades repiten que durante una dana hay que alejarse de ríos, rieras y barrancos y hacer caso al aviso [[Es-Alert|esalert]] del móvil. En octubre de 2024 una dana dejó en Valencia más de 200 muertos."
    ],
    "busqueda_imagenes": "dana Adam Almería El Ejido inundaciones",
    "fuentes": [
@@ -206,16 +206,16 @@
     "Qué!"
    ],
    "publicada": "2026-10-18",
-   "actualizada": "2026-10-21",
-   "nota_actualizacion": "Sánchez anunció el 20 de octubre que los municipios afectados serán zona catastrófica; la dana suma cinco muertos y más de 700 litros por metro cuadrado en el sur de Valencia.",
+   "actualizada": "2026-10-27",
+   "nota_actualizacion": "El Consejo de Ministros aprobará este martes la declaración de zona afectada gravemente; el Consorcio de Seguros recibió unas 13.000 solicitudes hasta el domingo y añadirá 150 peritos.",
    "en": {
-    "titular": "Storm Adam leaves five dead, one in Málaga, and Sánchez announces disaster-zone status for the affected municipalities",
-    "entradilla": "Aemet expects clearer skies in Andalusia from Wednesday; more than 700 litres per square metre fell in southern Valencia.",
+    "titular": "Storm Adam leaves five dead, one in Málaga, and the Government will approve disaster-zone status today",
+    "entradilla": "The Council of Ministers will approve it on Tuesday; the Insurance Compensation Consortium is adding 150 assessors after receiving about 13,000 claims by Sunday.",
     "parrafos": [
-     "Storm [[DANA|dana]] Adam has caused five deaths. A woman was swept away on Saturday by a stream at Cabrera de Mar (Barcelona) and another was found dead after swimming at Sagunto (Valencia). On Monday 19 two people died in Oliva (Valencia) and a man in Benaoján (Málaga), whose car was hit by a falling rock; three other people were injured. More than 700 litres per square metre fell in southern Valencia and northern Alicante, and there were about a thousand rescues. From Oliva, Pedro Sánchez announced on Tuesday that the Council of Ministers will declare the affected municipalities a disaster zone, which unlocks State aid.",
-     "In Andalusia, the 112 service handled 673 emergencies between midday on Saturday 17 and Monday 19 afternoon: Almería (175), Cádiz (155), Málaga (150) and Seville (81), with flooded homes, landslides and rescues. [[Aemet|aemet]] expects the storm to weaken and, from Wednesday 21 high pressure to leave clear or partly cloudy skies across much of the peninsula, including Andalusia. Even so, the authorities keep repeating that during a DANA people should stay away from rivers, streams and ravines and heed the [[Es-Alert|esalert]] warning on their phones. In October 2024 a DANA left more than 200 dead in Valencia."
+     "Storm [[DANA|dana]] Adam has caused five deaths. A woman was swept away on Saturday by a stream at Cabrera de Mar (Barcelona) and another was found dead after swimming at Sagunto (Valencia). On Monday 19 two people died in Oliva (Valencia) and a man in Benaoján (Málaga), whose car was hit by a falling rock; three other people were injured. More than 700 litres per square metre fell in southern Valencia and northern Alicante, and there were about a thousand rescues. Pedro Sánchez announced from Oliva that the Council of Ministers would declare the affected municipalities a [[seriously affected zone|zonacatastrofica]], which unlocks State aid, and this Tuesday 27 it will approve it.",
+     "In Andalusia, the 112 service handled 673 emergencies between midday on Saturday 17 and Monday 19 afternoon: Almería (175), Cádiz (155), Málaga (150) and Seville (81), with flooded homes, landslides and rescues. In Valencia, the [[Insurance Compensation Consortium|consorcio]], the public body that pays for damage to people who have insurance, had received about 13,000 claims by Sunday, half of them from Oliva, and will add 150 assessors to speed things up. The authorities keep repeating that during a DANA people should stay away from rivers, streams and ravines and heed the [[Es-Alert|esalert]] warning on their phones. In October 2024 a DANA left more than 200 dead in Valencia."
     ],
-    "nota_actualizacion": "Sánchez announced on 20 October that the affected municipalities will be a disaster zone; the storm has left five dead and more than 700 litres per square metre fell in southern Valencia."
+    "nota_actualizacion": "The Council of Ministers will approve the seriously-affected-zone declaration this Tuesday; the Insurance Consortium received about 13,000 claims by Sunday and will add 150 assessors."
    }
   },
   {
@@ -357,11 +357,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán dice que otros dos superpetroleros tocaron minas, Trump dice que EE. UU. podría atacar de nuevo y el crudo cierra en 116 dólares",
-   "entradilla": "Irán asegura que el viernes dos superpetroleros más tocaron minas; no hay confirmación independiente y Trump no descarta otro ataque.",
+   "titular": "Ormuz: Arabia Saudí, Turquía y Pakistán dialogan con Irán en Teherán para evitar que vuelva la guerra",
+   "entradilla": "Los cuatro países acordaron seguir hablando, mientras Irán dice que dos superpetroleros más tocaron minas y Trump no descarta otro ataque.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Según la Guardia Revolucionaria iraní, entre el miércoles y el jueves siete petroleros se incendiaron o chocaron con minas, y el viernes otros dos superpetroleros, con más de 4,5 millones de barriles de crudo, tocaron minas en una ruta «no autorizada». No hay confirmación independiente. Trump acusó a Irán de inventar incidentes para encarecer el petróleo antes de las elecciones estadounidenses del 3 de noviembre, y en un mitin dijo que EE. UU. «podría hacer otra pequeña Furia Épica». Irán puso sus fuerzas en alerta y su jefe del Estado Mayor, Ali Abdollahi, afirmó que no permitirá entrar a buques de guerra de EE. UU. en el Golfo. El viernes el Brent superó los 116 dólares."
+    "El lunes 26, el ministro de Defensa saudí, Khalid bin Salman, el jefe del Ejército de Pakistán, Asim Munir, y el jefe de inteligencia de Turquía, Ibrahim Kalin, se reunieron en Teherán con el jefe de Seguridad de Irán, Mohsen Rezaei. Dijeron que quieren apoyar el diálogo y la mediación de Catar y Pakistán, y los cuatro países acordaron seguir hablando. Temen que Estados Unidos e Israel reanuden los ataques, quizá tras las elecciones estadounidenses del 3 de noviembre. El viernes, según la Guardia Revolucionaria iraní, otros dos superpetroleros tocaron minas, sin confirmación independiente. Trump dijo en un mitin que EE. UU. «podría hacer otra pequeña Furia Épica», y el Brent superó los 116 dólares."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -393,16 +393,16 @@
     "Prensa Latina"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-25",
-   "nota_actualizacion": "La Guardia Revolucionaria dice que otros dos superpetroleros tocaron minas el viernes; Trump dice que EE. UU. podría atacar de nuevo y el Brent superó los 116 dólares.",
+   "actualizada": "2026-10-27",
+   "nota_actualizacion": "El 26 de octubre Arabia Saudí, Turquía y Pakistán se reunieron en Teherán con responsables iraníes y acordaron seguir dialogando para evitar que se reanude la guerra.",
    "en": {
-    "titular": "Hormuz: Iran says two more supertankers hit mines, Trump says the US could strike again, and crude closes at 116 dollars",
-    "entradilla": "Iran says two more supertankers hit mines on Friday; there is no independent confirmation and Trump does not rule out another attack.",
+    "titular": "Hormuz: Saudi Arabia, Turkey and Pakistan hold talks with Iran in Tehran to stop the war from returning",
+    "entradilla": "The four countries agreed to keep talking, while Iran says two more supertankers hit mines and Trump does not rule out another attack.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "According to Iran's Revolutionary Guard, between Wednesday and Thursday seven tankers caught fire or hit mines, and on Friday two more supertankers, carrying more than 4.5 million barrels of crude, hit mines on an 'unauthorised' route. There is no independent confirmation. Donald Trump accused Iran of making up incidents to push up the oil price before the US elections on 3 November, and at a rally said the US 'may do another little Epic Fury'. Iran put its forces on alert and its chief of staff, Ali Abdollahi, said it will not allow US warships into the Gulf. On Friday Brent rose above 116 dollars."
+     "On Monday 26, Saudi Arabia's defence minister, Khalid bin Salman, Pakistan's army chief, Asim Munir, and Turkey's intelligence chief, Ibrahim Kalin, met in Tehran with Iran's security chief, Mohsen Rezaei. They said they want to support dialogue and the mediation of Qatar and Pakistan, and the four countries agreed to keep talking. They fear that the United States and Israel could resume their attacks, perhaps after the US elections on 3 November. On Friday, according to Iran's Revolutionary Guard, two more supertankers hit mines, with no independent confirmation. Donald Trump said at a rally that the US 'may do another little Epic Fury', and Brent rose above 116 dollars."
     ],
-    "nota_actualizacion": "The Revolutionary Guard says two more supertankers hit mines on Friday; Trump says the US could strike again and Brent rose above 116 dollars."
+    "nota_actualizacion": "On 26 October Saudi Arabia, Turkey and Pakistan met Iranian officials in Tehran and agreed to keep talking to stop the war from resuming."
    }
   },
   {
@@ -528,7 +528,7 @@
    "entradilla": "Son las primeras elecciones desde el ataque de Hamás de 2023 y las encuestas no dan los 61 escaños necesarios a ningún bloque.",
    "parrafos": [
     "El martes 27 de octubre, Israel celebra elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Los israelíes eligen a los 120 diputados de la [[Knesset|knesset]], su Parlamento, y quien reúna 61 escaños podrá formar Gobierno. El primer ministro, [[Benjamín Netanyahu|netanyahu]], busca seguir en el poder tras años de desgaste político y críticas por la seguridad del 7 de octubre. Su principal rival es [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, cuyo partido, Yashar, encabeza las últimas [[encuestas|encuesta]].",
-    "Según el último sondeo del Canal 12, del 23 de octubre, el bloque de Eisenkot tendría 55 escaños y el de Netanyahu, 51; los partidos árabes sumarían unos 14, así que ninguno llega a los 61. Yashar sería el partido con más escaños, por delante del Likud de Netanyahu. Por eso las negociaciones después del voto podrían ser largas, y los partidos árabes y las listas pequeñas podrían ser decisivos. Entre los temas de campaña están la guerra de Gaza, el servicio militar de los judíos ultraortodoxos y el voto árabe."
+    "Los colegios abrieron a las 7:00 hora local (las 6:00 en España) y cierran a las 22:00. Unos 7,3 millones de personas pueden votar y compiten 38 partidos, de los que se espera que solo 11 superen el umbral del 3,25 % de los votos para entrar en la Knesset. Según las últimas encuestas de las tres grandes cadenas de televisión, publicadas tres días antes, el bloque de Eisenkot tendría entre 52 y 56 escaños y el de Netanyahu, 50, así que ninguno llegaría por sí solo a 61. Por eso las negociaciones después del voto podrían ser largas, y los partidos árabes y las listas pequeñas podrían ser decisivos."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -541,16 +541,16 @@
     "Infobae (EFE)"
    ],
    "publicada": "2026-10-20",
-   "actualizada": "2026-10-24",
-   "nota_actualizacion": "El último sondeo del Canal 12 (23 de octubre) da 55 escaños al bloque de Eisenkot y 51 al de Netanyahu; ninguno llega a 61.",
+   "actualizada": "2026-10-27",
+   "nota_actualizacion": "Los colegios abrieron hoy a las 7:00 (hora local); las últimas encuestas de las tres grandes cadenas dan entre 52 y 56 escaños al bloque de Eisenkot y 50 al de Netanyahu.",
    "en": {
     "titular": "Israel votes on 27 October with Eisenkot's bloc ahead of Netanyahu's, but no clear majority",
     "entradilla": "It is the first election since the 2023 Hamas attack, and polls give neither bloc the 61 seats needed.",
     "parrafos": [
      "On Tuesday 27 October, Israel holds parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. Israelis elect the 120 members of the [[Knesset|knesset]], their Parliament, and whoever gathers 61 seats can form a government. The prime minister, [[Benjamin Netanyahu|netanyahu]], is trying to stay in power after years of political wear and tear and criticism over security on 7 October. His main rival is [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, whose party, Yashar, leads the latest [[polls|encuesta]].",
-     "According to the latest Channel 12 poll, from 23 October, Eisenkot's bloc would win 55 seats and Netanyahu's 51; the Arab parties would add about 14, so neither reaches 61. Yashar would be the party with the most seats, ahead of Netanyahu's Likud. That is why negotiations after the vote could be long, and the Arab parties and small lists could prove decisive. Campaign themes include the war in Gaza, military service for ultra-Orthodox Jews and the Arab vote."
+     "Polling stations opened at 7:00 local time (6:00 in Spain) and close at 22:00. About 7.3 million people can vote and 38 parties are standing, of which only 11 are expected to clear the 3.25% threshold of the vote needed to enter the Knesset. According to the latest polls from the three main television channels, published three days earlier, Eisenkot's bloc would win between 52 and 56 seats and Netanyahu's 50, so neither would reach 61 on its own. That is why negotiations after the vote could be long, and the Arab parties and small lists could prove decisive."
     ],
-    "nota_actualizacion": "The latest Channel 12 poll (23 October) gives 55 seats to Eisenkot's bloc and 51 to Netanyahu's; neither reaches 61."
+    "nota_actualizacion": "Polling stations opened today at 7:00 (local time); the latest polls from the three main channels give between 52 and 56 seats to Eisenkot's bloc and 50 to Netanyahu's."
    }
   },
   {
@@ -1164,41 +1164,33 @@
    }
   },
   {
-   "id": "mohamed-vi-rompe-su-silencio-sobre-ceuta",
+   "id": "pacto-pp-vox-senado-elecciones-29-noviembre",
    "seccion": "es",
-   "dibujo": "megaphone",
-   "titular": "Los Reyes visitan Ceuta y Felipe VI afirma que la soberanía de España «no es negociable»",
-   "entradilla": "Felipe VI y Letizia visitaron Ceuta el martes y Melilla el miércoles, unos dos meses y medio después de la entrada masiva de personas desde Marruecos.",
+   "dibujo": "ballot",
+   "titular": "PP y Vox pactan cómo repartirse las candidaturas al Senado en las elecciones del 29 de noviembre",
+   "entradilla": "Vox se retira en seis provincias, el PP no se presenta en tres y en catorce habrá tres candidatos del PP y uno de Vox; el pacto solo vale para el Senado.",
    "parrafos": [
-    "El martes 13 de octubre, Felipe VI y Letizia visitaron [[Ceuta|ceuta]] por primera vez como Reyes: es la primera visita de la Casa Real a la ciudad en 19 años. A finales de julio de 2026 entraron de forma irregular desde [[Marruecos|marruecos]] más de 70.000 personas, según las estimaciones, el mayor episodio en esa [[frontera|frontera]] en años, y la mayoría regresó después. Los Reyes participaron en un homenaje ecuménico en el cementerio musulmán de Sidi Embarek, en memoria de migrantes fallecidos. El miércoles 14 visitaron Melilla, donde cientos de personas los recibieron con vítores. La visita llega mes y medio antes de las elecciones, y el líder del PP, Alberto Núñez Feijóo, criticó que [[Pedro Sánchez|sanchez]] no les acompañara.",
-    "En su discurso, Felipe VI dijo que Ceuta y Melilla son parte irrenunciable de España y que su soberanía y su integridad territorial «no son negociables». Cuatro días antes, [[Mohamed VI|mohamedvi]] había asegurado, al abrir el Parlamento marroquí, que la asociación de su país con España no puede someterse a presiones ni chantajes. El diario ABC publicó que una patrullera marroquí estuvo horas en aguas de Ceuta el jueves 15; el Gobierno y la Guardia Civil lo desmienten. El martes 20, [[Donald Trump|trump]] afirmó que España fue «invadida de forma repentina y masiva» y que «no está haciendo nada»; habló de más de cien mil personas, frente a las más de 70.000 de las estimaciones."
+    "El lunes 26 de octubre, horas antes de que acabara el plazo para presentar candidaturas a las [[elecciones del 29 de noviembre|elecciones]], el [[PP|pp]] y [[Vox|vox]] anunciaron un pacto para el [[Senado|senado]]. El PP no presentará lista en Gipuzkoa, Girona y Tarragona, y Vox se retira en seis provincias (Las Palmas, Santa Cruz de Tenerife, Cádiz, Valencia, Castellón y Baleares), donde el PP incluirá a independientes propuestos por Vox. En otras catorce, entre ellas Sevilla, Huelva, Granada y Jaén, el PP presentará tres candidatos y Vox, uno. El acuerdo solo afecta al Senado: en el Congreso cada partido irá por su cuenta.",
+    "El PP habla de «entendimiento» y de «sentido de Estado», y Vox lo presenta como un gesto para frenar a Pedro Sánchez. Según los medios, el objetivo es lograr tres quintos del Senado, la mayoría necesaria para renovar sin el PSOE a cuatro magistrados del [[Tribunal Constitucional|tc]] cuyo mandato lleva tiempo caducado; calculan reunir entre 125 y 140 senadores. En la mayoría de las provincias se eligen cuatro senadores y cada persona puede votar a tres, así que repartirse las listas evita dividir el voto de la derecha. La izquierda, con el PSOE a la cabeza, también presenta candidaturas conjuntas al Senado."
    ],
-   "busqueda_imagenes": "Reyes Felipe VI Letizia visita Ceuta",
+   "busqueda_imagenes": "Senado pacto PP Vox candidaturas 29N",
    "fuentes": [
-    "Infobae",
-    "El Plural",
-    "Infodefensa",
-    "El Español",
+    "Infobae (Europa Press)",
     "Moncloa.com",
-    "France 24",
-    "The Objective",
-    "Euronews",
-    "Ceuta Actualidad",
-    "RTVCE",
-    "Infobae (agencias)",
-    "El Imparcial"
+    "Qué!",
+    "Press Digital"
    ],
-   "publicada": "2026-10-10",
-   "actualizada": "2026-10-21",
-   "nota_actualizacion": "El 20 de octubre Trump dijo que España fue «invadida» por inmigrantes y que su Gobierno «no hace nada»; habló de más de 100.000 personas, más que las estimaciones.",
+   "publicada": "2026-10-27",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "The King and Queen visit Ceuta and Felipe VI says Spain's sovereignty is 'not negotiable'",
-    "entradilla": "Felipe VI and Letizia visited Ceuta on Tuesday and Melilla on Wednesday, about two and a half months after the mass entry of people from Morocco.",
+    "titular": "PP and Vox agree how to share out their Senate candidacies in the 29 November election",
+    "entradilla": "Vox steps aside in six provinces, the PP does not stand in three and in fourteen there will be three PP candidates and one from Vox; the pact applies only to the Senate.",
     "parrafos": [
-     "On Tuesday 13 October, Felipe VI and Letizia visited [[Ceuta|ceuta]] for the first time as King and Queen: it is the first visit by the Royal Household to the city in 19 years. At the end of July 2026, according to estimates, more than 70,000 people entered irregularly from [[Morocco|marruecos]], the biggest episode on that [[border|frontera]] in years, and most went back afterwards. The monarchs took part in an ecumenical tribute at the Muslim cemetery of Sidi Embarek, in memory of migrants who died. On Wednesday 14 they visited Melilla, where hundreds of people welcomed them with cheers. The visit comes a month and a half before the election, and the PP leader, Alberto Núñez Feijóo, criticised the fact that [[Pedro Sánchez|sanchez]] did not accompany them.",
-     "In his speech, Felipe VI said that Ceuta and Melilla are an inalienable part of Spain and that its sovereignty and territorial integrity are 'not negotiable'. Four days earlier, at the opening of the Moroccan Parliament, [[Mohamed VI|mohamedvi]] had said that his country's partnership with Spain cannot be subject to pressure or blackmail. The newspaper ABC reported that a Moroccan patrol boat spent hours in waters off Ceuta on Thursday 15; the Government and the Civil Guard deny it. On Tuesday 20, [[Donald Trump|trump]] claimed that Spain was 'suddenly and massively invaded' and that it is 'not doing anything about it'; he spoke of more than a hundred thousand people, against the more than 70,000 in the estimates."
+     "On Monday 26 October, hours before the deadline for submitting candidacies for the [[29 November election|elecciones]], the [[PP|pp]] and [[Vox|vox]] announced a pact for the [[Senate|senado]]. The PP will not field a list in Gipuzkoa, Girona and Tarragona, and Vox is withdrawing in six provinces (Las Palmas, Santa Cruz de Tenerife, Cádiz, Valencia, Castellón and the Balearic Islands), where the PP will include independents proposed by Vox. In another fourteen, including Seville, Huelva, Granada and Jaén, the PP will field three candidates and Vox one. The deal covers only the Senate: in the Congress each party will go it alone.",
+     "The PP talks of an 'understanding' and a 'sense of State', and Vox presents it as a gesture to stop Pedro Sánchez. According to the media, the aim is to win three-fifths of the Senate, the majority needed to renew, without the PSOE, four judges of the [[Constitutional Court|tc]] whose terms expired some time ago; they calculate they could gather between 125 and 140 senators. In most provinces four senators are elected and each person can vote for three, so sharing out the lists avoids splitting the right-wing vote. The left, led by the PSOE, is also presenting joint candidacies for the Senate."
     ],
-    "nota_actualizacion": "On 20 October Trump said Spain was 'invaded' by immigrants and that its Government 'is doing nothing'; he spoke of more than 100,000 people, more than the estimates."
+    "nota_actualizacion": null
    }
   },
   {
@@ -3213,11 +3205,47 @@
     "n": "Mercosur",
     "x": "A trade bloc of South American countries such as Brazil, Argentina, Uruguay and Paraguay. The European Union has negotiated a trade agreement with it that part of European farming questions."
    }
+  },
+  "senado": {
+   "t": "lugar",
+   "n": "Senado",
+   "x": "Una de las dos cámaras de las Cortes Generales, junto al Congreso. Representa a los territorios y revisa las leyes; también propone a cuatro de los 12 magistrados del Tribunal Constitucional.",
+   "en": {
+    "n": "Senate",
+    "x": "One of the two chambers of Spain's Parliament, alongside the Congress. It represents the territories and reviews laws; it also nominates four of the 12 judges of the Constitutional Court."
+   }
+  },
+  "pp": {
+   "t": "palabra",
+   "n": "Partido Popular (PP)",
+   "x": "Partido político de centroderecha y principal partido de la oposición en España. Su líder es Alberto Núñez Feijóo.",
+   "en": {
+    "n": "People's Party (PP)",
+    "x": "A centre-right political party and the main opposition party in Spain. Its leader is Alberto Núñez Feijóo."
+   }
+  },
+  "zonacatastrofica": {
+   "t": "palabra",
+   "n": "Zona afectada gravemente",
+   "x": "Nombre oficial de lo que se suele llamar zona catastrófica: un lugar golpeado por una emergencia, como unas inundaciones, al que el Estado envía ayudas especiales.",
+   "en": {
+    "n": "Seriously affected zone",
+    "x": "The official name for what is often called a disaster zone: a place hit by an emergency, such as floods, to which the State sends special aid."
+   }
+  },
+  "consorcio": {
+   "t": "lugar",
+   "n": "Consorcio de Compensación de Seguros",
+   "x": "Organismo público que paga los daños causados por catástrofes, como inundaciones, a las personas que tienen un seguro.",
+   "en": {
+    "n": "Insurance Compensation Consortium",
+    "x": "A public body that pays for damage caused by disasters, such as floods, to people who have insurance."
+   }
   }
  },
- "edicion_en": "Monday 26 October 2026",
+ "edicion_en": "Tuesday 27 October 2026",
  "destacada": {
-  "id": "brasil-elige-presidente-este-domingo",
-  "fecha": "2026-10-26"
+  "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
+  "fecha": "2026-10-27"
  }
 }
