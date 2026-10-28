@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-27T07:10:00+01:00",
- "edicion": "Martes 27 de octubre de 2026",
+ "actualizado": "2026-10-28T07:30:00+01:00",
+ "edicion": "Miércoles 28 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -185,10 +185,10 @@
    "id": "dana-adam-almeria-inundaciones-alerta-roja-valencia",
    "seccion": "and",
    "dibujo": "rain",
-   "titular": "La dana Adam deja cinco muertos, uno en Málaga, y el Gobierno aprobará hoy la declaración de zona catastrófica",
-   "entradilla": "El Consejo de Ministros lo aprobará este martes; el Consorcio de Seguros suma 150 peritos tras recibir unas 13.000 solicitudes hasta el domingo.",
+   "titular": "La dana Adam deja siete muertos y el Gobierno declara zona catastrófica 45 territorios de nueve comunidades",
+   "entradilla": "El Consejo de Ministros lo aprobó el martes 27; el Consorcio de Seguros suma 150 peritos tras recibir unas 13.000 solicitudes hasta el domingo.",
    "parrafos": [
-    "La [[dana|dana]] Adam ha causado cinco muertes. Una mujer fue arrastrada el sábado por una riera en Cabrera de Mar (Barcelona) y otra fue hallada sin vida tras bañarse en Sagunto (Valencia). El lunes 19 murieron dos personas en Oliva (Valencia) y un hombre en Benaoján (Málaga), al que le cayó una roca sobre el coche; otras tres personas resultaron heridas. En el sur de Valencia y el norte de Alicante se superaron los 700 litros por metro cuadrado y hubo cerca de un millar de rescates. Pedro Sánchez anunció desde Oliva que el Consejo de Ministros declararía [[zona afectada gravemente|zonacatastrofica]] los municipios afectados, lo que activa ayudas del Estado, y este martes 27 lo aprobará.",
+    "La [[dana|dana]] Adam ha causado siete muertes, según la portavoz del Gobierno, Elma Saiz. Entre ellas, una mujer arrastrada por una riera en Cabrera de Mar (Barcelona), otra hallada sin vida tras bañarse en Sagunto (Valencia), dos personas en Oliva (Valencia) y un hombre en Benaoján (Málaga), al que le cayó una roca sobre el coche. En el sur de Valencia y el norte de Alicante se superaron los 700 litros por metro cuadrado y hubo cerca de un millar de rescates. El martes 27, el Consejo de Ministros aprobó declarar [[zona afectada gravemente|zonacatastrofica]] a 45 territorios de nueve comunidades, entre ellos la Marina Alta y la Safor, en Valencia, e Ibiza y Formentera, lo que activa ayudas del Estado.",
     "En Andalucía, el 112 gestionó 673 emergencias entre el sábado 17 al mediodía y el lunes 19 por la tarde: Almería (175), Cádiz (155), Málaga (150) y Sevilla (81), con casas inundadas, desprendimientos y rescates. En Valencia, el [[Consorcio de Compensación de Seguros|consorcio]], el organismo público que paga los daños a quienes tienen seguro, había recibido hasta el domingo unas 13.000 solicitudes, la mitad de Oliva, y añadirá 150 peritos para ir más rápido. Las autoridades repiten que durante una dana hay que alejarse de ríos, rieras y barrancos y hacer caso al aviso [[Es-Alert|esalert]] del móvil. En octubre de 2024 una dana dejó en Valencia más de 200 muertos."
    ],
    "busqueda_imagenes": "dana Adam Almería El Ejido inundaciones",
@@ -203,30 +203,33 @@
     "Nuevaradio",
     "Libertad Digital",
     "Elmira",
-    "Qué!"
+    "Qué!",
+    "Deia",
+    "Periódico de Ibiza",
+    "elDiario.es (La Marina)"
    ],
    "publicada": "2026-10-18",
-   "actualizada": "2026-10-27",
-   "nota_actualizacion": "El Consejo de Ministros aprobará este martes la declaración de zona afectada gravemente; el Consorcio de Seguros recibió unas 13.000 solicitudes hasta el domingo y añadirá 150 peritos.",
+   "actualizada": "2026-10-28",
+   "nota_actualizacion": "El 27 de octubre el Gobierno aprobó la declaración de zona afectada gravemente para 45 territorios de nueve comunidades y cifra en siete los muertos.",
    "en": {
-    "titular": "Storm Adam leaves five dead, one in Málaga, and the Government will approve disaster-zone status today",
-    "entradilla": "The Council of Ministers will approve it on Tuesday; the Insurance Compensation Consortium is adding 150 assessors after receiving about 13,000 claims by Sunday.",
+    "titular": "Storm Adam leaves seven dead and the Government declares 45 areas in nine regions a disaster zone",
+    "entradilla": "The Council of Ministers approved it on Tuesday 27; the Insurance Compensation Consortium is adding 150 assessors after receiving about 13,000 claims by Sunday.",
     "parrafos": [
-     "Storm [[DANA|dana]] Adam has caused five deaths. A woman was swept away on Saturday by a stream at Cabrera de Mar (Barcelona) and another was found dead after swimming at Sagunto (Valencia). On Monday 19 two people died in Oliva (Valencia) and a man in Benaoján (Málaga), whose car was hit by a falling rock; three other people were injured. More than 700 litres per square metre fell in southern Valencia and northern Alicante, and there were about a thousand rescues. Pedro Sánchez announced from Oliva that the Council of Ministers would declare the affected municipalities a [[seriously affected zone|zonacatastrofica]], which unlocks State aid, and this Tuesday 27 it will approve it.",
+     "Storm [[DANA|dana]] Adam has caused seven deaths, according to the Government spokesperson, Elma Saiz. They include a woman swept away by a stream at Cabrera de Mar (Barcelona), another found dead after swimming at Sagunto (Valencia), two people in Oliva (Valencia) and a man in Benaoján (Málaga), whose car was hit by a falling rock. More than 700 litres per square metre fell in southern Valencia and northern Alicante, and there were about a thousand rescues. On Tuesday 27, the Council of Ministers approved declaring 45 areas in nine regions a [[seriously affected zone|zonacatastrofica]], among them the Marina Alta and the Safor, in Valencia, and Ibiza and Formentera, which unlocks State aid.",
      "In Andalusia, the 112 service handled 673 emergencies between midday on Saturday 17 and Monday 19 afternoon: Almería (175), Cádiz (155), Málaga (150) and Seville (81), with flooded homes, landslides and rescues. In Valencia, the [[Insurance Compensation Consortium|consorcio]], the public body that pays for damage to people who have insurance, had received about 13,000 claims by Sunday, half of them from Oliva, and will add 150 assessors to speed things up. The authorities keep repeating that during a DANA people should stay away from rivers, streams and ravines and heed the [[Es-Alert|esalert]] warning on their phones. In October 2024 a DANA left more than 200 dead in Valencia."
     ],
-    "nota_actualizacion": "The Council of Ministers will approve the seriously-affected-zone declaration this Tuesday; the Insurance Consortium received about 13,000 claims by Sunday and will add 150 assessors."
+    "nota_actualizacion": "On 27 October the Government approved the seriously-affected-zone declaration for 45 areas in nine regions and puts the death toll at seven."
    }
   },
   {
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Huelga indefinida del profesorado en Madrid: entra en su tercera semana sin negociación",
-   "entradilla": "La Consejería no negocia y los sindicatos mantienen la huelga; el jueves 22 marcharon unas 20.000 personas, según la Delegación del Gobierno.",
+   "titular": "Huelga docente en Madrid: cortan la Gran Vía y la Consejería recibe a la concertada, pero no a la pública",
+   "entradilla": "Los sindicatos siguen sin mesa de negociación en la tercera semana de huelga; los medios cuentan nuevas cargas policiales contra manifestantes.",
    "parrafos": [
-    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre, afecta a unos 65.000 docentes y entra en su tercera semana sin mesa de negociación. La consejera de Educación, Mercedes Zarzalejo, sostiene que no se puede negociar lo que no se puede conseguir; los sindicatos (CCOO, UGT, CGT y STEM) le piden que negocie. El seguimiento se cuenta de dos maneras: el miércoles 21, sexto día, la [[Consejería de Educación|consejeria]] habló de un 10,2 % y los sindicatos, de un 50 %. El jueves 22, unas 20.000 personas, según la Delegación del Gobierno, marcharon desde Atocha hasta la sede de la Consejería. CSIF convoca además paros parciales los días 26 y 30.",
-    "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden menos horas de clase, menos alumnos por aula, más personal y una subida de sueldo; CCOO asegura que la huelga se extenderá si la Consejería no negocia."
+    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre, afecta a unos 65.000 docentes y está en su tercera semana sin mesa de negociación. El lunes 26, varios cientos de profesores cortaron una hora la Gran Vía tras concentrarse ante la [[Consejería de Educación|consejeria]], y según los medios hubo cargas policiales contra algunos manifestantes. El martes 27, la Consejería se reunió con representantes de la concertada, pero no con el comité de huelga de la pública, formado por nueve organizaciones. Según los sindicatos, la consejera, Mercedes Zarzalejo, no lo reconoce y solo trata en la mesa sectorial ordinaria. El comité cifra el seguimiento en un 50 %.",
+    "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden bajar las horas de clase a 17 en Secundaria y a 22 en Primaria (ahora son 19 y 25), menos alumnos por aula, más personal y una subida de sueldo. CSIF convoca además paros parciales el 30 de octubre."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
    "fuentes": [
@@ -245,19 +248,20 @@
     "Madridiario",
     "Infobae (agencias)",
     "Público",
-    "El Diario de la Educación"
+    "El Diario de la Educación",
+    "infoLibre"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-10-24",
-   "nota_actualizacion": "La huelga entra en su tercera semana sin mesa de negociación: la consejera Zarzalejo dice que no se puede negociar lo que no se puede conseguir.",
+   "actualizada": "2026-10-28",
+   "nota_actualizacion": "El 26 de octubre cortaron la Gran Vía y hubo cargas policiales; el 27 la Consejería se reunió con la concertada, pero no con el comité de huelga de la pública.",
    "en": {
-    "titular": "Madrid teachers' indefinite strike: it enters its third week with no negotiation",
-    "entradilla": "The Department is not negotiating and the unions are keeping up the strike; on Thursday 22 about 20,000 people marched, according to the Government Delegation.",
+    "titular": "Madrid teachers' strike: they block the Gran Vía and the Department meets the subsidised sector, but not the public one",
+    "entradilla": "The unions still have no negotiating table in the third week of the strike; media report fresh police charges against demonstrators.",
     "parrafos": [
-     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October, affects about 65,000 teachers and enters its third week with no negotiating table. The regional education councillor, Mercedes Zarzalejo, maintains that it is not possible to negotiate what cannot be achieved; the unions (CCOO, UGT, CGT and STEM) ask her to negotiate. Turnout is counted in two ways: on Wednesday 21, day six, the regional [[Education Department|consejeria]] spoke of 10.2% and the unions of 50%. On Thursday 22, about 20,000 people, according to the Government Delegation, marched from Atocha to the Department's headquarters. CSIF is also calling partial stoppages on 26 and 30 October.",
-     "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want fewer teaching hours, fewer pupils per class, more staff and a pay rise; CCOO says the strike will spread if the Department does not negotiate."
+     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October, affects about 65,000 teachers and is in its third week with no negotiating table. On Monday 26, several hundred teachers blocked the Gran Vía for an hour after gathering outside the regional [[Education Department|consejeria]], and according to the media there were police charges against some demonstrators. On Tuesday 27, the Department met representatives of the subsidised (concertada) schools, but not the strike committee of the public sector, made up of nine organisations. According to the unions, the councillor, Mercedes Zarzalejo, does not recognise it and only deals with the ordinary sector-wide table. The committee puts turnout at 50%.",
+     "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want teaching hours cut to 17 in Secondary and 22 in Primary (now 19 and 25), fewer pupils per class, more staff and a pay rise. CSIF is also calling partial stoppages on 30 October."
     ],
-    "nota_actualizacion": "The strike enters its third week with no negotiating table: councillor Zarzalejo says it is not possible to negotiate what cannot be achieved."
+    "nota_actualizacion": "On 26 October they blocked the Gran Vía and there were police charges; on the 27th the Department met the subsidised sector, but not the public sector's strike committee."
    }
   },
   {
@@ -491,11 +495,11 @@
    "id": "brasil-elige-presidente-este-domingo",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Lula gana en Brasil su cuarto mandato con un 51,8 % y Flávio Bolsonaro dice que pedirá anular las elecciones",
-   "entradilla": "Lula remontó el resultado de la primera vuelta con unos 4,4 millones de votos de ventaja, pero su rival no reconoce el resultado.",
+   "titular": "Lula gana en Brasil su cuarto mandato con un 51,7 % y Flávio Bolsonaro dice que pedirá anular las elecciones",
+   "entradilla": "Lula remontó el resultado de la primera vuelta con más de 4 millones de votos de ventaja, pero su rival no reconoce el resultado.",
    "parrafos": [
-    "Luiz Inácio Lula da Silva ganó el domingo 25 de octubre la [[segunda vuelta|segundavuelta]] de las elecciones de Brasil y tendrá un cuarto mandato, algo que nunca había ocurrido en el país. Según el Tribunal Superior Electoral, [[Lula|lula]] obtuvo alrededor del 51,8 % de los votos y [[Flávio Bolsonaro|flavio]], el 48,2 %: unos 4,4 millones de votos de diferencia. Es una remontada, porque Flávio había quedado primero en la primera vuelta del 4 de octubre y las últimas [[encuestas|encuesta]] hablaban de un empate. Lula, de 80 años, ya presidió Brasil entre 2003 y 2010 y volvió a ganar en 2022.",
-    "Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, no reconoce el resultado. Dijo que «es imposible reconocer» estas elecciones y que pedirá anularlas, porque durante la jornada un ministro del [[Supremo Tribunal Federal|stf]], Cristiano Zanin, amplió dos horas el horario de votación en todo el país. Zanin fue abogado de Lula antes de que este lo nombrara juez en 2023. Según los medios, la ampliación se justificó por problemas de transporte en varios estados y por las lluvias en el sur, y las dos campañas habían pedido más tiempo. Flávio anunció que presentará su petición; falta ver qué deciden los tribunales."
+    "Luiz Inácio Lula da Silva ganó el domingo 25 de octubre la [[segunda vuelta|segundavuelta]] de las elecciones de Brasil y tendrá un cuarto mandato, algo que nunca había ocurrido en el país. Según el Tribunal Superior Electoral, [[Lula|lula]] obtuvo alrededor del 51,7 % de los votos y [[Flávio Bolsonaro|flavio]], el 48,2 %: más de 4 millones de votos de diferencia. Es una remontada, porque Flávio había quedado primero en la primera vuelta del 4 de octubre y las últimas [[encuestas|encuesta]] hablaban de un empate. Lula, de 80 años, ya presidió Brasil entre 2003 y 2010 y volvió a ganar en 2022.",
+    "Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, no reconoce el resultado. Dijo que «es imposible reconocer» estas elecciones y que pedirá anularlas, porque durante la jornada un ministro del [[Supremo Tribunal Federal|stf]], Cristiano Zanin, amplió dos horas el horario de votación en todo el país. Zanin fue abogado de Lula antes de que este lo nombrara juez en 2023. Según los medios, la ampliación se justificó por problemas de transporte en varios estados y por las lluvias en el sur, y las dos campañas habían pedido más tiempo. Flávio anunció que presentará su petición; los expertos consultados por los medios creen que es difícil que prospere, y falta ver qué deciden los tribunales."
    ],
    "busqueda_imagenes": "Lula reelegido Brasil segunda vuelta 2026",
    "fuentes": [
@@ -505,30 +509,32 @@
     "La Jornada",
     "elDiarioAR",
     "Perfil",
-    "Unitel"
+    "Unitel",
+    "El Nacional",
+    "Infobae"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-26",
-   "nota_actualizacion": "Lula ganó la segunda vuelta con alrededor del 51,8 % de los votos y Flávio Bolsonaro dice que pedirá anular las elecciones.",
+   "actualizada": "2026-10-28",
+   "nota_actualizacion": "Con el 100 % escrutado, Lula obtuvo el 51,7 % de los votos; Flávio Bolsonaro insiste en pedir la anulación, que los expertos consideran difícil.",
    "en": {
-    "titular": "Lula wins a fourth term in Brazil with 51.8% and Flávio Bolsonaro says he will ask for the election to be annulled",
-    "entradilla": "Lula overturned the first-round result with a lead of about 4.4 million votes, but his rival does not accept the outcome.",
+    "titular": "Lula wins a fourth term in Brazil with 51.7% and Flávio Bolsonaro says he will ask for the election to be annulled",
+    "entradilla": "Lula overturned the first-round result with a lead of more than 4 million votes, but his rival does not accept the outcome.",
     "parrafos": [
-     "Luiz Inácio Lula da Silva won the [[second round|segundavuelta]] of Brazil's election on Sunday 25 October and will serve a fourth term, something that has never happened in the country before. According to the Superior Electoral Court, [[Lula|lula]] took about 51.8% of the votes and [[Flávio Bolsonaro|flavio]] 48.2%: a gap of some 4.4 million votes. It is a comeback, because Flávio had come first in the first round on 4 October and the latest [[polls|encuesta]] spoke of a tie. Lula, aged 80, already presided over Brazil from 2003 to 2010 and won again in 2022.",
-     "Flávio Bolsonaro, son of former president Jair Bolsonaro, does not accept the result. He said it is 'impossible to recognise' these elections and that he will ask for them to be annulled, because during the day a minister of the [[Federal Supreme Court|stf]], Cristiano Zanin, extended voting hours by two hours across the country. Zanin was Lula's lawyer before Lula appointed him a judge in 2023. According to the media, the extension was justified by transport problems in several states and by rain in the south, and both campaigns had asked for more time. Flávio said he will file his request; it remains to be seen what the courts decide."
+     "Luiz Inácio Lula da Silva won the [[second round|segundavuelta]] of Brazil's election on Sunday 25 October and will serve a fourth term, something that has never happened in the country before. According to the Superior Electoral Court, [[Lula|lula]] took 51.7% of the votes and [[Flávio Bolsonaro|flavio]] 48.2%: a gap of more than 4 million votes. It is a comeback, because Flávio had come first in the first round on 4 October and the latest [[polls|encuesta]] spoke of a tie. Lula, aged 80, already presided over Brazil from 2003 to 2010 and won again in 2022.",
+     "Flávio Bolsonaro, son of former president Jair Bolsonaro, does not accept the result. He said it is 'impossible to recognise' these elections and that he will ask for them to be annulled, because during the day a minister of the [[Federal Supreme Court|stf]], Cristiano Zanin, extended voting hours by two hours across the country. Zanin was Lula's lawyer before Lula appointed him a judge in 2023. According to the media, the extension was justified by transport problems in several states and by rain in the south, and both campaigns had asked for more time. Flávio said he will file his request; experts consulted by the media think it is unlikely to succeed, and it remains to be seen what the courts decide."
     ],
-    "nota_actualizacion": "Lula won the second round with about 51.8% of the votes and Flávio Bolsonaro says he will ask for the election to be annulled."
+    "nota_actualizacion": "With 100% of votes counted, Lula took 51.7%; Flávio Bolsonaro insists on seeking annulment, which experts consider unlikely."
    }
   },
   {
    "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Israel vota el 27 de octubre con el bloque de Eisenkot por delante del de Netanyahu, pero sin mayoría clara",
-   "entradilla": "Son las primeras elecciones desde el ataque de Hamás de 2023 y las encuestas no dan los 61 escaños necesarios a ningún bloque.",
+   "titular": "Israel vota sin un ganador claro: el Likud es el partido más votado, pero ningún bloque llega a los 61 escaños",
+   "entradilla": "Con el recuento aún abierto, las proyecciones dan al bloque de Netanyahu entre 50 y 57 escaños y al de Eisenkot entre 47 y 52, y los partidos árabes pueden ser decisivos.",
    "parrafos": [
-    "El martes 27 de octubre, Israel celebra elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Los israelíes eligen a los 120 diputados de la [[Knesset|knesset]], su Parlamento, y quien reúna 61 escaños podrá formar Gobierno. El primer ministro, [[Benjamín Netanyahu|netanyahu]], busca seguir en el poder tras años de desgaste político y críticas por la seguridad del 7 de octubre. Su principal rival es [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, cuyo partido, Yashar, encabeza las últimas [[encuestas|encuesta]].",
-    "Los colegios abrieron a las 7:00 hora local (las 6:00 en España) y cierran a las 22:00. Unos 7,3 millones de personas pueden votar y compiten 38 partidos, de los que se espera que solo 11 superen el umbral del 3,25 % de los votos para entrar en la Knesset. Según las últimas encuestas de las tres grandes cadenas de televisión, publicadas tres días antes, el bloque de Eisenkot tendría entre 52 y 56 escaños y el de Netanyahu, 50, así que ninguno llegaría por sí solo a 61. Por eso las negociaciones después del voto podrían ser largas, y los partidos árabes y las listas pequeñas podrían ser decisivos."
+    "El martes 27 de octubre, Israel celebró elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Se votaba a los 120 diputados de la [[Knesset|knesset]], el Parlamento israelí, y quien reúna 61 podrá formar Gobierno. La participación fue del 77,7 %, bastante más que en 2022. Con el recuento todavía abierto, el Likud de [[Benjamín Netanyahu|netanyahu]] es el partido más votado, con entre 24 y 28 escaños según las proyecciones, menos que los 32 que tenía. Yashar, el partido de [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, queda segundo, con entre 20 y 23.",
+    "Ningún bloque alcanza los 61. Los primeros sondeos a pie de urna daban ventaja a la oposición, pero las proyecciones revisadas y el recuento parcial la colocan ahora por detrás: el bloque de Netanyahu, con partidos ultraortodoxos y de extrema derecha, estaría entre 50 y 57 escaños, y el opositor, entre 47 y 52. Los partidos árabes lograrían un récord, de 16 a 19 escaños, y pueden decidir, aunque buena parte de la oposición ha evitado depender de ellos. Netanyahu quiere formar un «Gobierno de derecha fuerte»; Eisenkot dice que los datos muestran «desconfianza total» hacia él. Tras el recuento oficial, el presidente, Isaac Herzog, encargará a un líder formar Gobierno; si no lo logra, podría haber nuevas elecciones."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -538,19 +544,23 @@
     "Infobae",
     "Ámbito",
     "Público",
-    "Infobae (EFE)"
+    "Infobae (EFE)",
+    "The Times of Israel",
+    "The Jerusalem Post",
+    "i24NEWS",
+    "The Jewish Chronicle"
    ],
    "publicada": "2026-10-20",
-   "actualizada": "2026-10-27",
-   "nota_actualizacion": "Los colegios abrieron hoy a las 7:00 (hora local); las últimas encuestas de las tres grandes cadenas dan entre 52 y 56 escaños al bloque de Eisenkot y 50 al de Netanyahu.",
+   "actualizada": "2026-10-28",
+   "nota_actualizacion": "Con el recuento abierto, el Likud es el partido más votado, pero ningún bloque llega a 61 escaños; la participación fue del 77,7 %.",
    "en": {
-    "titular": "Israel votes on 27 October with Eisenkot's bloc ahead of Netanyahu's, but no clear majority",
-    "entradilla": "It is the first election since the 2023 Hamas attack, and polls give neither bloc the 61 seats needed.",
+    "titular": "Israel votes with no clear winner: Likud is the most-voted party, but neither bloc reaches 61 seats",
+    "entradilla": "With the count still open, projections give Netanyahu's bloc between 50 and 57 seats and Eisenkot's between 47 and 52, and the Arab parties could prove decisive.",
     "parrafos": [
-     "On Tuesday 27 October, Israel holds parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. Israelis elect the 120 members of the [[Knesset|knesset]], their Parliament, and whoever gathers 61 seats can form a government. The prime minister, [[Benjamin Netanyahu|netanyahu]], is trying to stay in power after years of political wear and tear and criticism over security on 7 October. His main rival is [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, whose party, Yashar, leads the latest [[polls|encuesta]].",
-     "Polling stations opened at 7:00 local time (6:00 in Spain) and close at 22:00. About 7.3 million people can vote and 38 parties are standing, of which only 11 are expected to clear the 3.25% threshold of the vote needed to enter the Knesset. According to the latest polls from the three main television channels, published three days earlier, Eisenkot's bloc would win between 52 and 56 seats and Netanyahu's 50, so neither would reach 61 on its own. That is why negotiations after the vote could be long, and the Arab parties and small lists could prove decisive."
+     "On Tuesday 27 October, Israel held parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. The 120 members of the [[Knesset|knesset]], the Israeli Parliament, were being elected, and whoever gathers 61 can form a government. Turnout was 77.7%, well above 2022. With the count still open, [[Benjamin Netanyahu|netanyahu]]'s Likud is the most-voted party, with between 24 and 28 seats according to projections, fewer than the 32 it held. Yashar, the party of [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, comes second, with between 20 and 23.",
+     "Neither bloc reaches 61. The first exit polls gave the opposition an edge, but the revised projections and the partial count now put it behind: Netanyahu's bloc, with ultra-Orthodox and far-right parties, would have between 50 and 57 seats, and the opposition bloc between 47 and 52. The Arab parties would win a record 16 to 19 seats and could prove decisive, although many opposition leaders have avoided relying on them. Netanyahu wants to form a 'strong right-wing government'; Eisenkot says the figures show 'total distrust' of him. After the official count, President Isaac Herzog will task one leader with forming a government; if that fails, there could be new elections."
     ],
-    "nota_actualizacion": "Polling stations opened today at 7:00 (local time); the latest polls from the three main channels give between 52 and 56 seats to Eisenkot's bloc and 50 to Netanyahu's."
+    "nota_actualizacion": "With the count open, Likud is the most-voted party, but neither bloc reaches 61 seats; turnout was 77.7%."
    }
   },
   {
@@ -848,37 +858,6 @@
    }
   },
   {
-   "id": "eeuu-prohibe-deepseek-agencias-civiles-seguridad",
-   "seccion": "tec",
-   "dibujo": "chip",
-   "titular": "EE. UU. prohíbe la inteligencia artificial china DeepSeek en las agencias civiles del Gobierno",
-   "entradilla": "El Departamento de Seguridad Nacional teme que información sensible acabe en China; la orden es del 24 de julio y se ha conocido esta semana.",
-   "parrafos": [
-    "El Departamento de Seguridad Nacional de Estados Unidos ordenó retirar todos los productos de la empresa china [[DeepSeek|deepseek]], y los servicios de terceros que usen su tecnología de [[inteligencia artificial|ia]], de los sistemas informáticos de las agencias civiles del Gobierno. También prohíbe comprar en el futuro cualquier producto vinculado a la compañía. La orden está fechada el 24 de julio, pero se ha conocido ahora. El departamento sostiene que los [[modelos de IA|modeloia]] de DeepSeek presentan «múltiples vectores de amenaza», es decir, varias formas posibles de causar daño.",
-    "El motivo, según el Gobierno estadounidense, es el riesgo de que información sensible acabe en manos de China. Cuando se usa un servicio de IA en internet, lo que uno escribe viaja a los servidores de la empresa que lo ofrece, y por eso muchos gobiernos quieren saber quién controla cada herramienta. La decisión muestra que la inteligencia artificial ya no es solo cuestión de tecnología o de negocio, sino también de [[ciberseguridad|ciberseguridad]] y de rivalidad entre países. Queda abierta una pregunta de fondo: qué reglas deben seguir los gobiernos para elegir las herramientas de IA que usan."
-   ],
-   "busqueda_imagenes": "DeepSeek prohibición agencias gubernamentales Estados Unidos",
-   "fuentes": [
-    "Infobae",
-    "CNBC",
-    "MarketScreener",
-    "Dataconomy",
-    "Diario Las Américas"
-   ],
-   "publicada": "2026-10-21",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "US bans Chinese artificial intelligence DeepSeek from civilian government agencies",
-    "entradilla": "The Department of Homeland Security fears sensitive information could end up in China; the order dates from 24 July and became known this week.",
-    "parrafos": [
-     "The US Department of Homeland Security ordered all products from the Chinese company [[DeepSeek|deepseek]], and third-party services that use its [[artificial intelligence|ia]] technology, to be removed from the computer systems of the Government's civilian agencies. It also bans buying any product linked to the company in future. The order is dated 24 July, but it has only now become known. The department argues that DeepSeek's [[AI models|modeloia]] pose 'multiple threat vectors', that is, several possible ways of causing harm.",
-     "The reason, according to the US Government, is the risk that sensitive information could end up in China's hands. When you use an AI service on the internet, what you type travels to the servers of the company that offers it, which is why many governments want to know who controls each tool. The decision shows that artificial intelligence is no longer just a matter of technology or business, but also of [[cybersecurity|ciberseguridad]] and rivalry between countries. A bigger question remains open: what rules governments should follow when choosing the AI tools they use."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
    "id": "japon-lanza-mmx-fobos-luna-marte",
    "seccion": "tec",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-a\" cx=\"44\" cy=\"54\" r=\"26\"/><path class=\"d-b\" d=\"M26 46 Q40 38 56 48 Q46 58 28 56 Z\"/><circle class=\"d-l\" cx=\"44\" cy=\"54\" r=\"26\"/><ellipse class=\"d-l\" cx=\"44\" cy=\"54\" rx=\"46\" ry=\"14\" transform=\"rotate(-25 44 54)\"/><circle class=\"d-y\" cx=\"84\" cy=\"34\" r=\"7\"/><circle class=\"d-l\" cx=\"84\" cy=\"34\" r=\"7\"/><path class=\"d-l\" d=\"M14 14 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z M102 70 l1 3 3 1 -3 1 -1 3 -1 -3 -3 -1 3 -1z\"/></svg>",
@@ -1005,6 +984,67 @@
    }
   },
   {
+   "id": "cientificos-carta-abierta-ia-negligencia-ciberseguridad",
+   "seccion": "tec",
+   "dibujo": "chip",
+   "titular": "Más de 400 científicos acusan a los laboratorios de IA de «negligencia» y piden aislar de internet los modelos más peligrosos",
+   "entradilla": "La carta, con firmas como las de Hinton y Bengio, pide un organismo internacional de control, pero no tiene fuerza legal.",
+   "parrafos": [
+    "Más de 400 investigadores de inteligencia artificial y ciberseguridad de unos 30 países firmaron una carta abierta, publicada el 13 de octubre y comentada estos días. Entre los firmantes están [[Geoffrey Hinton|hinton]] y [[Yoshua Bengio|bengio]], dos pioneros de la [[inteligencia artificial|ia]], y la investigadora española Carmela Troncoso. Acusan a las grandes empresas de [[modelos de IA|modeloia]] de «negligencia irresponsable» en sus prácticas de ciberseguridad. Según la carta, varias han reconocido fallos graves: sus sistemas se saltaron entornos de prueba mal aislados y afectaron a organizaciones externas.",
+    "Piden tres cosas: que los modelos capaces de lanzar ciberataques se aíslen de internet en sistemas de contención de alta seguridad; crear un organismo internacional, con gobiernos y expertos, que fije normas y investigue los fallos; y que los incidentes de seguridad se notifiquen y se hagan públicos. La carta no tiene fuerza legal. OpenAI publicó el 21 de octubre un informe sobre dos incidentes internos, y la [[FTC|ftc]] de Estados Unidos investiga a OpenAI y Anthropic. La discusión de fondo es cuánta libertad deben tener las empresas para probar sus sistemas y quién debe vigilarlas."
+   ],
+   "busqueda_imagenes": "carta abierta científicos IA ciberseguridad Hinton Bengio",
+   "fuentes": [
+    "Infobae",
+    "elDiario.es",
+    "elDiarioAR",
+    "KCH FM"
+   ],
+   "publicada": "2026-10-28",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "More than 400 scientists accuse AI labs of 'negligence' and call for the most dangerous models to be cut off from the internet",
+    "entradilla": "The letter, signed by figures such as Hinton and Bengio, calls for an international oversight body, but has no legal force.",
+    "parrafos": [
+     "More than 400 researchers in artificial intelligence and cybersecurity from about 30 countries signed an open letter, published on 13 October and discussed in recent days. Signatories include [[Geoffrey Hinton|hinton]] and [[Yoshua Bengio|bengio]], two pioneers of [[artificial intelligence|ia]], and the Spanish researcher Carmela Troncoso. They accuse the big [[AI models|modeloia]] companies of 'irresponsible negligence' in their cybersecurity practices. According to the letter, several have admitted serious failures: their systems got out of poorly isolated test environments and affected outside organisations.",
+     "They ask for three things: that models capable of launching cyberattacks be isolated from the internet in high-security containment systems; that an international body be created, with governments and experts, to set rules and investigate failures; and that security incidents be reported and made public. The letter has no legal force. On 21 October OpenAI published a report on two internal incidents, and the US [[FTC|ftc]] is investigating OpenAI and Anthropic. The underlying debate is how much freedom companies should have to test their systems and who should keep watch over them."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "epa-tercer-trimestre-2026-paro-1018-andalucia-1491",
+   "seccion": "eco",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-b\" x=\"14\" y=\"50\" width=\"20\" height=\"30\"/><rect class=\"d-a\" x=\"44\" y=\"34\" width=\"20\" height=\"46\"/><rect class=\"d-y\" x=\"74\" y=\"18\" width=\"20\" height=\"62\"/><path class=\"d-l\" d=\"M8 82 H110 M14 50 H34 V80 H14 Z M44 34 H64 V80 H44 Z M74 18 H94 V80 H74 Z\"/></svg>",
+   "titular": "El paro sube al 10,18 % en el tercer trimestre y Andalucía tiene la tasa más alta, un 14,91 %",
+   "entradilla": "La EPA del INE cuenta 73.600 ocupados más que en el trimestre anterior, pero también 95.900 parados más.",
+   "parrafos": [
+    "El [[INE|ine]] publicó el martes 27 de octubre la [[EPA|epa]] del tercer trimestre, una encuesta a miles de hogares que mide cuánta gente trabaja y cuánta busca empleo sin encontrarlo. Hubo 22.852.600 personas ocupadas, 73.600 más que en el trimestre anterior y 465.500 más que hace un año. Aun así, los parados subieron en 95.900, hasta 2.591.200, y la [[tasa de paro|tasaparo]] pasó al 10,18 %, 31 centésimas más que antes. La razón es que la población activa, es decir, quienes trabajan o buscan trabajo, creció en 169.500 personas, más de lo que aumentó el empleo.",
+    "La tasa de paro no es igual en todo el país. Andalucía tuvo la más alta de las comunidades, el 14,91 %, y Baleares la más baja, el 4,63 %. En Andalucía hay 640.500 parados, 13.400 más que en el trimestre anterior, y 3.656.300 ocupados, casi 25.000 menos que en el segundo trimestre, aunque es la cifra más alta registrada en un tercer trimestre, según medios andaluces. Para una familia, estas diferencias significan que encontrar trabajo cuesta más en unos lugares que en otros. La EPA es distinta del [[paro registrado|paro]], que solo cuenta a quienes se apuntan en las oficinas públicas de empleo."
+   ],
+   "busqueda_imagenes": "EPA tercer trimestre 2026 paro INE Andalucía",
+   "fuentes": [
+    "INE",
+    "Qué!",
+    "La Voz del Sur",
+    "El Mira",
+    "Huelva Red"
+   ],
+   "publicada": "2026-10-28",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Unemployment rises to 10.18% in the third quarter and Andalusia has the highest rate, 14.91%",
+    "entradilla": "The INE's labour force survey counts 73,600 more people in work than in the previous quarter, but also 95,900 more unemployed.",
+    "parrafos": [
+     "The [[INE|ine]] published the third-quarter [[labour force survey|epa]] on Tuesday 27 October, a survey of thousands of households that measures how many people work and how many are looking for a job without finding one. There were 22,852,600 people in work, 73,600 more than in the previous quarter and 465,500 more than a year ago. Even so, the number of unemployed rose by 95,900, to 2,591,200, and the [[unemployment rate|tasaparo]] went up to 10.18%, 0.31 points higher than before. The reason is that the active population, that is, those who work or are looking for work, grew by 169,500 people, more than employment rose.",
+     "The unemployment rate is not the same across the country. Andalusia had the highest of the regions, 14.91%, and the Balearic Islands the lowest, 4.63%. In Andalusia there are 640,500 unemployed, 13,400 more than in the previous quarter, and 3,656,300 people in work, almost 25,000 fewer than in the second quarter, although that is the highest figure recorded for a third quarter, according to Andalusian media. For a family, these differences mean that finding a job is harder in some places than in others. The survey is different from [[registered unemployment|paro]], which only counts people who sign up at public employment offices."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
    "id": "ipc-septiembre-2026-sube-49",
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M12 18 H26 L36 58 H88 L98 28 H30\"/><rect class=\"d-b\" x=\"40\" y=\"30\" width=\"16\" height=\"22\"/><rect class=\"d-y\" x=\"60\" y=\"34\" width=\"14\" height=\"18\"/><rect class=\"d-g\" x=\"76\" y=\"38\" width=\"10\" height=\"14\"/><circle class=\"d-i\" cx=\"42\" cy=\"70\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"70\" r=\"6\"/><path class=\"d-a\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/><path class=\"d-l\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/></svg>",
@@ -1035,36 +1075,6 @@
    }
   },
   {
-   "id": "banco-espana-rebajas-luz-carburantes-3675-millones",
-   "seccion": "eco",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-y\" cx=\"60\" cy=\"36\" r=\"22\"/><circle class=\"d-l\" cx=\"60\" cy=\"36\" r=\"22\"/><rect class=\"d-a\" x=\"50\" y=\"58\" width=\"20\" height=\"14\" rx=\"2\"/><path class=\"d-l\" d=\"M50 58 H70 V72 H50 Z M54 78 H66 M54 24 L60 40 L66 24\"/><path class=\"d-l\" d=\"M20 20 L30 26 M100 20 L90 26 M16 46 H28 M104 46 H92\"/></svg>",
-   "titular": "El Banco de España calcula que las rebajas de impuestos de la luz y los carburantes ahorran 3.675 millones a los hogares",
-   "entradilla": "Pero avisa de que los precios repuntarán a principios de 2027, cuando terminen algunas de esas medidas.",
-   "parrafos": [
-    "En su informe trimestral del 9 de octubre, el [[Banco de España|bde]] calculó que las rebajas de [[impuestos|impuesto]] sobre la electricidad y los carburantes han dejado unos 3.675 millones de euros en los bolsillos de los hogares. Para una familia, el alivio es pequeño: la bajada de impuestos de la luz vale entre 46 y 69 euros al año por hogar, y la de los carburantes, entre 56 y 188 euros, según cuánto se conduzca. El Banco recuerda que son medidas transitorias, no cambios permanentes, y que costaron un 0,52 % del [[PIB|pib]].",
-    "La advertencia es que, cuando terminen algunas de esas rebajas fiscales y de los descuentos del transporte público, los precios «repuntarán» a principios de 2027. El Banco de España prevé una [[inflación|inflacion]] del 3,9 % en 2026. Hoy los precios ya van rápido: el IPC de septiembre fue del 4,9 %, el más alto desde febrero de 2023. Para las familias, los medios económicos recomiendan revisar la tarifa de la luz y la potencia contratada antes de que lleguen las subidas, y comprobar si se tiene derecho al bono social eléctrico, que da descuentos a hogares con pocos ingresos."
-   ],
-   "busqueda_imagenes": "Banco de España informe trimestral rebajas luz carburantes",
-   "fuentes": [
-    "Hoy Aragón",
-    "El Cronista",
-    "Euronews",
-    "Moncloa.com"
-   ],
-   "publicada": "2026-10-20",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "Bank of Spain calculates that tax cuts on electricity and fuel save households 3,675 million euros",
-    "entradilla": "But it warns that prices will rebound in early 2027, when some of those measures end.",
-    "parrafos": [
-     "In its quarterly report of 9 October, the [[Bank of Spain|bde]] calculated that the cuts in [[tax|impuesto]] on electricity and fuel have left about 3,675 million euros in households' pockets. For a family the relief is small: the electricity tax cut is worth between 46 and 69 euros a year per household, and the fuel tax cut between 56 and 188 euros, depending on how much one drives. The Bank points out that these are temporary measures, not permanent changes, and that they cost 0.52% of [[GDP|pib]].",
-     "The warning is that, when some of those tax cuts and the public transport discounts end, prices will 'rebound' in early 2027. The Bank of Spain forecasts [[inflation|inflacion]] of 3.9% in 2026. Prices are already rising fast: September's CPI was 4.9%, the highest since February 2023. For families, economic media recommend checking the electricity tariff and the contracted power before the rises arrive, and checking whether one is entitled to the social electricity bonus, which gives discounts to low-income households."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
    "id": "inflacion-zona-euro-38-bce-euribor",
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-a\" d=\"M20 30 L60 10 L100 30 Z\"/><rect class=\"d-b\" x=\"20\" y=\"30\" width=\"80\" height=\"6\"/><rect class=\"d-w\" x=\"28\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"46\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"66\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"84\" y=\"38\" width=\"8\" height=\"30\"/><path class=\"d-l\" d=\"M28 38 h8 v30 h-8 Z M46 38 h8 v30 h-8 Z M66 38 h8 v30 h-8 Z M84 38 h8 v30 h-8 Z\"/><rect class=\"d-a\" x=\"16\" y=\"68\" width=\"88\" height=\"8\"/><text class=\"d-y\" x=\"54\" y=\"27\" font-size=\"12\" font-family=\"sans-serif\" font-weight=\"bold\">€</text></svg>",
@@ -1072,7 +1082,7 @@
    "entradilla": "La subida presiona al Banco Central Europeo y encarece las hipotecas.",
    "parrafos": [
     "Eurostat, la oficina de estadística europea, confirmó el 16 de octubre que los precios en los 21 países que usan el euro subieron en septiembre un 3,8 % respecto a hace un año, frente al 3,2 % de agosto. La gran responsable es la energía, que según el dato adelantado está un 18,8 % más cara. España, con un 5 % según el índice armonizado que se usa para comparar países, tiene la inflación más alta de las grandes economías del euro, por delante de Italia (4,1 %), Francia (3,4 %) y Alemania (3,3 %). La guerra con Irán, que afecta al paso de barcos por el [[estrecho de Ormuz|ormuz]], explica buena parte del problema.",
-    "Controlar los precios es la tarea del [[Banco Central Europeo|bce]], que busca una inflación cercana al 2 %. Su herramienta principal son los [[tipos de interés|tiposinteres]], lo que cuesta pedir dinero prestado. El 10 de septiembre los subió por segunda vez este año, hasta el 2,5 %, y los mercados esperan otra subida antes de que acabe 2026; el BCE vuelve a reunirse el 29 de octubre. Mientras, el [[euríbor|euribor]], al que están ligadas muchas [[hipotecas|hipoteca]] en España, subió el 21 de octubre al 3,263 %, por encima de la media de septiembre (3,247 %). Según El Español, eso puede encarecer unos 119 euros al mes una hipoteca variable de 200.000 euros a 20 años."
+    "Controlar los precios es la tarea del [[Banco Central Europeo|bce]], que busca una inflación cercana al 2 %. Su herramienta principal son los [[tipos de interés|tiposinteres]], lo que cuesta pedir dinero prestado. El 10 de septiembre los subió por segunda vez este año, hasta el 2,5 %, y este jueves 29 de octubre vuelve a reunirse: según los analistas, mantendrá los tipos y dejará la próxima subida para diciembre. Mientras, el [[euríbor|euribor]], al que están ligadas muchas [[hipotecas|hipoteca]] en España, subió el 21 de octubre al 3,263 %, por encima de la media de septiembre (3,247 %). Según El Español, eso puede encarecer unos 119 euros al mes una hipoteca variable de 200.000 euros a 20 años."
    ],
    "busqueda_imagenes": "inflación eurozona septiembre 2026 BCE",
    "fuentes": [
@@ -1082,19 +1092,21 @@
     "Rankia",
     "Telemadrid",
     "euribor.com.es",
-    "economiaresponsablefinanzas.com"
+    "economiaresponsablefinanzas.com",
+    "Infobae (Europa Press)",
+    "Noticias de Álava"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-22",
-   "nota_actualizacion": "El 21 de octubre el euríbor subió al 3,263 %, por encima de la media de septiembre; el BCE se reúne el 29 de octubre.",
+   "actualizada": "2026-10-28",
+   "nota_actualizacion": "El BCE se reúne este jueves 29 de octubre y los analistas esperan que mantenga los tipos en el 2,5 % y suba en diciembre.",
    "en": {
     "titular": "Euro area inflation hits its highest level in three years",
     "entradilla": "The rise is putting pressure on the European Central Bank and making mortgages more expensive.",
     "parrafos": [
      "Eurostat, the European statistics office, confirmed on 16 October that prices in the 21 countries that use the euro rose by 3.8% in September compared with a year ago, up from 3.2% in August. The main culprit is energy, which according to the early estimate is 18.8% more expensive. Spain, at 5% on the harmonised index used to compare countries, has the highest inflation of the big euro economies, ahead of Italy (4.1%), France (3.4%) and Germany (3.3%). The war with Iran, which affects ships passing through the [[Strait of Hormuz|ormuz]], explains much of the problem.",
-     "Keeping prices under control is the job of the [[European Central Bank|bce]], which aims for inflation of around 2%. Its main tool is [[interest rates|tiposinteres]], what it costs to borrow money. On 10 September it raised them for the second time this year, to 2.5%, and markets expect another rise before the end of 2026; the ECB meets again on 29 October. Meanwhile the [[Euribor|euribor]], to which many [[mortgages|hipoteca]] in Spain are linked, rose on 21 October to 3.263%, above September's average (3.247%). According to El Español, that can make a variable-rate mortgage of 200,000 euros over 20 years about 119 euros a month more expensive."
+     "Keeping prices under control is the job of the [[European Central Bank|bce]], which aims for inflation of around 2%. Its main tool is [[interest rates|tiposinteres]], what it costs to borrow money. On 10 September it raised them for the second time this year, to 2.5%, and it meets again this Thursday 29 October: analysts expect it to hold rates and leave the next rise for December. Meanwhile the [[Euribor|euribor]], to which many [[mortgages|hipoteca]] in Spain are linked, rose on 21 October to 3.263%, above September's average (3.247%). According to El Español, that can make a variable-rate mortgage of 200,000 euros over 20 years about 119 euros a month more expensive."
     ],
-    "nota_actualizacion": "On 21 October the Euribor rose to 3.263%, above September's average; the ECB meets on 29 October."
+    "nota_actualizacion": "The ECB meets this Thursday 29 October and analysts expect it to hold rates at 2.5% and raise them in December."
    }
   },
   {
@@ -2912,10 +2924,10 @@
   "netanyahu": {
    "t": "persona",
    "n": "Benjamín Netanyahu",
-   "x": "Primer ministro de Israel. Lleva muchos años en el poder y se presenta de nuevo a las elecciones del 27 de octubre.",
+   "x": "Primer ministro de Israel. Lleva muchos años en el poder; su partido, el Likud, es el más votado en las elecciones del 27 de octubre según las proyecciones, pero sin mayoría.",
    "en": {
     "n": "Benjamin Netanyahu",
-    "x": "Prime Minister of Israel. He has been in power for many years and is standing again in the 27 October election."
+    "x": "Prime Minister of Israel. He has been in power for many years; his party, Likud, is the most-voted in the 27 October election according to projections, but without a majority."
    }
   },
   "eisenkot": {
@@ -3241,11 +3253,29 @@
     "n": "Insurance Compensation Consortium",
     "x": "A public body that pays for damage caused by disasters, such as floods, to people who have insurance."
    }
+  },
+  "epa": {
+   "t": "palabra",
+   "n": "EPA (Encuesta de Población Activa)",
+   "x": "Encuesta que el INE hace cada trimestre a miles de hogares para saber cuántas personas trabajan, cuántas buscan empleo y cuántas no lo encuentran.",
+   "en": {
+    "n": "Labour force survey (EPA)",
+    "x": "A survey that the INE carries out every quarter among thousands of households to find out how many people work, how many are looking for a job and how many cannot find one."
+   }
+  },
+  "tasaparo": {
+   "t": "palabra",
+   "n": "Tasa de paro",
+   "x": "El porcentaje de personas sin empleo entre todas las que trabajan o buscan trabajo. Un 10 % significa que 1 de cada 10 de ellas no encuentra empleo.",
+   "en": {
+    "n": "Unemployment rate",
+    "x": "The percentage of jobless people among all those who work or are looking for work. A rate of 10% means that 1 in 10 of them cannot find a job."
+   }
   }
  },
- "edicion_en": "Tuesday 27 October 2026",
+ "edicion_en": "Wednesday 28 October 2026",
  "destacada": {
   "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
-  "fecha": "2026-10-27"
+  "fecha": "2026-10-28"
  }
 }
