@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-28T07:30:00+01:00",
- "edicion": "Miércoles 28 de octubre de 2026",
+ "actualizado": "2026-10-29T07:30:00+01:00",
+ "edicion": "Jueves 29 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -294,33 +294,34 @@
    }
   },
   {
-   "id": "narcolancha-guardia-civil-huelva-moreno-basta-ya",
+   "id": "andalucia-sin-ave-con-madrid-tras-urda",
    "seccion": "and",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-b\" d=\"M0 66 Q10 60 20 66 T40 66 T60 66 T80 66 T100 66 T120 66 V90 H0 Z\"/><path class=\"d-a\" d=\"M12 50 H98 L112 36 H78 L68 24 H44 L36 36 H24 Z\"/><rect class=\"d-w\" x=\"46\" y=\"28\" width=\"18\" height=\"8\"/><path class=\"d-p\" d=\"M12 50 H98 L94 58 H20 Z\"/><path class=\"d-l\" d=\"M12 50 H98 L112 36 H78 L68 24 H44 L36 36 H24 Z M12 50 L20 58 H94 L98 50\"/><path class=\"d-l\" d=\"M0 66 Q10 60 20 66 T40 66 T60 66 T80 66 T100 66 T120 66\"/></svg>",
-   "titular": "Una narcolancha embiste una patrullera de la Guardia Civil en Huelva y Moreno pide «más recursos» contra el narcotráfico",
-   "entradilla": "Varios agentes sufrieron contusiones leves y los cinco ocupantes de la lancha fueron detenidos; Moreno dice que esto se repite «día tras día».",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
+   "titular": "Andalucía se queda sin alta velocidad con Madrid tras el choque de Urda y decreta tres días de luto",
+   "entradilla": "Adif suspende los trenes del corredor sin fecha de reapertura; Renfe no vende billetes hasta el 13 de diciembre y ofrece Cercanías y autobuses.",
    "parrafos": [
-    "La tarde del jueves 22 de octubre, una [[narcolancha|narcolancha]] embistió una patrullera de la [[Guardia Civil|guardiacivil]] en aguas de Huelva. Según los medios, los agentes habían detectado un traspaso de combustible entre dos lanchas rápidas ligadas al narcotráfico; una de ellas huyó y chocó con la patrullera, que sufrió daños visibles. Varios guardias civiles resultaron con contusiones leves y siguieron la persecución hasta detener a los cinco ocupantes de la lancha. Una narcolancha es una embarcación muy rápida que usan las mafias para mover droga o combustible por el mar y los ríos.",
-    "El viernes 23, [[Juanma Moreno|moreno]], presidente de la [[Junta de Andalucía|junta]], escribió en la red social X que esto se repite día tras día en Andalucía, que las mafias de la droga se expanden por toda la costa y que cualquier intervención puede acabar otra vez en tragedia. Pidió «más recursos» y el apoyo total del Estado para las fuerzas de seguridad. La Guardia Civil depende del [[Ministerio del Interior|interior]], es decir, del Gobierno de España y no de la Junta, así que la petición se dirige al Estado, que es quien decide cuántos agentes y barcos hay."
+    "El choque de Urda ha cortado la alta velocidad ([[AVE|ave]]) entre Madrid y Andalucía, la línea que une la capital con Córdoba, Sevilla o Málaga. [[Adif|adif]] suspendió la circulación sin fecha de reapertura. [[Renfe|renfe]] ha paralizado la venta de billetes del corredor hasta el 13 de diciembre, aunque esa fecha no es un anuncio de reapertura: podría abrir antes si Adif lo autoriza. Iryo canceló todos sus trenes desde Madrid hacia el sur y Ouigo suspendió los suyos al menos hasta el lunes 2 de noviembre. Para quienes ya tenían billete, Renfe ofrece trenes de Cercanías y autobuses entre Madrid, Ciudad Real y Puertollano, con viajes más largos.",
+    "Andalucía vive también el duelo. [[Juanma Moreno|moreno]] decretó tres días de [[luto oficial|luto]] en la comunidad, desde las 14:00 del miércoles 28 hasta las 14:00 del sábado 31 de octubre. Para muchos andaluces la noticia llega con un recuerdo reciente: el 18 de enero, en [[Adamuz|adamuz]] (Córdoba), otro choque de trenes de alta velocidad dejó más de 40 muertos, y entre aquella tragedia y esta han pasado solo nueve meses. Mientras la jueza investiga qué falló en Urda, las causas siguen sin confirmarse."
    ],
-   "busqueda_imagenes": "narcolancha Guardia Civil Huelva patrullera",
+   "busqueda_imagenes": "alta velocidad Madrid Andalucía suspendida Urda",
    "fuentes": [
-    "Última Hora",
-    "Andalucía Información",
-    "Huelva Red",
-    "Teleprensa",
+    "RTVC",
+    "elDiario.es",
     "Democrata",
-    "El Mira"
+    "101TV",
+    "Diario de Santiago",
+    "El Digital de Albacete",
+    "Albacete Abierto"
    ],
-   "publicada": "2026-10-24",
+   "publicada": "2026-10-29",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "A drug-running speedboat rams a Civil Guard patrol boat in Huelva and Moreno asks for 'more resources' against drug trafficking",
-    "entradilla": "Several officers suffered minor bruises and the five people aboard the speedboat were arrested; Moreno says this happens 'day after day'.",
+    "titular": "Andalusia is left without a high-speed link to Madrid after the Urda crash and declares three days of mourning",
+    "entradilla": "Adif suspends trains on the corridor with no reopening date; Renfe is not selling tickets until 13 December and offers commuter trains and buses.",
     "parrafos": [
-     "On the afternoon of Thursday 22 October, a [[narcolancha|narcolancha]] (a drug-running speedboat) rammed a patrol boat of the [[Civil Guard|guardiacivil]] in the waters off Huelva. According to the media, the officers had spotted fuel being transferred between two fast boats linked to drug trafficking; one of them fled and hit the patrol boat, which suffered visible damage. Several Civil Guard officers had minor bruises and carried on the chase until they arrested the five people aboard the speedboat. A narcolancha is a very fast boat that criminal gangs use to move drugs or fuel across the sea and rivers.",
-     "On Friday 23, [[Juanma Moreno|moreno]], president of the [[Junta de Andalucía|junta]], wrote on the social network X that this happens day after day in Andalusia, that the drug gangs are expanding along the whole coast and that any operation can end in tragedy again. He asked for 'more resources' and full State backing for the security forces. The Civil Guard answers to the [[Ministry of the Interior|interior]], that is, to the Spanish Government and not to the regional government, so the request is addressed to the State, which decides how many officers and boats there are."
+     "The Urda crash has cut the high-speed ([[AVE|ave]]) link between Madrid and Andalusia, the line that connects the capital with Córdoba, Seville and Málaga. [[Adif|adif]] suspended services with no reopening date. [[Renfe|renfe]] has frozen ticket sales on the corridor until 13 December, although that date is not an announcement of reopening: the line could open sooner if Adif authorises it. Iryo cancelled all its trains from Madrid to the south and Ouigo suspended its own at least until Monday 2 November. For those who already had tickets, Renfe offers commuter trains and buses between Madrid, Ciudad Real and Puertollano, with longer journeys.",
+     "Andalusia is also in mourning. [[Juanma Moreno|moreno]] declared three days of [[official mourning|luto]] in the region, from 14:00 on Wednesday 28 until 14:00 on Saturday 31 October. For many Andalusians the news comes with a recent memory: on 18 January, at [[Adamuz|adamuz]] (Córdoba), another high-speed train collision left more than 40 dead, and only nine months have passed between that tragedy and this one. While the judge investigates what went wrong at Urda, the causes remain unconfirmed."
     ],
     "nota_actualizacion": null
    }
@@ -329,10 +330,10 @@
    "id": "tractorada-madrid-28-octubre-agricultores-asaja-coag",
    "seccion": "and",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><rect class=\"d-a\" x=\"14\" y=\"40\" width=\"46\" height=\"22\" rx=\"3\"/><rect class=\"d-a\" x=\"52\" y=\"24\" width=\"38\" height=\"38\" rx=\"3\"/><rect class=\"d-w\" x=\"58\" y=\"29\" width=\"26\" height=\"18\"/><rect class=\"d-i\" x=\"22\" y=\"26\" width=\"5\" height=\"16\"/><circle class=\"d-i\" cx=\"30\" cy=\"64\" r=\"10\"/><circle class=\"d-y\" cx=\"30\" cy=\"64\" r=\"4\"/><circle class=\"d-i\" cx=\"76\" cy=\"60\" r=\"15\"/><circle class=\"d-y\" cx=\"76\" cy=\"60\" r=\"6\"/><path class=\"d-l\" d=\"M14 40 H60 V62 H14 Z M52 24 H90 V62 H52\"/></svg>",
-   "titular": "Los agricultores llevarán sus tractores a Madrid el 28 de octubre por los costes del campo",
-   "entradilla": "ASAJA, COAG y Unión de Uniones piden un plan de choque; ASAJA acampará frente al Ministerio de Agricultura hasta el 12 de noviembre.",
+   "titular": "Los agricultores suspenden la tractorada de Madrid por el accidente de tren de Urda",
+   "entradilla": "ASAJA, COAG y Unión de Uniones aplazan la protesta sin fijar nueva fecha y mantienen sus peticiones sobre costes, gasóleo y PAC.",
    "parrafos": [
-    "El miércoles 28 de octubre, agricultores y ganaderos de toda España, también de Andalucía, harán una [[tractorada|tractorada]] en Madrid: una marcha con tractores que terminará frente al Ministerio de Agricultura, junto a la estación de Atocha. La convocan ASAJA, COAG y Unión de Uniones con el lema «Producimos tu comida, merecemos vivir de nuestro trabajo», y los organizadores prevén unos 500 tractores. Además, ASAJA acampará delante del Ministerio desde el 29 de octubre hasta el 12 de noviembre, con delegaciones de cada provincia que se irán turnando. En Andalucía, dirigentes de ASAJA-Sevilla y COAG-Andalucía han defendido la protesta.",
+    "El miércoles 28 de octubre iba a ser el día de la gran [[tractorada|tractorada]] en Madrid: unos 500 tractores en cinco columnas y miles de agricultores y ganaderos, convocados por ASAJA, COAG y Unión de Uniones con el lema «Dar de comer tiene que dar para vivir», debían marchar desde la plaza de Colón hasta el Ministerio de Agricultura. Pero esa misma mañana se produjo el choque de trenes de Urda (Toledo), con al menos 68 muertos, y las tres organizaciones anunciaron que suspendían la protesta. No han fijado nueva fecha y aclaran que aplazarla no significa renunciar a sus peticiones. Queda sin confirmar la acampada que ASAJA tenía prevista ante el Ministerio hasta el 12 de noviembre.",
     "Piden, sobre todo, un plan de choque contra los costes de producir, entre ellos el [[gasóleo|diesel]], que no deja de subir. También quieren que la futura [[PAC|pac]], las ayudas agrarias de la Unión Europea, mantenga fondos suficientes, que se cumpla la ley de la cadena alimentaria, menos papeleo y que los productos importados de fuera de la UE cumplan las mismas normas que los europeos, con una revisión de los acuerdos con [[Mercosur|mercosur]] y Marruecos. Según los organizadores, el Ministerio de Agricultura se ha reunido con ellos, pero las medidas ofrecidas son insuficientes. Si producir cuesta más, el agricultor puede ganar menos o subir el precio, y por eso la protesta también interesa a quien compra comida."
    ],
    "busqueda_imagenes": "tractorada Madrid 28 octubre agricultores Ministerio de Agricultura",
@@ -345,27 +346,27 @@
     "Guía del Ocio"
    ],
    "publicada": "2026-10-26",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-29",
+   "nota_actualizacion": "ASAJA, COAG y Unión de Uniones suspendieron la tractorada del 28 de octubre por el accidente de tren de Urda, sin nueva fecha.",
    "en": {
-    "titular": "Farmers will take their tractors to Madrid on 28 October over farming costs",
-    "entradilla": "ASAJA, COAG and Unión de Uniones are demanding an emergency plan; ASAJA will camp in front of the Ministry of Agriculture until 12 November.",
+    "titular": "Farmers call off the Madrid tractor protest after the Urda train accident",
+    "entradilla": "ASAJA, COAG and Unión de Uniones postpone the protest with no new date and stand by their demands on costs, diesel and the CAP.",
     "parrafos": [
-     "On Wednesday 28 October, farmers and livestock breeders from all over Spain, including Andalusia, will hold a [[tractor protest|tractorada]] in Madrid: a march with tractors that will end in front of the Ministry of Agriculture, next to Atocha station. It is called by ASAJA, COAG and Unión de Uniones under the slogan 'We produce your food, we deserve to make a living from our work', and the organisers expect about 500 tractors. In addition, ASAJA will camp outside the Ministry from 29 October to 12 November, with delegations from each province taking turns. In Andalusia, leaders of ASAJA-Sevilla and COAG-Andalucía have defended the protest.",
+     "Wednesday 28 October was to be the day of the big [[tractor protest|tractorada]] in Madrid: about 500 tractors in five columns and thousands of farmers and livestock breeders, called by ASAJA, COAG and Unión de Uniones under the slogan 'Producing food has to make a living', were due to march from Plaza de Colón to the Ministry of Agriculture. But that same morning the train collision at Urda (Toledo) happened, with at least 68 dead, and the three organisations announced they were suspending the protest. They have set no new date and say that postponing it does not mean giving up their demands. The camp ASAJA had planned outside the Ministry until 12 November remains unconfirmed.",
      "Above all they ask for an emergency plan against production costs, including [[diesel|diesel]], which keeps rising. They also want the future [[CAP|pac]], the European Union's farm subsidies, to keep enough funding, the food supply chain law to be enforced, less paperwork, and imported products from outside the EU to meet the same rules as European ones, with a review of the agreements with [[Mercosur|mercosur]] and Morocco. According to the organisers, the Ministry of Agriculture has met them, but the measures offered are insufficient. If producing costs more, the farmer can earn less or raise the price, which is why the protest also matters to anyone who buys food."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "ASAJA, COAG and Unión de Uniones called off the 28 October tractor protest because of the Urda train accident, with no new date."
    }
   },
   {
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Arabia Saudí, Turquía y Pakistán dialogan con Irán en Teherán para evitar que vuelva la guerra",
-   "entradilla": "Los cuatro países acordaron seguir hablando, mientras Irán dice que dos superpetroleros más tocaron minas y Trump no descarta otro ataque.",
+   "titular": "Ormuz: Irán propone un plan de siete días para reabrirlo y EE. UU. no lo acepta, mientras los mediadores buscan evitar otra guerra",
+   "entradilla": "Arabia Saudí, Turquía y Pakistán dialogan con Irán, y Teherán dice que espera empezar a reabrir el estrecho «en menos de una semana».",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "El lunes 26, el ministro de Defensa saudí, Khalid bin Salman, el jefe del Ejército de Pakistán, Asim Munir, y el jefe de inteligencia de Turquía, Ibrahim Kalin, se reunieron en Teherán con el jefe de Seguridad de Irán, Mohsen Rezaei. Dijeron que quieren apoyar el diálogo y la mediación de Catar y Pakistán, y los cuatro países acordaron seguir hablando. Temen que Estados Unidos e Israel reanuden los ataques, quizá tras las elecciones estadounidenses del 3 de noviembre. El viernes, según la Guardia Revolucionaria iraní, otros dos superpetroleros tocaron minas, sin confirmación independiente. Trump dijo en un mitin que EE. UU. «podría hacer otra pequeña Furia Épica», y el Brent superó los 116 dólares."
+    "El lunes 26, el ministro de Defensa saudí, el jefe del Ejército de Pakistán y el jefe de inteligencia de Turquía se reunieron en Teherán con el jefe de Seguridad de Irán, Mohsen Rezaei, y acordaron seguir hablando. El miércoles 28, el canciller iraní, Abbas Araqchi, dijo que espera empezar «en menos de una semana» su «plan de siete días» para reabrir el estrecho. Según los medios, Irán lo condiciona a una tregua de siete días, a que se levanten las sanciones al petróleo y a que acabe el bloqueo naval. Estados Unidos no ha aceptado de momento la propuesta. Catar y otros mediadores intentan evitar que se reanude la guerra tras las elecciones estadounidenses del 3 de noviembre."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -397,16 +398,16 @@
     "Prensa Latina"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-27",
-   "nota_actualizacion": "El 26 de octubre Arabia Saudí, Turquía y Pakistán se reunieron en Teherán con responsables iraníes y acordaron seguir dialogando para evitar que se reanude la guerra.",
+   "actualizada": "2026-10-29",
+   "nota_actualizacion": "El 28 de octubre Irán dijo que espera empezar «en menos de una semana» su plan de siete días para reabrir Ormuz; Estados Unidos no lo ha aceptado.",
    "en": {
-    "titular": "Hormuz: Saudi Arabia, Turkey and Pakistan hold talks with Iran in Tehran to stop the war from returning",
-    "entradilla": "The four countries agreed to keep talking, while Iran says two more supertankers hit mines and Trump does not rule out another attack.",
+    "titular": "Hormuz: Iran proposes a seven-day plan to reopen it and the US does not accept, while mediators try to stop another war",
+    "entradilla": "Saudi Arabia, Turkey and Pakistan hold talks with Iran, and Tehran says it hopes to start reopening the strait \"in less than a week\".",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "On Monday 26, Saudi Arabia's defence minister, Khalid bin Salman, Pakistan's army chief, Asim Munir, and Turkey's intelligence chief, Ibrahim Kalin, met in Tehran with Iran's security chief, Mohsen Rezaei. They said they want to support dialogue and the mediation of Qatar and Pakistan, and the four countries agreed to keep talking. They fear that the United States and Israel could resume their attacks, perhaps after the US elections on 3 November. On Friday, according to Iran's Revolutionary Guard, two more supertankers hit mines, with no independent confirmation. Donald Trump said at a rally that the US 'may do another little Epic Fury', and Brent rose above 116 dollars."
+     "On Monday 26, Saudi Arabia's defence minister, Pakistan's army chief and Turkey's intelligence chief met in Tehran with Iran's security chief, Mohsen Rezaei, and agreed to keep talking. On Wednesday 28, Iran's foreign minister, Abbas Araghchi, said he hopes to begin his 'seven-day plan' to reopen the strait 'in less than a week'. According to the media, Iran makes it conditional on a seven-day truce, on lifting sanctions on its oil and on ending the naval blockade. The United States has not accepted the proposal so far. Qatar and other mediators are trying to stop the war from resuming after the US elections on 3 November."
     ],
-    "nota_actualizacion": "On 26 October Saudi Arabia, Turkey and Pakistan met Iranian officials in Tehran and agreed to keep talking to stop the war from resuming."
+    "nota_actualizacion": "On 28 October Iran said it hopes to start its seven-day plan to reopen Hormuz 'in less than a week'; the United States has not accepted it."
    }
   },
   {
@@ -417,7 +418,7 @@
    "entradilla": "Los puntos centrales del acuerdo de 2025 siguen sin cumplirse y la tregua no frena las muertes.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas. El 15 de octubre, al cumplirse un año del [[alto el fuego|altoelfuego]], el coordinador adjunto de la ONU para el proceso de paz en Oriente Medio, Ramiz Alakbarov, advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El domingo 25, según fuentes palestinas, un bombardeo israelí contra el campus de la Universidad Islámica de [[Gaza|gaza]] mató a tres personas; Hamás lo calificó de «crimen de guerra». Las autoridades sanitarias palestinas cuentan más de 1.500 muertos desde la tregua. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen sin aplicarse."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas. El 15 de octubre, al cumplirse un año del [[alto el fuego|altoelfuego]], el coordinador adjunto de la ONU para el proceso de paz en Oriente Medio, Ramiz Alakbarov, advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El miércoles 28, al menos seis palestinos murieron en nuevos ataques israelíes, cinco de ellos en un bombardeo en Al Mauasi, en el sur de [[Gaza|gaza]]. Ese mismo ministerio cuenta 1.568 muertos por ataques israelíes desde la tregua. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen sin aplicarse."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -435,16 +436,16 @@
     "Unitel"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-26",
-   "nota_actualizacion": "El 25 de octubre un bombardeo israelí contra la Universidad Islámica de Gaza mató a tres personas, según fuentes palestinas; las autoridades sanitarias palestinas cuentan más de 1.500 muertos desde la tregua.",
+   "actualizada": "2026-10-29",
+   "nota_actualizacion": "El 28 de octubre murieron al menos seis palestinos en ataques israelíes; el Ministerio de Sanidad de Gaza cuenta 1.568 muertos desde la tregua.",
    "en": {
     "titular": "Gaza: a year of ceasefire and the UN warns the risk of a return to war 'has never been higher'",
     "entradilla": "The central points of the 2025 agreement are still unfulfilled and the truce does not stop the deaths.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which Hamas controls, more than 74,000 people have died in the war. On 15 October, a year after the [[ceasefire|altoelfuego]], the UN's deputy coordinator for the Middle East peace process, Ramiz Alakbarov, warned that the risk of a return to war 'has never been higher'. On Sunday 25, according to Palestinian sources, an Israeli air strike on the campus of the Islamic University of [[Gaza|gaza]] killed three people; Hamas called it a 'war crime'. Palestinian health authorities count more than 1,500 deaths since the truce. Hamas's disarmament, the Israeli withdrawal and the international force have still not been put in place."
+     "According to the Gaza Health Ministry, which Hamas controls, more than 74,000 people have died in the war. On 15 October, a year after the [[ceasefire|altoelfuego]], the UN's deputy coordinator for the Middle East peace process, Ramiz Alakbarov, warned that the risk of a return to war 'has never been higher'. On Wednesday 28, at least six Palestinians were killed in new Israeli attacks, five of them in an air strike on Al Mawasi, in the south of [[Gaza|gaza]]. The same ministry counts 1,568 deaths from Israeli attacks since the truce. Hamas's disarmament, the Israeli withdrawal and the international force have still not been put in place."
     ],
-    "nota_actualizacion": "On 25 October an Israeli air strike on the Islamic University of Gaza killed three people, according to Palestinian sources; Palestinian health authorities count more than 1,500 deaths since the truce."
+    "nota_actualizacion": "On 28 October at least six Palestinians were killed in Israeli attacks; the Gaza Health Ministry counts 1,568 deaths since the truce."
    }
   },
   {
@@ -1139,40 +1140,37 @@
    }
   },
   {
-   "id": "constitucional-supremo-amnistia-malversacion",
+   "id": "urda-choque-ave-iryo-toledo-68-muertos",
    "seccion": "es",
-   "dibujo": "congress",
-   "titular": "El Supremo aplica la amnistía por malversación a Junqueras, Romeva, Turull y Bassa tras la orden del Constitucional",
-   "entradilla": "El tribunal acata la doctrina del Constitucional pero critica con dureza su actuación; un día antes, el juez Llarena había aplicado la amnistía a Puigdemont.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
+   "titular": "Dos trenes chocan en Urda (Toledo) y el accidente deja al menos 68 muertos",
+   "entradilla": "Un AVE embistió por detrás a un tren de Iryo que estaba parado en la línea Madrid-Andalucía; el Gobierno decreta tres días de luto oficial.",
    "parrafos": [
-    "El martes 20 de octubre, la Sala de lo Penal del Tribunal Supremo aplicó la [[ley de amnistía|amnistia]] a la [[malversación|malversacion]] de Oriol Junqueras, Raül Romeva, Jordi Turull y Dolors Bassa, condenados en 2019 por el [[procés|proces]]. Con ello da por extinguida su responsabilidad penal y levanta las inhabilitaciones que tenían hasta 2031, así que podrán volver a presentarse a elecciones y ocupar cargos públicos. El Supremo actúa catorce días después de que el Tribunal Constitucional, que vigila que las leyes y las sentencias respeten la Constitución, le ordenara revisar su decisión de excluir ese delito de la amnistía.",
-    "Los magistrados del [[Tribunal Supremo|supremo]] acatan la orden, pero critican con dureza al Constitucional: hablan de «expansionismo» y de una «mutación» que, según ellos, deforma el diseño constitucional de 1978. Quienes defienden la amnistía sostienen que la ley cubre los hechos del procés salvo el enriquecimiento personal; sus críticos, que se perdona el uso de dinero público. El lunes 19, el juez Pablo Llarena consideró aplicable la amnistía a [[Carles Puigdemont|puigdemont]], Toni Comín y Lluís Puig, y confirmó que sigue sin efecto su orden de detención nacional, lo que acerca el final de su proceso. El asunto afecta también a [[Junts|junts]], el partido de Puigdemont."
+    "La mañana del miércoles 28 de octubre, poco antes de las nueve, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, junto a Urda (Toledo). Entre los dos convoyes viajaban más de 500 personas. El presidente de Castilla-La Mancha, [[Emiliano García-Page|garciapage]], confirmó 68 fallecidos y avisó de que la cifra puede subir, porque había cuerpos todavía atrapados entre los vagones. Según los medios, hay además decenas de heridos, unos 15 de ellos muy graves. La Guardia Civil siguió trabajando durante la madrugada para retirar vagones y buscar víctimas.",
+    "Las causas aún se investigan y una jueza ha tomado el caso. Según la información publicada, un fallo de un sistema de seguridad que frena los trenes de forma automática dejó parado al Iryo, y el centro de control de [[Adif|adif]], el organismo que gestiona las vías, habría autorizado al AVE a seguir con velocidad normal. Son hipótesis que deben confirmar los investigadores. El Gobierno decretó tres días de [[luto oficial|luto]], del 29 al 31 de octubre, y [[Pedro Sánchez|sanchez]] acudió al centro de coordinación de emergencias en Toledo. El sindicato de maquinistas Semaf mantuvo la huelga de este jueves en Renfe, convocada en defensa de la seguridad ferroviaria."
    ],
-   "busqueda_imagenes": "Tribunal Constitucional sede Madrid",
+   "busqueda_imagenes": "accidente tren Urda Toledo AVE Iryo",
    "fuentes": [
-    "El Español",
-    "Deia",
-    "Capital",
-    "Qué!",
-    "Moncloa.com",
-    "Infobae",
+    "RTVC",
     "elDiario.es",
     "The Objective",
-    "Poder Judicial",
-    "Infobae (Europa Press)",
-    "ABC Color"
+    "COPE",
+    "Moncloa.com",
+    "Infobae (EFE)",
+    "Castilla-La Mancha Media",
+    "El Progreso"
    ],
-   "publicada": "2026-10-08",
-   "actualizada": "2026-10-23",
-   "nota_actualizacion": "El 20 de octubre el Supremo aplicó la amnistía por malversación a Junqueras, Romeva, Turull y Bassa; un día antes, el juez Llarena la había aplicado a Puigdemont, Comín y Puig.",
+   "publicada": "2026-10-29",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "The Supreme Court applies the amnesty for embezzlement to Junqueras, Romeva, Turull and Bassa after the Constitutional Court's order",
-    "entradilla": "The court complies with the Constitutional Court's doctrine but sharply criticises its conduct; a day earlier, Judge Llarena had applied the amnesty to Puigdemont.",
+    "titular": "Two trains collide at Urda (Toledo) and the accident leaves at least 68 dead",
+    "entradilla": "An AVE hit from behind an Iryo train that was stopped on the Madrid-Andalusia line; the Government declares three days of official mourning.",
     "parrafos": [
-     "On Tuesday 20 October, the Criminal Chamber of the Supreme Court applied the [[amnesty law|amnistia]] to the [[embezzlement|malversacion]] of Oriol Junqueras, Raül Romeva, Jordi Turull and Dolors Bassa, convicted in 2019 over the [[procés|proces]]. This extinguishes their criminal liability and lifts the bans from public office they had until 2031, so they will be able to stand for election again and hold public posts. The Supreme Court acts fourteen days after the Constitutional Court, which checks that laws and rulings respect the Constitution, ordered it to review its decision to exclude that crime from the amnesty.",
-     "The judges of the [[Supreme Court|supremo]] comply with the order but sharply criticise the Constitutional Court: they speak of 'expansionism' and of a 'mutation' that, in their view, distorts the constitutional design of 1978. Those who defend the amnesty argue that the law covers the events of the procés except personal enrichment; its critics, that the use of public money is being forgiven. On Monday 19, Judge Pablo Llarena found the amnesty applicable to [[Carles Puigdemont|puigdemont]], Toni Comín and Lluís Puig, and confirmed that his national arrest warrant remains void, which brings his case closer to its end. The matter also concerns [[Junts|junts]], Puigdemont's party."
+     "On the morning of Wednesday 28 October, shortly before nine o'clock, a Renfe [[AVE|ave]] train ran into the back of an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line near Urda (Toledo). More than 500 people were travelling on the two trains. The president of Castilla-La Mancha, [[Emiliano García-Page|garciapage]], confirmed 68 dead and warned that the figure may rise, because some bodies were still trapped between the carriages. According to the media, dozens more were injured, about 15 of them very seriously. The Civil Guard kept working through the night to clear the carriages and search for victims.",
+     "The causes are still being investigated and a judge has taken the case. According to published reports, a failure in a safety system that brakes trains automatically left the Iryo stopped, and the control centre of [[Adif|adif]], the body that manages the tracks, is said to have allowed the AVE to continue at normal speed. These are hypotheses that investigators must confirm. The Government declared three days of [[official mourning|luto]], from 29 to 31 October, and [[Pedro Sánchez|sanchez]] attended the emergency coordination centre in Toledo. The drivers' union Semaf went ahead with this Thursday's strike at Renfe, called to defend railway safety."
     ],
-    "nota_actualizacion": "On 20 October the Supreme Court applied the embezzlement amnesty to Junqueras, Romeva, Turull and Bassa; the day before, Judge Llarena had applied it to Puigdemont, Comín and Puig."
+    "nota_actualizacion": null
    }
   },
   {
@@ -3271,11 +3269,74 @@
     "n": "Unemployment rate",
     "x": "The percentage of jobless people among all those who work or are looking for work. A rate of 10% means that 1 in 10 of them cannot find a job."
    }
+  },
+  "ave": {
+   "t": "palabra",
+   "n": "AVE",
+   "x": "Es el nombre de los trenes de alta velocidad de Renfe, la compañía pública de trenes. Van por vías propias y pueden superar los 300 km por hora.",
+   "en": {
+    "n": "AVE",
+    "x": "The name of the high-speed trains run by Renfe, the state train company. They use dedicated tracks and can exceed 300 km per hour."
+   }
+  },
+  "iryo": {
+   "t": "palabra",
+   "n": "Iryo",
+   "x": "Es una compañía privada de trenes de alta velocidad que compite con Renfe en rutas como Madrid-Sevilla.",
+   "en": {
+    "n": "Iryo",
+    "x": "A private high-speed train company that competes with Renfe on routes such as Madrid-Seville."
+   }
+  },
+  "adif": {
+   "t": "palabra",
+   "n": "Adif",
+   "x": "Es la empresa pública que mantiene las vías y las estaciones y que dirige desde sus centros de control la circulación de los trenes.",
+   "en": {
+    "n": "Adif",
+    "x": "The state company that maintains the tracks and stations and directs train traffic from its control centres."
+   }
+  },
+  "luto": {
+   "t": "palabra",
+   "n": "Luto oficial",
+   "x": "Son los días en los que las instituciones muestran respeto por las víctimas de una tragedia, con banderas a media asta y actos públicos suspendidos o con minutos de silencio.",
+   "en": {
+    "n": "Official mourning",
+    "x": "The days when institutions show respect for the victims of a tragedy, with flags at half-mast and public events cancelled or held with a minute of silence."
+   }
+  },
+  "garciapage": {
+   "t": "persona",
+   "n": "Emiliano García-Page",
+   "x": "Es el presidente de Castilla-La Mancha, del PSOE, desde 2015.",
+   "en": {
+    "n": "Emiliano García-Page",
+    "x": "He is the president of Castilla-La Mancha, from the PSOE (Socialist party), and has held the post since 2015."
+   }
+  },
+  "renfe": {
+   "t": "palabra",
+   "n": "Renfe",
+   "x": "Es la empresa pública española de trenes de viajeros: AVE, Cercanías y trenes regionales.",
+   "en": {
+    "n": "Renfe",
+    "x": "Spain's state passenger train company: AVE, commuter (Cercanías) and regional trains."
+   }
+  },
+  "adamuz": {
+   "t": "lugar",
+   "n": "Adamuz",
+   "x": "Es un municipio de la provincia de Córdoba, en Andalucía, donde el 18 de enero de 2026 chocaron dos trenes de alta velocidad.",
+   "en": {
+    "n": "Adamuz",
+    "x": "A town in the province of Córdoba, in Andalusia, where two high-speed trains collided on 18 January 2026."
+   }
   }
  },
- "edicion_en": "Wednesday 28 October 2026",
+ "edicion_en": "Thursday 29 October 2026",
  "destacada": {
-  "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
-  "fecha": "2026-10-28"
+  "id": "urda-choque-ave-iryo-toledo-68-muertos",
+  "fecha": "2026-10-29"
  }
 }
