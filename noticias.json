@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-29T07:30:00+01:00",
- "edicion": "Jueves 29 de octubre de 2026",
+ "actualizado": "2026-10-30T07:15:00+01:00",
+ "edicion": "Viernes 30 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -271,26 +271,28 @@
    "titular": "Moreno anuncia un presupuesto andaluz de 54.716 millones para 2027, el primero pactado con Vox",
    "entradilla": "El gasto de la Junta crecería un 6 % y dos de cada tres euros irían a políticas sociales; el Parlamento empezará a debatirlo el 11 de noviembre.",
    "parrafos": [
-    "El jueves 22 de octubre, [[Juanma Moreno|moreno]] anunció en el Parlamento andaluz el [[presupuesto|presupuesto]] de la [[Junta de Andalucía|junta]] para 2027: 54.716 millones de euros, un 6 % más que los 51.597 millones de este año. Es el primero que se pacta con [[Vox|vox]] y el octavo que presenta Moreno. El Consejo de Gobierno lo aprobará la próxima semana y el Parlamento empezará a debatirlo el 11 de noviembre, el mismo día de la huelga general convocada por los sindicatos.",
+    "El jueves 22 de octubre, [[Juanma Moreno|moreno]] anunció en el Parlamento andaluz el [[presupuesto|presupuesto]] de la [[Junta de Andalucía|junta]] para 2027: 54.716 millones de euros, un 6 % más que los 51.597 millones de este año. Es el primero que se pacta con [[Vox|vox]] y el octavo que presenta Moreno. El Consejo de Gobierno iba a aprobarlo el miércoles 28, pero lo suspendió tras el accidente de tren de Urda y, según los medios, lo aprobará este viernes 30. El Parlamento empezará a debatirlo el 11 de noviembre, el mismo día de la huelga general convocada por los sindicatos.",
     "Según Moreno, dos de cada tres euros irán a políticas sociales, unos 35.246 millones. La sanidad recibiría casi 17.000 millones, la educación 11.889, la dependencia 3.308 y la vivienda 963, un 31 % más que en 2026. Un presupuesto decide, por ejemplo, cuántos médicos, profesores o ayudas habrá. La oposición discrepa: Adelante Andalucía critica que la sanidad pública encargue servicios, como el cribado del cáncer de mama, a empresas privadas, y Moreno defiende su gestión. Son las cifras anunciadas por la Junta, y el Parlamento todavía puede cambiarlas."
    ],
    "busqueda_imagenes": "presupuesto Andalucía 2027 Parlamento Moreno",
    "fuentes": [
     "Última Hora",
     "Moncloa.com",
-    "Vozpópuli"
+    "Vozpópuli",
+    "Elmira",
+    "Teleprensa"
    ],
    "publicada": "2026-10-23",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-30",
+   "nota_actualizacion": "El Consejo de Gobierno aplazó la aprobación del presupuesto por el accidente de Urda y, según los medios, lo aprobará este viernes 30.",
    "en": {
     "titular": "Moreno announces an Andalusian budget of 54,716 million euros for 2027, the first agreed with Vox",
     "entradilla": "The regional government's spending would rise 6% and two out of every three euros would go on social policies; Parliament will begin debating it on 11 November.",
     "parrafos": [
-     "On Thursday 22 October, [[Juanma Moreno|moreno]] announced in the Andalusian Parliament the [[budget|presupuesto]] of the [[Junta de Andalucía|junta]] for 2027: 54,716 million euros, 6% more than this year's 51,597 million. It is the first to be agreed with [[Vox|vox]] and the eighth Moreno has presented. The Governing Council will approve it next week and Parliament will begin debating it on 11 November, the same day as the general strike called by the unions.",
+     "On Thursday 22 October, [[Juanma Moreno|moreno]] announced in the Andalusian Parliament the [[budget|presupuesto]] of the [[Junta de Andalucía|junta]] for 2027: 54,716 million euros, 6% more than this year's 51,597 million. It is the first to be agreed with [[Vox|vox]] and the eighth Moreno has presented. The Governing Council was due to approve it on Wednesday 28, but suspended the meeting after the Urda train accident and, according to the media, will approve it this Friday 30. Parliament will begin debating it on 11 November, the same day as the general strike called by the unions.",
      "According to Moreno, two out of every three euros will go on social policies, about 35,246 million. Health would receive almost 17,000 million, education 11,889, dependency care 3,308 and housing 963, 31% more than in 2026. A budget decides, for example, how many doctors, teachers or grants there will be. The opposition disagrees: Adelante Andalucía criticises the public health service for hiring private companies for services such as breast cancer screening, and Moreno defends his record. These are the figures announced by the regional government, and Parliament can still change them."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The Governing Council postponed approving the budget because of the Urda accident and, according to the media, will approve it this Friday 30."
    }
   },
   {
@@ -452,11 +454,11 @@
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Rusia y Kiev negociarán con EE. UU. en Abu Dabi en la primera quincena de noviembre",
-   "entradilla": "Putin quiere hablar de un acuerdo definitivo y no de una pausa corta; Zelenski rechaza entregar Sloviansk y Kramatorsk, y los ataques rusos continúan.",
+   "titular": "Ucrania: Rusia y Kiev negociarán con EE. UU. en Abu Dabi y Zelenski espera que sea entre el 6 y el 10 de noviembre",
+   "entradilla": "El Kremlin descarta que Europa participe; Putin quiere un acuerdo definitivo, Zelenski rechaza entregar Sloviansk y Kramatorsk y los ataques continúan.",
    "parrafos": [
-    "El miércoles 21, el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], se reunió unas tres horas con [[Vladímir Putin|putin]] en San Petersburgo y le presentó las ideas de paz que había recibido de [[Zelenski|zelenski]] en Oslo. Después, el Kremlin anunció que las conversaciones a tres bandas entre Rusia, Ucrania y Estados Unidos serán en Abu Dabi en la primera quincena de noviembre, y Zelenski confirmó el viernes que sus negociadores asistirán. Putin dijo que Rusia quiere hablar de un arreglo definitivo y de la seguridad de ambos países, no de una pausa breve en los combates. Zelenski considera más realista parar la lucha en las líneas actuales.",
-    "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. Zelenski descartó entregar Sloviansk y Kramatorsk, los últimos bastiones ucranianos en la provincia de Donetsk, porque abriría a las tropas rusas el camino hacia Dnipro. Mientras tanto, Rusia siguió atacando: tras la reunión con Witkoff murieron al menos siete personas en varias regiones y hubo 15 heridos en [[Kiev|kiev]], según las autoridades ucranianas, que hablaron de 21 misiles balísticos y más de 200 drones. [[Donald Trump|trump]] dijo que Zelenski «tiene que llegar a un acuerdo», y su Gobierno ha suspendido buena parte de las [[sanciones|sanciones]] a Rusia."
+    "El miércoles 21, el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], se reunió unas tres horas con [[Vladímir Putin|putin]] en San Petersburgo y le presentó las ideas de paz que había recibido de [[Zelenski|zelenski]] en Oslo. Después, el Kremlin anunció que las conversaciones a tres bandas entre Rusia, Ucrania y Estados Unidos serán en Abu Dabi en la primera quincena de noviembre. El 28 de octubre, Zelenski dijo que espera que se celebren entre el 6 y el 10 de noviembre, tras las elecciones legislativas de EE. UU., y el Kremlin descartó que Europa participe. Putin quiere hablar de un arreglo definitivo, no de una pausa breve en los combates.",
+    "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. Zelenski descartó entregar Sloviansk y Kramatorsk, los últimos bastiones ucranianos en la provincia de Donetsk, porque abriría a las tropas rusas el camino hacia Dnipro. Mientras tanto, los ataques continúan: tras la reunión con Witkoff murieron al menos siete personas en varias regiones y hubo 15 heridos en [[Kiev|kiev]], según las autoridades ucranianas, y un ataque ucraniano con drones contra la ciudad rusa de Vorónezh dejó dos muertos y 17 heridos. [[Donald Trump|trump]] dijo que Zelenski «tiene que llegar a un acuerdo», y su Gobierno ha suspendido buena parte de las [[sanciones|sanciones]] a Rusia."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -477,19 +479,21 @@
     "CNN en Español",
     "Audacy",
     "El Deber (BBC)",
-    "Euronews"
+    "Euronews",
+    "Bloomberg",
+    "El Nacional"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-24",
-   "nota_actualizacion": "El Kremlin y Zelenski confirmaron que las conversaciones a tres serán en Abu Dabi en la primera quincena de noviembre; Zelenski rechaza entregar Sloviansk y Kramatorsk.",
+   "actualizada": "2026-10-30",
+   "nota_actualizacion": "Zelenski espera que las conversaciones de Abu Dabi sean entre el 6 y el 10 de noviembre y el Kremlin descarta que Europa participe.",
    "en": {
-    "titular": "Ukraine: Russia and Kyiv to hold talks with the US in Abu Dhabi in the first half of November",
-    "entradilla": "Putin wants to discuss a definitive deal, not a short pause; Zelensky refuses to give up Sloviansk and Kramatorsk, and Russian attacks continue.",
+    "titular": "Ukraine: Russia and Kyiv to hold talks with the US in Abu Dhabi, and Zelensky hopes it will be between 6 and 10 November",
+    "entradilla": "The Kremlin rules out European participation; Putin wants a definitive deal, Zelensky refuses to give up Sloviansk and Kramatorsk, and the attacks continue.",
     "parrafos": [
-     "On Wednesday 21, the White House envoy, [[Steve Witkoff|witkoff]], met [[Vladimir Putin|putin]] for about three hours in Saint Petersburg and presented the peace ideas he had received from [[Zelensky|zelenski]] in Oslo. Afterwards the Kremlin announced that the three-way talks between Russia, Ukraine and the United States will be held in Abu Dhabi in the first half of November, and Zelensky confirmed on Friday that his negotiators will attend. Putin said Russia wants to discuss a definitive settlement and the security of both countries, not a brief pause in the fighting. Zelensky thinks stopping the fighting along the current lines is more realistic.",
-     "There is still no peace deal: what has been agreed is to sit down and talk again. Zelensky ruled out handing over Sloviansk and Kramatorsk, Ukraine's last strongholds in the province of Donetsk, because it would open the way to Dnipro for Russian troops. Meanwhile Russia kept attacking: after the meeting with Witkoff at least seven people died in several regions and 15 were injured in [[Kyiv|kiev]], according to Ukrainian authorities, who spoke of 21 ballistic missiles and more than 200 drones. [[Donald Trump|trump]] said Zelensky 'has to reach a deal', and his administration has suspended a large part of the [[sanctions|sanciones]] on Russia."
+     "On Wednesday 21, the White House envoy, [[Steve Witkoff|witkoff]], met [[Vladimir Putin|putin]] for about three hours in Saint Petersburg and presented the peace ideas he had received from [[Zelensky|zelenski]] in Oslo. Afterwards the Kremlin announced that the three-way talks between Russia, Ukraine and the United States will be held in Abu Dhabi in the first half of November. On 28 October, Zelensky said he expects them to take place between 6 and 10 November, after the US legislative elections, and the Kremlin ruled out Europe taking part. Putin wants to discuss a definitive settlement, not a brief pause in the fighting.",
+     "There is still no peace deal: what has been agreed is to sit down and talk again. Zelensky ruled out handing over Sloviansk and Kramatorsk, Ukraine's last strongholds in the province of Donetsk, because it would open the way to Dnipro for Russian troops. Meanwhile the attacks continue: after the meeting with Witkoff at least seven people died in several regions and 15 were injured in [[Kyiv|kiev]], according to Ukrainian authorities, and a Ukrainian drone attack on the Russian city of Voronezh left two dead and 17 injured. [[Donald Trump|trump]] said Zelensky 'has to reach a deal', and his administration has suspended a large part of the [[sanctions|sanciones]] on Russia."
     ],
-    "nota_actualizacion": "The Kremlin and Zelensky confirmed that the three-way talks will be held in Abu Dhabi in the first half of November; Zelensky refuses to give up Sloviansk and Kramatorsk."
+    "nota_actualizacion": "Zelensky expects the Abu Dhabi talks to take place between 6 and 10 November and the Kremlin rules out European participation."
    }
   },
   {
@@ -531,11 +535,11 @@
    "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Israel vota sin un ganador claro: el Likud es el partido más votado, pero ningún bloque llega a los 61 escaños",
-   "entradilla": "Con el recuento aún abierto, las proyecciones dan al bloque de Netanyahu entre 50 y 57 escaños y al de Eisenkot entre 47 y 52, y los partidos árabes pueden ser decisivos.",
+   "titular": "Israel: el recuento final deja al bloque de Netanyahu en 53 escaños, sin mayoría para gobernar",
+   "entradilla": "El Likud es el partido más votado, con 27, pero a Netanyahu le faltan ocho escaños para los 61 y los partidos árabes, con 19, no están en ningún bloque.",
    "parrafos": [
-    "El martes 27 de octubre, Israel celebró elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Se votaba a los 120 diputados de la [[Knesset|knesset]], el Parlamento israelí, y quien reúna 61 podrá formar Gobierno. La participación fue del 77,7 %, bastante más que en 2022. Con el recuento todavía abierto, el Likud de [[Benjamín Netanyahu|netanyahu]] es el partido más votado, con entre 24 y 28 escaños según las proyecciones, menos que los 32 que tenía. Yashar, el partido de [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, queda segundo, con entre 20 y 23.",
-    "Ningún bloque alcanza los 61. Los primeros sondeos a pie de urna daban ventaja a la oposición, pero las proyecciones revisadas y el recuento parcial la colocan ahora por detrás: el bloque de Netanyahu, con partidos ultraortodoxos y de extrema derecha, estaría entre 50 y 57 escaños, y el opositor, entre 47 y 52. Los partidos árabes lograrían un récord, de 16 a 19 escaños, y pueden decidir, aunque buena parte de la oposición ha evitado depender de ellos. Netanyahu quiere formar un «Gobierno de derecha fuerte»; Eisenkot dice que los datos muestran «desconfianza total» hacia él. Tras el recuento oficial, el presidente, Isaac Herzog, encargará a un líder formar Gobierno; si no lo logra, podría haber nuevas elecciones."
+    "El martes 27 de octubre, Israel celebró elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Se votaba a los 120 diputados de la [[Knesset|knesset]], el Parlamento israelí, y quien reúna 61 podrá formar Gobierno. Según el recuento final de la Comisión Electoral Central, la participación fue del 77,9 %. El Likud de [[Benjamín Netanyahu|netanyahu]] es el partido más votado, con 27 escaños, menos que los 32 que tenía. Su bloque, con partidos ultraortodoxos y de extrema derecha, suma 53, ocho menos de los necesarios.",
+    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes consiguen 19 y no pertenecen a ningún bloque, así que ni Netanyahu ni Eisenkot pueden gobernar sin su apoyo o sin que algunos diputados cambien de bando. Los primeros sondeos a pie de urna daban ventaja a la oposición, pero el recuento la dejó por detrás. Ahora se abre una negociación: el presidente, Isaac Herzog, encargará a un líder formar Gobierno y, si no lo logra, podría haber nuevas elecciones."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -549,19 +553,21 @@
     "The Times of Israel",
     "The Jerusalem Post",
     "i24NEWS",
-    "The Jewish Chronicle"
+    "The Jewish Chronicle",
+    "DW",
+    "swissinfo.ch"
    ],
    "publicada": "2026-10-20",
-   "actualizada": "2026-10-28",
-   "nota_actualizacion": "Con el recuento abierto, el Likud es el partido más votado, pero ningún bloque llega a 61 escaños; la participación fue del 77,7 %.",
+   "actualizada": "2026-10-30",
+   "nota_actualizacion": "El recuento final da 27 escaños al Likud y 53 a su bloque, frente a 48 de la oposición y 19 de los partidos árabes: nadie llega a 61.",
    "en": {
-    "titular": "Israel votes with no clear winner: Likud is the most-voted party, but neither bloc reaches 61 seats",
-    "entradilla": "With the count still open, projections give Netanyahu's bloc between 50 and 57 seats and Eisenkot's between 47 and 52, and the Arab parties could prove decisive.",
+    "titular": "Israel: the final count leaves Netanyahu's bloc on 53 seats, with no majority to govern",
+    "entradilla": "Likud is the most-voted party, with 27, but Netanyahu is eight seats short of the 61 he needs and the Arab parties, with 19, belong to neither bloc.",
     "parrafos": [
-     "On Tuesday 27 October, Israel held parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. The 120 members of the [[Knesset|knesset]], the Israeli Parliament, were being elected, and whoever gathers 61 can form a government. Turnout was 77.7%, well above 2022. With the count still open, [[Benjamin Netanyahu|netanyahu]]'s Likud is the most-voted party, with between 24 and 28 seats according to projections, fewer than the 32 it held. Yashar, the party of [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, comes second, with between 20 and 23.",
-     "Neither bloc reaches 61. The first exit polls gave the opposition an edge, but the revised projections and the partial count now put it behind: Netanyahu's bloc, with ultra-Orthodox and far-right parties, would have between 50 and 57 seats, and the opposition bloc between 47 and 52. The Arab parties would win a record 16 to 19 seats and could prove decisive, although many opposition leaders have avoided relying on them. Netanyahu wants to form a 'strong right-wing government'; Eisenkot says the figures show 'total distrust' of him. After the official count, President Isaac Herzog will task one leader with forming a government; if that fails, there could be new elections."
+     "On Tuesday 27 October, Israel held parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. The 120 members of the [[Knesset|knesset]], the Israeli Parliament, were being elected, and whoever gathers 61 can form a government. According to the final count by the Central Elections Committee, turnout was 77.9%. [[Benjamin Netanyahu|netanyahu]]'s Likud is the most-voted party, with 27 seats, fewer than the 32 it held. His bloc, with ultra-Orthodox and far-right parties, has 53, eight short of what it needs.",
+     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties win 19 and belong to neither bloc, so neither Netanyahu nor Eisenkot can govern without their support or without some members of parliament switching sides. The first exit polls gave the opposition an edge, but the count left it behind. Now negotiations begin: the president, Isaac Herzog, will task one leader with forming a government and, if that fails, there could be new elections."
     ],
-    "nota_actualizacion": "With the count open, Likud is the most-voted party, but neither bloc reaches 61 seats; turnout was 77.7%."
+    "nota_actualizacion": "The final count gives Likud 27 seats and its bloc 53, against 48 for the opposition and 19 for the Arab parties: nobody reaches 61."
    }
   },
   {
@@ -638,11 +644,11 @@
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Martín se fractura el antebrazo, Márquez lidera el Mundial por diez puntos y se cancela la carrera de Australia",
-   "entradilla": "Marc Márquez ganó la sprint, Jorge Martín se rompió el antebrazo derecho y la carrera del domingo se canceló por la lluvia.",
+   "titular": "Martín intentará correr en Malasia con el radio fracturado y Márquez lidera el Mundial por diez puntos",
+   "entradilla": "Los médicos solo le dejan salir a pista en la primera sesión libre del viernes y volverán a examinarle; la carrera de Australia se canceló por la lluvia.",
    "parrafos": [
     "El sábado 24 de octubre, [[Marc Márquez|marquez]], de Ducati, ganó la [[carrera sprint|sprint]] del Gran Premio de Australia, en Phillip Island, saliendo desde la pole. Su hermano Álex fue segundo y Fabio Di Giannantonio, tercero. En la vuelta 8, cuando [[Jorge Martín|martin]], de Aprilia, peleaba con él por la victoria, el líder del campeonato sufrió una fuerte caída y tuvo que salir en camilla. Aprilia informó de que se ha roto el radio del antebrazo derecho, y los médicos le declararon no apto para la carrera del domingo.",
-    "Con la victoria en la sprint, Márquez suma 365 puntos y recupera el liderato del [[MotoGP|motogp]]: tiene diez más que Martín, que se queda en 355. El domingo no hubo carreras: la organización canceló las de Moto3, Moto2 y MotoGP porque la lluvia y el viento impedían volar al helicóptero médico, que debe poder llevar a un herido al hospital de Melbourne. Los pilotos solo dieron una vuelta tras el coche de seguridad para despedirse de la afición. Como no se repartieron puntos, la clasificación no cambia, y el Mundial tiene todavía cuatro citas con Martín lesionado."
+    "Con la victoria en la sprint, Márquez suma 365 puntos y lidera el [[MotoGP|motogp]] con diez más que Martín (355). El domingo la organización canceló todas las carreras de Australia porque la lluvia y el viento impedían volar al helicóptero médico, así que no se repartieron puntos. Este fin de semana se corre en Sepang (Malasia). Martín, con una fractura de radio que según su equipo no necesita operación, tiene permiso médico para salir a pista, pero solo en la primera sesión libre del viernes: después volverán a examinarle. Él mismo reconoce que una caída podría romper del todo el hueso."
    ],
    "busqueda_imagenes": "Márquez Phillip Island sprint Martín caída",
    "fuentes": [
@@ -650,19 +656,22 @@
     "Motorsport.com",
     "Infobae (EFE)",
     "OKDiario",
-    "Los Andes"
+    "Los Andes",
+    "Infobae",
+    "elDiario.es",
+    "Deia"
    ],
    "publicada": "2026-10-06",
-   "actualizada": "2026-10-25",
-   "nota_actualizacion": "Martín se fracturó el antebrazo derecho en la sprint de Australia, Márquez lidera con 365 puntos y la carrera del domingo se canceló por la lluvia.",
+   "actualizada": "2026-10-30",
+   "nota_actualizacion": "Martín tiene permiso médico para intentar correr en Malasia, pero solo en la primera sesión libre del viernes; después volverán a examinarle.",
    "en": {
-    "titular": "Martín fractures his forearm, Márquez leads the championship by ten points and the Australian race is cancelled",
-    "entradilla": "Marc Márquez won the sprint, Jorge Martín broke his right forearm and Sunday's race was called off because of the rain.",
+    "titular": "Martín will try to race in Malaysia with a fractured radius and Márquez leads the championship by ten points",
+    "entradilla": "Doctors only let him go out on track in Friday's first free practice and will examine him again; the Australian race was cancelled because of the rain.",
     "parrafos": [
      "On Saturday 24 October, [[Marc Márquez|marquez]], on a Ducati, won the [[sprint race|sprint]] of the Australian Grand Prix at Phillip Island, starting from pole. His brother Álex was second and Fabio Di Giannantonio third. On lap 8, while [[Jorge Martín|martin]], on an Aprilia, was fighting him for the win, the championship leader suffered a heavy crash and had to be taken away on a stretcher. Aprilia reported that he has broken the radius bone in his right forearm, and doctors declared him unfit for Sunday's race.",
-     "With the sprint win, Márquez has 365 points and retakes the [[MotoGP|motogp]] lead: he is ten ahead of Martín, who stays on 355. There were no races on Sunday: the organisers cancelled the Moto3, Moto2 and MotoGP races because rain and wind made it impossible for the medical helicopter to fly, and it must be able to take an injured rider to hospital in Melbourne. The riders only did one lap behind the safety car to say goodbye to the fans. As no points were awarded, the standings do not change, and the championship still has four rounds to go with Martín injured."
+     "With the sprint win, Márquez has 365 points and leads the [[MotoGP|motogp]] by ten over Martín (355). On Sunday the organisers cancelled all the races in Australia because rain and wind made it impossible for the medical helicopter to fly, so no points were awarded. This weekend the racing is at Sepang (Malaysia). Martín, with a fractured radius that according to his team does not need surgery, has medical clearance to go out on track, but only for Friday's first free practice: afterwards he will be examined again. He himself admits that a fall could break the bone completely."
     ],
-    "nota_actualizacion": "Martín broke his right forearm in the Australian sprint, Márquez leads with 365 points and Sunday's race was cancelled because of the rain."
+    "nota_actualizacion": "Martín has medical clearance to try to race in Malaysia, but only in Friday's first free practice; he will be examined again afterwards."
    }
   },
   {
@@ -859,37 +868,6 @@
    }
   },
   {
-   "id": "japon-lanza-mmx-fobos-luna-marte",
-   "seccion": "tec",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-a\" cx=\"44\" cy=\"54\" r=\"26\"/><path class=\"d-b\" d=\"M26 46 Q40 38 56 48 Q46 58 28 56 Z\"/><circle class=\"d-l\" cx=\"44\" cy=\"54\" r=\"26\"/><ellipse class=\"d-l\" cx=\"44\" cy=\"54\" rx=\"46\" ry=\"14\" transform=\"rotate(-25 44 54)\"/><circle class=\"d-y\" cx=\"84\" cy=\"34\" r=\"7\"/><circle class=\"d-l\" cx=\"84\" cy=\"34\" r=\"7\"/><path class=\"d-l\" d=\"M14 14 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z M102 70 l1 3 3 1 -3 1 -1 3 -1 -3 -3 -1 3 -1z\"/></svg>",
-   "titular": "Japón lanza MMX, la sonda que quiere traer a la Tierra un trozo de Fobos, una luna de Marte",
-   "entradilla": "Despegó con un cohete H3 desde Tanegashima; llegará a Marte en agosto de 2027 y las muestras volverían en 2031.",
-   "parrafos": [
-    "La agencia espacial japonesa, [[JAXA|jaxa]], lanzó la noche del lunes 19 en España (las 04:41 del martes en Japón) la sonda MMX con un cohete H3 desde el Centro Espacial de Tanegashima. Es el primer lanzamiento interplanetario de ese cohete, que sufrió un fallo en 2023 pero después ha logrado otros lanzamientos con éxito. MMX viajará unos diez meses hasta Marte, adonde llegaría en agosto de 2027, y se centrará en [[Fobos|fobos]], la mayor de sus dos lunas: un cuerpo de unos 27 por 22 por 18 kilómetros que da tres vueltas al día alrededor del planeta.",
-    "El objetivo es recoger al menos 10 gramos de material de la superficie de Fobos y traerlos a la Tierra en 2031. Ninguna misión ha traído nunca muestras de una luna de Marte; Japón sí ha conseguido traer de vuelta rocas de [[asteroides|asteroide]] con sus misiones Hayabusa. Según JAXA, analizar las muestras ayudará a entender el origen de las dos lunas de Marte y las primeras etapas del sistema solar. Los científicos no saben aún si son asteroides capturados por la gravedad de Marte o restos de un gran choque contra el planeta."
-   ],
-   "busqueda_imagenes": "misión MMX JAXA Fobos lanzamiento H3 Tanegashima",
-   "fuentes": [
-    "Yahoo Noticias",
-    "Xataka",
-    "El Diario (Ecuador)",
-    "Astro Vanguardia",
-    "SDP Noticias"
-   ],
-   "publicada": "2026-10-20",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "Japan launches MMX, the probe that aims to bring a piece of Phobos, a moon of Mars, back to Earth",
-    "entradilla": "It lifted off on an H3 rocket from Tanegashima; it will reach Mars in August 2027 and the samples would return in 2031.",
-    "parrafos": [
-     "The Japanese space agency, [[JAXA|jaxa]], launched the MMX probe on Monday night 19 in Spain (04:41 on Tuesday in Japan) on an H3 rocket from the Tanegashima Space Center. It is the first interplanetary launch of that rocket, which suffered a failure in 2023 but has since made other successful launches. MMX will travel about ten months to Mars, where it would arrive in August 2027, and will focus on [[Phobos|fobos]], the larger of its two moons: a body of about 27 by 22 by 18 kilometres that goes around the planet three times a day.",
-     "The aim is to collect at least 10 grams of material from Phobos's surface and bring it to Earth in 2031. No mission has ever brought back samples from a moon of Mars; Japan has, however, brought back rocks from [[asteroids|asteroide]] with its Hayabusa missions. According to JAXA, analysing the samples will help us understand the origin of Mars's two moons and the early stages of the solar system. Scientists do not yet know whether they are asteroids captured by Mars's gravity or debris from a huge collision with the planet."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
    "id": "ftc-investiga-openai-anthropic-seguridad-ia",
    "seccion": "tec",
    "dibujo": "chip",
@@ -1080,10 +1058,10 @@
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-a\" d=\"M20 30 L60 10 L100 30 Z\"/><rect class=\"d-b\" x=\"20\" y=\"30\" width=\"80\" height=\"6\"/><rect class=\"d-w\" x=\"28\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"46\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"66\" y=\"38\" width=\"8\" height=\"30\"/><rect class=\"d-w\" x=\"84\" y=\"38\" width=\"8\" height=\"30\"/><path class=\"d-l\" d=\"M28 38 h8 v30 h-8 Z M46 38 h8 v30 h-8 Z M66 38 h8 v30 h-8 Z M84 38 h8 v30 h-8 Z\"/><rect class=\"d-a\" x=\"16\" y=\"68\" width=\"88\" height=\"8\"/><text class=\"d-y\" x=\"54\" y=\"27\" font-size=\"12\" font-family=\"sans-serif\" font-weight=\"bold\">€</text></svg>",
    "titular": "La inflación en la zona euro, en su nivel más alto en tres años",
-   "entradilla": "La subida presiona al Banco Central Europeo y encarece las hipotecas.",
+   "entradilla": "La subida presiona al Banco Central Europeo, que mantuvo los tipos en el 2,5 %, y encarece las hipotecas.",
    "parrafos": [
     "Eurostat, la oficina de estadística europea, confirmó el 16 de octubre que los precios en los 21 países que usan el euro subieron en septiembre un 3,8 % respecto a hace un año, frente al 3,2 % de agosto. La gran responsable es la energía, que según el dato adelantado está un 18,8 % más cara. España, con un 5 % según el índice armonizado que se usa para comparar países, tiene la inflación más alta de las grandes economías del euro, por delante de Italia (4,1 %), Francia (3,4 %) y Alemania (3,3 %). La guerra con Irán, que afecta al paso de barcos por el [[estrecho de Ormuz|ormuz]], explica buena parte del problema.",
-    "Controlar los precios es la tarea del [[Banco Central Europeo|bce]], que busca una inflación cercana al 2 %. Su herramienta principal son los [[tipos de interés|tiposinteres]], lo que cuesta pedir dinero prestado. El 10 de septiembre los subió por segunda vez este año, hasta el 2,5 %, y este jueves 29 de octubre vuelve a reunirse: según los analistas, mantendrá los tipos y dejará la próxima subida para diciembre. Mientras, el [[euríbor|euribor]], al que están ligadas muchas [[hipotecas|hipoteca]] en España, subió el 21 de octubre al 3,263 %, por encima de la media de septiembre (3,247 %). Según El Español, eso puede encarecer unos 119 euros al mes una hipoteca variable de 200.000 euros a 20 años."
+    "Controlar los precios es la tarea del [[Banco Central Europeo|bce]], que busca una inflación cercana al 2 %. Su herramienta principal son los [[tipos de interés|tiposinteres]], lo que cuesta pedir dinero prestado. El 10 de septiembre los subió por segunda vez este año, hasta el 2,5 %. El jueves 29 de octubre se reunió de nuevo y los mantuvo. Según los analistas, la próxima subida llegaría en diciembre. Mientras, el [[euríbor|euribor]], al que están ligadas muchas [[hipotecas|hipoteca]] en España, subió el 21 de octubre al 3,263 %, por encima de la media de septiembre (3,247 %). Según El Español, eso puede encarecer unos 119 euros al mes una hipoteca variable de 200.000 euros a 20 años."
    ],
    "busqueda_imagenes": "inflación eurozona septiembre 2026 BCE",
    "fuentes": [
@@ -1095,19 +1073,21 @@
     "euribor.com.es",
     "economiaresponsablefinanzas.com",
     "Infobae (Europa Press)",
-    "Noticias de Álava"
+    "Noticias de Álava",
+    "Finect",
+    "euribordiario.es"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-28",
-   "nota_actualizacion": "El BCE se reúne este jueves 29 de octubre y los analistas esperan que mantenga los tipos en el 2,5 % y suba en diciembre.",
+   "actualizada": "2026-10-30",
+   "nota_actualizacion": "El BCE mantuvo los tipos en el 2,5 % el 29 de octubre y, según los analistas, la próxima subida llegaría en diciembre.",
    "en": {
     "titular": "Euro area inflation hits its highest level in three years",
-    "entradilla": "The rise is putting pressure on the European Central Bank and making mortgages more expensive.",
+    "entradilla": "The rise is putting pressure on the European Central Bank, which kept rates at 2.5%, and making mortgages more expensive.",
     "parrafos": [
      "Eurostat, the European statistics office, confirmed on 16 October that prices in the 21 countries that use the euro rose by 3.8% in September compared with a year ago, up from 3.2% in August. The main culprit is energy, which according to the early estimate is 18.8% more expensive. Spain, at 5% on the harmonised index used to compare countries, has the highest inflation of the big euro economies, ahead of Italy (4.1%), France (3.4%) and Germany (3.3%). The war with Iran, which affects ships passing through the [[Strait of Hormuz|ormuz]], explains much of the problem.",
-     "Keeping prices under control is the job of the [[European Central Bank|bce]], which aims for inflation of around 2%. Its main tool is [[interest rates|tiposinteres]], what it costs to borrow money. On 10 September it raised them for the second time this year, to 2.5%, and it meets again this Thursday 29 October: analysts expect it to hold rates and leave the next rise for December. Meanwhile the [[Euribor|euribor]], to which many [[mortgages|hipoteca]] in Spain are linked, rose on 21 October to 3.263%, above September's average (3.247%). According to El Español, that can make a variable-rate mortgage of 200,000 euros over 20 years about 119 euros a month more expensive."
+     "Keeping prices under control is the job of the [[European Central Bank|bce]], which aims for inflation of around 2%. Its main tool is [[interest rates|tiposinteres]], what it costs to borrow money. On 10 September it raised them for the second time this year, to 2.5%. It met again on Thursday 29 October and kept them there. According to analysts, the next rise would come in December. Meanwhile the [[Euribor|euribor]], to which many [[mortgages|hipoteca]] in Spain are linked, rose on 21 October to 3.263%, above September's average (3.247%). According to El Español, that can make a variable-rate mortgage of 200,000 euros over 20 years about 119 euros a month more expensive."
     ],
-    "nota_actualizacion": "The ECB meets this Thursday 29 October and analysts expect it to hold rates at 2.5% and raise them in December."
+    "nota_actualizacion": "The ECB kept rates at 2.5% on 29 October and, according to analysts, the next rise would come in December."
    }
   },
   {
@@ -1143,11 +1123,11 @@
    "id": "urda-choque-ave-iryo-toledo-68-muertos",
    "seccion": "es",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
-   "titular": "Dos trenes chocan en Urda (Toledo) y el accidente deja al menos 68 muertos",
-   "entradilla": "Un AVE embistió por detrás a un tren de Iryo que estaba parado en la línea Madrid-Andalucía; el Gobierno decreta tres días de luto oficial.",
+   "titular": "Dos trenes chocan en Urda (Toledo) y el accidente deja 69 muertos, según la cifra oficial",
+   "entradilla": "Un AVE embistió por detrás a un Iryo parado; el balance se rebajó de 74 a 69 y el organismo investigador mantiene abiertas todas las hipótesis.",
    "parrafos": [
-    "La mañana del miércoles 28 de octubre, poco antes de las nueve, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, junto a Urda (Toledo). Entre los dos convoyes viajaban más de 500 personas. El presidente de Castilla-La Mancha, [[Emiliano García-Page|garciapage]], confirmó 68 fallecidos y avisó de que la cifra puede subir, porque había cuerpos todavía atrapados entre los vagones. Según los medios, hay además decenas de heridos, unos 15 de ellos muy graves. La Guardia Civil siguió trabajando durante la madrugada para retirar vagones y buscar víctimas.",
-    "Las causas aún se investigan y una jueza ha tomado el caso. Según la información publicada, un fallo de un sistema de seguridad que frena los trenes de forma automática dejó parado al Iryo, y el centro de control de [[Adif|adif]], el organismo que gestiona las vías, habría autorizado al AVE a seguir con velocidad normal. Son hipótesis que deben confirmar los investigadores. El Gobierno decretó tres días de [[luto oficial|luto]], del 29 al 31 de octubre, y [[Pedro Sánchez|sanchez]] acudió al centro de coordinación de emergencias en Toledo. El sindicato de maquinistas Semaf mantuvo la huelga de este jueves en Renfe, convocada en defensa de la seguridad ferroviaria."
+    "La mañana del miércoles 28 de octubre, a las 8:53 según el organismo investigador, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, entre Mora y Urda (Toledo). Entre los dos convoyes viajaban más de 500 personas. La cifra oficial de fallecidos es de 69, según el Gobierno de Castilla-La Mancha que preside [[Emiliano García-Page|garciapage]]: se difundió un balance de 74, pero se rectificó, y el Ministerio de Transportes remite a la cifra autonómica. Según los medios, hubo además más de un centenar de heridos.",
+    "El organismo estatal que investiga los accidentes ferroviarios abrió el expediente 146/2026, mantiene un equipo en el lugar y asegura que todas las hipótesis siguen abiertas. Una jueza también ha tomado el caso. Algunos medios publicaron que un fallo de un sistema de frenado automático dejó parado al Iryo y que el centro de control de [[Adif|adif]], que gestiona las vías, habría dejado seguir al AVE a velocidad normal, pero son hipótesis sin confirmar. El Gobierno decretó tres días de [[luto oficial|luto]], del 29 al 31 de octubre, y [[Pedro Sánchez|sanchez]] acudió al centro de emergencias de Toledo. El sindicato de maquinistas Semaf mantuvo el jueves 29 su huelga en Renfe, convocada antes del accidente para pedir más seguridad."
    ],
    "busqueda_imagenes": "accidente tren Urda Toledo AVE Iryo",
    "fuentes": [
@@ -1158,19 +1138,23 @@
     "Moncloa.com",
     "Infobae (EFE)",
     "Castilla-La Mancha Media",
-    "El Progreso"
+    "El Progreso",
+    "Democrata",
+    "Diario Siglo XXI",
+    "Diario de Alicante",
+    "La Cerca"
    ],
    "publicada": "2026-10-29",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-10-30",
+   "nota_actualizacion": "El balance oficial quedó en 69 muertos tras rectificarse una cifra de 74, y el organismo investigador abrió el expediente 146/2026 con todas las hipótesis abiertas.",
    "en": {
-    "titular": "Two trains collide at Urda (Toledo) and the accident leaves at least 68 dead",
-    "entradilla": "An AVE hit from behind an Iryo train that was stopped on the Madrid-Andalusia line; the Government declares three days of official mourning.",
+    "titular": "Two trains collide at Urda (Toledo) and the accident leaves 69 dead, according to the official figure",
+    "entradilla": "An AVE hit an Iryo that was stopped, from behind; the toll was lowered from 74 to 69 and the investigating body keeps every hypothesis open.",
     "parrafos": [
-     "On the morning of Wednesday 28 October, shortly before nine o'clock, a Renfe [[AVE|ave]] train ran into the back of an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line near Urda (Toledo). More than 500 people were travelling on the two trains. The president of Castilla-La Mancha, [[Emiliano García-Page|garciapage]], confirmed 68 dead and warned that the figure may rise, because some bodies were still trapped between the carriages. According to the media, dozens more were injured, about 15 of them very seriously. The Civil Guard kept working through the night to clear the carriages and search for victims.",
-     "The causes are still being investigated and a judge has taken the case. According to published reports, a failure in a safety system that brakes trains automatically left the Iryo stopped, and the control centre of [[Adif|adif]], the body that manages the tracks, is said to have allowed the AVE to continue at normal speed. These are hypotheses that investigators must confirm. The Government declared three days of [[official mourning|luto]], from 29 to 31 October, and [[Pedro Sánchez|sanchez]] attended the emergency coordination centre in Toledo. The drivers' union Semaf went ahead with this Thursday's strike at Renfe, called to defend railway safety."
+     "On the morning of Wednesday 28 October, at 8:53 according to the investigating body, a Renfe [[AVE|ave]] train ran into the back of an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line, between Mora and Urda (Toledo). More than 500 people were travelling on the two trains. The official death toll is 69, according to the government of Castilla-La Mancha, headed by [[Emiliano García-Page|garciapage]]: a figure of 74 had been circulated but was corrected, and the Ministry of Transport refers to the regional figure. According to the media, more than a hundred people were also injured.",
+     "The state body that investigates railway accidents opened case file 146/2026, keeps a team at the site and says every hypothesis remains open. A judge has also taken the case. Some media reported that a failure in an automatic braking system left the Iryo stopped and that the control centre of [[Adif|adif]], which manages the tracks, is said to have let the AVE continue at normal speed, but these are unconfirmed hypotheses. The Government declared three days of [[official mourning|luto]], from 29 to 31 October, and [[Pedro Sánchez|sanchez]] attended the emergency centre in Toledo. The drivers' union Semaf went ahead on Thursday 29 with its strike at Renfe, called before the accident to demand greater safety."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The official toll stands at 69 dead after a figure of 74 was corrected, and the investigating body opened case file 146/2026 with every hypothesis open."
    }
   },
   {
@@ -1268,6 +1252,37 @@
      "When crude gets more expensive, petrol, diesel and transport usually rise afterwards, and that feeds [[inflation|inflacion]], which in Spain was 4.9% in September. This week petrol cost an average of 1.79 euros a litre, according to the EU Oil Bulletin, before this rise in crude. The [[European Central Bank|bce]], which meets on 29 October, watches that inflation when it decides [[interest rates|tiposinteres]], on which mortgages depend. Everything will depend on whether the attacks continue: the price of oil changes every day."
     ],
     "nota_actualizacion": "On Friday 23 October Brent passed 116 dollars and the Ibex 35 ended the week down 1.74%."
+   }
+  },
+  {
+   "id": "nueva-york-ley-chatbots-ia-menores-hochul",
+   "seccion": "tec",
+   "dibujo": "chip",
+   "titular": "Nueva York prohíbe que los chatbots de IA finjan ser humanos ante menores de 18 años",
+   "entradilla": "La gobernadora Hochul firmó la ley el 28 de octubre; las empresas que la incumplan podrán ser multadas con hasta 25.000 dólares por infracción.",
+   "parrafos": [
+    "El miércoles 28 de octubre, la gobernadora del estado de Nueva York, [[Kathy Hochul|hochul]], firmó una ley que limita lo que pueden hacer los [[chatbots|chatbot]] de [[inteligencia artificial|ia]] cuando hablan con menores de 18 años. Un chatbot es un programa con el que se conversa por escrito como si fuera una persona. La norma prohíbe que finjan ser humanos, estar vivos o tener emociones, y que afirmen tener una relación personal con el menor. Tampoco podrán animarle a guardar secretos ni a alejarse de sus padres u otros adultos de confianza, ni fomentar conductas que dañen su salud, como las autolesiones.",
+    "Las empresas tendrán que comprobar la edad de los usuarios con varias opciones, entre ellas al menos una que no dependa solo de un documento oficial, y borrar esos datos después de usarlos. Quien incumpla la ley podrá recibir multas de hasta 25.000 dólares por infracción, que podrá reclamar la fiscalía general del estado. La ley entrará en vigor en los próximos meses y solo vale en Nueva York, pero plantea el mismo debate que hay en Europa y en España: cómo proteger a los niños en internet sin pedir demasiados datos personales a todo el mundo."
+   ],
+   "busqueda_imagenes": "Nueva York ley chatbots inteligencia artificial menores Hochul",
+   "fuentes": [
+    "Gobierno del estado de Nueva York",
+    "Infobae",
+    "El Diario NY",
+    "La Silla Rota",
+    "Yahoo Noticias"
+   ],
+   "publicada": "2026-10-30",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "New York bans AI chatbots from pretending to be human with under-18s",
+    "entradilla": "Governor Hochul signed the law on 28 October; companies that break it can be fined up to 25,000 dollars per violation.",
+    "parrafos": [
+     "On Wednesday 28 October, the governor of New York State, [[Kathy Hochul|hochul]], signed a law that limits what [[chatbots|chatbot]] using [[artificial intelligence|ia]] can do when talking to under-18s. A chatbot is a program you chat with in writing as if it were a person. The rule bans them from pretending to be human, to be alive or to have emotions, and from claiming to have a personal relationship with the minor. They also may not encourage a child to keep secrets or to move away from their parents or other trusted adults, nor encourage behaviour that harms their health, such as self-harm.",
+     "Companies will have to check users' ages with several options, including at least one that does not rely solely on an official ID, and delete that data after using it. Anyone who breaks the law can be fined up to 25,000 dollars per violation, which the state attorney general's office can claim. The law will come into force in the coming months and applies only in New York, but it raises the same debate as in Europe and Spain: how to protect children online without asking everyone for too much personal data."
+    ],
+    "nota_actualizacion": null
    }
   }
  ],
@@ -3332,11 +3347,29 @@
     "n": "Adamuz",
     "x": "A town in the province of Córdoba, in Andalusia, where two high-speed trains collided on 18 January 2026."
    }
+  },
+  "hochul": {
+   "t": "persona",
+   "n": "Kathy Hochul",
+   "x": "Gobernadora del estado de Nueva York, en Estados Unidos. Los estados de ese país pueden aprobar sus propias leyes.",
+   "en": {
+    "n": "Kathy Hochul",
+    "x": "Governor of New York State, in the United States. States in that country can pass their own laws."
+   }
+  },
+  "chatbot": {
+   "t": "palabra",
+   "n": "Chatbot",
+   "x": "Programa de ordenador que conversa por escrito, y a veces por voz, y contesta como si fuera una persona. Funciona con inteligencia artificial.",
+   "en": {
+    "n": "Chatbot",
+    "x": "A computer program that chats in writing, and sometimes by voice, and replies as if it were a person. It runs on artificial intelligence."
+   }
   }
  },
- "edicion_en": "Thursday 29 October 2026",
+ "edicion_en": "Friday 30 October 2026",
  "destacada": {
   "id": "urda-choque-ave-iryo-toledo-68-muertos",
-  "fecha": "2026-10-29"
+  "fecha": "2026-10-30"
  }
 }
