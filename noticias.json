@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-30T07:15:00+01:00",
- "edicion": "Viernes 30 de octubre de 2026",
+ "actualizado": "2026-10-31T07:30:00+01:00",
+ "edicion": "Sábado 31 de octubre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -268,11 +268,11 @@
    "id": "moreno-presupuesto-andalucia-2027-54716-millones",
    "seccion": "and",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-y\" cx=\"32\" cy=\"74\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-y\" cx=\"32\" cy=\"64\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-y\" cx=\"32\" cy=\"54\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"74\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"64\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"54\" rx=\"20\" ry=\"7\"/><text class=\"d-i\" x=\"26\" y=\"58\" font-size=\"12\" font-family=\"sans-serif\" font-weight=\"bold\">€</text><path class=\"d-a\" d=\"M62 38 L88 22 L114 38 Z\"/><rect class=\"d-b\" x=\"64\" y=\"38\" width=\"48\" height=\"6\"/><rect class=\"d-w\" x=\"68\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-w\" x=\"81\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-w\" x=\"94\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-a\" x=\"62\" y=\"70\" width=\"52\" height=\"7\"/><path class=\"d-l\" d=\"M62 38 L88 22 L114 38 Z M62 70 H114\"/></svg>",
-   "titular": "Moreno anuncia un presupuesto andaluz de 54.716 millones para 2027, el primero pactado con Vox",
-   "entradilla": "El gasto de la Junta crecería un 6 % y dos de cada tres euros irían a políticas sociales; el Parlamento empezará a debatirlo el 11 de noviembre.",
+   "titular": "La Junta aprueba el presupuesto andaluz de 54.716 millones para 2027, el primero pactado con Vox",
+   "entradilla": "El Consejo de Gobierno lo aprobó el 30 de octubre y lo envía al Parlamento, que empezará a debatirlo el 11 de noviembre; la vivienda crece un 22 %.",
    "parrafos": [
-    "El jueves 22 de octubre, [[Juanma Moreno|moreno]] anunció en el Parlamento andaluz el [[presupuesto|presupuesto]] de la [[Junta de Andalucía|junta]] para 2027: 54.716 millones de euros, un 6 % más que los 51.597 millones de este año. Es el primero que se pacta con [[Vox|vox]] y el octavo que presenta Moreno. El Consejo de Gobierno iba a aprobarlo el miércoles 28, pero lo suspendió tras el accidente de tren de Urda y, según los medios, lo aprobará este viernes 30. El Parlamento empezará a debatirlo el 11 de noviembre, el mismo día de la huelga general convocada por los sindicatos.",
-    "Según Moreno, dos de cada tres euros irán a políticas sociales, unos 35.246 millones. La sanidad recibiría casi 17.000 millones, la educación 11.889, la dependencia 3.308 y la vivienda 963, un 31 % más que en 2026. Un presupuesto decide, por ejemplo, cuántos médicos, profesores o ayudas habrá. La oposición discrepa: Adelante Andalucía critica que la sanidad pública encargue servicios, como el cribado del cáncer de mama, a empresas privadas, y Moreno defiende su gestión. Son las cifras anunciadas por la Junta, y el Parlamento todavía puede cambiarlas."
+    "El viernes 30 de octubre, el Consejo de Gobierno de la [[Junta de Andalucía|junta]] aprobó el proyecto de [[presupuesto|presupuesto]] para 2027: 54.716 millones de euros, la cifra más alta de su historia y un 6 % más que los 51.597 millones de este año. Es el primero que se pacta con [[Vox|vox]] y el octavo que presenta [[Juanma Moreno|moreno]]. Moreno lo anunció el 22 de octubre y el Gobierno andaluz iba a aprobarlo el miércoles 28, pero suspendió la reunión tras el accidente de tren de Urda. Ahora el texto pasa al Parlamento, que empezará a debatirlo el 11 de noviembre, el mismo día de la huelga general convocada por los sindicatos.",
+    "Según la Junta, dos de cada tres euros, unos 35.246 millones, irán a políticas sociales. La sanidad recibiría unos 17.000 millones y la vivienda crecería un 22 %, el mayor aumento relativo. Un presupuesto decide, por ejemplo, cuántos médicos, profesores o ayudas habrá. La oposición discrepa: Adelante Andalucía critica que la sanidad pública encargue servicios, como el cribado del cáncer de mama, a empresas privadas, y Moreno defiende su gestión. Son las cifras del Gobierno andaluz, y en el Parlamento, donde pueden presentarse enmiendas, todavía pueden cambiar."
    ],
    "busqueda_imagenes": "presupuesto Andalucía 2027 Parlamento Moreno",
    "fuentes": [
@@ -280,19 +280,21 @@
     "Moncloa.com",
     "Vozpópuli",
     "Elmira",
-    "Teleprensa"
+    "Teleprensa",
+    "El Pespunte",
+    "101TV"
    ],
    "publicada": "2026-10-23",
    "actualizada": "2026-10-30",
-   "nota_actualizacion": "El Consejo de Gobierno aplazó la aprobación del presupuesto por el accidente de Urda y, según los medios, lo aprobará este viernes 30.",
+   "nota_actualizacion": "El Consejo de Gobierno aprobó el 30 de octubre el proyecto de presupuesto y lo remitió al Parlamento; la vivienda crece un 22 %.",
    "en": {
-    "titular": "Moreno announces an Andalusian budget of 54,716 million euros for 2027, the first agreed with Vox",
-    "entradilla": "The regional government's spending would rise 6% and two out of every three euros would go on social policies; Parliament will begin debating it on 11 November.",
+    "titular": "The regional government approves an Andalusian budget of 54,716 million for 2027, the first agreed with Vox",
+    "entradilla": "The Governing Council approved it on 30 October and sends it to Parliament, which will begin debating it on 11 November; housing spending rises 22%.",
     "parrafos": [
-     "On Thursday 22 October, [[Juanma Moreno|moreno]] announced in the Andalusian Parliament the [[budget|presupuesto]] of the [[Junta de Andalucía|junta]] for 2027: 54,716 million euros, 6% more than this year's 51,597 million. It is the first to be agreed with [[Vox|vox]] and the eighth Moreno has presented. The Governing Council was due to approve it on Wednesday 28, but suspended the meeting after the Urda train accident and, according to the media, will approve it this Friday 30. Parliament will begin debating it on 11 November, the same day as the general strike called by the unions.",
-     "According to Moreno, two out of every three euros will go on social policies, about 35,246 million. Health would receive almost 17,000 million, education 11,889, dependency care 3,308 and housing 963, 31% more than in 2026. A budget decides, for example, how many doctors, teachers or grants there will be. The opposition disagrees: Adelante Andalucía criticises the public health service for hiring private companies for services such as breast cancer screening, and Moreno defends his record. These are the figures announced by the regional government, and Parliament can still change them."
+     "On Friday 30 October, the Governing Council of the [[Junta de Andalucía|junta]] approved the draft [[budget|presupuesto]] for 2027: 54,716 million euros, the highest figure in its history and 6% more than this year's 51,597 million. It is the first to be agreed with [[Vox|vox]] and the eighth presented by [[Juanma Moreno|moreno]]. Moreno announced it on 22 October and the regional government was due to approve it on Wednesday 28, but suspended the meeting after the Urda train accident. The text now goes to Parliament, which will begin debating it on 11 November, the same day as the general strike called by the unions.",
+     "According to the Junta, two out of every three euros, about 35,246 million, will go on social policies. Health would receive about 17,000 million and housing would grow by 22%, the biggest relative increase. A budget decides, for example, how many doctors, teachers or grants there will be. The opposition disagrees: Adelante Andalucía criticises the public health service for hiring private companies for services such as breast cancer screening, and Moreno defends his record. These are the regional government's figures, and in Parliament, where amendments can be submitted, they can still change."
     ],
-    "nota_actualizacion": "The Governing Council postponed approving the budget because of the Urda accident and, according to the media, will approve it this Friday 30."
+    "nota_actualizacion": "The Governing Council approved the draft budget on 30 October and sent it to Parliament; housing spending rises 22%."
    }
   },
   {
@@ -364,11 +366,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán propone un plan de siete días para reabrirlo y EE. UU. no lo acepta, mientras los mediadores buscan evitar otra guerra",
-   "entradilla": "Arabia Saudí, Turquía y Pakistán dialogan con Irán, y Teherán dice que espera empezar a reabrir el estrecho «en menos de una semana».",
+   "titular": "Ormuz: Irán dice que cuatro petroleros se incendiaron al chocar con minas, mientras EE. UU. afirma haber despejado el paso",
+   "entradilla": "Teherán propone un plan de siete días para reabrir el estrecho y Washington no lo acepta; Arabia Saudí, Turquía y Pakistán median.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "El lunes 26, el ministro de Defensa saudí, el jefe del Ejército de Pakistán y el jefe de inteligencia de Turquía se reunieron en Teherán con el jefe de Seguridad de Irán, Mohsen Rezaei, y acordaron seguir hablando. El miércoles 28, el canciller iraní, Abbas Araqchi, dijo que espera empezar «en menos de una semana» su «plan de siete días» para reabrir el estrecho. Según los medios, Irán lo condiciona a una tregua de siete días, a que se levanten las sanciones al petróleo y a que acabe el bloqueo naval. Estados Unidos no ha aceptado de momento la propuesta. Catar y otros mediadores intentan evitar que se reanude la guerra tras las elecciones estadounidenses del 3 de noviembre."
+    "El lunes 26, mediadores de Arabia Saudí, Pakistán y Turquía se reunieron en Teherán con el jefe de Seguridad de Irán, Mohsen Rezaei, y acordaron seguir hablando. El miércoles 28, el canciller iraní, Abbas Araqchi, dijo que espera empezar «en menos de una semana» su «plan de siete días» para reabrir el estrecho, que según los medios condiciona a una tregua y al fin del bloqueo naval. Estados Unidos no lo ha aceptado. El jueves 29, el Mando Central estadounidense dijo haber despejado de minas las rutas principales, pero el viernes 30 la Armada iraní afirmó que cuatro petroleros se incendiaron tras chocar con minas y que el corredor sur sigue minado."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -397,19 +399,20 @@
     "The Hill",
     "Herqles",
     "El Imparcial",
-    "Prensa Latina"
+    "Prensa Latina",
+    "CGTN"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-29",
-   "nota_actualizacion": "El 28 de octubre Irán dijo que espera empezar «en menos de una semana» su plan de siete días para reabrir Ormuz; Estados Unidos no lo ha aceptado.",
+   "actualizada": "2026-10-31",
+   "nota_actualizacion": "El 30 de octubre Irán afirmó que cuatro petroleros se incendiaron tras chocar con minas, un día después de que EE. UU. dijera haber despejado las rutas principales.",
    "en": {
-    "titular": "Hormuz: Iran proposes a seven-day plan to reopen it and the US does not accept, while mediators try to stop another war",
-    "entradilla": "Saudi Arabia, Turkey and Pakistan hold talks with Iran, and Tehran says it hopes to start reopening the strait \"in less than a week\".",
+    "titular": "Hormuz: Iran says four tankers caught fire after hitting mines, while the US claims to have cleared the passage",
+    "entradilla": "Tehran proposes a seven-day plan to reopen the strait and Washington does not accept it; Saudi Arabia, Turkey and Pakistan mediate.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "On Monday 26, Saudi Arabia's defence minister, Pakistan's army chief and Turkey's intelligence chief met in Tehran with Iran's security chief, Mohsen Rezaei, and agreed to keep talking. On Wednesday 28, Iran's foreign minister, Abbas Araghchi, said he hopes to begin his 'seven-day plan' to reopen the strait 'in less than a week'. According to the media, Iran makes it conditional on a seven-day truce, on lifting sanctions on its oil and on ending the naval blockade. The United States has not accepted the proposal so far. Qatar and other mediators are trying to stop the war from resuming after the US elections on 3 November."
+     "On Monday 26, mediators from Saudi Arabia, Pakistan and Turkey met in Tehran with Iran's security chief, Mohsen Rezaei, and agreed to keep talking. On Wednesday 28, Iran's foreign minister, Abbas Araghchi, said he hopes to begin his 'seven-day plan' to reopen the strait 'in less than a week', which according to the media he makes conditional on a truce and the end of the naval blockade. The United States has not accepted it. On Thursday 29, US Central Command said it had cleared the main routes of mines, but on Friday 30 the Iranian navy claimed that four tankers caught fire after hitting mines and that the southern corridor is still mined."
     ],
-    "nota_actualizacion": "On 28 October Iran said it hopes to start its seven-day plan to reopen Hormuz 'in less than a week'; the United States has not accepted it."
+    "nota_actualizacion": "On 30 October Iran claimed that four tankers caught fire after hitting mines, a day after the US said it had cleared the main routes."
    }
   },
   {
@@ -644,11 +647,11 @@
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Martín intentará correr en Malasia con el radio fracturado y Márquez lidera el Mundial por diez puntos",
-   "entradilla": "Los médicos solo le dejan salir a pista en la primera sesión libre del viernes y volverán a examinarle; la carrera de Australia se canceló por la lluvia.",
+   "titular": "Martín se retira del GP de Malasia y Álex Márquez logra la pole por delante de su hermano Marc",
+   "entradilla": "El piloto de Aprilia, con el radio fracturado, abandona el fin de semana en Sepang; Marc Márquez lidera el Mundial por diez puntos.",
    "parrafos": [
     "El sábado 24 de octubre, [[Marc Márquez|marquez]], de Ducati, ganó la [[carrera sprint|sprint]] del Gran Premio de Australia, en Phillip Island, saliendo desde la pole. Su hermano Álex fue segundo y Fabio Di Giannantonio, tercero. En la vuelta 8, cuando [[Jorge Martín|martin]], de Aprilia, peleaba con él por la victoria, el líder del campeonato sufrió una fuerte caída y tuvo que salir en camilla. Aprilia informó de que se ha roto el radio del antebrazo derecho, y los médicos le declararon no apto para la carrera del domingo.",
-    "Con la victoria en la sprint, Márquez suma 365 puntos y lidera el [[MotoGP|motogp]] con diez más que Martín (355). El domingo la organización canceló todas las carreras de Australia porque la lluvia y el viento impedían volar al helicóptero médico, así que no se repartieron puntos. Este fin de semana se corre en Sepang (Malasia). Martín, con una fractura de radio que según su equipo no necesita operación, tiene permiso médico para salir a pista, pero solo en la primera sesión libre del viernes: después volverán a examinarle. Él mismo reconoce que una caída podría romper del todo el hueso."
+    "Con la victoria en la sprint, Márquez suma 365 puntos y lidera el [[MotoGP|motogp]] con diez más que Martín (355). El domingo la organización canceló todas las carreras de Australia porque la lluvia y el viento impedían volar al helicóptero médico, así que no se repartieron puntos. En Sepang (Malasia), Martín tenía permiso médico para salir a pista, pero tras rodar unas ocho vueltas en la sesión previa a la clasificación decidió retirarse del fin de semana. El hermano de Marc, Álex Márquez, logró la pole con 1:56.493, su primera en 420 días, a 0,070 segundos de Marc, que saldrá segundo; Pedro Acosta quedó tercero. Marc puede ampliar su ventaja en la sprint de hoy."
    ],
    "busqueda_imagenes": "Márquez Phillip Island sprint Martín caída",
    "fuentes": [
@@ -659,19 +662,22 @@
     "Los Andes",
     "Infobae",
     "elDiario.es",
-    "Deia"
+    "Deia",
+    "The Race",
+    "Motorsport.com (España)",
+    "MCNews"
    ],
    "publicada": "2026-10-06",
-   "actualizada": "2026-10-30",
-   "nota_actualizacion": "Martín tiene permiso médico para intentar correr en Malasia, pero solo en la primera sesión libre del viernes; después volverán a examinarle.",
+   "actualizada": "2026-10-31",
+   "nota_actualizacion": "Martín se retiró del GP de Malasia tras rodar unas ocho vueltas; Álex Márquez logró la pole y Marc saldrá segundo.",
    "en": {
-    "titular": "Martín will try to race in Malaysia with a fractured radius and Márquez leads the championship by ten points",
-    "entradilla": "Doctors only let him go out on track in Friday's first free practice and will examine him again; the Australian race was cancelled because of the rain.",
+    "titular": "Martín withdraws from the Malaysian GP and Álex Márquez takes pole ahead of his brother Marc",
+    "entradilla": "The Aprilia rider, with a fractured radius, pulls out of the weekend at Sepang; Marc Márquez leads the championship by ten points.",
     "parrafos": [
      "On Saturday 24 October, [[Marc Márquez|marquez]], on a Ducati, won the [[sprint race|sprint]] of the Australian Grand Prix at Phillip Island, starting from pole. His brother Álex was second and Fabio Di Giannantonio third. On lap 8, while [[Jorge Martín|martin]], on an Aprilia, was fighting him for the win, the championship leader suffered a heavy crash and had to be taken away on a stretcher. Aprilia reported that he has broken the radius bone in his right forearm, and doctors declared him unfit for Sunday's race.",
-     "With the sprint win, Márquez has 365 points and leads the [[MotoGP|motogp]] by ten over Martín (355). On Sunday the organisers cancelled all the races in Australia because rain and wind made it impossible for the medical helicopter to fly, so no points were awarded. This weekend the racing is at Sepang (Malaysia). Martín, with a fractured radius that according to his team does not need surgery, has medical clearance to go out on track, but only for Friday's first free practice: afterwards he will be examined again. He himself admits that a fall could break the bone completely."
+     "With the sprint win, Márquez has 365 points and leads the [[MotoGP|motogp]] by ten over Martín (355). On Sunday the organisers cancelled all the races in Australia because rain and wind stopped the medical helicopter from flying, so no points were awarded. At Sepang (Malaysia), Martín had medical clearance to ride, but after about eight laps in the session before qualifying he decided to pull out of the weekend. Álex Márquez, Marc's brother, took pole with 1:56.493, his first in 420 days, 0.070 seconds ahead of Marc, who will start second; Pedro Acosta was third. Marc can extend his lead in today's sprint."
     ],
-    "nota_actualizacion": "Martín has medical clearance to try to race in Malaysia, but only in Friday's first free practice; he will be examined again afterwards."
+    "nota_actualizacion": "Martín withdrew from the Malaysian GP after about eight laps; Álex Márquez took pole and Marc will start second."
    }
   },
   {
@@ -1027,30 +1033,33 @@
    "id": "ipc-septiembre-2026-sube-49",
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M12 18 H26 L36 58 H88 L98 28 H30\"/><rect class=\"d-b\" x=\"40\" y=\"30\" width=\"16\" height=\"22\"/><rect class=\"d-y\" x=\"60\" y=\"34\" width=\"14\" height=\"18\"/><rect class=\"d-g\" x=\"76\" y=\"38\" width=\"10\" height=\"14\"/><circle class=\"d-i\" cx=\"42\" cy=\"70\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"70\" r=\"6\"/><path class=\"d-a\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/><path class=\"d-l\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/></svg>",
-   "titular": "Los precios suben un 4,9 %, lo máximo en más de tres años",
-   "entradilla": "La gasolina y el gasóleo vuelven a ser los grandes culpables, según el INE, que ya ha confirmado el dato definitivo.",
+   "titular": "Los precios se mantienen en el 4,9 % en octubre, según el avance del INE",
+   "entradilla": "La inflación no sube más, pero sigue en su nivel más alto desde febrero de 2023; el dato definitivo se conocerá el 13 de noviembre.",
    "parrafos": [
-    "El Instituto Nacional de Estadística ([[INE|ine]]) estimó el 29 de septiembre el [[IPC|ipc]] de septiembre y el 14 confirmó el dato definitivo: los precios están un 4,9 % más altos que hace un año. En agosto era un 4,3 %, así que la [[inflación|inflacion]] se acelera y llega a su nivel más alto en más de tres años. La causa principal son los carburantes, encarecidos por la guerra con Irán, que ha disparado el precio del [[petróleo|petroleo]]. Esta semana, según el Boletín Petrolero de la UE, la gasolina cuesta 1,79 euros el litro, tras bajar un 3,2 % en siete días, y el diésel 1,889. La subyacente, que deja fuera energía y alimentos sin elaborar, es del 3,1 %.",
-    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre. Con los datos hasta septiembre, esa media ronda el 3,3 %, y los cálculos publicados por varios medios apuntan a que la subida de 2027 podría acercarse al 3,5 %, aunque dependerá de lo que pase en octubre y noviembre. Sería una buena noticia para los pensionistas, que no perderían poder de compra, pero también supondría más gasto para el Estado. El dato es el más alto desde febrero de 2023."
+    "El 30 de octubre, el Instituto Nacional de Estadística ([[INE|ine]]) publicó el indicador adelantado del [[IPC|ipc]] de octubre: los precios están un 4,9 % más altos que hace un año, igual que en septiembre, cuando la [[inflación|inflacion]] llegó a su nivel más alto desde febrero de 2023. Respecto a septiembre, los precios subieron un 0,6 %. La subyacente, que deja fuera la energía y los alimentos sin elaborar, se mantiene en el 3,1 %. Es un primer cálculo y el dato definitivo se publicará el 13 de noviembre. En septiembre, la causa principal fueron los carburantes, encarecidos por la guerra con Irán, que ha disparado el precio del [[petróleo|petroleo]].",
+    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre, así que lo que pase en octubre y noviembre influirá en la subida de 2027. Subir las pensiones con la inflación protege el poder de compra de los pensionistas, pero supone más gasto para el Estado."
    ],
-   "busqueda_imagenes": "IPC septiembre 2026 INE 4,9%",
+   "busqueda_imagenes": "IPC octubre 2026 INE adelantado 4,9%",
    "fuentes": [
     "INE",
+    "Que.es",
+    "Raisin",
+    "Hispanidad",
     "The Objective",
     "Vozpópuli",
     "elEconomista"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-16",
-   "nota_actualizacion": "Esta semana la gasolina cuesta de media 1,79 euros el litro (un 3,2 % menos que hace siete días) y el diésel 1,889, según el Boletín Petrolero de la UE.",
+   "actualizada": "2026-10-31",
+   "nota_actualizacion": "El avance del INE sitúa el IPC de octubre en el 4,9 %, igual que en septiembre; la subyacente sigue en el 3,1 %.",
    "en": {
-    "titular": "Prices rise by 4.9%, the most in more than three years",
-    "entradilla": "Petrol and diesel are once again the main culprits, according to the INE, which has now confirmed the final figure.",
+    "titular": "Prices hold at 4.9% in October, according to the INE's flash estimate",
+    "entradilla": "Inflation is not rising any further, but it stays at its highest level since February 2023; the final figure will be released on 13 November.",
     "parrafos": [
-     "On 29 September Spain's National Statistics Institute ([[INE|ine]]) estimated the September [[CPI|ipc]] and on 14 October confirmed the final figure: prices are 4.9% higher than a year ago. In August it was 4.3%, so [[inflation|inflacion]] is speeding up and has reached its highest level in more than three years. The main cause is fuel, made more expensive by the war with Iran, which has sent the price of [[oil|petroleo]] soaring. This week, according to the EU Oil Bulletin, petrol costs 1.79 euros a litre, after falling 3.2% in seven days, and diesel 1.889. Core inflation, without energy and unprocessed food, is 3.1%.",
-     "This matters because the same money buys fewer things, and wages don't always go up at the same pace. It also affects [[pensions|pension]]: by law, they go up each year in line with average inflation between December and November. With the figures up to September, that average is around 3.3%, and calculations published by several media outlets suggest the 2027 increase could get close to 3.5%, although it will depend on what happens in October and November. That would be good news for pensioners, who would not lose buying power, but it would also mean more spending for the State. The figure is the highest since February 2023."
+     "On 30 October, the National Statistics Institute ([[INE|ine]]) published the flash estimate of the October [[CPI|ipc]]: prices are 4.9% higher than a year ago, the same as in September, when [[inflation|inflacion]] reached its highest level since February 2023. Compared with September, prices rose by 0.6%. Core inflation, which leaves out energy and unprocessed food, stays at 3.1%. This is a first estimate and the final figure will be published on 13 November. In September, the main cause was fuel, made more expensive by the war with Iran, which has sent the price of [[oil|petroleo]] soaring.",
+     "This matters because the same money buys fewer things, and wages do not always rise at the same pace. It also affects [[pensions|pension]]: by law, each year they rise in line with average inflation between December and November, so what happens in October and November will influence the 2027 increase. Raising pensions with inflation protects pensioners' purchasing power, but means more spending for the State."
     ],
-    "nota_actualizacion": "This week petrol costs an average of 1.79 euros a litre (3.2% less than seven days ago) and diesel 1.889, according to the EU Oil Bulletin."
+    "nota_actualizacion": "The INE's flash estimate puts October's CPI at 4.9%, the same as in September; core inflation remains at 3.1%."
    }
   },
   {
@@ -1123,11 +1132,11 @@
    "id": "urda-choque-ave-iryo-toledo-68-muertos",
    "seccion": "es",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
-   "titular": "Dos trenes chocan en Urda (Toledo) y el accidente deja 69 muertos, según la cifra oficial",
-   "entradilla": "Un AVE embistió por detrás a un Iryo parado; el balance se rebajó de 74 a 69 y el organismo investigador mantiene abiertas todas las hipótesis.",
+   "titular": "Urda: 69 muertos, solo una docena de víctimas identificadas y Puente descarta dimitir",
+   "entradilla": "El ministro de Transportes explica que tras fallar el sistema de seguridad todo dependía del centro de control de Adif; la oposición exige consecuencias y la investigación sigue abierta.",
    "parrafos": [
-    "La mañana del miércoles 28 de octubre, a las 8:53 según el organismo investigador, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, entre Mora y Urda (Toledo). Entre los dos convoyes viajaban más de 500 personas. La cifra oficial de fallecidos es de 69, según el Gobierno de Castilla-La Mancha que preside [[Emiliano García-Page|garciapage]]: se difundió un balance de 74, pero se rectificó, y el Ministerio de Transportes remite a la cifra autonómica. Según los medios, hubo además más de un centenar de heridos.",
-    "El organismo estatal que investiga los accidentes ferroviarios abrió el expediente 146/2026, mantiene un equipo en el lugar y asegura que todas las hipótesis siguen abiertas. Una jueza también ha tomado el caso. Algunos medios publicaron que un fallo de un sistema de frenado automático dejó parado al Iryo y que el centro de control de [[Adif|adif]], que gestiona las vías, habría dejado seguir al AVE a velocidad normal, pero son hipótesis sin confirmar. El Gobierno decretó tres días de [[luto oficial|luto]], del 29 al 31 de octubre, y [[Pedro Sánchez|sanchez]] acudió al centro de emergencias de Toledo. El sindicato de maquinistas Semaf mantuvo el jueves 29 su huelga en Renfe, convocada antes del accidente para pedir más seguridad."
+    "La mañana del miércoles 28 de octubre, a las 8:53 según el organismo investigador, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, entre Mora y Urda (Toledo). Entre los dos convoyes viajaban más de 500 personas. La cifra oficial de fallecidos es de 69, según el Gobierno de Castilla-La Mancha que preside [[Emiliano García-Page|garciapage]], y hubo más de un centenar de heridos. Dos días después, según los medios, solo se había identificado a una docena de víctimas y había unas 70 denuncias por desaparición, algunas de personas ya localizadas con vida.",
+    "El viernes 30, el ministro de Transportes, Óscar Puente, descartó dimitir y dijo que las responsabilidades deben decidirse según los hechos que se vayan aclarando. Según explicó, cuando falla el sistema de seguridad [[LZB|lzb]], que vigila la velocidad y la distancia entre los trenes, todos deben detenerse, y desde ese momento todo depende del centro de control de [[Adif|adif]] en Atocha. Añadió que el LZB se sustituirá por el sistema europeo ERTMS, pero no antes de 2027. La oposición exige consecuencias políticas inmediatas. El organismo investigador mantiene abiertas todas las hipótesis y la jueza de Orgaz (Toledo) instruye el caso: las causas siguen sin confirmarse. El luto oficial termina hoy."
    ],
    "busqueda_imagenes": "accidente tren Urda Toledo AVE Iryo",
    "fuentes": [
@@ -1142,19 +1151,24 @@
     "Democrata",
     "Diario Siglo XXI",
     "Diario de Alicante",
-    "La Cerca"
+    "La Cerca",
+    "Infobae",
+    "Libertad Digital",
+    "El Diario Alerta",
+    "Hola",
+    "Telecinco"
    ],
    "publicada": "2026-10-29",
-   "actualizada": "2026-10-30",
-   "nota_actualizacion": "El balance oficial quedó en 69 muertos tras rectificarse una cifra de 74, y el organismo investigador abrió el expediente 146/2026 con todas las hipótesis abiertas.",
+   "actualizada": "2026-10-31",
+   "nota_actualizacion": "Puente descartó dimitir el 30 de octubre y explicó que, tras fallar el sistema LZB, todo dependía del centro de control de Adif; solo se había identificado a una docena de las 69 víctimas.",
    "en": {
-    "titular": "Two trains collide at Urda (Toledo) and the accident leaves 69 dead, according to the official figure",
-    "entradilla": "An AVE hit an Iryo that was stopped, from behind; the toll was lowered from 74 to 69 and the investigating body keeps every hypothesis open.",
+    "titular": "Urda: 69 dead, only a dozen victims identified and Puente rules out resigning",
+    "entradilla": "The transport minister explains that after the safety system failed everything depended on Adif's control centre; the opposition demands consequences and the investigation remains open.",
     "parrafos": [
-     "On the morning of Wednesday 28 October, at 8:53 according to the investigating body, a Renfe [[AVE|ave]] train ran into the back of an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line, between Mora and Urda (Toledo). More than 500 people were travelling on the two trains. The official death toll is 69, according to the government of Castilla-La Mancha, headed by [[Emiliano García-Page|garciapage]]: a figure of 74 had been circulated but was corrected, and the Ministry of Transport refers to the regional figure. According to the media, more than a hundred people were also injured.",
-     "The state body that investigates railway accidents opened case file 146/2026, keeps a team at the site and says every hypothesis remains open. A judge has also taken the case. Some media reported that a failure in an automatic braking system left the Iryo stopped and that the control centre of [[Adif|adif]], which manages the tracks, is said to have let the AVE continue at normal speed, but these are unconfirmed hypotheses. The Government declared three days of [[official mourning|luto]], from 29 to 31 October, and [[Pedro Sánchez|sanchez]] attended the emergency centre in Toledo. The drivers' union Semaf went ahead on Thursday 29 with its strike at Renfe, called before the accident to demand greater safety."
+     "On the morning of Wednesday 28 October, at 8:53 according to the investigating body, a Renfe [[AVE|ave]] train hit from behind an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line, between Mora and Urda (Toledo). More than 500 people were travelling on the two trains. The official death toll is 69, according to the government of Castilla-La Mancha, headed by [[Emiliano García-Page|garciapage]], and more than a hundred people were injured. Two days later, according to the media, only about a dozen victims had been identified and there were some 70 missing-person reports, some of them for people since found alive.",
+     "On Friday 30, the transport minister, Óscar Puente, ruled out resigning and said responsibilities must be decided according to the facts as they become clear. He explained that when the [[LZB|lzb]] safety system, which monitors the speed of trains and the distance between them, fails, all trains must stop, and from that moment everything depends on the control centre of [[Adif|adif]] at Atocha. He added that the LZB will be replaced by the European ERTMS system, but not before 2027. The opposition demands immediate political consequences. The investigating body keeps all hypotheses open and the judge in Orgaz (Toledo) is running the case: the causes remain unconfirmed. Official mourning ends today."
     ],
-    "nota_actualizacion": "The official toll stands at 69 dead after a figure of 74 was corrected, and the investigating body opened case file 146/2026 with every hypothesis open."
+    "nota_actualizacion": "Puente ruled out resigning on 30 October and explained that, after the LZB system failed, everything depended on Adif's control centre; only a dozen of the 69 victims had been identified."
    }
   },
   {
@@ -1221,37 +1235,34 @@
    }
   },
   {
-   "id": "petroleo-112-dolares-hutis-arabia-saudi-ibex-cae",
+   "id": "pib-espana-tercer-trimestre-2026-06-27",
    "seccion": "eco",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-a\" x=\"22\" y=\"26\" width=\"40\" height=\"52\" rx=\"6\"/><path class=\"d-b\" d=\"M22 40 H62 M22 64 H62\"/><rect class=\"d-l\" x=\"22\" y=\"26\" width=\"40\" height=\"52\" rx=\"6\"/><path class=\"d-l\" d=\"M22 40 H62 M22 64 H62\"/><path class=\"d-y\" d=\"M88 70 V32 H80 L94 14 L108 32 H100 V70 Z\"/><path class=\"d-l\" d=\"M88 70 V32 H80 L94 14 L108 32 H100 V70 Z\"/></svg>",
-   "titular": "El petróleo supera los 116 dólares y el Ibex 35 cierra la semana con una caída del 1,74 %",
-   "entradilla": "El Brent volvió a subir el viernes por los ataques en Oriente Medio; para las familias, puede encarecer la gasolina y mantener alta la inflación.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-b\" x=\"14\" y=\"52\" width=\"18\" height=\"26\"/><rect class=\"d-b\" x=\"38\" y=\"44\" width=\"18\" height=\"34\"/><rect class=\"d-a\" x=\"62\" y=\"34\" width=\"18\" height=\"44\"/><rect class=\"d-a\" x=\"86\" y=\"24\" width=\"18\" height=\"54\"/><path class=\"d-g\" d=\"M10 48 L36 38 L62 28 L88 18 L108 12\" fill=\"none\"/><circle class=\"d-y\" cx=\"108\" cy=\"12\" r=\"4\"/><path class=\"d-l\" d=\"M8 78 H114 M8 10 V78\"/></svg>",
+   "titular": "La economía española crece un 0,6 % en el tercer trimestre y un 2,7 % en un año",
+   "entradilla": "El avance del INE muestra una economía que avanza a buen ritmo, aunque con menos horas trabajadas y un consumo de los hogares que se frena.",
    "parrafos": [
-    "El viernes 23 de octubre el barril de [[Brent|brent]] subió cerca de un 3 % y superó los 116 dólares, después de haber llegado el jueves a 112,55. Los mercados temen que se interrumpa el suministro de Oriente Medio, la región que más crudo exporta del mundo, por los ataques que los hutíes de Yemen reivindican contra Arabia Saudí y por los que sufren los barcos cerca del [[estrecho de Ormuz|ormuz]]. El [[Ibex 35|ibex]] subió un 0,4 % el viernes, hasta los 18.989,8 puntos, pero cerró la semana con una caída del 1,74 %, tras perder un 2,12 % el jueves. Entre las empresas que más subieron estuvo la petrolera Repsol, con un 4,25 %.",
-    "Cuando el crudo se encarece, suelen subir después la gasolina, el gasóleo y el transporte, y eso alimenta la [[inflación|inflacion]], que en España fue del 4,9 % en septiembre. Esta semana la gasolina costaba de media 1,79 euros el litro, según el Boletín Petrolero de la UE, antes de esta subida del crudo. El [[Banco Central Europeo|bce]], que se reúne el 29 de octubre, vigila esa inflación cuando decide los [[tipos de interés|tiposinteres]], de los que dependen las hipotecas. Todo dependerá de si los ataques continúan: el precio del petróleo cambia cada día."
+    "La economía española creció un 0,6 % entre julio y septiembre de 2026 respecto al trimestre anterior, una décima menos que entre abril y junio, según el avance del [[INE|ine]] publicado el 30 de octubre. En comparación con el tercer trimestre de 2025, el [[PIB|pib]], que mide todo lo que produce el país, aumentó un 2,7 %, una décima más que en el segundo trimestre. Según el instituto, la demanda interna, es decir, lo que gastan hogares, empresas y administraciones dentro de España, aportó 2,6 puntos al crecimiento anual, y la demanda externa casi nada.",
+    "El consumo de los hogares creció un 3,1 % en tasa anual, cuatro décimas menos que en el trimestre anterior, y el gasto público, un 2,5 %. Las [[exportaciones|exportaciones]], lo que España vende al extranjero, subieron un 3,6 %, dos puntos más que antes. Las horas trabajadas aumentaron un 2,2 % interanual, seis décimas menos que entre abril y junio, y algunos medios hablan de un freno en la creación de empleo. Para una familia, que la economía crezca suele significar más empleo e ingresos, pero con una [[inflación|inflacion]] del 4,9 % cada euro compra menos."
    ],
-   "busqueda_imagenes": "precio petróleo Brent Ibex 35 22 octubre 2026",
+   "busqueda_imagenes": "PIB España tercer trimestre 2026 INE",
    "fuentes": [
-    "Proceso",
-    "Infobae",
-    "Tiempo de Inversión",
-    "Revista E&N",
-    "ABC Color",
-    "Infobae (EFE)",
-    "The Objective",
-    "Press Digital"
+    "INE",
+    "elEconomista",
+    "Moncloa.com",
+    "Unitel (agencias)",
+    "Iberoeconomía"
    ],
-   "publicada": "2026-10-23",
-   "actualizada": "2026-10-24",
-   "nota_actualizacion": "El viernes 23 el Brent superó los 116 dólares y el Ibex 35 cerró la semana con una caída del 1,74 %.",
+   "publicada": "2026-10-31",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Oil tops 116 dollars and the Ibex 35 ends the week down 1.74%",
-    "entradilla": "Brent rose again on Friday amid attacks in the Middle East; for families, it can make petrol more expensive and keep inflation high.",
+    "titular": "Spain's economy grows 0.6% in the third quarter and 2.7% over a year",
+    "entradilla": "The INE's flash estimate shows an economy moving ahead at a good pace, although with fewer hours worked and household spending slowing.",
     "parrafos": [
-     "On Friday 23 October a barrel of [[Brent|brent]] rose by about 3% and passed 116 dollars, after reaching 112.55 on Thursday. Markets fear that supplies from the Middle East, the region that exports the most crude in the world, could be interrupted by the attacks that the Houthis of Yemen claim against Saudi Arabia and by those suffered by ships near the [[Strait of Hormuz|ormuz]]. The [[Ibex 35|ibex]] rose 0.4% on Friday, to 18,989.8 points, but ended the week down 1.74%, after losing 2.12% on Thursday. Among the biggest risers was the oil company Repsol, up 4.25%.",
-     "When crude gets more expensive, petrol, diesel and transport usually rise afterwards, and that feeds [[inflation|inflacion]], which in Spain was 4.9% in September. This week petrol cost an average of 1.79 euros a litre, according to the EU Oil Bulletin, before this rise in crude. The [[European Central Bank|bce]], which meets on 29 October, watches that inflation when it decides [[interest rates|tiposinteres]], on which mortgages depend. Everything will depend on whether the attacks continue: the price of oil changes every day."
+     "Spain's economy grew by 0.6% between July and September 2026 compared with the previous quarter, a tenth of a point less than between April and June, according to the [[INE|ine]] flash estimate published on 30 October. Compared with the third quarter of 2025, [[GDP|pib]], which measures everything the country produces, rose by 2.7%, a tenth more than in the second quarter. According to the institute, domestic demand, meaning what households, companies and public bodies spend inside Spain, contributed 2.6 points to annual growth, and external demand almost nothing.",
+     "Household consumption grew by 3.1% year on year, four tenths less than in the previous quarter, and public spending by 2.5%. [[Exports|exportaciones]], what Spain sells abroad, rose by 3.6%, two points more than before. Hours worked rose by 2.2% year on year, six tenths less than between April and June, and some media speak of a slowdown in job creation. For a family, a growing economy usually means more jobs and income, but with [[inflation|inflacion]] at 4.9% each euro buys less."
     ],
-    "nota_actualizacion": "On Friday 23 October Brent passed 116 dollars and the Ibex 35 ended the week down 1.74%."
+    "nota_actualizacion": null
    }
   },
   {
@@ -3365,11 +3376,29 @@
     "n": "Chatbot",
     "x": "A computer program that chats in writing, and sometimes by voice, and replies as if it were a person. It runs on artificial intelligence."
    }
+  },
+  "lzb": {
+   "t": "palabra",
+   "n": "LZB",
+   "x": "Es el sistema de seguridad de la línea de alta velocidad Madrid-Andalucía: vigila la velocidad y la distancia entre trenes y los frena si hace falta.",
+   "en": {
+    "n": "LZB",
+    "x": "The safety system on the Madrid-Andalusia high-speed line: it monitors the speed of trains and the distance between them and brakes them if necessary."
+   }
+  },
+  "exportaciones": {
+   "t": "palabra",
+   "n": "Exportaciones",
+   "x": "Los productos y servicios que un país vende a otros países.",
+   "en": {
+    "n": "Exports",
+    "x": "The goods and services that a country sells to other countries."
+   }
   }
  },
- "edicion_en": "Friday 30 October 2026",
+ "edicion_en": "Saturday 31 October 2026",
  "destacada": {
   "id": "urda-choque-ave-iryo-toledo-68-muertos",
-  "fecha": "2026-10-30"
+  "fecha": "2026-10-31"
  }
 }
