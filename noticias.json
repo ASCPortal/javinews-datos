@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-31T07:30:00+01:00",
- "edicion": "Sábado 31 de octubre de 2026",
+ "actualizado": "2026-11-02T07:30:00+01:00",
+ "edicion": "Lunes 2 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -366,11 +366,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán dice que cuatro petroleros se incendiaron al chocar con minas, mientras EE. UU. afirma haber despejado el paso",
-   "entradilla": "Teherán propone un plan de siete días para reabrir el estrecho y Washington no lo acepta; Arabia Saudí, Turquía y Pakistán median.",
+   "titular": "Ormuz: Irán y EE. UU. negocian por mediación de Catar un plan de dos días para reabrir el estrecho",
+   "entradilla": "Trump dice que no atacará antes de las elecciones legislativas del martes; Teherán exige el fin del bloqueo naval y de las sanciones al petróleo.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "El lunes 26, mediadores de Arabia Saudí, Pakistán y Turquía se reunieron en Teherán con el jefe de Seguridad de Irán, Mohsen Rezaei, y acordaron seguir hablando. El miércoles 28, el canciller iraní, Abbas Araqchi, dijo que espera empezar «en menos de una semana» su «plan de siete días» para reabrir el estrecho, que según los medios condiciona a una tregua y al fin del bloqueo naval. Estados Unidos no lo ha aceptado. El jueves 29, el Mando Central estadounidense dijo haber despejado de minas las rutas principales, pero el viernes 30 la Armada iraní afirmó que cuatro petroleros se incendiaron tras chocar con minas y que el corredor sur sigue minado."
+    "El jueves 29, el Mando Central estadounidense dijo haber despejado de minas las rutas principales, pero el viernes 30 la Armada iraní afirmó que cuatro petroleros se incendiaron tras chocar con minas. El domingo 1 de noviembre, Irán informó de que siguen las conversaciones indirectas con Estados Unidos, mediadas por Catar, sobre un plan de dos días para reabrir el estrecho; todavía no hay resultado. Teherán pide un alto el fuego, el fin del bloqueo naval, el levantamiento de las sanciones al petróleo y la liberación de sus fondos congelados. Trump rechazó el plan de siete días, dijo que no atacará antes de las elecciones del martes y que Washington aún tiene objetivos militares pendientes."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -400,19 +400,22 @@
     "Herqles",
     "El Imparcial",
     "Prensa Latina",
-    "CGTN"
+    "CGTN",
+    "Deia",
+    "Diario Libre",
+    "El Heraldo (Colombia)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-31",
-   "nota_actualizacion": "El 30 de octubre Irán afirmó que cuatro petroleros se incendiaron tras chocar con minas, un día después de que EE. UU. dijera haber despejado las rutas principales.",
+   "actualizada": "2026-11-02",
+   "nota_actualizacion": "El 1 de noviembre Irán informó de que sigue negociando de forma indirecta con EE. UU., con mediación de Catar, un plan de dos días para reabrir el estrecho; Trump dice que no atacará antes del martes.",
    "en": {
-    "titular": "Hormuz: Iran says four tankers caught fire after hitting mines, while the US claims to have cleared the passage",
-    "entradilla": "Tehran proposes a seven-day plan to reopen the strait and Washington does not accept it; Saudi Arabia, Turkey and Pakistan mediate.",
+    "titular": "Hormuz: Iran and the US negotiate, with Qatar mediating, a two-day plan to reopen the strait",
+    "entradilla": "Trump says he will not attack before Tuesday's midterm elections; Tehran demands an end to the naval blockade and to oil sanctions.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "On Monday 26, mediators from Saudi Arabia, Pakistan and Turkey met in Tehran with Iran's security chief, Mohsen Rezaei, and agreed to keep talking. On Wednesday 28, Iran's foreign minister, Abbas Araghchi, said he hopes to begin his 'seven-day plan' to reopen the strait 'in less than a week', which according to the media he makes conditional on a truce and the end of the naval blockade. The United States has not accepted it. On Thursday 29, US Central Command said it had cleared the main routes of mines, but on Friday 30 the Iranian navy claimed that four tankers caught fire after hitting mines and that the southern corridor is still mined."
+     "On Thursday 29, US Central Command said it had cleared the main routes of mines, but on Friday 30 the Iranian navy claimed that four tankers caught fire after hitting mines. On Sunday 1 November, Iran said indirect talks with the United States, mediated by Qatar, are continuing on a two-day plan to reopen the strait; there is still no result. Tehran asks for a ceasefire, an end to the naval blockade, the lifting of oil sanctions and the release of its frozen funds. Trump rejected the seven-day plan, said he will not attack before Tuesday's elections and that Washington still has military targets pending."
     ],
-    "nota_actualizacion": "On 30 October Iran claimed that four tankers caught fire after hitting mines, a day after the US said it had cleared the main routes."
+    "nota_actualizacion": "On 1 November Iran said it is still negotiating indirectly with the US, with Qatar mediating, a two-day plan to reopen the strait; Trump says he will not attack before Tuesday."
    }
   },
   {
@@ -461,7 +464,7 @@
    "entradilla": "El Kremlin descarta que Europa participe; Putin quiere un acuerdo definitivo, Zelenski rechaza entregar Sloviansk y Kramatorsk y los ataques continúan.",
    "parrafos": [
     "El miércoles 21, el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], se reunió unas tres horas con [[Vladímir Putin|putin]] en San Petersburgo y le presentó las ideas de paz que había recibido de [[Zelenski|zelenski]] en Oslo. Después, el Kremlin anunció que las conversaciones a tres bandas entre Rusia, Ucrania y Estados Unidos serán en Abu Dabi en la primera quincena de noviembre. El 28 de octubre, Zelenski dijo que espera que se celebren entre el 6 y el 10 de noviembre, tras las elecciones legislativas de EE. UU., y el Kremlin descartó que Europa participe. Putin quiere hablar de un arreglo definitivo, no de una pausa breve en los combates.",
-    "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. Zelenski descartó entregar Sloviansk y Kramatorsk, los últimos bastiones ucranianos en la provincia de Donetsk, porque abriría a las tropas rusas el camino hacia Dnipro. Mientras tanto, los ataques continúan: tras la reunión con Witkoff murieron al menos siete personas en varias regiones y hubo 15 heridos en [[Kiev|kiev]], según las autoridades ucranianas, y un ataque ucraniano con drones contra la ciudad rusa de Vorónezh dejó dos muertos y 17 heridos. [[Donald Trump|trump]] dijo que Zelenski «tiene que llegar a un acuerdo», y su Gobierno ha suspendido buena parte de las [[sanciones|sanciones]] a Rusia."
+    "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. Zelenski descartó entregar Sloviansk y Kramatorsk, los últimos bastiones ucranianos en la provincia de Donetsk, porque abriría a las tropas rusas el camino hacia Dnipro. Mientras tanto, los ataques continúan. Una tregua local en Oleshki (Jersón), para evacuar a civiles, duró del 27 de octubre al 1 de noviembre y Rusia rechazó prorrogarla. Ese mismo día Rusia volvió a atacar la red eléctrica ucraniana y dejó sin luz a cientos de localidades. El lunes 2 ambos países denunciaron ciberataques contra sus aplicaciones de alerta, con avisos falsos; [[Kiev|kiev]] acusa a Rusia."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -484,19 +487,21 @@
     "El Deber (BBC)",
     "Euronews",
     "Bloomberg",
-    "El Nacional"
+    "El Nacional",
+    "Unitel",
+    "La Jornada"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-30",
-   "nota_actualizacion": "Zelenski espera que las conversaciones de Abu Dabi sean entre el 6 y el 10 de noviembre y el Kremlin descarta que Europa participe.",
+   "actualizada": "2026-11-02",
+   "nota_actualizacion": "Terminó la tregua local de Oleshki, Rusia volvió a atacar la red eléctrica ucraniana y ambos países denuncian ciberataques contra sus apps de alerta.",
    "en": {
     "titular": "Ukraine: Russia and Kyiv to hold talks with the US in Abu Dhabi, and Zelensky hopes it will be between 6 and 10 November",
     "entradilla": "The Kremlin rules out European participation; Putin wants a definitive deal, Zelensky refuses to give up Sloviansk and Kramatorsk, and the attacks continue.",
     "parrafos": [
      "On Wednesday 21, the White House envoy, [[Steve Witkoff|witkoff]], met [[Vladimir Putin|putin]] for about three hours in Saint Petersburg and presented the peace ideas he had received from [[Zelensky|zelenski]] in Oslo. Afterwards the Kremlin announced that the three-way talks between Russia, Ukraine and the United States will be held in Abu Dhabi in the first half of November. On 28 October, Zelensky said he expects them to take place between 6 and 10 November, after the US legislative elections, and the Kremlin ruled out Europe taking part. Putin wants to discuss a definitive settlement, not a brief pause in the fighting.",
-     "There is still no peace deal: what has been agreed is to sit down and talk again. Zelensky ruled out handing over Sloviansk and Kramatorsk, Ukraine's last strongholds in the province of Donetsk, because it would open the way to Dnipro for Russian troops. Meanwhile the attacks continue: after the meeting with Witkoff at least seven people died in several regions and 15 were injured in [[Kyiv|kiev]], according to Ukrainian authorities, and a Ukrainian drone attack on the Russian city of Voronezh left two dead and 17 injured. [[Donald Trump|trump]] said Zelensky 'has to reach a deal', and his administration has suspended a large part of the [[sanctions|sanciones]] on Russia."
+     "There is still no peace deal: what has been agreed is to sit down and talk again. Zelensky ruled out handing over Sloviansk and Kramatorsk, Ukraine's last strongholds in the province of Donetsk, because it would open the way to Dnipro for Russian troops. Meanwhile the attacks continue. A local truce in Oleshki (Kherson), to evacuate civilians, ran from 27 October to 1 November and Russia refused to extend it. That same day Russia again attacked Ukraine's power grid, leaving hundreds of localities without electricity. On Monday 2 both countries reported cyberattacks on their alert apps, with false warnings; [[Kyiv|kiev]] blames Russia."
     ],
-    "nota_actualizacion": "Zelensky expects the Abu Dhabi talks to take place between 6 and 10 November and the Kremlin rules out European participation."
+    "nota_actualizacion": "The local truce in Oleshki ended, Russia again attacked Ukraine's power grid and both countries report cyberattacks on their alert apps."
    }
   },
   {
@@ -542,7 +547,7 @@
    "entradilla": "El Likud es el partido más votado, con 27, pero a Netanyahu le faltan ocho escaños para los 61 y los partidos árabes, con 19, no están en ningún bloque.",
    "parrafos": [
     "El martes 27 de octubre, Israel celebró elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Se votaba a los 120 diputados de la [[Knesset|knesset]], el Parlamento israelí, y quien reúna 61 podrá formar Gobierno. Según el recuento final de la Comisión Electoral Central, la participación fue del 77,9 %. El Likud de [[Benjamín Netanyahu|netanyahu]] es el partido más votado, con 27 escaños, menos que los 32 que tenía. Su bloque, con partidos ultraortodoxos y de extrema derecha, suma 53, ocho menos de los necesarios.",
-    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes consiguen 19 y no pertenecen a ningún bloque, así que ni Netanyahu ni Eisenkot pueden gobernar sin su apoyo o sin que algunos diputados cambien de bando. Los primeros sondeos a pie de urna daban ventaja a la oposición, pero el recuento la dejó por detrás. Ahora se abre una negociación: el presidente, Isaac Herzog, encargará a un líder formar Gobierno y, si no lo logra, podría haber nuevas elecciones."
+    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes consiguen 19 y no pertenecen a ningún bloque, así que ni Netanyahu ni Eisenkot pueden gobernar sin su apoyo o sin que algunos diputados cambien de bando. Ahora se abre una negociación: el presidente, Isaac Herzog, empezará el miércoles 4 de noviembre las consultas con los partidos antes de encargar a un líder formar Gobierno y, si no lo logra, podría haber nuevas elecciones."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -558,19 +563,20 @@
     "i24NEWS",
     "The Jewish Chronicle",
     "DW",
-    "swissinfo.ch"
+    "swissinfo.ch",
+    "Diario de Santiago"
    ],
    "publicada": "2026-10-20",
-   "actualizada": "2026-10-30",
-   "nota_actualizacion": "El recuento final da 27 escaños al Likud y 53 a su bloque, frente a 48 de la oposición y 19 de los partidos árabes: nadie llega a 61.",
+   "actualizada": "2026-11-02",
+   "nota_actualizacion": "El presidente Herzog empezará el 4 de noviembre las consultas con los partidos para decidir a quién encarga formar Gobierno.",
    "en": {
     "titular": "Israel: the final count leaves Netanyahu's bloc on 53 seats, with no majority to govern",
     "entradilla": "Likud is the most-voted party, with 27, but Netanyahu is eight seats short of the 61 he needs and the Arab parties, with 19, belong to neither bloc.",
     "parrafos": [
      "On Tuesday 27 October, Israel held parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. The 120 members of the [[Knesset|knesset]], the Israeli Parliament, were being elected, and whoever gathers 61 can form a government. According to the final count by the Central Elections Committee, turnout was 77.9%. [[Benjamin Netanyahu|netanyahu]]'s Likud is the most-voted party, with 27 seats, fewer than the 32 it held. His bloc, with ultra-Orthodox and far-right parties, has 53, eight short of what it needs.",
-     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties win 19 and belong to neither bloc, so neither Netanyahu nor Eisenkot can govern without their support or without some members of parliament switching sides. The first exit polls gave the opposition an edge, but the count left it behind. Now negotiations begin: the president, Isaac Herzog, will task one leader with forming a government and, if that fails, there could be new elections."
+     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties win 19 and belong to neither bloc, so neither Netanyahu nor Eisenkot can govern without their support or without some members of parliament switching sides. Now negotiations begin: the president, Isaac Herzog, will start consultations with the parties on Wednesday 4 November before tasking one leader with forming a government and, if that fails, there could be new elections."
     ],
-    "nota_actualizacion": "The final count gives Likud 27 seats and its bloc 53, against 48 for the opposition and 19 for the Arab parties: nobody reaches 61."
+    "nota_actualizacion": "President Herzog will start consultations with the parties on 4 November to decide whom to task with forming a government."
    }
   },
   {
@@ -647,37 +653,32 @@
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Martín se retira del GP de Malasia y Álex Márquez logra la pole por delante de su hermano Marc",
-   "entradilla": "El piloto de Aprilia, con el radio fracturado, abandona el fin de semana en Sepang; Marc Márquez lidera el Mundial por diez puntos.",
+   "titular": "Marc Márquez gana en Sepang y llega a Qatar con su primera opción de proclamarse campeón de MotoGP",
+   "entradilla": "Con 44 puntos de ventaja sobre Martín, que no pudo correr por lesión, el piloto de Ducati ganó su séptima carrera del año en Malasia.",
    "parrafos": [
-    "El sábado 24 de octubre, [[Marc Márquez|marquez]], de Ducati, ganó la [[carrera sprint|sprint]] del Gran Premio de Australia, en Phillip Island, saliendo desde la pole. Su hermano Álex fue segundo y Fabio Di Giannantonio, tercero. En la vuelta 8, cuando [[Jorge Martín|martin]], de Aprilia, peleaba con él por la victoria, el líder del campeonato sufrió una fuerte caída y tuvo que salir en camilla. Aprilia informó de que se ha roto el radio del antebrazo derecho, y los médicos le declararon no apto para la carrera del domingo.",
-    "Con la victoria en la sprint, Márquez suma 365 puntos y lidera el [[MotoGP|motogp]] con diez más que Martín (355). El domingo la organización canceló todas las carreras de Australia porque la lluvia y el viento impedían volar al helicóptero médico, así que no se repartieron puntos. En Sepang (Malasia), Martín tenía permiso médico para salir a pista, pero tras rodar unas ocho vueltas en la sesión previa a la clasificación decidió retirarse del fin de semana. El hermano de Marc, Álex Márquez, logró la pole con 1:56.493, su primera en 420 días, a 0,070 segundos de Marc, que saldrá segundo; Pedro Acosta quedó tercero. Marc puede ampliar su ventaja en la sprint de hoy."
+    "El domingo 1 de noviembre, [[Marc Márquez|marquez]], de Ducati, ganó el Gran Premio de Malasia en el circuito de Sepang. Fue su séptima victoria de la temporada: se impuso en las primeras curvas a su hermano Álex, que salía desde la pole, y terminó a más de cuatro segundos de Pedro Acosta (KTM), segundo. Álex Márquez fue tercero, a casi seis segundos de su hermano. Ai Ogura (Aprilia) fue cuarto y Enea Bastianini (KTM), quinto.",
+    "Su rival en el campeonato, [[Jorge Martín|martin]], de Aprilia, no pudo correr: se cayó el 24 de octubre en Australia y se retiró del fin de semana de Malasia. Con esta victoria, Márquez suma 399 puntos, 44 más que Martín (355) y 67 más que Marco Bezzecchi, tercero. En el [[MotoGP|motogp]] gana el título quien más puntos suma al final de la temporada, y cada carrera principal da 25 al ganador. La próxima cita es Qatar, donde Márquez tendrá su primera opción matemática de proclamarse campeón."
    ],
-   "busqueda_imagenes": "Márquez Phillip Island sprint Martín caída",
+   "busqueda_imagenes": "Marc Márquez Sepang victoria Malasia 2026",
    "fuentes": [
-    "Grande Premio",
-    "Motorsport.com",
-    "Infobae (EFE)",
-    "OKDiario",
-    "Los Andes",
-    "Infobae",
-    "elDiario.es",
-    "Deia",
-    "The Race",
+    "Crash.net",
     "Motorsport.com (España)",
-    "MCNews"
+    "Los Andes",
+    "The Objective",
+    "Demócrata",
+    "Infobae (EFE)"
    ],
    "publicada": "2026-10-06",
-   "actualizada": "2026-10-31",
-   "nota_actualizacion": "Martín se retiró del GP de Malasia tras rodar unas ocho vueltas; Álex Márquez logró la pole y Marc saldrá segundo.",
+   "actualizada": "2026-11-02",
+   "nota_actualizacion": "Márquez ganó en Sepang, suma 399 puntos (44 más que Martín, que no corrió) y tendrá en Qatar su primera opción de ser campeón.",
    "en": {
-    "titular": "Martín withdraws from the Malaysian GP and Álex Márquez takes pole ahead of his brother Marc",
-    "entradilla": "The Aprilia rider, with a fractured radius, pulls out of the weekend at Sepang; Marc Márquez leads the championship by ten points.",
+    "titular": "Marc Márquez wins at Sepang and heads to Qatar with his first chance to be crowned MotoGP champion",
+    "entradilla": "With a 44-point lead over Martín, who could not race because of injury, the Ducati rider won his seventh race of the year in Malaysia.",
     "parrafos": [
-     "On Saturday 24 October, [[Marc Márquez|marquez]], on a Ducati, won the [[sprint race|sprint]] of the Australian Grand Prix at Phillip Island, starting from pole. His brother Álex was second and Fabio Di Giannantonio third. On lap 8, while [[Jorge Martín|martin]], on an Aprilia, was fighting him for the win, the championship leader suffered a heavy crash and had to be taken away on a stretcher. Aprilia reported that he has broken the radius bone in his right forearm, and doctors declared him unfit for Sunday's race.",
-     "With the sprint win, Márquez has 365 points and leads the [[MotoGP|motogp]] by ten over Martín (355). On Sunday the organisers cancelled all the races in Australia because rain and wind stopped the medical helicopter from flying, so no points were awarded. At Sepang (Malaysia), Martín had medical clearance to ride, but after about eight laps in the session before qualifying he decided to pull out of the weekend. Álex Márquez, Marc's brother, took pole with 1:56.493, his first in 420 days, 0.070 seconds ahead of Marc, who will start second; Pedro Acosta was third. Marc can extend his lead in today's sprint."
+     "On Sunday 1 November, [[Marc Márquez|marquez]], on a Ducati, won the Malaysian Grand Prix at the Sepang circuit. It was his seventh win of the season: he got past his brother Álex, who started from pole, in the opening corners and finished more than four seconds ahead of Pedro Acosta (KTM), who was second. Álex Márquez was third, almost six seconds behind his brother. Ai Ogura (Aprilia) was fourth and Enea Bastianini (KTM) fifth.",
+     "His championship rival, [[Jorge Martín|martin]], on an Aprilia, could not race: he crashed in Australia on 24 October and pulled out of the Malaysian weekend. With this win, Márquez has 399 points, 44 more than Martín (355) and 67 more than Marco Bezzecchi, who is third. In [[MotoGP|motogp]] the title goes to whoever has the most points at the end of the season, and each main race gives 25 to the winner. The next stop is Qatar, where Márquez will have his first mathematical chance of being crowned champion."
     ],
-    "nota_actualizacion": "Martín withdrew from the Malaysian GP after about eight laps; Álex Márquez took pole and Marc will start second."
+    "nota_actualizacion": "Márquez won at Sepang, has 399 points (44 more than Martín, who did not race) and will have his first chance to be champion in Qatar."
    }
   },
   {
@@ -1132,11 +1133,11 @@
    "id": "urda-choque-ave-iryo-toledo-68-muertos",
    "seccion": "es",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
-   "titular": "Urda: 69 muertos, solo una docena de víctimas identificadas y Puente descarta dimitir",
-   "entradilla": "El ministro de Transportes explica que tras fallar el sistema de seguridad todo dependía del centro de control de Adif; la oposición exige consecuencias y la investigación sigue abierta.",
+   "titular": "Urda: identificadas 66 de las 69 víctimas y las causas del choque siguen sin confirmarse",
+   "entradilla": "Faltan por identificar tres víctimas extranjeras; el ministro Puente descarta dimitir y la investigación sigue abierta.",
    "parrafos": [
-    "La mañana del miércoles 28 de octubre, a las 8:53 según el organismo investigador, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, entre Mora y Urda (Toledo). Entre los dos convoyes viajaban más de 500 personas. La cifra oficial de fallecidos es de 69, según el Gobierno de Castilla-La Mancha que preside [[Emiliano García-Page|garciapage]], y hubo más de un centenar de heridos. Dos días después, según los medios, solo se había identificado a una docena de víctimas y había unas 70 denuncias por desaparición, algunas de personas ya localizadas con vida.",
-    "El viernes 30, el ministro de Transportes, Óscar Puente, descartó dimitir y dijo que las responsabilidades deben decidirse según los hechos que se vayan aclarando. Según explicó, cuando falla el sistema de seguridad [[LZB|lzb]], que vigila la velocidad y la distancia entre los trenes, todos deben detenerse, y desde ese momento todo depende del centro de control de [[Adif|adif]] en Atocha. Añadió que el LZB se sustituirá por el sistema europeo ERTMS, pero no antes de 2027. La oposición exige consecuencias políticas inmediatas. El organismo investigador mantiene abiertas todas las hipótesis y la jueza de Orgaz (Toledo) instruye el caso: las causas siguen sin confirmarse. El luto oficial termina hoy."
+    "La mañana del miércoles 28 de octubre, a las 8:53 según el organismo investigador, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, entre Mora y Urda (Toledo). Entre los dos convoyes viajaban más de 500 personas. La cifra oficial de fallecidos es de 69, según el Gobierno de Castilla-La Mancha que preside [[Emiliano García-Page|garciapage]], y hubo más de un centenar de heridos. Según los medios, el domingo 1 y el lunes 2 de noviembre ya estaban identificadas 66 de las 69 víctimas: 54 españolas y 12 extranjeras. Faltan tres, todas de nacionalidad extranjera.",
+    "El viernes 30, el ministro de Transportes, Óscar Puente, descartó dimitir y dijo que las responsabilidades deben decidirse según los hechos que se vayan aclarando. Según explicó, cuando falla el sistema de seguridad [[LZB|lzb]], que vigila la velocidad y la distancia entre los trenes, todos deben detenerse, y desde ese momento todo depende del centro de control de [[Adif|adif]] en Atocha. Añadió que el LZB se sustituirá por el sistema europeo ERTMS, pero no antes de 2027. La oposición exige consecuencias políticas inmediatas. El organismo investigador mantiene abiertas todas las hipótesis y la jueza de Orgaz (Toledo) instruye el caso: las causas siguen sin confirmarse."
    ],
    "busqueda_imagenes": "accidente tren Urda Toledo AVE Iryo",
    "fuentes": [
@@ -1156,19 +1157,20 @@
     "Libertad Digital",
     "El Diario Alerta",
     "Hola",
-    "Telecinco"
+    "Telecinco",
+    "El Digital de Albacete"
    ],
    "publicada": "2026-10-29",
-   "actualizada": "2026-10-31",
-   "nota_actualizacion": "Puente descartó dimitir el 30 de octubre y explicó que, tras fallar el sistema LZB, todo dependía del centro de control de Adif; solo se había identificado a una docena de las 69 víctimas.",
+   "actualizada": "2026-11-02",
+   "nota_actualizacion": "Los forenses han identificado ya a 66 de las 69 víctimas (54 españolas y 12 extranjeras); faltan tres, de nacionalidad extranjera.",
    "en": {
-    "titular": "Urda: 69 dead, only a dozen victims identified and Puente rules out resigning",
-    "entradilla": "The transport minister explains that after the safety system failed everything depended on Adif's control centre; the opposition demands consequences and the investigation remains open.",
+    "titular": "Urda: 66 of the 69 victims identified and the causes of the crash remain unconfirmed",
+    "entradilla": "Three foreign victims are still to be identified; minister Puente rules out resigning and the investigation remains open.",
     "parrafos": [
-     "On the morning of Wednesday 28 October, at 8:53 according to the investigating body, a Renfe [[AVE|ave]] train hit from behind an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line, between Mora and Urda (Toledo). More than 500 people were travelling on the two trains. The official death toll is 69, according to the government of Castilla-La Mancha, headed by [[Emiliano García-Page|garciapage]], and more than a hundred people were injured. Two days later, according to the media, only about a dozen victims had been identified and there were some 70 missing-person reports, some of them for people since found alive.",
-     "On Friday 30, the transport minister, Óscar Puente, ruled out resigning and said responsibilities must be decided according to the facts as they become clear. He explained that when the [[LZB|lzb]] safety system, which monitors the speed of trains and the distance between them, fails, all trains must stop, and from that moment everything depends on the control centre of [[Adif|adif]] at Atocha. He added that the LZB will be replaced by the European ERTMS system, but not before 2027. The opposition demands immediate political consequences. The investigating body keeps all hypotheses open and the judge in Orgaz (Toledo) is running the case: the causes remain unconfirmed. Official mourning ends today."
+     "On the morning of Wednesday 28 October, at 8:53 according to the investigating body, a Renfe [[AVE|ave]] train hit from behind an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line, between Mora and Urda (Toledo). More than 500 people were travelling on the two trains. The official death toll is 69, according to the government of Castilla-La Mancha, headed by [[Emiliano García-Page|garciapage]], and more than a hundred people were injured. According to the media, by Sunday 1 and Monday 2 November 66 of the 69 victims had already been identified: 54 Spanish and 12 foreign. Three remain, all of them foreign nationals.",
+     "On Friday 30, the transport minister, Óscar Puente, ruled out resigning and said responsibilities must be decided according to the facts as they become clear. He explained that when the [[LZB|lzb]] safety system, which monitors the speed of trains and the distance between them, fails, all trains must stop, and from that moment everything depends on the control centre of [[Adif|adif]] at Atocha. He added that the LZB will be replaced by the European ERTMS system, but not before 2027. The opposition demands immediate political consequences. The investigating body keeps all hypotheses open and the judge in Orgaz (Toledo) is running the case: the causes remain unconfirmed."
     ],
-    "nota_actualizacion": "Puente ruled out resigning on 30 October and explained that, after the LZB system failed, everything depended on Adif's control centre; only a dozen of the 69 victims had been identified."
+    "nota_actualizacion": "Forensic teams have now identified 66 of the 69 victims (54 Spanish and 12 foreign); three, all foreign nationals, remain."
    }
   },
   {
@@ -1205,11 +1207,11 @@
    "id": "barca-lider-madrid-gana-liga-clasico-25-octubre",
    "seccion": "dep",
    "dibujo": "wembley",
-   "titular": "Mbappé decide el Clásico: el Madrid gana 1-2 en el Camp Nou y recorta la ventaja del Barça a tres puntos",
-   "entradilla": "Mbappé marcó los dos goles, el segundo en el minuto 87, y el Barcelona perdió su primer partido de Liga después de nueve victorias seguidas.",
+   "titular": "Tras el Clásico, el Barça golea 6-1 al Alavés y el Madrid gana 0-3 al Racing; el Atlético ya es segundo",
+   "entradilla": "En la jornada 11 de LaLiga, el Barcelona lidera con 30 puntos, el Atlético tiene 28 y el Real Madrid, 27.",
    "parrafos": [
-    "El Real Madrid ganó 1-2 al Barcelona el domingo 25 de octubre en el Camp Nou, en el primer [[Clásico|clasico]] de la temporada, con dos goles de [[Kylian Mbappé|mbappe]]. El delantero francés adelantó a los blancos en el minuto 41, aprovechando un rechace en el área. Raphinha empató para el Barça en el 61 y, a solo tres minutos del final, Mbappé marcó el segundo gol. El Madrid jugó sin Vinícius, sancionado con cuatro partidos por su expulsión ante el Villarreal, pero logró una victoria que deja a los azulgranas sin su récord perfecto en el campeonato de Liga.",
-    "Con la derrota, el Barcelona pierde su primer partido de [[LaLiga|laliga]] tras nueve victorias seguidas y se queda con 27 puntos; el Madrid sube a 24 y se coloca a tres del líder. Solo cinco días antes, el Barça había caído 4-2 en París ante el PSG en la [[Liga de Campeones|champions]], así que acumula dos derrotas en una semana. La temporada tiene 38 jornadas y falta casi todo por decidir, pero ganar un Clásico en el campo del rival da confianza al vencedor y obliga al líder a reaccionar."
+    "El Real Madrid ganó 1-2 al Barcelona el domingo 25 de octubre en el Camp Nou, en el primer [[Clásico|clasico]] de la temporada, con dos goles de [[Kylian Mbappé|mbappe]], en los minutos 41 y 87. Raphinha había empatado para el Barça en el 61. El Madrid jugó sin Vinícius, sancionado con cuatro partidos, y el Barcelona perdió así su primer partido de Liga tras nueve victorias seguidas. Solo cinco días antes había caído 4-2 en París ante el PSG en la [[Liga de Campeones|champions]], así que acumuló dos derrotas en una semana.",
+    "Una semana después, en la jornada 11 de [[LaLiga|laliga]], el Barcelona goleó 6-1 al Alavés, con dos goles de Raphinha y dos de Lamine Yamal, y recuperó la ventaja. El Madrid ganó 0-3 al Racing de Santander, con goles de Mbappé (de penalti), Bellingham y Diomandé, y el Atlético venció 2-0 al Levante. Con ello, el Barça lidera con 30 puntos, el Atlético es segundo con 28 y el Madrid, tercero con 27. Quedan 27 jornadas: casi todo está por decidir."
    ],
    "busqueda_imagenes": "Barcelona Real Madrid Clásico Mbappé Camp Nou 25 octubre 2026",
    "fuentes": [
@@ -1219,19 +1221,20 @@
     "El Heraldo (Colombia)",
     "El Espectador",
     "Ámbito",
-    "Teleamazonas"
+    "Teleamazonas",
+    "Unitel"
    ],
    "publicada": "2026-10-19",
-   "actualizada": "2026-10-26",
-   "nota_actualizacion": "El Real Madrid ganó 1-2 al Barça en el Clásico, con dos goles de Mbappé, y se queda a tres puntos del líder.",
+   "actualizada": "2026-11-02",
+   "nota_actualizacion": "En la jornada 11, el Barça goleó 6-1 al Alavés y el Madrid ganó 0-3 al Racing: Barça 30 puntos, Atlético 28, Madrid 27.",
    "en": {
-    "titular": "Mbappé decides the Clásico: Madrid win 2-1 at the Camp Nou and cut Barça's lead to three points",
-    "entradilla": "Mbappé scored both goals, the second in the 87th minute, and Barcelona lost their first league match after nine straight wins.",
+    "titular": "After the Clásico, Barça thrash Alavés 6-1 and Madrid win 3-0 at Racing; Atlético are now second",
+    "entradilla": "In round 11 of LaLiga, Barcelona lead with 30 points, Atlético have 28 and Real Madrid 27.",
     "parrafos": [
-     "Real Madrid won 2-1 away at Barcelona on Sunday 25 October, at the Camp Nou, in the first [[Clásico|clasico]] of the season, with two goals from [[Kylian Mbappé|mbappe]]. The French striker put the visitors ahead in the 41st minute, pouncing on a rebound in the box. Raphinha levelled for Barça in the 61st and, with only three minutes left, Mbappé scored the second goal. Madrid played without Vinícius, who is banned for four matches after his sending-off against Villarreal, but they took a win that ends the Catalans' perfect record in the league.",
-     "With the defeat, Barcelona lose their first [[LaLiga|laliga]] match after nine wins in a row and stay on 27 points; Madrid go up to 24 and sit three behind the leaders. Just five days earlier, Barça had lost 4-2 in Paris to PSG in the [[Champions League|champions]], so they have now lost twice in a week. The season has 38 rounds and almost everything is still to be decided, but winning a Clásico on the rival's pitch gives the winner confidence and forces the leader to react."
+     "Real Madrid won 2-1 away at Barcelona on Sunday 25 October, at the Camp Nou, in the first [[Clásico|clasico]] of the season, with two goals from [[Kylian Mbappé|mbappe]], in the 41st and 87th minutes. Raphinha had levelled for Barça in the 61st. Madrid played without Vinícius, who is banned for four matches, and Barcelona thus lost their first league match after nine wins in a row. Only five days earlier they had lost 4-2 in Paris to PSG in the [[Champions League|champions]], so they suffered two defeats in a week.",
+     "A week later, in round 11 of [[LaLiga|laliga]], Barcelona thrashed Alavés 6-1, with two goals from Raphinha and two from Lamine Yamal, and regained the lead. Madrid won 3-0 at Racing de Santander, with goals from Mbappé (from the penalty spot), Bellingham and Diomandé, and Atlético beat Levante 2-0. As a result, Barça lead with 30 points, Atlético are second with 28 and Madrid third with 27. There are 27 rounds left: almost everything is still to be decided."
     ],
-    "nota_actualizacion": "Real Madrid beat Barça 2-1 in the Clásico, with two goals from Mbappé, and are now three points behind the leaders."
+    "nota_actualizacion": "In round 11, Barça thrashed Alavés 6-1 and Madrid won 3-0 at Racing: Barça 30 points, Atlético 28, Madrid 27."
    }
   },
   {
@@ -3396,9 +3399,9 @@
    }
   }
  },
- "edicion_en": "Saturday 31 October 2026",
+ "edicion_en": "Monday 2 November 2026",
  "destacada": {
   "id": "urda-choque-ave-iryo-toledo-68-muertos",
-  "fecha": "2026-10-31"
+  "fecha": "2026-11-02"
  }
 }
