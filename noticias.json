@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-03T07:00:00+01:00",
- "edicion": "Martes 3 de noviembre de 2026",
+ "actualizado": "2026-11-04T07:30:00+01:00",
+ "edicion": "Miércoles 4 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -305,11 +305,11 @@
    "id": "andalucia-sin-ave-con-madrid-tras-urda",
    "seccion": "and",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
-   "titular": "Andalucía se queda sin alta velocidad con Madrid tras el choque de Urda y decreta tres días de luto",
-   "entradilla": "Adif suspende los trenes del corredor sin fecha de reapertura; Renfe no vende billetes hasta el 13 de diciembre y ofrece Cercanías y autobuses.",
+   "titular": "Andalucía sigue sin alta velocidad con Madrid: Puente prevé reabrir la línea diez días después de la autorización judicial",
+   "entradilla": "Habrá menos frecuencias hasta completar el sistema europeo ERTMS-2; Moreno dice que no subirá al AVE hasta que haya una auditoría.",
    "parrafos": [
-    "El choque de Urda ha cortado la alta velocidad ([[AVE|ave]]) entre Madrid y Andalucía, la línea que une la capital con Córdoba, Sevilla o Málaga. [[Adif|adif]] suspendió la circulación sin fecha de reapertura. [[Renfe|renfe]] ha paralizado la venta de billetes del corredor hasta el 13 de diciembre, aunque esa fecha no es un anuncio de reapertura: podría abrir antes si Adif lo autoriza. Iryo canceló todos sus trenes desde Madrid hacia el sur y Ouigo suspendió los suyos al menos hasta el lunes 2 de noviembre. Para quienes ya tenían billete, Renfe ofrece trenes de Cercanías y autobuses entre Madrid, Ciudad Real y Puertollano, con viajes más largos.",
-    "Andalucía vive también el duelo. [[Juanma Moreno|moreno]] decretó tres días de [[luto oficial|luto]] en la comunidad, desde las 14:00 del miércoles 28 hasta las 14:00 del sábado 31 de octubre. Para muchos andaluces la noticia llega con un recuerdo reciente: el 18 de enero, en [[Adamuz|adamuz]] (Córdoba), otro choque de trenes de alta velocidad dejó más de 40 muertos, y entre aquella tragedia y esta han pasado solo nueve meses. Mientras la jueza investiga qué falló en Urda, las causas siguen sin confirmarse."
+    "El choque de Urda sigue cortando la alta velocidad ([[AVE|ave]]) entre Madrid y Andalucía, la línea que une la capital con Córdoba, Sevilla o Málaga. El martes 3 de noviembre, el ministro Óscar Puente dijo que, cuando un juez autorice reconstruir la vía, la línea podría reabrir en un máximo de diez días. Lo hará con menos frecuencias hasta que se complete el sistema europeo de seguridad ERTMS-2 y se haga una revisión extraordinaria de los sistemas actuales. Mientras tanto, [[Adif|adif]] mantiene la suspensión sin fecha de reapertura y [[Renfe|renfe]] no vende billetes del corredor hasta el 13 de diciembre, aunque esa fecha no es un anuncio de reapertura: podría abrir antes si Adif lo autoriza.",
+    "En Andalucía el accidente también abre una polémica. [[Juanma Moreno|moreno]] dijo que no se montará en el AVE a Madrid «hasta que haya una auditoría y una revisión», y criticó que, según él, la línea, de unos 30 años, pierda su sistema de seguridad «cada dos días». Puente le respondió que sus palabras eran «profundamente irresponsables». Horas después, Puente dimitió como ministro. Para muchos andaluces la noticia llega con un recuerdo reciente: el 18 de enero, en [[Adamuz|adamuz]] (Córdoba), otro choque de trenes de alta velocidad dejó 46 muertos, y entre aquella tragedia y esta han pasado solo nueve meses. Las causas de Urda siguen sin confirmarse."
    ],
    "busqueda_imagenes": "alta velocidad Madrid Andalucía suspendida Urda",
    "fuentes": [
@@ -319,19 +319,21 @@
     "101TV",
     "Diario de Santiago",
     "El Digital de Albacete",
-    "Albacete Abierto"
+    "Albacete Abierto",
+    "El Mira",
+    "Andalucía Información"
    ],
    "publicada": "2026-10-29",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-04",
+   "nota_actualizacion": "El 3 de noviembre Puente dijo que la línea podría reabrir con menos frecuencias diez días después de que un juez autorice reconstruir la vía.",
    "en": {
-    "titular": "Andalusia is left without a high-speed link to Madrid after the Urda crash and declares three days of mourning",
-    "entradilla": "Adif suspends trains on the corridor with no reopening date; Renfe is not selling tickets until 13 December and offers commuter trains and buses.",
+    "titular": "Andalusia is still without a high-speed link to Madrid: Puente expects to reopen the line ten days after judicial authorisation",
+    "entradilla": "There will be fewer services until the European ERTMS-2 system is completed; Moreno says he will not ride the AVE until there is an audit.",
     "parrafos": [
-     "The Urda crash has cut the high-speed ([[AVE|ave]]) link between Madrid and Andalusia, the line that connects the capital with Córdoba, Seville and Málaga. [[Adif|adif]] suspended services with no reopening date. [[Renfe|renfe]] has frozen ticket sales on the corridor until 13 December, although that date is not an announcement of reopening: the line could open sooner if Adif authorises it. Iryo cancelled all its trains from Madrid to the south and Ouigo suspended its own at least until Monday 2 November. For those who already had tickets, Renfe offers commuter trains and buses between Madrid, Ciudad Real and Puertollano, with longer journeys.",
-     "Andalusia is also in mourning. [[Juanma Moreno|moreno]] declared three days of [[official mourning|luto]] in the region, from 14:00 on Wednesday 28 until 14:00 on Saturday 31 October. For many Andalusians the news comes with a recent memory: on 18 January, at [[Adamuz|adamuz]] (Córdoba), another high-speed train collision left more than 40 dead, and only nine months have passed between that tragedy and this one. While the judge investigates what went wrong at Urda, the causes remain unconfirmed."
+     "The Urda crash is still cutting the high-speed ([[AVE|ave]]) link between Madrid and Andalusia, the line that connects the capital with Córdoba, Seville and Málaga. On Tuesday 3 November, minister Óscar Puente said that, once a judge authorises rebuilding the track, the line could reopen within a maximum of ten days. It will do so with fewer services until the European ERTMS-2 safety system is completed and an extraordinary review of the current systems is carried out. In the meantime, [[Adif|adif]] is keeping services suspended with no reopening date and [[Renfe|renfe]] is not selling tickets on the corridor until 13 December, although that date is not an announcement of reopening: the line could open sooner if Adif authorises it.",
+     "In Andalusia the accident also opens a controversy. [[Juanma Moreno|moreno]] said he will not board the AVE to Madrid 'until there is an audit and a review', and criticised that, in his words, the roughly 30-year-old line loses its safety system 'every two days'. Puente replied that his words were 'deeply irresponsible'. Hours later, Puente resigned as minister. For many Andalusians the news comes with a recent memory: on 18 January, at [[Adamuz|adamuz]] (Córdoba), another high-speed train collision left 46 dead, and only nine months have passed between that tragedy and this one. The causes of Urda remain unconfirmed."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On 3 November Puente said the line could reopen with fewer services ten days after a judge authorises rebuilding the track."
    }
   },
   {
@@ -370,11 +372,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán ofrece reabrir el estrecho en dos días si EE. UU. acepta sus condiciones y el petróleo cae más de un 7 %",
-   "entradilla": "Trump dice que un acuerdo «podría producirse» mientras Catar media; Teherán exige el fin del bloqueo naval y de las sanciones al petróleo.",
+   "titular": "Ormuz: EE. UU. ataca la isla iraní de Qeshm mientras Irán ofrece reabrir el estrecho si se cumplen sus condiciones",
+   "entradilla": "Trump dice que un acuerdo «podría producirse» y Catar media, pero Washington lanzó ataques «limitados y defensivos» el martes.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "El lunes 2 de noviembre, Trump escribió que «un acuerdo con Irán podría producirse» y el vicepresidente Vance habló de avances. El canciller iraní, Abbas Araqchi, habló de consultas «muy intensas» con mediación de Catar, e Irán dijo que podría reabrir el estrecho en dos días si Washington acepta sus condiciones: fin del bloqueo naval, levantamiento de las sanciones al petróleo, fondos descongelados y un alto el fuego en toda la región, incluido Líbano. El Wall Street Journal informó de un ataque de EE. UU. contra la isla iraní de Qeshm, que el Mando Central no confirmó. El Brent, petróleo de referencia en Europa, cayó más de un 7 %. Hoy hay elecciones legislativas en Estados Unidos."
+    "El lunes 2 de noviembre, Trump escribió que «un acuerdo con Irán podría producirse» y el vicepresidente Vance habló de avances. Irán dijo que podría reabrir el estrecho en dos días si Washington acepta sus condiciones: fin del bloqueo naval, levantamiento de las sanciones al petróleo, fondos descongelados y un alto el fuego en toda la región, incluido Líbano. Pero el martes 3, según medios estadounidenses que citan a funcionarios, EE. UU. lanzó ataques «limitados y defensivos» contra la isla iraní de Qeshm; la prensa estatal iraní informó de explosiones. Las conversaciones indirectas siguen, con mediación de Catar, y el crudo estadounidense WTI subió más de un 1 %, hasta unos 98 dólares el barril."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -411,19 +413,20 @@
     "Expansión",
     "La Jornada",
     "Quartz en español",
-    "Infobae (EFE)"
+    "Infobae (EFE)",
+    "Democrata"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-03",
-   "nota_actualizacion": "El 2 de noviembre Trump dijo que un acuerdo con Irán «podría producirse» e Irán afirmó que podría reabrir el estrecho en dos días si EE. UU. acepta sus condiciones; el petróleo cayó más de un 7 %.",
+   "actualizada": "2026-11-04",
+   "nota_actualizacion": "El 3 de noviembre, según medios estadounidenses, EE. UU. lanzó ataques limitados contra la isla iraní de Qeshm mientras siguen las conversaciones indirectas.",
    "en": {
-    "titular": "Hormuz: Iran offers to reopen the strait in two days if the US accepts its conditions, and oil falls more than 7%",
-    "entradilla": "Trump says a deal 'could happen' while Qatar mediates; Tehran demands an end to the naval blockade and to oil sanctions.",
+    "titular": "Hormuz: the US strikes the Iranian island of Qeshm while Iran offers to reopen the strait if its conditions are met",
+    "entradilla": "Trump says a deal 'could happen' and Qatar is mediating, but Washington launched 'limited and defensive' strikes on Tuesday.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "On Monday 2 November, Trump wrote that 'a deal with Iran could happen' and Vice President Vance spoke of progress. Iran's foreign minister, Abbas Araghchi, described 'very intense' consultations mediated by Qatar, and Iran said it could reopen the strait within two days if Washington accepts its conditions: an end to the naval blockade, the lifting of oil sanctions, unfrozen funds and a ceasefire across the whole region, Lebanon included. The Wall Street Journal reported a US attack on the Iranian island of Qeshm, which Central Command did not confirm. Brent, the benchmark oil price in Europe, fell more than 7%. Legislative elections are being held in the United States today."
+     "On Monday 2 November, Trump wrote that 'a deal with Iran could happen' and Vice President Vance spoke of progress. Iran said it could reopen the strait within two days if Washington accepts its conditions: an end to the naval blockade, the lifting of oil sanctions, unfrozen funds and a ceasefire across the whole region, Lebanon included. But on Tuesday 3, according to US media citing officials, the US launched 'limited and defensive' strikes on the Iranian island of Qeshm; Iranian state media reported explosions. Indirect talks continue, mediated by Qatar, and US crude (WTI) rose more than 1%, to about 98 dollars a barrel."
     ],
-    "nota_actualizacion": "On 2 November Trump said a deal with Iran 'could happen' and Iran said it could reopen the strait within two days if the US accepts its conditions; oil fell more than 7%."
+    "nota_actualizacion": "On 3 November, according to US media, the US launched limited strikes on the Iranian island of Qeshm while indirect talks continue."
    }
   },
   {
@@ -434,7 +437,7 @@
    "entradilla": "Los puntos centrales del acuerdo de 2025 siguen sin cumplirse y la tregua no frena las muertes.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto más de 74.000 personas. El 15 de octubre, al cumplirse un año del [[alto el fuego|altoelfuego]], el coordinador adjunto de la ONU para el proceso de paz en Oriente Medio, Ramiz Alakbarov, advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El miércoles 28, al menos seis palestinos murieron en nuevos ataques israelíes, cinco de ellos en un bombardeo en Al Mauasi, en el sur de [[Gaza|gaza]]. Ese mismo ministerio cuenta 1.568 muertos por ataques israelíes desde la tregua. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen sin aplicarse."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto casi 74.600 personas, y 1.599 de ellas por ataques israelíes desde la tregua. El 15 de octubre, a un año del [[alto el fuego|altoelfuego]], la ONU advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El martes 3 de noviembre, un ataque israelí en Al Mauasi, en el sur de [[Gaza|gaza]], mató a un palestino e hirió a otros 11; el Ministerio del Interior de Gaza dijo que el objetivo eran agentes de seguridad. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen sin aplicarse."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -449,29 +452,31 @@
     "Amnistía Internacional",
     "El Imparcial",
     "Prensa Latina",
-    "Unitel"
+    "Unitel",
+    "Europa Press (Infobae)",
+    "Anadolu"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-29",
-   "nota_actualizacion": "El 28 de octubre murieron al menos seis palestinos en ataques israelíes; el Ministerio de Sanidad de Gaza cuenta 1.568 muertos desde la tregua.",
+   "actualizada": "2026-11-04",
+   "nota_actualizacion": "El 3 de noviembre otro ataque israelí mató a un palestino en Al Mauasi; el Ministerio de Sanidad de Gaza cuenta 1.599 muertos desde la tregua.",
    "en": {
     "titular": "Gaza: a year of ceasefire and the UN warns the risk of a return to war 'has never been higher'",
     "entradilla": "The central points of the 2025 agreement are still unfulfilled and the truce does not stop the deaths.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which Hamas controls, more than 74,000 people have died in the war. On 15 October, a year after the [[ceasefire|altoelfuego]], the UN's deputy coordinator for the Middle East peace process, Ramiz Alakbarov, warned that the risk of a return to war 'has never been higher'. On Wednesday 28, at least six Palestinians were killed in new Israeli attacks, five of them in an air strike on Al Mawasi, in the south of [[Gaza|gaza]]. The same ministry counts 1,568 deaths from Israeli attacks since the truce. Hamas's disarmament, the Israeli withdrawal and the international force have still not been put in place."
+     "According to the Gaza Health Ministry, which Hamas controls, almost 74,600 people have died in the war, 1,599 of them from Israeli attacks since the truce. On 15 October, a year after the [[ceasefire|altoelfuego]], the UN warned that the risk of a return to war 'has never been higher'. On Tuesday 3 November, an Israeli attack at Al Mawasi, in the south of [[Gaza|gaza]], killed one Palestinian and wounded 11 others; Gaza's Interior Ministry said the targets were security officers. Hamas's disarmament, the Israeli withdrawal and the international force have still not been put in place."
     ],
-    "nota_actualizacion": "On 28 October at least six Palestinians were killed in Israeli attacks; the Gaza Health Ministry counts 1,568 deaths since the truce."
+    "nota_actualizacion": "On 3 November another Israeli strike killed a Palestinian at Al Mawasi; the Gaza Health Ministry counts 1,599 deaths since the truce."
    }
   },
   {
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Rusia y Kiev negociarán con EE. UU. en Abu Dabi y Zelenski espera que sea entre el 6 y el 10 de noviembre",
-   "entradilla": "El Kremlin descarta que Europa participe; Putin quiere un acuerdo definitivo, Zelenski rechaza entregar Sloviansk y Kramatorsk y los ataques continúan.",
+   "titular": "Ucrania: Rusia y Kiev negociarán con EE. UU. en Abu Dabi los días 10 y 11 de noviembre",
+   "entradilla": "Witkoff anunció las conversaciones, de nivel técnico; Zelenski rechaza entregar Sloviansk y Kramatorsk y los ataques continúan.",
    "parrafos": [
-    "El miércoles 21, el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], se reunió unas tres horas con [[Vladímir Putin|putin]] en San Petersburgo y le presentó las ideas de paz que había recibido de [[Zelenski|zelenski]] en Oslo. Después, el Kremlin anunció que las conversaciones a tres bandas entre Rusia, Ucrania y Estados Unidos serán en Abu Dabi en la primera quincena de noviembre. El 28 de octubre, Zelenski dijo que espera que se celebren entre el 6 y el 10 de noviembre, tras las elecciones legislativas de EE. UU., y el Kremlin descartó que Europa participe. Putin quiere hablar de un arreglo definitivo, no de una pausa breve en los combates.",
+    "El miércoles 21 de octubre, el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], se reunió unas tres horas con [[Vladímir Putin|putin]] en San Petersburgo y le presentó las ideas de paz que había recibido de [[Zelenski|zelenski]] en Oslo. El martes 3 de noviembre, el propio Witkoff anunció que delegaciones técnicas de Rusia y Ucrania hablarán con mediación de EE. UU. en Abu Dabi los días 10 y 11 de noviembre, tras las elecciones legislativas estadounidenses. Tratarán de seguridad para después de la guerra, de rebajar la tensión y de ayuda humanitaria. Putin quiere un arreglo definitivo, no una pausa breve, y el Kremlin descartó que Europa participe.",
     "Todavía no hay acuerdo de paz: lo que se ha pactado es volver a sentarse a hablar. Zelenski descartó entregar Sloviansk y Kramatorsk, los últimos bastiones ucranianos en la provincia de Donetsk, porque abriría a las tropas rusas el camino hacia Dnipro. Mientras tanto, los ataques continúan. Una tregua local en Oleshki (Jersón), para evacuar a civiles, duró del 27 de octubre al 1 de noviembre y Rusia rechazó prorrogarla. Ese mismo día Rusia volvió a atacar la red eléctrica ucraniana y dejó sin luz a cientos de localidades. El lunes 2 ambos países denunciaron ciberataques contra sus aplicaciones de alerta, con avisos falsos; [[Kiev|kiev]] acusa a Rusia."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
@@ -497,54 +502,21 @@
     "Bloomberg",
     "El Nacional",
     "Unitel",
-    "La Jornada"
+    "La Jornada",
+    "La Jornada San Luis",
+    "MDZ"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-02",
-   "nota_actualizacion": "Terminó la tregua local de Oleshki, Rusia volvió a atacar la red eléctrica ucraniana y ambos países denuncian ciberataques contra sus apps de alerta.",
+   "actualizada": "2026-11-04",
+   "nota_actualizacion": "Witkoff anunció que las conversaciones de Rusia y Ucrania con mediación de EE. UU. serán en Abu Dabi los días 10 y 11 de noviembre.",
    "en": {
-    "titular": "Ukraine: Russia and Kyiv to hold talks with the US in Abu Dhabi, and Zelensky hopes it will be between 6 and 10 November",
-    "entradilla": "The Kremlin rules out European participation; Putin wants a definitive deal, Zelensky refuses to give up Sloviansk and Kramatorsk, and the attacks continue.",
+    "titular": "Ukraine: Russia and Kyiv to hold talks with the US in Abu Dhabi on 10 and 11 November",
+    "entradilla": "Witkoff announced the technical-level talks; Zelensky refuses to give up Sloviansk and Kramatorsk and the attacks continue.",
     "parrafos": [
-     "On Wednesday 21, the White House envoy, [[Steve Witkoff|witkoff]], met [[Vladimir Putin|putin]] for about three hours in Saint Petersburg and presented the peace ideas he had received from [[Zelensky|zelenski]] in Oslo. Afterwards the Kremlin announced that the three-way talks between Russia, Ukraine and the United States will be held in Abu Dhabi in the first half of November. On 28 October, Zelensky said he expects them to take place between 6 and 10 November, after the US legislative elections, and the Kremlin ruled out Europe taking part. Putin wants to discuss a definitive settlement, not a brief pause in the fighting.",
+     "On Wednesday 21 October, the White House envoy, [[Steve Witkoff|witkoff]], met [[Vladimir Putin|putin]] for about three hours in Saint Petersburg and presented the peace ideas he had received from [[Zelensky|zelenski]] in Oslo. On Tuesday 3 November, Witkoff himself announced that technical delegations from Russia and Ukraine will talk, with US mediation, in Abu Dhabi on 10 and 11 November, after the US legislative elections. They will deal with post-war security, with lowering tension and with humanitarian aid. Putin wants a definitive settlement, not a brief pause, and the Kremlin ruled out Europe taking part.",
      "There is still no peace deal: what has been agreed is to sit down and talk again. Zelensky ruled out handing over Sloviansk and Kramatorsk, Ukraine's last strongholds in the province of Donetsk, because it would open the way to Dnipro for Russian troops. Meanwhile the attacks continue. A local truce in Oleshki (Kherson), to evacuate civilians, ran from 27 October to 1 November and Russia refused to extend it. That same day Russia again attacked Ukraine's power grid, leaving hundreds of localities without electricity. On Monday 2 both countries reported cyberattacks on their alert apps, with false warnings; [[Kyiv|kiev]] blames Russia."
     ],
-    "nota_actualizacion": "The local truce in Oleshki ended, Russia again attacked Ukraine's power grid and both countries report cyberattacks on their alert apps."
-   }
-  },
-  {
-   "id": "brasil-elige-presidente-este-domingo",
-   "seccion": "int",
-   "dibujo": "ballot",
-   "titular": "Lula gana en Brasil su cuarto mandato con un 51,7 % y Flávio Bolsonaro dice que pedirá anular las elecciones",
-   "entradilla": "Lula remontó el resultado de la primera vuelta con más de 4 millones de votos de ventaja, pero su rival no reconoce el resultado.",
-   "parrafos": [
-    "Luiz Inácio Lula da Silva ganó el domingo 25 de octubre la [[segunda vuelta|segundavuelta]] de las elecciones de Brasil y tendrá un cuarto mandato, algo que nunca había ocurrido en el país. Según el Tribunal Superior Electoral, [[Lula|lula]] obtuvo alrededor del 51,7 % de los votos y [[Flávio Bolsonaro|flavio]], el 48,2 %: más de 4 millones de votos de diferencia. Es una remontada, porque Flávio había quedado primero en la primera vuelta del 4 de octubre y las últimas [[encuestas|encuesta]] hablaban de un empate. Lula, de 80 años, ya presidió Brasil entre 2003 y 2010 y volvió a ganar en 2022.",
-    "Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, no reconoce el resultado. Dijo que «es imposible reconocer» estas elecciones y que pedirá anularlas, porque durante la jornada un ministro del [[Supremo Tribunal Federal|stf]], Cristiano Zanin, amplió dos horas el horario de votación en todo el país. Zanin fue abogado de Lula antes de que este lo nombrara juez en 2023. Según los medios, la ampliación se justificó por problemas de transporte en varios estados y por las lluvias en el sur, y las dos campañas habían pedido más tiempo. Flávio anunció que presentará su petición; los expertos consultados por los medios creen que es difícil que prospere, y falta ver qué deciden los tribunales."
-   ],
-   "busqueda_imagenes": "Lula reelegido Brasil segunda vuelta 2026",
-   "fuentes": [
-    "CNN en Español",
-    "El Financiero",
-    "La Nación",
-    "La Jornada",
-    "elDiarioAR",
-    "Perfil",
-    "Unitel",
-    "El Nacional",
-    "Infobae"
-   ],
-   "publicada": "2026-10-02",
-   "actualizada": "2026-10-28",
-   "nota_actualizacion": "Con el 100 % escrutado, Lula obtuvo el 51,7 % de los votos; Flávio Bolsonaro insiste en pedir la anulación, que los expertos consideran difícil.",
-   "en": {
-    "titular": "Lula wins a fourth term in Brazil with 51.7% and Flávio Bolsonaro says he will ask for the election to be annulled",
-    "entradilla": "Lula overturned the first-round result with a lead of more than 4 million votes, but his rival does not accept the outcome.",
-    "parrafos": [
-     "Luiz Inácio Lula da Silva won the [[second round|segundavuelta]] of Brazil's election on Sunday 25 October and will serve a fourth term, something that has never happened in the country before. According to the Superior Electoral Court, [[Lula|lula]] took 51.7% of the votes and [[Flávio Bolsonaro|flavio]] 48.2%: a gap of more than 4 million votes. It is a comeback, because Flávio had come first in the first round on 4 October and the latest [[polls|encuesta]] spoke of a tie. Lula, aged 80, already presided over Brazil from 2003 to 2010 and won again in 2022.",
-     "Flávio Bolsonaro, son of former president Jair Bolsonaro, does not accept the result. He said it is 'impossible to recognise' these elections and that he will ask for them to be annulled, because during the day a minister of the [[Federal Supreme Court|stf]], Cristiano Zanin, extended voting hours by two hours across the country. Zanin was Lula's lawyer before Lula appointed him a judge in 2023. According to the media, the extension was justified by transport problems in several states and by rain in the south, and both campaigns had asked for more time. Flávio said he will file his request; experts consulted by the media think it is unlikely to succeed, and it remains to be seen what the courts decide."
-    ],
-    "nota_actualizacion": "With 100% of votes counted, Lula took 51.7%; Flávio Bolsonaro insists on seeking annulment, which experts consider unlikely."
+    "nota_actualizacion": "Witkoff announced that the Russia-Ukraine talks with US mediation will be held in Abu Dhabi on 10 and 11 November."
    }
   },
   {
@@ -585,76 +557,6 @@
      "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties win 19 and belong to neither bloc, so neither Netanyahu nor Eisenkot can govern without their support or without some members of parliament switching sides. Now negotiations begin: the president, Isaac Herzog, will start consultations with the parties on Wednesday 4 November before tasking one leader with forming a government and, if that fails, there could be new elections."
     ],
     "nota_actualizacion": "President Herzog will start consultations with the parties on 4 November to decide whom to task with forming a government."
-   }
-  },
-  {
-   "id": "psg-vence-barca-liverpool-villarreal-champions-jornada-3",
-   "seccion": "dep",
-   "dibujo": "trophy",
-   "titular": "El Real Madrid golea al Leipzig (4-1) y el Betis gana 1-0 al Feyenoord, un día después de la derrota del Barça en París",
-   "entradilla": "El Madrid suma tres victorias en tres jornadas; el martes el PSG acabó con el invicto del Barça (4-2) y el Villarreal cayó 4-3 en Anfield.",
-   "parrafos": [
-    "El Real Madrid ganó el miércoles 21 de octubre por 4-1 al Leipzig en el Bernabéu, con goles de Bernardo Silva, justo antes del descanso, Mbappé, Arda Güler y Diomandé. Es su tercera victoria seguida en tres partidos de la [[Liga de Campeones|champions]] y suma nueve puntos de nueve posibles. Ese mismo día, el Betis de Manuel Pellegrini, que juega esta competición, venció 1-0 al Feyenoord en La Cartuja, en Sevilla.",
-    "El martes 20, el París Saint-Germain había ganado 4-2 al Barcelona y le quitó el invicto: el Barça empató a dos con un gol de [[Lamine Yamal|lamine]] en el minuto 79, pero Vitinha y Fabián Ruiz marcaron en cinco minutos. El Villarreal llegó a ganar 0-2 en Anfield, pero el Liverpool remontó y ganó 4-3, y el Atlético empató 1-1 en Stuttgart. En la [[fase de liga|fasedeliga]], cada equipo juega ocho partidos contra rivales distintos y todos se ordenan en una sola clasificación: los ocho primeros pasan directos a octavos, y del noveno al vigésimo cuarto juegan una eliminatoria extra."
-   ],
-   "busqueda_imagenes": "Real Madrid Leipzig Champions League 21 octubre 2026",
-   "fuentes": [
-    "El Financiero",
-    "El Imparcial",
-    "Fútbol Centroamérica",
-    "Redgol",
-    "ESPN",
-    "Infobae (EFE)",
-    "La Nación",
-    "El Desmarque",
-    "Clarosports",
-    "Real Madrid",
-    "UNANIMO Deportes",
-    "Cooperativa",
-    "Libero"
-   ],
-   "publicada": "2026-10-21",
-   "actualizada": "2026-10-22",
-   "nota_actualizacion": "El 21 de octubre el Real Madrid ganó 4-1 al Leipzig y el Betis 1-0 al Feyenoord.",
-   "en": {
-    "titular": "Real Madrid thrash Leipzig (4-1) and Betis beat Feyenoord 1-0, a day after Barça's defeat in Paris",
-    "entradilla": "Madrid have three wins from three rounds; on Tuesday PSG ended Barça's unbeaten run (4-2) and Villarreal lost 4-3 at Anfield.",
-    "parrafos": [
-     "Real Madrid beat Leipzig 4-1 at the Bernabéu on Wednesday 21 October, with goals from Bernardo Silva, just before half-time, Mbappé, Arda Güler and Diomandé. It is their third win in a row, in three matches, in the [[Champions League|champions]] and they have nine points out of nine. The same day, Manuel Pellegrini's Betis, who are also in the competition, beat Feyenoord 1-0 at La Cartuja in Seville.",
-     "On Tuesday 20, Paris Saint-Germain had beaten Barcelona 4-2 and ended their unbeaten run: Barça levelled at 2-2 with a goal from [[Lamine Yamal|lamine]] in the 79th minute, but Vitinha and Fabián Ruiz scored within five minutes. Villarreal led 2-0 at Anfield, but Liverpool came back to win 4-3, and Atlético drew 1-1 at Stuttgart. In the [[league phase|fasedeliga]], each team plays eight matches against different opponents and all of them are ranked in a single table: the top eight go straight through to the round of 16, and the teams from ninth to twenty-fourth play an extra knockout round."
-    ],
-    "nota_actualizacion": "On 21 October Real Madrid beat Leipzig 4-1 and Betis beat Feyenoord 1-0."
-   }
-  },
-  {
-   "id": "alcaraz-eliminado-shanghai-zverev-numero-uno",
-   "seccion": "dep",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-a\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><ellipse class=\"d-p\" cx=\"44\" cy=\"34\" rx=\"15\" ry=\"21\" transform=\"rotate(-25 44 34)\"/><path class=\"d-l\" d=\"M36 16 L56 50 M30 24 L50 58 M28 36 L44 56 M44 12 L60 40 M34 14 L28 32\"/><ellipse class=\"d-l\" cx=\"44\" cy=\"34\" rx=\"20\" ry=\"26\" transform=\"rotate(-25 44 34)\"/><path class=\"d-i\" d=\"M58 58 L82 82 L86 78 L62 54 Z\"/><circle class=\"d-y\" cx=\"92\" cy=\"30\" r=\"11\"/><path class=\"d-w\" d=\"M84 24 C90 28 90 34 84 38 M100 24 C94 28 94 34 100 38\"/><circle class=\"d-l\" cx=\"92\" cy=\"30\" r=\"11\"/></svg>",
-   "titular": "Davidovich remonta a Jódar y gana el Masters 1000 de Shanghái, su primer título de ese nivel",
-   "entradilla": "El malagueño ganó 1-6, 7-6 (5) y 6-4 en la primera final española del torneo y suma su tercer título seguido.",
-   "parrafos": [
-    "[[Alejandro Davidovich|davidovich]], malagueño de 27 años, ganó el domingo 18 el [[Masters 1000|masters1000]] de Shanghái al derrotar a [[Rafa Jódar|jodar]], de 20, por 1-6, 7-6 (5) y 6-4 en dos horas y 28 minutos. Perdía por un set y una rotura (1-6, 2-3) y aun así dio la vuelta al partido. Es su primer título de ese nivel, uno de los más importantes del circuito después de los Grand Slam, y llega tras haber perdido sus cinco primeras finales. Además es su tercer título consecutivo, tras los de Mallorca y Chengdu, y lleva diez victorias seguidas en China.",
-    "Con este resultado Davidovich subirá al puesto 13 del [[ranking ATP|rankingatp]], el mejor de su carrera, y Jódar al 11, también su mejor posición. Jódar había llegado a la final de forma brillante: eliminó a Casper Ruud en cuartos y a Medvedev en semifinales, y con 20 años fue el semifinalista más joven de la historia del torneo. Davidovich, por su parte, había derrotado en semifinales a [[Alexander Zverev|zverev]]. El torneo había empezado con otra sorpresa: [[Carlos Alcaraz|alcaraz]], segundo cabeza de serie, cayó el lunes 12 en la tercera ronda ante el belga Zizou Bergs, número 39 del mundo."
-   ],
-   "busqueda_imagenes": "Alcaraz Bergs Masters Shanghái 2026",
-   "fuentes": [
-    "ATP Tour",
-    "Washington Times (AP)",
-    "France 24 (AFP)",
-    "Olympics.com",
-    "Dawn"
-   ],
-   "publicada": "2026-10-13",
-   "actualizada": "2026-10-19",
-   "nota_actualizacion": "Davidovich ganó la final a Jódar por 1-6, 7-6 (5) y 6-4 y logró su primer Masters 1000.",
-   "en": {
-    "titular": "Davidovich comes back to beat Jódar and wins the Shanghai Masters 1000, his first title at that level",
-    "entradilla": "The man from Málaga won 1-6, 7-6 (5), 6-4 in the first all-Spanish final at the tournament and has now won three titles in a row.",
-    "parrafos": [
-     "[[Alejandro Davidovich|davidovich]], a 27-year-old from Málaga, won the Shanghai [[Masters 1000|masters1000]] on Sunday 18 by beating [[Rafa Jódar|jodar]], aged 20, 1-6, 7-6 (5), 6-4 in two hours and 28 minutes. He was a set and a break down (1-6, 2-3) and still turned the match around. It is his first title at that level, one of the most important on the tour after the Grand Slams, and it comes after he had lost his first five finals. It is also his third title in a row, after Mallorca and Chengdu, and he has now won ten matches in a row in China.",
-     "With this result Davidovich will rise to 13th in the [[ATP ranking|rankingatp]], the best of his career, and Jódar to 11th, also his best position. Jódar had reached the final in brilliant style: he knocked out Casper Ruud in the quarter-finals and Medvedev in the semi-finals, and at 20 he was the youngest semi-finalist in the tournament's history. Davidovich, for his part, had beaten [[Alexander Zverev|zverev]] in the semi-finals. The tournament had begun with another surprise: [[Carlos Alcaraz|alcaraz]], the second seed, went out on Monday 12 in the third round to Belgium's Zizou Bergs, ranked 39th in the world."
-    ],
-    "nota_actualizacion": "Davidovich won the final against Jódar 1-6, 7-6 (5), 6-4 and took his first Masters 1000."
    }
   },
   {
@@ -1143,11 +1045,11 @@
    "id": "urda-choque-ave-iryo-toledo-68-muertos",
    "seccion": "es",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
-   "titular": "Urda: identificadas las 69 víctimas y el Gobierno prepara un decreto de ayudas; las causas siguen sin confirmarse",
-   "entradilla": "El ministro Puente comparece hoy en el Congreso por el choque; la investigación sigue abierta.",
+   "titular": "Puente dimite como ministro de Transportes tras Urda y el Gobierno aprueba 30 millones en ayudas a las víctimas",
+   "entradilla": "Anunció su salida tras comparecer más de cuatro horas ante la Diputación Permanente; las causas del choque siguen sin confirmarse.",
    "parrafos": [
-    "La mañana del miércoles 28 de octubre, a las 8:53 según el organismo investigador, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, entre Mora y Urda (Toledo). Entre los dos convoyes viajaban más de 500 personas. La cifra oficial de fallecidos es de 69, según el Gobierno de Castilla-La Mancha que preside [[Emiliano García-Page|garciapage]], y hubo más de un centenar de heridos. Según los medios, el lunes 2 de noviembre quedaron identificadas las 69 víctimas, 40 hombres y 29 mujeres: 54 eran españolas y 15, extranjeras.",
-    "El viernes 30, el ministro de Transportes, Óscar Puente, descartó dimitir y explicó que, cuando falla el sistema de seguridad [[LZB|lzb]], todos los trenes deben detenerse y todo depende del centro de control de [[Adif|adif]] en Atocha; ese sistema se sustituirá por el europeo ERTMS, pero no antes de 2027. Hoy, martes 3, el Consejo de Ministros prevé aprobar un decreto de ayudas que duplica la indemnización automática del seguro obligatorio de viajeros, hasta 216.364,68 euros por fallecido, y Puente comparecerá a las 17:00 en la [[Diputación Permanente|diputacionpermanente]] del Congreso. La jueza de Orgaz instruye el caso y las causas siguen sin confirmarse."
+    "La mañana del miércoles 28 de octubre, a las 8:53 según el organismo investigador, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] que estaba parado en la vía de alta velocidad Madrid-Andalucía, entre Mora y Urda (Toledo). Murieron 69 personas, según el Gobierno de Castilla-La Mancha que preside [[Emiliano García-Page|garciapage]], y hubo más de un centenar de heridos. El martes 3 de noviembre, el Consejo de Ministros aprobó un real decreto-ley con 30 millones de euros: cada familia de un fallecido recibirá 144.242,92 euros, mitad ayuda sin devolución y mitad adelanto de la indemnización, compatibles con el seguro obligatorio. También habrá ayudas para los heridos, según su gravedad.",
+    "Ese mismo día, el ministro de Transportes, Óscar Puente, compareció más de cuatro horas ante la [[Diputación Permanente|diputacionpermanente]] del Congreso. Dijo que la línea podría reabrir diez días después de que un juez autorice reconstruirla. Al terminar, hacia las 21:05, anunció que dimite y que renuncia a encabezar la lista del PSOE por Valladolid: «un ministro de Transportes no puede seguir con dos accidentes de esta gravedad en menos de un año», dijo, en referencia también al de Adamuz (Córdoba), en enero, con 46 muertos. Sánchez defendió su gesto; [[Juanma Moreno|moreno]], del PP, dijo que «llega tarde». A esta hora no se conoce su sustituto. La jueza de Orgaz instruye el caso y las causas siguen sin confirmarse."
    ],
    "busqueda_imagenes": "accidente tren Urda Toledo AVE Iryo",
    "fuentes": [
@@ -1172,19 +1074,23 @@
     "Confilegal",
     "Orain",
     "Mundiario",
-    "EFE (Infobae)"
+    "EFE (Infobae)",
+    "Moncloa (Gobierno)",
+    "Ministerio de Transportes",
+    "Última Hora",
+    "Deia"
    ],
    "publicada": "2026-10-29",
-   "actualizada": "2026-11-03",
-   "nota_actualizacion": "Ya están identificadas las 69 víctimas (54 españolas y 15 extranjeras) y el Gobierno prevé aprobar hoy un decreto de ayudas que duplica la indemnización del seguro obligatorio.",
+   "actualizada": "2026-11-04",
+   "nota_actualizacion": "El 3 de noviembre el Gobierno aprobó 30 millones en ayudas a las víctimas y Óscar Puente dimitió como ministro de Transportes.",
    "en": {
-    "titular": "Urda: all 69 victims identified and the Government prepares an aid decree; the causes remain unconfirmed",
-    "entradilla": "Minister Puente appears in Congress today over the crash; the investigation remains open.",
+    "titular": "Puente resigns as transport minister after Urda and the Government approves 30 million in aid for the victims",
+    "entradilla": "He announced his departure after more than four hours before the Permanent Deputation; the causes of the crash remain unconfirmed.",
     "parrafos": [
-     "On the morning of Wednesday 28 October, at 8:53 according to the investigating body, a Renfe [[AVE|ave]] train hit from behind an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line, between Mora and Urda (Toledo). More than 500 people were travelling on the two trains. The official death toll is 69, according to the government of Castilla-La Mancha, headed by [[Emiliano García-Page|garciapage]], and more than a hundred people were injured. According to the media, by Monday 2 November all 69 victims had been identified, 40 men and 29 women: 54 were Spanish and 15 foreign.",
-     "On Friday 30, the transport minister, Óscar Puente, ruled out resigning and explained that when the [[LZB|lzb]] safety system fails, all trains must stop and everything depends on the control centre of [[Adif|adif]] at Atocha; that system will be replaced by the European ERTMS, but not before 2027. Today, Tuesday 3, the Council of Ministers is expected to approve an aid decree that doubles the automatic compensation from the compulsory passenger insurance, up to 216,364.68 euros per person killed, and Puente will appear at 17:00 before the [[Permanent Deputation|diputacionpermanente]] of Congress. The judge in Orgaz is running the case and the causes remain unconfirmed."
+     "On the morning of Wednesday 28 October, at 8:53 according to the investigating body, a Renfe [[AVE|ave]] train hit from behind an [[Iryo|iryo]] train that was stopped on the Madrid-Andalusia high-speed line, between Mora and Urda (Toledo). Sixty-nine people died, according to the government of Castilla-La Mancha, headed by [[Emiliano García-Page|garciapage]], and more than a hundred were injured. On Tuesday 3 November, the Council of Ministers approved a royal decree-law worth 30 million euros: the family of each person killed will receive 144,242.92 euros, half as aid that need not be repaid and half as an advance on compensation, compatible with the compulsory insurance. There will also be aid for the injured, depending on how serious their injuries are.",
+     "That same day, the transport minister, Óscar Puente, appeared for more than four hours before the [[Permanent Deputation|diputacionpermanente]] of Congress. He said the line could reopen ten days after a judge authorises rebuilding it. When he finished, at about 21:05, he announced that he is resigning and giving up leading the PSOE list for Valladolid: 'a transport minister cannot carry on after two accidents of this gravity in less than a year', he said, referring also to Adamuz (Córdoba) in January, with 46 dead. Sánchez defended his decision; [[Juanma Moreno|moreno]], of the PP, said it 'comes late'. At this hour his replacement is not known. The judge in Orgaz is running the case and the causes remain unconfirmed."
     ],
-    "nota_actualizacion": "All 69 victims (54 Spanish and 15 foreign) have now been identified and the Government is expected to approve an aid decree today that doubles the compulsory insurance compensation."
+    "nota_actualizacion": "On 3 November the Government approved 30 million in aid for the victims and Óscar Puente resigned as transport minister."
    }
   },
   {
@@ -1309,6 +1215,99 @@
     "parrafos": [
      "On Wednesday 28 October, the governor of New York State, [[Kathy Hochul|hochul]], signed a law that limits what [[chatbots|chatbot]] using [[artificial intelligence|ia]] can do when talking to under-18s. A chatbot is a program you chat with in writing as if it were a person. The rule bans them from pretending to be human, to be alive or to have emotions, and from claiming to have a personal relationship with the minor. They also may not encourage a child to keep secrets or to move away from their parents or other trusted adults, nor encourage behaviour that harms their health, such as self-harm.",
      "Companies will have to check users' ages with several options, including at least one that does not rely solely on an official ID, and delete that data after using it. Anyone who breaks the law can be fined up to 25,000 dollars per violation, which the state attorney general's office can claim. The law will come into force in the coming months and applies only in New York, but it raises the same debate as in Europe and Spain: how to protect children online without asking everyone for too much personal data."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "midterms-2026-democratas-ganan-senado-y-camara",
+   "seccion": "int",
+   "dibujo": "congress",
+   "titular": "Los demócratas ganan el Senado de EE. UU. y, según las proyecciones, también la Cámara de Representantes",
+   "entradilla": "Trump dice que aceptará el resultado y que está dispuesto a trabajar con ellos, aunque asegura que habría ganado si hubiera estado en las papeletas.",
+   "parrafos": [
+    "El martes 3 de noviembre, Estados Unidos celebró las [[elecciones intermedias|midterms]], que se votan a mitad del mandato del presidente y renuevan toda la Cámara de Representantes y una parte del Senado. Según los medios estadounidenses, los demócratas lograron durante la noche la mayoría en el Senado del [[Congreso de EE. UU.|congresoeeuu]], al quitar escaños a los republicanos en estados como Texas, Iowa, Kansas, Carolina del Norte, Carolina del Sur y Ohio. Varios medios proyectan que ganarán también la Cámara de Representantes, aunque a primera hora el recuento seguía abierto en algunos distritos. Además, los demócratas ganaron las gobernaciones de Texas y Ohio, dos estados donde llevaban años sin gobernar.",
+    "El resultado deja a [[Donald Trump|trump]] con un Congreso en contra durante los dos últimos años de su mandato. Es lo que en Estados Unidos se llama [[gobierno dividido|gobiernodividido]]: aprobar leyes exige pactar y los demócratas pueden frenar lo que proponga el presidente. Según analistas citados por la prensa, podría influir en los aranceles, el gasto público y las bolsas. Trump dijo que aceptará los resultados y que está dispuesto a trabajar con los demócratas, pero en su red Truth Social escribió que él «no figuraba en las papeletas» y que, de haber figurado, habrían ganado «por mayoría aplastante». Tendrán que convivir hasta las próximas elecciones presidenciales, en 2028."
+   ],
+   "busqueda_imagenes": "Capitolio Washington elecciones intermedias 2026 demócratas",
+   "fuentes": [
+    "CNBC",
+    "PBS NewsHour",
+    "elDiario.es",
+    "Univision",
+    "Bolsamania"
+   ],
+   "publicada": "2026-11-04",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Democrats win the US Senate and, according to projections, the House of Representatives too",
+    "entradilla": "Trump says he will accept the result and is willing to work with them, although he claims he would have won had he been on the ballot.",
+    "parrafos": [
+     "On Tuesday 3 November, the United States held its [[midterm elections|midterms]], which are voted on halfway through the president's term and renew the whole House of Representatives and part of the Senate. According to US media, Democrats won a majority in the Senate of the [[US Congress|congresoeeuu]] overnight, taking seats from the Republicans in states such as Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio. Several media outlets project that they will win the House of Representatives too, although early this morning the count was still open in some districts. Democrats also won the governorships of Texas and Ohio, two states they had not governed for years.",
+     "The result leaves [[Donald Trump|trump]] facing a hostile Congress for the last two years of his term. It is what in the United States is called [[divided government|gobiernodividido]]: passing laws requires deals, and Democrats can block what the president proposes. According to analysts cited by the press, it could affect tariffs, public spending and stock markets. Trump said he will accept the results and is willing to work with Democrats, but on his Truth Social network he wrote that he 'was not on the ballot' and that, had he been, they would have won 'by a landslide'. They will have to live together until the next presidential election, in 2028."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "champions-jornada-4-barca-psg-bayern",
+   "seccion": "dep",
+   "dibujo": "trophy",
+   "titular": "El Barça gana 3-0 al Aston Villa, el PSG golea 6-0 al Villarreal y el Atlético cae 0-2 ante el Bayern en la Champions",
+   "entradilla": "Esta noche juegan el Real Madrid, en Atenas contra el AEK, y el Betis, en Dortmund.",
+   "parrafos": [
+    "El martes 3 de noviembre, en la cuarta jornada de la [[Liga de Campeones|champions]], el Barcelona ganó 3-0 al Aston Villa. El [[París Saint-Germain|psg]] goleó 6-0 al Villarreal, un resultado muy duro para el equipo castellonense, y el Atlético de Madrid perdió 0-2 en casa ante el Bayern de Múnich. Fueron los tres equipos españoles que jugaron ese día. Entre los otros resultados, el Inter ganó 3-0 al Feyenoord, el Manchester United remontó contra la Roma (3-2) y el Galatasaray ganó 2-0 al Stuttgart.",
+    "Hoy, miércoles 4, es el turno del Real Madrid, que llega con tres victorias en tres partidos y visita al AEK en Atenas (18:45, hora española), y del Betis, que juega en el campo del Borussia Dortmund a las 21:00. En la [[fase de liga|fasedeliga]], cada equipo juega ocho partidos contra rivales distintos y todos se ordenan en una sola clasificación: los ocho primeros pasan directos a octavos, y del noveno al vigésimo cuarto juegan una eliminatoria extra."
+   ],
+   "busqueda_imagenes": "Barcelona Aston Villa Champions League 3 noviembre 2026",
+   "fuentes": [
+    "UEFA",
+    "El Universal (México)",
+    "Crónica (México)",
+    "TV Azteca",
+    "Soy Referee"
+   ],
+   "publicada": "2026-11-04",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Barça beat Aston Villa 3-0, PSG thrash Villarreal 6-0 and Atlético lose 2-0 to Bayern in the Champions League",
+    "entradilla": "Tonight Real Madrid play AEK in Athens and Betis play in Dortmund.",
+    "parrafos": [
+     "On Tuesday 3 November, in the fourth round of the [[Champions League|champions]], Barcelona beat Aston Villa 3-0. [[Paris Saint-Germain|psg]] thrashed Villarreal 6-0, a very heavy result for the side from Castellón province, and Atlético de Madrid lost 2-0 at home to Bayern Munich. Those were the three Spanish teams in action that day. Among the other results, Inter beat Feyenoord 3-0, Manchester United came back against Roma (3-2) and Galatasaray won 2-0 against Stuttgart.",
+     "Today, Wednesday 4, it is the turn of Real Madrid, who arrive with three wins from three matches and visit AEK in Athens (18:45 Spanish time), and of Betis, who play away at Borussia Dortmund at 21:00. In the [[league phase|fasedeliga]], each team plays eight matches against different opponents and all of them are ranked in a single table: the top eight go straight through to the round of 16, and the teams from ninth to twenty-fourth play an extra knockout round."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "antonelli-campeon-mundial-f1-2026-mexico",
+   "seccion": "dep",
+   "dibujo": "trophy",
+   "titular": "Kimi Antonelli, de 20 años, se proclama campeón del mundo de Fórmula 1, el más joven de la historia",
+   "entradilla": "El italiano de Mercedes aseguró el título al terminar tercero en México, con cuatro carreras todavía por disputarse; ganó Verstappen.",
+   "parrafos": [
+    "El domingo 1 de noviembre, [[Kimi Antonelli|antonelli]], piloto italiano de Mercedes, se proclamó campeón del mundo de [[Fórmula 1|formula1]] al terminar tercero en el Gran Premio de México, en Ciudad de México. La carrera la ganó [[Max Verstappen|verstappen]], de Red Bull. Antonelli llegaba con 365 puntos y le bastaba sumar dos para ser matemáticamente campeón, con cuatro carreras aún por disputarse. Tiene 20 años y 68 días y supera el récord de precocidad de Sebastian Vettel, que ganó su primer título en 2010 con 23 años y 134 días.",
+    "Es solo su segunda temporada en la categoría reina del automovilismo, y se convierte en el tercer italiano campeón, tras Giuseppe Farina, en 1950, y Alberto Ascari, en 1952 y 1953. En la Fórmula 1 gana el título quien más puntos suma durante la temporada: el ganador de cada carrera recibe 25 y el resto puntúa según su posición. Por eso Antonelli pudo asegurarlo con cuatro Grandes Premios todavía por disputarse: ya nadie podía alcanzarle, aunque ganara todo lo que quedaba. Mercedes, su equipo, se queda así con el título de pilotos de 2026."
+   ],
+   "busqueda_imagenes": "Kimi Antonelli campeón mundial Fórmula 1 Ciudad de México",
+   "fuentes": [
+    "Mediotiempo",
+    "El Comercio (Perú)",
+    "OneFootball",
+    "Autonext",
+    "Motorsport.com"
+   ],
+   "publicada": "2026-11-04",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Kimi Antonelli, aged 20, becomes Formula 1 world champion, the youngest in history",
+    "entradilla": "The Mercedes driver from Italy clinched the title by finishing third in Mexico, with four races still to go; Verstappen won.",
+    "parrafos": [
+     "On Sunday 1 November, [[Kimi Antonelli|antonelli]], an Italian driver for Mercedes, became [[Formula 1|formula1]] world champion by finishing third in the Mexican Grand Prix, in Mexico City. The race was won by [[Max Verstappen|verstappen]], of Red Bull. Antonelli arrived with 365 points and needed only two more to be mathematically champion, with four races still to go. He is 20 years and 68 days old and breaks Sebastian Vettel's age record, who won his first title in 2010 aged 23 years and 134 days.",
+     "It is only his second season in motor racing's top category, and he becomes the third Italian champion, after Giuseppe Farina in 1950 and Alberto Ascari in 1952 and 1953. In Formula 1 the title goes to whoever scores the most points over the season: the winner of each race gets 25 and the rest score according to their position. That is why Antonelli could clinch it with four Grands Prix still to go: nobody could catch him any more, even by winning everything that was left. His team, Mercedes, thus takes the 2026 drivers' title."
     ],
     "nota_actualizacion": null
    }
@@ -3411,11 +3410,56 @@
     "n": "Exports",
     "x": "The goods and services that a country sells to other countries."
    }
+  },
+  "midterms": {
+   "t": "palabra",
+   "n": "Elecciones intermedias",
+   "x": "Votación que se hace en Estados Unidos a mitad del mandato del presidente. Se renueva toda la Cámara de Representantes y una parte del Senado.",
+   "en": {
+    "n": "Midterm elections",
+    "x": "A vote held in the United States halfway through the president's term. The whole House of Representatives and part of the Senate are renewed."
+   }
+  },
+  "congresoeeuu": {
+   "t": "lugar",
+   "n": "Congreso de EE. UU.",
+   "x": "El Parlamento de Estados Unidos. Tiene dos cámaras, la Cámara de Representantes (435 miembros) y el Senado (100), y una ley necesita el visto bueno de las dos.",
+   "en": {
+    "n": "US Congress",
+    "x": "The Parliament of the United States. It has two chambers, the House of Representatives (435 members) and the Senate (100), and a law needs the approval of both."
+   }
+  },
+  "gobiernodividido": {
+   "t": "palabra",
+   "n": "Gobierno dividido",
+   "x": "Situación en la que el presidente es de un partido y una o las dos cámaras del Congreso las controla otro. Obliga a pactar y complica aprobar leyes.",
+   "en": {
+    "n": "Divided government",
+    "x": "A situation in which the president belongs to one party and one or both chambers of Congress are controlled by another. It forces deals and makes passing laws harder."
+   }
+  },
+  "antonelli": {
+   "t": "persona",
+   "n": "Kimi Antonelli",
+   "x": "Piloto italiano de Mercedes nacido en Bolonia en 2006. Debutó en la Fórmula 1 en 2025 y en 2026 es campeón del mundo.",
+   "en": {
+    "n": "Kimi Antonelli",
+    "x": "An Italian Mercedes driver born in Bologna in 2006. He made his Formula 1 debut in 2025 and in 2026 he is world champion."
+   }
+  },
+  "psg": {
+   "t": "palabra",
+   "n": "París Saint-Germain",
+   "x": "Club de fútbol de París, uno de los más potentes de Europa, que ganó la Champions de 2025.",
+   "en": {
+    "n": "Paris Saint-Germain",
+    "x": "A football club from Paris, one of the most powerful in Europe, which won the 2025 Champions League."
+   }
   }
  },
- "edicion_en": "Tuesday 3 November 2026",
+ "edicion_en": "Wednesday 4 November 2026",
  "destacada": {
-  "id": "urda-choque-ave-iryo-toledo-68-muertos",
-  "fecha": "2026-11-03"
+  "id": "midterms-2026-democratas-ganan-senado-y-camara",
+  "fecha": "2026-11-04"
  }
 }
