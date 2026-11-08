@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-07T07:00:00+01:00",
- "edicion": "Sábado 7 de noviembre de 2026",
+ "actualizado": "2026-11-08T07:00:00+01:00",
+ "edicion": "Domingo 8 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -345,11 +345,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán envía a EE. UU. una propuesta nuclear por medio de Catar y Trump dice que decidirá «pronto» si vuelve a atacar",
-   "entradilla": "Dos proyectiles alcanzaron un petrolero frente a Catar; Trump sopesa entre una gran campaña militar, mantener el bloqueo o negociar.",
+   "titular": "Ormuz: EE. UU. ataca de nuevo defensas iraníes en Qeshm y Trump dice que avanzan las negociaciones",
+   "entradilla": "Irán condiciona cualquier negociación nuclear a que se levanten las sanciones y termine el bloqueo naval, que sigue en vigor.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "El jueves 5 de noviembre, según Reuters, Irán entregó a Washington por medio de Catar una propuesta nuclear y condiciona negociar a que se levanten las sanciones y termine el bloqueo. La noche anterior, el centro británico UKMTO informó de que dos proyectiles alcanzaron un petrolero frente a Catar. El martes 3, según medios estadounidenses, EE. UU. había lanzado ataques «limitados y defensivos» contra la isla iraní de Qeshm. Trump dijo que decidirá «pronto» entre una gran campaña militar, mantener el bloqueo naval y las sanciones, o un acuerdo nuclear, y que prefiere evitar más destrucción. Según medios, Catar propone un plan de dos días para reabrir el estrecho; ni Washington ni Teherán lo han aceptado públicamente."
+    "El jueves 5 de noviembre, según Reuters, Irán entregó a Washington por medio de Catar una propuesta nuclear y condiciona negociar a que se levanten las sanciones y termine el bloqueo. La noche anterior, el centro británico UKMTO informó de que dos proyectiles alcanzaron un petrolero frente a Catar. El viernes 6, Trump confirmó una nueva operación «menor» contra defensas antiaéreas iraníes en la isla de Qeshm, los primeros ataques desde la derrota republicana en las elecciones, y dijo que las negociaciones avanzan. Según CNN, los sectores más duros de Irán quieren más para acabar la guerra, y el mando militar de EE. UU. mantiene la aplicación «estricta» del bloqueo."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -390,19 +390,20 @@
     "Democrata",
     "UKMTO",
     "Reuters",
-    "ABC News"
+    "ABC News",
+    "Telemundo"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-07",
-   "nota_actualizacion": "Irán envió el 5 de noviembre una propuesta nuclear a EE. UU. por medio de Catar y Trump dice que decidirá «pronto» si vuelve a atacar, tras alcanzar dos proyectiles un petrolero frente a Catar.",
+   "actualizada": "2026-11-08",
+   "nota_actualizacion": "El 6 de noviembre Trump confirmó nuevos ataques «menores» contra defensas iraníes en Qeshm y dijo que avanzan las negociaciones; Irán sigue condicionando hablar a que se levanten sanciones y bloqueo.",
    "en": {
-    "titular": "Hormuz: Iran sends the US a nuclear proposal through Qatar and Trump says he will decide 'soon' whether to strike again",
-    "entradilla": "Two projectiles hit a tanker off Qatar; Trump is weighing a large-scale military campaign, keeping the blockade, or negotiating.",
+    "titular": "Hormuz: US strikes Iranian defences on Qeshm again and Trump says negotiations are advancing",
+    "entradilla": "Iran makes any nuclear negotiation conditional on lifting sanctions and ending the naval blockade, which remains in force.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "On Thursday 5 November, according to Reuters, Iran handed Washington a nuclear proposal through Qatar, making talks conditional on the lifting of sanctions and an end to the blockade. The night before, the British centre UKMTO reported that two projectiles hit a tanker off Qatar. On Tuesday 3, according to US media, the US had launched 'limited and defensive' strikes on the Iranian island of Qeshm. Trump said he will decide 'soon' between a large-scale military campaign, keeping the naval blockade and sanctions, or a nuclear deal, and that he prefers to avoid more destruction. According to media reports, Qatar proposes a two-day plan to reopen the strait; neither Washington nor Tehran has publicly accepted it."
+     "On Thursday 5 November, according to Reuters, Iran handed Washington a nuclear proposal through Qatar, making talks conditional on the lifting of sanctions and an end to the blockade. The night before, the British centre UKMTO reported that two projectiles hit a tanker off Qatar. On Friday 6, Trump confirmed a new 'minor' operation against Iranian air defences on the island of Qeshm, the first strikes since the Republican defeat in the elections, and said negotiations are advancing. According to CNN, Iran's hardest-line factions want more in return for ending the war, and the US military command says it is keeping the blockade 'strictly' enforced."
     ],
-    "nota_actualizacion": "On 5 November Iran sent the US a nuclear proposal through Qatar and Trump says he will decide 'soon' whether to strike again, after two projectiles hit a tanker off Qatar."
+    "nota_actualizacion": "On 6 November Trump confirmed new 'minor' strikes on Iranian defences on Qeshm and said negotiations are advancing; Iran still makes talks conditional on lifting sanctions and the blockade."
    }
   },
   {
@@ -507,11 +508,11 @@
    "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Israel: 67 diputados recomiendan a Eisenkot y 46 a Netanyahu, y Herzog nombrará el domingo a quien intente formar Gobierno",
-   "entradilla": "Ningún bloque llega a los 61 escaños; quien sea elegido tendrá 28 días, ampliables otros 14, para reunir una mayoría.",
+   "titular": "Israel: Herzog encargará hoy a Eisenkot formar Gobierno, con 67 recomendaciones frente a 46 para Netanyahu",
+   "entradilla": "El presidente anunció el sábado que el encargo será hoy, domingo 8; Eisenkot tendrá 28 días, ampliables otros 14, para reunir 61 diputados.",
    "parrafos": [
     "El martes 27 de octubre, Israel celebró elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Se votaba a los 120 diputados de la [[Knesset|knesset]], el Parlamento israelí, y quien reúna 61 podrá formar Gobierno. Según el recuento final de la Comisión Electoral Central, la participación fue del 77,9 %. El Likud de [[Benjamín Netanyahu|netanyahu]] es el partido más votado, con 27 escaños, menos que los 32 que tenía. Su bloque, con partidos ultraortodoxos y de extrema derecha, suma 53, ocho menos de los necesarios.",
-    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes tienen 19 y no pertenecen a ningún bloque. Tras dos días de consultas, el presidente, Isaac Herzog, anunció que el domingo 8 de noviembre encargará a un candidato intentar formar Gobierno: según Al Jazeera, 67 de los 120 diputados recomendaron a Eisenkot y 46 a Netanyahu, pero Herzog no ha dicho a quién elegirá. El elegido tendrá 28 días, ampliables otros 14, y Herzog ha pedido a ambos bloques que cedan para evitar nuevas elecciones."
+    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes tienen 19 y no pertenecen a ningún bloque. Tras dos días de consultas, 67 de los 120 diputados recomendaron a Eisenkot y 46 a Netanyahu, según Al Jazeera. El sábado 7, el presidente, Isaac Herzog, anunció que encargará a Eisenkot intentar formar Gobierno; según los medios, se lo comunicará formalmente hoy, domingo 8. Que le toque a él no aparta automáticamente a Netanyahu del poder, y Eisenkot aún no tiene una coalición. Herzog pide a ambos bloques que cedan para evitar nuevas elecciones."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -532,30 +533,31 @@
     "Haaretz",
     "AP",
     "Al Jazeera",
-    "Quartz en español"
+    "Quartz en español",
+    "CNN en Español"
    ],
    "publicada": "2026-10-20",
-   "actualizada": "2026-11-07",
-   "nota_actualizacion": "Tras las consultas, 67 diputados recomendaron a Eisenkot y 46 a Netanyahu; Herzog anunció que el domingo 8 de noviembre encargará a un candidato formar Gobierno.",
+   "actualizada": "2026-11-08",
+   "nota_actualizacion": "Herzog anunció el 7 de noviembre que encargará a Eisenkot, y no a Netanyahu, intentar formar Gobierno; el encargo formal es hoy.",
    "en": {
-    "titular": "Israel: 67 MPs recommend Eisenkot and 46 recommend Netanyahu, and Herzog will name on Sunday who will try to form a government",
-    "entradilla": "Neither bloc reaches 61 seats; whoever is chosen will have 28 days, extendable by another 14, to gather a majority.",
+    "titular": "Israel: Herzog will task Eisenkot today with forming a government, with 67 recommendations against 46 for Netanyahu",
+    "entradilla": "The president announced on Saturday that the mandate will be given today, Sunday 8; Eisenkot will have 28 days, extendable by another 14, to gather 61 MPs.",
     "parrafos": [
      "On Tuesday 27 October, Israel held parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. The 120 members of the [[Knesset|knesset]], the Israeli Parliament, were being elected, and whoever gathers 61 can form a government. According to the final count by the Central Elections Committee, turnout was 77.9%. [[Benjamin Netanyahu|netanyahu]]'s Likud is the most-voted party, with 27 seats, fewer than the 32 it held. His bloc, with ultra-Orthodox and far-right parties, has 53, eight short of what it needs.",
-     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties have 19 and belong to neither bloc. After two days of consultations, President Isaac Herzog announced that on Sunday 8 November he will task one candidate with trying to form a government: according to Al Jazeera, 67 of the 120 members of parliament recommended Eisenkot and 46 recommended Netanyahu, but Herzog has not said whom he will choose. The person chosen will have 28 days, extendable by another 14, and Herzog has asked both blocs to compromise to avoid new elections."
+     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties have 19 and belong to neither bloc. After two days of consultations, 67 of the 120 members of parliament recommended Eisenkot and 46 recommended Netanyahu, according to Al Jazeera. On Saturday 7, President Isaac Herzog announced that he will task Eisenkot with trying to form a government; according to the media, he will formally tell him today, Sunday 8. Being given the task does not automatically remove Netanyahu from power, and Eisenkot does not yet have a coalition. Herzog is asking both blocs to compromise to avoid new elections."
     ],
-    "nota_actualizacion": "After the consultations, 67 MPs recommended Eisenkot and 46 recommended Netanyahu; Herzog announced that on Sunday 8 November he will task a candidate with forming a government."
+    "nota_actualizacion": "On 7 November Herzog announced that he will task Eisenkot, not Netanyahu, with trying to form a government; the formal mandate is today."
    }
   },
   {
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Marc Márquez gana en Sepang y llega a Qatar con su primera opción de proclamarse campeón de MotoGP",
-   "entradilla": "Con 44 puntos de ventaja sobre Martín, que no pudo correr por lesión, el piloto de Ducati ganó su séptima carrera del año en Malasia.",
+   "titular": "Márquez gana el sprint de Qatar, amplía a 49 puntos su ventaja sobre Martín y hoy tiene su primera opción de ser campeón",
+   "entradilla": "Di Giannantonio fue segundo y Martín, tercero; hoy se corre la carrera larga en Lusail.",
    "parrafos": [
-    "El domingo 1 de noviembre, [[Marc Márquez|marquez]], de Ducati, ganó el Gran Premio de Malasia en el circuito de Sepang. Fue su séptima victoria de la temporada: se impuso en las primeras curvas a su hermano Álex, que salía desde la pole, y terminó a más de cuatro segundos de Pedro Acosta (KTM), segundo. Álex Márquez fue tercero, a casi seis segundos de su hermano. Ai Ogura (Aprilia) fue cuarto y Enea Bastianini (KTM), quinto.",
-    "Su rival en el campeonato, [[Jorge Martín|martin]], de Aprilia, no pudo correr: se cayó el 24 de octubre en Australia y se retiró del fin de semana de Malasia. Con esta victoria, Márquez suma 399 puntos, 44 más que Martín (355) y 67 más que Marco Bezzecchi, tercero. En el [[MotoGP|motogp]] gana el título quien más puntos suma al final de la temporada, y cada carrera principal da 25 al ganador. La próxima cita es Qatar, donde Márquez tendrá su primera opción matemática de proclamarse campeón."
+    "El sábado 7 de noviembre, [[Marc Márquez|marquez]], de Ducati, ganó la [[carrera sprint|sprint]] del Gran Premio de Qatar, en el circuito de Lusail. El italiano Fabio Di Giannantonio fue segundo, a 0,862 segundos, y [[Jorge Martín|martin]], de Aprilia, tercero, a 1,519. Martín no había podido correr en Malasia por la caída que sufrió en Australia el 24 de octubre. En la última vuelta, Di Giannantonio le adelantó, y eso le costó dos puntos en el campeonato.",
+    "Tras el sprint, que da 12 puntos al ganador, Márquez suma 411 puntos y Martín 362: la ventaja sube de 44 a 49. En el [[MotoGP|motogp]] gana el título quien más puntos suma al final de la temporada. Hoy, domingo 8, se corre la carrera larga, que da 25 puntos al ganador, y según los medios Márquez tendrá su primera opción, un «match point», de proclamarse campeón, aunque matemáticamente depende de lo que haga Martín. Hace una semana ganó en Sepang, su séptima victoria del año."
    ],
    "busqueda_imagenes": "Marc Márquez Sepang victoria Malasia 2026",
    "fuentes": [
@@ -564,19 +566,21 @@
     "Los Andes",
     "The Objective",
     "Demócrata",
-    "Infobae (EFE)"
+    "Infobae (EFE)",
+    "COPE",
+    "Grande Premio"
    ],
    "publicada": "2026-10-06",
-   "actualizada": "2026-11-02",
-   "nota_actualizacion": "Márquez ganó en Sepang, suma 399 puntos (44 más que Martín, que no corrió) y tendrá en Qatar su primera opción de ser campeón.",
+   "actualizada": "2026-11-08",
+   "nota_actualizacion": "Márquez ganó el sprint de Qatar, suma 411 puntos (49 más que Martín, tercero) y hoy tiene su primera opción de ser campeón.",
    "en": {
-    "titular": "Marc Márquez wins at Sepang and heads to Qatar with his first chance to be crowned MotoGP champion",
-    "entradilla": "With a 44-point lead over Martín, who could not race because of injury, the Ducati rider won his seventh race of the year in Malaysia.",
+    "titular": "Márquez wins the Qatar sprint, extends his lead over Martín to 49 points and has his first chance to be champion today",
+    "entradilla": "Di Giannantonio was second and Martín third; the long race is run today at Lusail.",
     "parrafos": [
-     "On Sunday 1 November, [[Marc Márquez|marquez]], on a Ducati, won the Malaysian Grand Prix at the Sepang circuit. It was his seventh win of the season: he got past his brother Álex, who started from pole, in the opening corners and finished more than four seconds ahead of Pedro Acosta (KTM), who was second. Álex Márquez was third, almost six seconds behind his brother. Ai Ogura (Aprilia) was fourth and Enea Bastianini (KTM) fifth.",
-     "His championship rival, [[Jorge Martín|martin]], on an Aprilia, could not race: he crashed in Australia on 24 October and pulled out of the Malaysian weekend. With this win, Márquez has 399 points, 44 more than Martín (355) and 67 more than Marco Bezzecchi, who is third. In [[MotoGP|motogp]] the title goes to whoever has the most points at the end of the season, and each main race gives 25 to the winner. The next stop is Qatar, where Márquez will have his first mathematical chance of being crowned champion."
+     "On Saturday 7 November, [[Marc Márquez|marquez]], on a Ducati, won the Qatar Grand Prix [[sprint race|sprint]] at the Lusail circuit. The Italian Fabio Di Giannantonio was second, 0.862 seconds behind, and [[Jorge Martín|martin]], on an Aprilia, was third, 1.519 behind. Martín had been unable to race in Malaysia because of the crash he suffered in Australia on 24 October. On the last lap Di Giannantonio passed him, which cost him two points in the championship.",
+     "After the sprint, which gives 12 points to the winner, Márquez has 411 points and Martín 362: the lead goes from 44 to 49. In [[MotoGP|motogp]] the title goes to whoever has the most points at the end of the season. Today, Sunday 8, the long race is run, which gives 25 points to the winner, and according to the media Márquez will have his first chance, a 'match point', to be crowned champion, although mathematically it depends on what Martín does. A week ago he won at Sepang, his seventh victory of the year."
     ],
-    "nota_actualizacion": "Márquez won at Sepang, has 399 points (44 more than Martín, who did not race) and will have his first chance to be champion in Qatar."
+    "nota_actualizacion": "Márquez won the Qatar sprint, has 411 points (49 more than Martín, who was third) and today has his first chance to be champion."
    }
   },
   {
@@ -804,30 +808,35 @@
    }
   },
   {
-   "id": "vivienda-sube-142-septiembre-supera-maximo-burbuja-tinsa",
+   "id": "wall-street-nasdaq-cae-midterms-regulacion-ia",
    "seccion": "eco",
-   "dibujo": "house",
-   "titular": "La vivienda sube un 14,2 % en un año y supera ya el máximo de 2007 sin descontar la inflación",
-   "entradilla": "Según la tasadora Tinsa, las casas se encarecen casi un 15 % en lo que va de año, aunque el ritmo se modera en las capitales.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-b\" x=\"10\" y=\"10\" width=\"100\" height=\"70\" rx=\"6\"/><path class=\"d-l\" d=\"M18 70 H102 M18 70 V16\"/><path class=\"d-l\" d=\"M22 24 L44 36 L56 28 L78 52 L90 46\"/><path class=\"d-a\" d=\"M101 64 L84 58 L96 46 Z\"/></svg>",
+   "titular": "El Nasdaq se hunde más de un 5 % por el temor a que los demócratas regulen la inteligencia artificial",
+   "entradilla": "Tras las elecciones de EE. UU., la bolsa tecnológica perdió en un día más de dos billones de dólares de valor; el Ibex 35 cerró la semana con una subida del 3,5 %.",
    "parrafos": [
-    "El precio de la vivienda, nueva y usada, subió en septiembre un 14,2 % respecto a hace un año, según [[Tinsa|tinsa]], una empresa que tasa inmuebles. Es 8,8 puntos más que la [[inflación|inflacion]], así que las casas se encarecen mucho más deprisa que el resto de productos, y en lo que va de año el aumento ronda el 15 %. Las subidas mayores se dan en la costa mediterránea (17,2 %) y en las áreas metropolitanas (16,6 %), mientras que en las capitales y grandes ciudades es del 13,4 % y en el resto de municipios del 10,4 %. En las capitales el avance se modera.",
-    "Con estos datos, la vivienda ya vale de media un 2,5 % más que en el máximo de la [[burbuja inmobiliaria|burbuja]] de 2007, pero solo si no se tiene en cuenta que el dinero vale menos que entonces: descontando la inflación, sigue un 32 % por debajo. Para una familia significa que comprar una casa es cada vez más difícil, sobre todo si los sueldos suben más despacio que los pisos. El precio de las casas está en el centro del debate que ha llevado a las protestas y a la [[huelga general|huelgageneral]] convocada para el 11 de noviembre. Tinsa subraya que las subidas siguen por encima del 9 % que la Comisión Europea usa como señal de alerta."
+    "El jueves 5 de noviembre, dos días después de que los demócratas ganaran las [[elecciones intermedias|midterms]], el [[Nasdaq|nasdaq]], el índice de bolsa donde cotizan las grandes tecnológicas, cayó más de un 5 %, según los medios. Se esfumaron más de dos billones de dólares de valor de las empresas, es decir, los inversores pasaron a valorarlas menos, y las más golpeadas fueron las vinculadas a la [[inteligencia artificial|ia]] y a los [[centros de datos|centrosdatos]]. La causa que dan los analistas: el temor a que un Congreso demócrata imponga más normas a la IA y frene la construcción de esos centros.",
+    "Según CNBC, entre las prioridades demócratas hay medidas sobre IA y centros de datos, aunque el nuevo Congreso no empezará hasta el año que viene. En España el golpe fue menor: el [[Ibex 35|ibex]] cayó un 0,6 % el viernes 6, pero cerró la semana con una subida del 3,5 %. A una familia le importa porque muchos fondos de inversión y planes de pensiones tienen acciones: una caída de la bolsa no es dinero perdido hasta que alguien vende, pero muestra el nerviosismo de los inversores. Son cifras de mercado y cambian cada día."
    ],
-   "busqueda_imagenes": "precio vivienda España Tinsa septiembre 2026",
+   "busqueda_imagenes": "Wall Street Nasdaq caída bolsa inteligencia artificial",
    "fuentes": [
-    "Tinsa",
-    "Infobae",
-    "Qué!"
+    "CNN en Español",
+    "France 24",
+    "Bolsamania",
+    "El Boletín",
+    "Telemundo",
+    "CNBC",
+    "El Diario de Madrid",
+    "Mundiario"
    ],
-   "publicada": "2026-10-18",
+   "publicada": "2026-11-08",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Housing rises 14.2% in a year and now tops the 2007 peak before adjusting for inflation",
-    "entradilla": "According to the valuer Tinsa, homes have become almost 15% more expensive so far this year, although the pace is slowing in the capital cities.",
+    "titular": "The Nasdaq plunges more than 5% on fears that Democrats will regulate artificial intelligence",
+    "entradilla": "After the US elections the tech-heavy market lost more than two trillion dollars in value in a day; Spain's Ibex 35 ended the week up 3.5%.",
     "parrafos": [
-     "The price of housing, new and second-hand, rose 14.2% in September compared with a year earlier, according to [[Tinsa|tinsa]], a company that values property. That is 8.8 points more than [[inflation|inflacion]], so homes are getting more expensive much faster than other goods, and so far this year the increase is around 15%. The biggest rises are on the Mediterranean coast (17.2%) and in metropolitan areas (16.6%), while in the capitals and big cities it is 13.4% and in other municipalities 10.4%. In the capitals the rise is slowing.",
-     "On these figures, housing is now worth on average 2.5% more than at the peak of the 2007 [[housing bubble|burbuja]], but only if you ignore that money is worth less than it was then: adjusted for inflation, it is still 32% lower. For a family it means that buying a home is getting harder, especially if wages rise more slowly than flat prices. House prices are at the centre of the debate that has led to protests and to the [[general strike|huelgageneral]] called for 11 November. Tinsa stresses that the rises remain above the 9% that the European Commission uses as a warning signal."
+     "On Thursday 5 November, two days after the Democrats won the [[midterm elections|midterms]], the [[Nasdaq|nasdaq]], the stock index where the big tech companies are listed, fell by more than 5%, according to the media. More than two trillion dollars of the companies' value vanished, meaning investors began to value them less, and the hardest hit were those linked to [[artificial intelligence|ia]] and to [[data centres|centrosdatos]]. The reason analysts give: fear that a Democratic Congress will impose more rules on AI and slow down the building of those centres.",
+     "According to CNBC, the Democrats' priorities include measures on AI and data centres, although the new Congress will not begin until next year. In Spain the blow was smaller: the [[Ibex 35|ibex]] fell 0.6% on Friday 6, but ended the week up 3.5%. It matters to a family because many investment funds and pension plans hold shares: a fall on the stock market is not money lost until someone sells, but it shows how nervous investors are. These are market figures and they change every day."
     ],
     "nota_actualizacion": null
    }
@@ -3608,11 +3617,29 @@
     "n": "Giraldillo",
     "x": "A bronze statue that acts as a weather vane at the top of the Giralda, the tower of Seville cathedral. The Seville Film Festival's awards are named after it."
    }
+  },
+  "nasdaq": {
+   "t": "palabra",
+   "n": "Nasdaq",
+   "x": "Índice de la bolsa de Estados Unidos donde cotizan muchas tecnológicas, como Apple, Microsoft o Nvidia. Si baja, esas empresas valen menos en bolsa.",
+   "en": {
+    "n": "Nasdaq",
+    "x": "A US stock-market index where many tech companies, such as Apple, Microsoft or Nvidia, are listed. If it falls, those companies are worth less on the stock market."
+   }
+  },
+  "centrosdatos": {
+   "t": "palabra",
+   "n": "Centros de datos",
+   "x": "Edificios llenos de ordenadores potentes que guardan información y hacen funcionar internet y la inteligencia artificial. Gastan mucha electricidad.",
+   "en": {
+    "n": "Data centres",
+    "x": "Buildings full of powerful computers that store information and run the internet and artificial intelligence. They use a lot of electricity."
+   }
   }
  },
- "edicion_en": "Saturday 7 November 2026",
+ "edicion_en": "Sunday 8 November 2026",
  "destacada": {
-  "id": "ucrania-ataques-mientras-se-habla-de-paz",
-  "fecha": "2026-11-07"
+  "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
+  "fecha": "2026-11-08"
  }
 }
