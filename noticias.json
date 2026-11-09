@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-08T07:00:00+01:00",
- "edicion": "Domingo 8 de noviembre de 2026",
+ "actualizado": "2026-11-09T07:00:00+01:00",
+ "edicion": "Lunes 9 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -275,9 +275,9 @@
    "seccion": "and",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-y\" cx=\"32\" cy=\"74\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-y\" cx=\"32\" cy=\"64\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-y\" cx=\"32\" cy=\"54\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"74\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"64\" rx=\"20\" ry=\"7\"/><ellipse class=\"d-l\" cx=\"32\" cy=\"54\" rx=\"20\" ry=\"7\"/><text class=\"d-i\" x=\"26\" y=\"58\" font-size=\"12\" font-family=\"sans-serif\" font-weight=\"bold\">€</text><path class=\"d-a\" d=\"M62 38 L88 22 L114 38 Z\"/><rect class=\"d-b\" x=\"64\" y=\"38\" width=\"48\" height=\"6\"/><rect class=\"d-w\" x=\"68\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-w\" x=\"81\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-w\" x=\"94\" y=\"46\" width=\"7\" height=\"24\"/><rect class=\"d-a\" x=\"62\" y=\"70\" width=\"52\" height=\"7\"/><path class=\"d-l\" d=\"M62 38 L88 22 L114 38 Z M62 70 H114\"/></svg>",
    "titular": "La Junta aprueba el presupuesto andaluz de 54.716 millones para 2027, el primero pactado con Vox",
-   "entradilla": "El Consejo de Gobierno lo aprobó el 30 de octubre y lo envía al Parlamento, que empezará a debatirlo el 11 de noviembre; la vivienda crece un 22 %.",
+   "entradilla": "El Consejo de Gobierno lo aprobó el 30 de octubre y el Parlamento lo debate el 11 de noviembre, pese a la huelga general; la vivienda crece un 22 %.",
    "parrafos": [
-    "El viernes 30 de octubre, el Consejo de Gobierno de la [[Junta de Andalucía|junta]] aprobó el proyecto de [[presupuesto|presupuesto]] para 2027: 54.716 millones de euros, la cifra más alta de su historia y un 6 % más que los 51.597 millones de este año. Es el primero que se pacta con [[Vox|vox]] y el octavo que presenta [[Juanma Moreno|moreno]]. Moreno lo anunció el 22 de octubre y el Gobierno andaluz iba a aprobarlo el miércoles 28, pero suspendió la reunión tras el accidente de tren de Urda. Ahora el texto pasa al Parlamento, que empezará a debatirlo el 11 de noviembre, el mismo día de la huelga general convocada por los sindicatos.",
+    "El viernes 30 de octubre, el Consejo de Gobierno de la [[Junta de Andalucía|junta]] aprobó el proyecto de [[presupuesto|presupuesto]] para 2027: 54.716 millones de euros, la cifra más alta de su historia y un 6 % más que los 51.597 millones de este año. Es el primero que se pacta con [[Vox|vox]] y el octavo que presenta [[Juanma Moreno|moreno]]. Estaba previsto aprobarlo el 28, pero se aplazó tras el accidente de tren de Urda. Ahora está en el Parlamento, y el pleno del 11 de noviembre, el día de la huelga general, sigue convocado: Moreno defiende mantenerlo con el argumento de que «los políticos no tenemos derecho a huelga», mientras la izquierda andaluza apoya el paro.",
     "Según la Junta, dos de cada tres euros, unos 35.246 millones, irán a políticas sociales. La sanidad recibiría unos 17.000 millones y la vivienda crecería un 22 %, el mayor aumento relativo. Un presupuesto decide, por ejemplo, cuántos médicos, profesores o ayudas habrá. La oposición discrepa: Adelante Andalucía critica que la sanidad pública encargue servicios, como el cribado del cáncer de mama, a empresas privadas, y Moreno defiende su gestión. Son las cifras del Gobierno andaluz, y en el Parlamento, donde pueden presentarse enmiendas, todavía pueden cambiar."
    ],
    "busqueda_imagenes": "presupuesto Andalucía 2027 Parlamento Moreno",
@@ -288,19 +288,20 @@
     "Elmira",
     "Teleprensa",
     "El Pespunte",
-    "101TV"
+    "101TV",
+    "El Debate"
    ],
    "publicada": "2026-10-23",
-   "actualizada": "2026-10-30",
-   "nota_actualizacion": "El Consejo de Gobierno aprobó el 30 de octubre el proyecto de presupuesto y lo remitió al Parlamento; la vivienda crece un 22 %.",
+   "actualizada": "2026-11-09",
+   "nota_actualizacion": "Moreno mantiene el pleno del 11 de noviembre, día de la huelga general, para debatir el presupuesto: «los políticos no tenemos derecho a huelga».",
    "en": {
     "titular": "The regional government approves an Andalusian budget of 54,716 million for 2027, the first agreed with Vox",
-    "entradilla": "The Governing Council approved it on 30 October and sends it to Parliament, which will begin debating it on 11 November; housing spending rises 22%.",
+    "entradilla": "The Governing Council approved it on 30 October and Parliament debates it on 11 November, despite the general strike; housing spending rises 22%.",
     "parrafos": [
-     "On Friday 30 October, the Governing Council of the [[Junta de Andalucía|junta]] approved the draft [[budget|presupuesto]] for 2027: 54,716 million euros, the highest figure in its history and 6% more than this year's 51,597 million. It is the first to be agreed with [[Vox|vox]] and the eighth presented by [[Juanma Moreno|moreno]]. Moreno announced it on 22 October and the regional government was due to approve it on Wednesday 28, but suspended the meeting after the Urda train accident. The text now goes to Parliament, which will begin debating it on 11 November, the same day as the general strike called by the unions.",
+     "On Friday 30 October, the Governing Council of the [[Junta de Andalucía|junta]] approved the draft [[budget|presupuesto]] for 2027: 54,716 million euros, the highest figure in its history and 6% more than this year's 51,597 million. It is the first to be agreed with [[Vox|vox]] and the eighth presented by [[Juanma Moreno|moreno]]. It was due to be approved on the 28th, but was postponed after the Urda train accident. It is now in Parliament, and the plenary session of 11 November, the day of the general strike, is still scheduled: Moreno defends keeping it on the grounds that 'politicians have no right to strike', while the Andalusian left backs the strike.",
      "According to the Junta, two out of every three euros, about 35,246 million, will go on social policies. Health would receive about 17,000 million and housing would grow by 22%, the biggest relative increase. A budget decides, for example, how many doctors, teachers or grants there will be. The opposition disagrees: Adelante Andalucía criticises the public health service for hiring private companies for services such as breast cancer screening, and Moreno defends his record. These are the regional government's figures, and in Parliament, where amendments can be submitted, they can still change."
     ],
-    "nota_actualizacion": "The Governing Council approved the draft budget on 30 October and sent it to Parliament; housing spending rises 22%."
+    "nota_actualizacion": "Moreno keeps the 11 November plenary session, the day of the general strike, to debate the budget: 'politicians have no right to strike'."
    }
   },
   {
@@ -345,11 +346,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: EE. UU. ataca de nuevo defensas iraníes en Qeshm y Trump dice que avanzan las negociaciones",
+   "titular": "Ormuz: Trump ve muy improbable reanudar los ataques contra Irán, pero Rubio dice que el diálogo «no ha sido productivo»",
    "entradilla": "Irán condiciona cualquier negociación nuclear a que se levanten las sanciones y termine el bloqueo naval, que sigue en vigor.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "El jueves 5 de noviembre, según Reuters, Irán entregó a Washington por medio de Catar una propuesta nuclear y condiciona negociar a que se levanten las sanciones y termine el bloqueo. La noche anterior, el centro británico UKMTO informó de que dos proyectiles alcanzaron un petrolero frente a Catar. El viernes 6, Trump confirmó una nueva operación «menor» contra defensas antiaéreas iraníes en la isla de Qeshm, los primeros ataques desde la derrota republicana en las elecciones, y dijo que las negociaciones avanzan. Según CNN, los sectores más duros de Irán quieren más para acabar la guerra, y el mando militar de EE. UU. mantiene la aplicación «estricta» del bloqueo."
+    "El jueves 5 de noviembre, según Reuters, Irán entregó a Washington por medio de Catar una propuesta nuclear y condiciona negociar a que se levanten las sanciones y termine el bloqueo. El viernes 6, Trump confirmó una nueva operación «menor» contra defensas antiaéreas iraníes en la isla de Qeshm. Este fin de semana dijo a CNN que ve muy improbable tener que reanudar la guerra, aunque lo condiciona a un acuerdo nuclear «sólido» y a que se reabra Ormuz. El secretario de Estado, Marco Rubio, afirmó que el diálogo «no ha sido productivo» por demandas «inaceptables» de Irán. Según CNN, el mando militar de EE. UU. mantiene la aplicación «estricta» del bloqueo."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -391,19 +392,22 @@
     "UKMTO",
     "Reuters",
     "ABC News",
-    "Telemundo"
+    "Telemundo",
+    "Informador",
+    "La Patilla",
+    "PanAm Post (EFE)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-08",
-   "nota_actualizacion": "El 6 de noviembre Trump confirmó nuevos ataques «menores» contra defensas iraníes en Qeshm y dijo que avanzan las negociaciones; Irán sigue condicionando hablar a que se levanten sanciones y bloqueo.",
+   "actualizada": "2026-11-09",
+   "nota_actualizacion": "Trump dijo a CNN que ve muy improbable reanudar los ataques si hay avances, y Rubio afirmó que el diálogo con Irán «no ha sido productivo» por demandas «inaceptables».",
    "en": {
-    "titular": "Hormuz: US strikes Iranian defences on Qeshm again and Trump says negotiations are advancing",
+    "titular": "Hormuz: Trump sees a return to attacks on Iran as very unlikely, but Rubio says the talks 'have not been productive'",
     "entradilla": "Iran makes any nuclear negotiation conditional on lifting sanctions and ending the naval blockade, which remains in force.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "On Thursday 5 November, according to Reuters, Iran handed Washington a nuclear proposal through Qatar, making talks conditional on the lifting of sanctions and an end to the blockade. The night before, the British centre UKMTO reported that two projectiles hit a tanker off Qatar. On Friday 6, Trump confirmed a new 'minor' operation against Iranian air defences on the island of Qeshm, the first strikes since the Republican defeat in the elections, and said negotiations are advancing. According to CNN, Iran's hardest-line factions want more in return for ending the war, and the US military command says it is keeping the blockade 'strictly' enforced."
+     "On Thursday 5 November, according to Reuters, Iran handed Washington a nuclear proposal through Qatar, making talks conditional on the lifting of sanctions and an end to the blockade. On Friday 6, Trump confirmed a new 'minor' operation against Iranian air defences on the island of Qeshm. This weekend he told CNN that he sees it as very unlikely that the war will have to resume, although he makes that depend on a 'solid' nuclear deal and on Hormuz being reopened. Secretary of State Marco Rubio said the dialogue 'has not been productive' because of 'unacceptable' Iranian demands. According to CNN, the US military command says it is keeping the blockade 'strictly' enforced."
     ],
-    "nota_actualizacion": "On 6 November Trump confirmed new 'minor' strikes on Iranian defences on Qeshm and said negotiations are advancing; Iran still makes talks conditional on lifting sanctions and the blockade."
+    "nota_actualizacion": "Trump told CNN he sees resuming attacks as very unlikely if there is progress, and Rubio said the dialogue with Iran 'has not been productive' because of 'unacceptable' demands."
    }
   },
   {
@@ -414,7 +418,7 @@
    "entradilla": "Los puntos centrales del acuerdo de 2025 siguen sin cumplirse y la tregua no frena las muertes.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto casi 74.600 personas, y más de 1.600 de ellas por ataques israelíes desde la tregua. El 15 de octubre, la ONU advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El jueves 5 de noviembre, la Defensa Civil de [[Gaza|gaza]], que depende de Hamás, informó de cinco muertos en ataques israelíes, entre ellos un niño de 12 años. El ejército israelí dijo haber atacado a combatientes de Hamás y negó tener constancia de los casos del niño y de una mujer. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen pendientes."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto 74.640 personas, y 1.610 de ellas por ataques israelíes desde la tregua. El 15 de octubre, la ONU advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El jueves 5 de noviembre, la Defensa Civil de [[Gaza|gaza]], que depende de Hamás, informó de cinco muertos en ataques israelíes; el ejército israelí dijo haber atacado a combatientes de Hamás. El domingo 8, dos personas murieron en otro bombardeo israelí en Jan Yunis, en el sur, según agencias. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen pendientes."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -433,19 +437,22 @@
     "Europa Press (Infobae)",
     "Anadolu",
     "Swissinfo (EFE)",
-    "Infobae (agencias)"
+    "Infobae (agencias)",
+    "Infobae (Europa Press)",
+    "Teleprensa",
+    "Democrata"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-06",
-   "nota_actualizacion": "El 5 de noviembre la Defensa Civil de Gaza, que depende de Hamás, informó de cinco muertos en ataques israelíes; Sanidad cuenta más de 1.600 desde la tregua.",
+   "actualizada": "2026-11-09",
+   "nota_actualizacion": "El 8 de noviembre murieron dos personas en un bombardeo israelí en Jan Yunis; Sanidad cuenta 1.610 muertos desde la tregua y 74.640 en toda la guerra.",
    "en": {
     "titular": "Gaza: a year of ceasefire and the UN warns the risk of a return to war 'has never been higher'",
     "entradilla": "The central points of the 2025 agreement are still unfulfilled and the truce does not stop the deaths.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which Hamas controls, almost 74,600 people have died in the war, more than 1,600 of them from Israeli attacks since the truce. On 15 October, the UN warned that the risk of a return to war 'has never been higher'. On Thursday 5 November, the Civil Defence in [[Gaza|gaza]], which answers to Hamas, reported five people killed in Israeli attacks, among them a 12-year-old boy. The Israeli army said it had struck Hamas fighters and denied knowing of the cases of the boy and a woman. Hamas's disarmament, the Israeli withdrawal and the international force are still pending."
+     "According to the Gaza Health Ministry, which Hamas controls, 74,640 people have died in the war, 1,610 of them from Israeli attacks since the truce. On 15 October, the UN warned that the risk of a return to war 'has never been higher'. On Thursday 5 November, the Civil Defence in [[Gaza|gaza]], which answers to Hamas, reported five people killed in Israeli attacks; the Israeli army said it had struck Hamas fighters. On Sunday 8, two people died in another Israeli bombing in Khan Younis, in the south, according to news agencies. Hamas's disarmament, the Israeli withdrawal and the international force are still pending."
     ],
-    "nota_actualizacion": "On 5 November the Civil Defence in Gaza, which answers to Hamas, reported five people killed in Israeli attacks; the Health Ministry counts more than 1,600 since the truce."
+    "nota_actualizacion": "On 8 November two people died in an Israeli bombing in Khan Younis; the Health Ministry counts 1,610 deaths since the truce and 74,640 in the whole war."
    }
   },
   {
@@ -508,11 +515,11 @@
    "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Israel: Herzog encargará hoy a Eisenkot formar Gobierno, con 67 recomendaciones frente a 46 para Netanyahu",
-   "entradilla": "El presidente anunció el sábado que el encargo será hoy, domingo 8; Eisenkot tendrá 28 días, ampliables otros 14, para reunir 61 diputados.",
+   "titular": "Israel: Herzog encarga a Eisenkot formar Gobierno, con 67 recomendaciones frente a 46 para Netanyahu",
+   "entradilla": "Eisenkot tiene 28 días, ampliables otros 14, para reunir 61 diputados, y ofrece al Likud un sitio en su Gobierno, pero bajo su mando.",
    "parrafos": [
     "El martes 27 de octubre, Israel celebró elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Se votaba a los 120 diputados de la [[Knesset|knesset]], el Parlamento israelí, y quien reúna 61 podrá formar Gobierno. Según el recuento final de la Comisión Electoral Central, la participación fue del 77,9 %. El Likud de [[Benjamín Netanyahu|netanyahu]] es el partido más votado, con 27 escaños, menos que los 32 que tenía. Su bloque, con partidos ultraortodoxos y de extrema derecha, suma 53, ocho menos de los necesarios.",
-    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes tienen 19 y no pertenecen a ningún bloque. Tras dos días de consultas, 67 de los 120 diputados recomendaron a Eisenkot y 46 a Netanyahu, según Al Jazeera. El sábado 7, el presidente, Isaac Herzog, anunció que encargará a Eisenkot intentar formar Gobierno; según los medios, se lo comunicará formalmente hoy, domingo 8. Que le toque a él no aparta automáticamente a Netanyahu del poder, y Eisenkot aún no tiene una coalición. Herzog pide a ambos bloques que cedan para evitar nuevas elecciones."
+    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes tienen 19 y no pertenecen a ningún bloque. Tras las consultas, 67 de los 120 diputados recomendaron a Eisenkot y 46 a Netanyahu, según Al Jazeera. El domingo 8, el presidente, Isaac Herzog, le entregó el encargo de formar Gobierno. Eisenkot ofreció un sitio al Likud y a Sionismo Religioso, bajo su mando, y habló de un «gobierno nacional de emergencia». Netanyahu dijo que acepta un Gobierno de unidad, pero sin «partidarios del terrorismo», lo que según los medios apunta a los partidos árabes. Eisenkot aún no tiene coalición."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -534,32 +541,35 @@
     "AP",
     "Al Jazeera",
     "Quartz en español",
-    "CNN en Español"
+    "CNN en Español",
+    "Moncloa.com",
+    "La Jornada",
+    "Estrella Digital"
    ],
    "publicada": "2026-10-20",
-   "actualizada": "2026-11-08",
-   "nota_actualizacion": "Herzog anunció el 7 de noviembre que encargará a Eisenkot, y no a Netanyahu, intentar formar Gobierno; el encargo formal es hoy.",
+   "actualizada": "2026-11-09",
+   "nota_actualizacion": "Herzog entregó el 8 de noviembre el encargo a Eisenkot, que ofrece un sitio al Likud bajo su mando; Netanyahu acepta un Gobierno de unidad, pero sin «partidarios del terrorismo».",
    "en": {
-    "titular": "Israel: Herzog will task Eisenkot today with forming a government, with 67 recommendations against 46 for Netanyahu",
-    "entradilla": "The president announced on Saturday that the mandate will be given today, Sunday 8; Eisenkot will have 28 days, extendable by another 14, to gather 61 MPs.",
+    "titular": "Israel: Herzog tasks Eisenkot with forming a government, with 67 recommendations against 46 for Netanyahu",
+    "entradilla": "Eisenkot has 28 days, extendable by another 14, to gather 61 MPs, and offers Likud a place in his government, but under his leadership.",
     "parrafos": [
      "On Tuesday 27 October, Israel held parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. The 120 members of the [[Knesset|knesset]], the Israeli Parliament, were being elected, and whoever gathers 61 can form a government. According to the final count by the Central Elections Committee, turnout was 77.9%. [[Benjamin Netanyahu|netanyahu]]'s Likud is the most-voted party, with 27 seats, fewer than the 32 it held. His bloc, with ultra-Orthodox and far-right parties, has 53, eight short of what it needs.",
-     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties have 19 and belong to neither bloc. After two days of consultations, 67 of the 120 members of parliament recommended Eisenkot and 46 recommended Netanyahu, according to Al Jazeera. On Saturday 7, President Isaac Herzog announced that he will task Eisenkot with trying to form a government; according to the media, he will formally tell him today, Sunday 8. Being given the task does not automatically remove Netanyahu from power, and Eisenkot does not yet have a coalition. Herzog is asking both blocs to compromise to avoid new elections."
+     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties have 19 and belong to neither bloc. After the consultations, 67 of the 120 members of parliament recommended Eisenkot and 46 recommended Netanyahu, according to Al Jazeera. On Sunday 8, President Isaac Herzog gave him the mandate to form a government. Eisenkot offered a place to Likud and to Religious Zionism, under his leadership, and spoke of an 'emergency national government'. Netanyahu said he accepts a unity government, but without 'supporters of terrorism', which according to the media points to the Arab parties. Eisenkot does not yet have a coalition."
     ],
-    "nota_actualizacion": "On 7 November Herzog announced that he will task Eisenkot, not Netanyahu, with trying to form a government; the formal mandate is today."
+    "nota_actualizacion": "On 8 November Herzog gave Eisenkot the mandate; he offers Likud a place under his leadership, and Netanyahu accepts a unity government, but without 'supporters of terrorism'."
    }
   },
   {
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Márquez gana el sprint de Qatar, amplía a 49 puntos su ventaja sobre Martín y hoy tiene su primera opción de ser campeón",
-   "entradilla": "Di Giannantonio fue segundo y Martín, tercero; hoy se corre la carrera larga en Lusail.",
+   "titular": "Bezzecchi gana en Qatar y Márquez, segundo, aplaza el título a Portugal con 60 puntos de ventaja sobre Martín",
+   "entradilla": "Martín fue séptimo y retrasa la celebración: quedan 74 puntos en juego en las dos citas que faltan.",
    "parrafos": [
-    "El sábado 7 de noviembre, [[Marc Márquez|marquez]], de Ducati, ganó la [[carrera sprint|sprint]] del Gran Premio de Qatar, en el circuito de Lusail. El italiano Fabio Di Giannantonio fue segundo, a 0,862 segundos, y [[Jorge Martín|martin]], de Aprilia, tercero, a 1,519. Martín no había podido correr en Malasia por la caída que sufrió en Australia el 24 de octubre. En la última vuelta, Di Giannantonio le adelantó, y eso le costó dos puntos en el campeonato.",
-    "Tras el sprint, que da 12 puntos al ganador, Márquez suma 411 puntos y Martín 362: la ventaja sube de 44 a 49. En el [[MotoGP|motogp]] gana el título quien más puntos suma al final de la temporada. Hoy, domingo 8, se corre la carrera larga, que da 25 puntos al ganador, y según los medios Márquez tendrá su primera opción, un «match point», de proclamarse campeón, aunque matemáticamente depende de lo que haga Martín. Hace una semana ganó en Sepang, su séptima victoria del año."
+    "El domingo 8 de noviembre, [[Marco Bezzecchi|bezzecchi]], de Aprilia, ganó la carrera larga del Gran Premio de Qatar, en el circuito de Lusail, y logró su sexta victoria del año. [[Marc Márquez|marquez]], de Ducati, fue segundo y [[Jorge Martín|martin]], también de Aprilia, acabó séptimo. El día anterior, Márquez había ganado la [[carrera sprint|sprint]] y Martín había sido tercero. Según los medios, para proclamarse campeón en Qatar necesitaba ganar y que Martín no puntuara, y no se cumplió ninguna de las dos cosas, así que la celebración se aplaza.",
+    "Tras la carrera, Márquez suma 431 puntos y Martín, 371: la ventaja es de 60. En el [[MotoGP|motogp]] gana el título quien más puntos suma al final de la temporada, y quedan 74 en juego en las dos citas que faltan, a razón de 37 por fin de semana: 25 para el ganador de la carrera larga y 12 para el de la sprint. Según los medios, Márquez podría proclamarse campeón ya en el Gran Premio de Portugal, en Portimão, dentro de dos semanas, si gana allí la sprint. Todavía no es matemático: tiene que ocurrir en pista."
    ],
-   "busqueda_imagenes": "Marc Márquez Sepang victoria Malasia 2026",
+   "busqueda_imagenes": "Marco Bezzecchi Qatar victoria Marc Márquez Lusail 2026",
    "fuentes": [
     "Crash.net",
     "Motorsport.com (España)",
@@ -568,19 +578,23 @@
     "Demócrata",
     "Infobae (EFE)",
     "COPE",
-    "Grande Premio"
+    "Grande Premio",
+    "El Español",
+    "Motorsport.com",
+    "OKDiario",
+    "El Diario Alerta"
    ],
    "publicada": "2026-10-06",
-   "actualizada": "2026-11-08",
-   "nota_actualizacion": "Márquez ganó el sprint de Qatar, suma 411 puntos (49 más que Martín, tercero) y hoy tiene su primera opción de ser campeón.",
+   "actualizada": "2026-11-09",
+   "nota_actualizacion": "Bezzecchi won the Qatar race, Márquez was second and Martín seventh: Márquez leads by 60 points (431 to 371) and could be champion in Portugal, in two weeks.",
    "en": {
-    "titular": "Márquez wins the Qatar sprint, extends his lead over Martín to 49 points and has his first chance to be champion today",
-    "entradilla": "Di Giannantonio was second and Martín third; the long race is run today at Lusail.",
+    "titular": "Bezzecchi wins in Qatar and second-placed Márquez puts off the title until Portugal, with a 60-point lead over Martín",
+    "entradilla": "Martín was seventh and delays the celebration: 74 points are still up for grabs in the two rounds that remain.",
     "parrafos": [
-     "On Saturday 7 November, [[Marc Márquez|marquez]], on a Ducati, won the Qatar Grand Prix [[sprint race|sprint]] at the Lusail circuit. The Italian Fabio Di Giannantonio was second, 0.862 seconds behind, and [[Jorge Martín|martin]], on an Aprilia, was third, 1.519 behind. Martín had been unable to race in Malaysia because of the crash he suffered in Australia on 24 October. On the last lap Di Giannantonio passed him, which cost him two points in the championship.",
-     "After the sprint, which gives 12 points to the winner, Márquez has 411 points and Martín 362: the lead goes from 44 to 49. In [[MotoGP|motogp]] the title goes to whoever has the most points at the end of the season. Today, Sunday 8, the long race is run, which gives 25 points to the winner, and according to the media Márquez will have his first chance, a 'match point', to be crowned champion, although mathematically it depends on what Martín does. A week ago he won at Sepang, his seventh victory of the year."
+     "On Sunday 8 November, [[Marco Bezzecchi|bezzecchi]], on an Aprilia, won the long race of the Qatar Grand Prix, at the Lusail circuit, taking his sixth victory of the year. [[Marc Márquez|marquez]], on a Ducati, was second and [[Jorge Martín|martin]], also on an Aprilia, finished seventh. The day before, Márquez had won the [[sprint race|sprint]] and Martín had been third. According to the media, to be crowned champion in Qatar he needed to win and for Martín to score no points, and neither of those things happened, so the celebration is put off.",
+     "After the race, Márquez has 431 points and Martín 371: the lead is 60. In [[MotoGP|motogp]] the title goes to whoever has the most points at the end of the season, and 74 are still at stake in the two rounds that remain, at 37 per weekend: 25 for the winner of the long race and 12 for the winner of the sprint. According to the media, Márquez could be crowned champion as early as the Portuguese Grand Prix, at Portimão, in two weeks' time, if he wins the sprint there. It is not yet mathematical: it still has to happen on the track."
     ],
-    "nota_actualizacion": "Márquez won the Qatar sprint, has 411 points (49 more than Martín, who was third) and today has his first chance to be champion."
+    "nota_actualizacion": "Bezzecchi won the Qatar race, Márquez was second and Martín seventh: Márquez leads by 60 points (431 to 371) and could be champion in Portugal in two weeks."
    }
   },
   {
@@ -934,13 +948,13 @@
    "id": "barca-lider-madrid-gana-liga-clasico-25-octubre",
    "seccion": "dep",
    "dibujo": "wembley",
-   "titular": "Tras el Clásico, el Barça golea 6-1 al Alavés y el Madrid gana 0-3 al Racing; el Atlético ya es segundo",
-   "entradilla": "En la jornada 11 de LaLiga, el Barcelona lidera con 30 puntos, el Atlético tiene 28 y el Real Madrid, 27.",
+   "titular": "El Barça gana 1-2 al Atlético y lidera LaLiga con 33 puntos; el Madrid, a tres, ganó 0-3 en Valencia",
+   "entradilla": "En la jornada 12, el Barcelona suma 33 puntos, el Madrid, 30, y el Atlético, 28; Fermín López marcó dos goles en el Metropolitano.",
    "parrafos": [
-    "El Real Madrid ganó 1-2 al Barcelona el domingo 25 de octubre en el Camp Nou, en el primer [[Clásico|clasico]] de la temporada, con dos goles de [[Kylian Mbappé|mbappe]], en los minutos 41 y 87. Raphinha había empatado para el Barça en el 61. El Madrid jugó sin Vinícius, sancionado con cuatro partidos, y el Barcelona perdió así su primer partido de Liga tras nueve victorias seguidas. Solo cinco días antes había caído 4-2 en París ante el PSG en la [[Liga de Campeones|champions]], así que acumuló dos derrotas en una semana.",
-    "Una semana después, en la jornada 11 de [[LaLiga|laliga]], el Barcelona goleó 6-1 al Alavés, con dos goles de Raphinha y dos de Lamine Yamal, y recuperó la ventaja. El Madrid ganó 0-3 al Racing de Santander, con goles de Mbappé (de penalti), Bellingham y Diomandé, y el Atlético venció 2-0 al Levante. Con ello, el Barça lidera con 30 puntos, el Atlético es segundo con 28 y el Madrid, tercero con 27. Quedan 27 jornadas: casi todo está por decidir."
+    "El Real Madrid ganó 1-2 al Barcelona el domingo 25 de octubre en el Camp Nou, en el primer [[Clásico|clasico]] de la temporada, con dos goles de [[Kylian Mbappé|mbappe]]. Raphinha había empatado para el Barça. El Madrid jugó sin Vinícius, sancionado con cuatro partidos, y el Barcelona perdió así su primer partido de Liga tras nueve victorias seguidas. Una semana después, en la jornada 11, el Barça goleó 6-1 al Alavés, el Madrid ganó 0-3 al Racing de Santander y el Atlético venció 2-0 al Levante, y el Barcelona recuperó el liderato.",
+    "El sábado 7 de noviembre, en la jornada 12 de [[LaLiga|laliga]], el Real Madrid ganó 0-3 en el campo del Valencia. El domingo 8, el Barcelona visitó al Atlético en el Metropolitano: Giuliano Simeone adelantó a los locales en el minuto 10, pero Fermín López marcó en el 45 y en el 66 y los azulgranas ganaron 1-2. Con ello, el Barça lidera con 33 puntos, el Madrid es segundo con 30 y el Atlético, tercero con 28. Quedan 26 jornadas: casi todo está por decidir."
    ],
-   "busqueda_imagenes": "Barcelona Real Madrid Clásico Mbappé Camp Nou 25 octubre 2026",
+   "busqueda_imagenes": "Atlético Barcelona Fermín López Metropolitano jornada 12",
    "fuentes": [
     "ESPN",
     "El Financiero",
@@ -949,19 +963,23 @@
     "El Espectador",
     "Ámbito",
     "Teleamazonas",
-    "Unitel"
+    "Unitel",
+    "Marpensa TV",
+    "El Periódico de Ceuta",
+    "Emisoras Unidas",
+    "Bolavip"
    ],
    "publicada": "2026-10-19",
-   "actualizada": "2026-11-02",
-   "nota_actualizacion": "En la jornada 11, el Barça goleó 6-1 al Alavés y el Madrid ganó 0-3 al Racing: Barça 30 puntos, Atlético 28, Madrid 27.",
+   "actualizada": "2026-11-09",
+   "nota_actualizacion": "El Barça remontó 1-2 en el Metropolitano y lidera con 33 puntos; el Madrid ganó 0-3 en Valencia (30) y el Atlético es tercero (28).",
    "en": {
-    "titular": "After the Clásico, Barça thrash Alavés 6-1 and Madrid win 3-0 at Racing; Atlético are now second",
-    "entradilla": "In round 11 of LaLiga, Barcelona lead with 30 points, Atlético have 28 and Real Madrid 27.",
+    "titular": "Barça beat Atlético 2-1 and lead LaLiga with 33 points; Madrid, three behind, won 3-0 at Valencia",
+    "entradilla": "In round 12, Barcelona have 33 points, Madrid 30 and Atlético 28; Fermín López scored twice at the Metropolitano.",
     "parrafos": [
-     "Real Madrid won 2-1 away at Barcelona on Sunday 25 October, at the Camp Nou, in the first [[Clásico|clasico]] of the season, with two goals from [[Kylian Mbappé|mbappe]], in the 41st and 87th minutes. Raphinha had levelled for Barça in the 61st. Madrid played without Vinícius, who is banned for four matches, and Barcelona thus lost their first league match after nine wins in a row. Only five days earlier they had lost 4-2 in Paris to PSG in the [[Champions League|champions]], so they suffered two defeats in a week.",
-     "A week later, in round 11 of [[LaLiga|laliga]], Barcelona thrashed Alavés 6-1, with two goals from Raphinha and two from Lamine Yamal, and regained the lead. Madrid won 3-0 at Racing de Santander, with goals from Mbappé (from the penalty spot), Bellingham and Diomandé, and Atlético beat Levante 2-0. As a result, Barça lead with 30 points, Atlético are second with 28 and Madrid third with 27. There are 27 rounds left: almost everything is still to be decided."
+     "Real Madrid won 2-1 away at Barcelona on Sunday 25 October, at the Camp Nou, in the first [[Clásico|clasico]] of the season, with two goals from [[Kylian Mbappé|mbappe]]. Raphinha had levelled for Barça. Madrid played without Vinícius, who is banned for four matches, and Barcelona thus lost their first league match after nine wins in a row. A week later, in round 11, Barça thrashed Alavés 6-1, Madrid won 3-0 at Racing de Santander and Atlético beat Levante 2-0, and Barcelona regained the lead.",
+     "On Saturday 7 November, in round 12 of [[LaLiga|laliga]], Real Madrid won 3-0 away at Valencia. On Sunday 8, Barcelona visited Atlético at the Metropolitano: Giuliano Simeone put the home side ahead in the 10th minute, but Fermín López scored in the 45th and the 66th and the Catalans won 2-1. As a result, Barça lead with 33 points, Madrid are second with 30 and Atlético third with 28. There are 26 rounds left: almost everything is still to be decided."
     ],
-    "nota_actualizacion": "In round 11, Barça thrashed Alavés 6-1 and Madrid won 3-0 at Racing: Barça 30 points, Atlético 28, Madrid 27."
+    "nota_actualizacion": "Barça came from behind to win 2-1 at the Metropolitano and lead with 33 points; Madrid won 3-0 at Valencia (30) and Atlético are third (28)."
    }
   },
   {
@@ -1027,36 +1045,33 @@
    }
   },
   {
-   "id": "midterms-2026-democratas-ganan-senado-y-camara",
+   "id": "cop31-antalya-cumbre-clima-financiacion",
    "seccion": "int",
-   "dibujo": "congress",
-   "titular": "Los demócratas ganan el Senado y la Cámara de Representantes de EE. UU. y Trump tendrá un Congreso en contra",
-   "entradilla": "Trump dice que aceptará el resultado y que está dispuesto a trabajar con ellos, aunque asegura que habría ganado si hubiera estado en las papeletas.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-b\" cx=\"52\" cy=\"46\" r=\"32\"/><path class=\"d-g\" d=\"M34 36 Q42 26 54 30 Q60 36 52 42 Q44 46 40 54 Q32 50 34 36 Z\"/><path class=\"d-g\" d=\"M60 54 Q70 48 76 56 Q74 68 64 72 Q58 64 60 54 Z\"/><circle class=\"d-l\" cx=\"52\" cy=\"46\" r=\"32\"/><rect class=\"d-p\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><rect class=\"d-a\" x=\"95\" y=\"32\" width=\"4\" height=\"34\"/><circle class=\"d-a\" cx=\"97\" cy=\"68\" r=\"8\"/><rect class=\"d-l\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><circle class=\"d-l\" cx=\"97\" cy=\"68\" r=\"8\"/></svg>",
+   "titular": "Arranca en Antalya la COP31, la cumbre del clima de la ONU, con el dinero para los países más vulnerables como gran asunto",
+   "entradilla": "Delegaciones de todo el mundo negocian hasta el 20 de noviembre; los jefes de Estado y de Gobierno se reúnen los días 11 y 12.",
    "parrafos": [
-    "El martes 3 de noviembre, Estados Unidos celebró las [[elecciones intermedias|midterms]], que se votan a mitad del mandato del presidente y renuevan toda la Cámara de Representantes y una parte del Senado. Según los medios estadounidenses, los demócratas lograron durante la noche la mayoría en el Senado del [[Congreso de EE. UU.|congresoeeuu]], al quitar escaños a los republicanos en estados como Texas, Iowa, Kansas, Carolina del Norte, Carolina del Sur y Ohio; CBS News proyecta 54 senadores demócratas y 44 republicanos, con dos escaños por decidir. Tras el recuento, los medios confirman que también han ganado la Cámara de Representantes. Además, los demócratas ganaron las gobernaciones de Texas y Ohio, dos estados donde llevaban años sin gobernar.",
-    "El resultado deja a [[Donald Trump|trump]] con un Congreso en contra durante los dos últimos años de su mandato. Es lo que en Estados Unidos se llama [[gobierno dividido|gobiernodividido]]: aprobar leyes exige pactar y los demócratas pueden frenar lo que proponga el presidente. Según analistas citados por la prensa, podría influir en los aranceles, el gasto público y las bolsas. Trump dijo que aceptará los resultados y que está dispuesto a trabajar con los demócratas, pero en su red Truth Social escribió que él «no figuraba en las papeletas» y que, de haber figurado, habrían ganado «por mayoría aplastante». Tendrán que convivir hasta las próximas elecciones presidenciales, en 2028."
+    "Hoy, lunes 9 de noviembre, arranca en [[Antalya|antalya]], en Turquía, la [[COP31|cop31]], la conferencia anual de las Naciones Unidas sobre el [[cambio climático|cambioclimatico]]. Durará hasta el 20 de noviembre en el centro Expo de la ciudad. La preside el turco Murat Kurum, el australiano Chris Bowen dirige las negociaciones y los jefes de Estado y de Gobierno se reúnen los días 11 y 12, según la ONU. Es la cita en la que los países intentan ponerse de acuerdo sobre qué hacer para frenar el calentamiento del planeta y para que los más vulnerables puedan protegerse de sequías, inundaciones y otros efectos.",
+    "El gran asunto es el dinero. Los países en desarrollo piden que los ricos cumplan sus promesas de financiación. Según los medios, se discutirá cómo fijar nuevos objetivos más allá de los 100.000 millones de dólares anuales prometidos, quién comprueba que se pagan y si la ayuda llega como donación o como préstamo, que hay que devolver. También se hablará de recortar emisiones, de abandonar los [[combustibles fósiles|fosiles]] y de que ese cambio no deje atrás a trabajadores ni a comunidades. La cumbre se presenta como una prueba de credibilidad del [[Acuerdo de París|acuerdoparis]]. Todavía no hay ningún acuerdo: empiezan dos semanas de negociación."
    ],
-   "busqueda_imagenes": "Capitolio Washington elecciones intermedias 2026 demócratas",
+   "busqueda_imagenes": "COP31 Antalya cumbre clima 2026",
    "fuentes": [
-    "CNBC",
-    "PBS NewsHour",
-    "elDiario.es",
-    "Univision",
-    "Bolsamania",
-    "La Nación",
-    "Público"
+    "CMNUCC (ONU)",
+    "Moncloa.com",
+    "EcoAvant",
+    "Pacto Mundial"
    ],
-   "publicada": "2026-11-04",
-   "actualizada": "2026-11-05",
-   "nota_actualizacion": "Los medios confirman que los demócratas también han ganado la Cámara de Representantes y controlan todo el Congreso.",
+   "publicada": "2026-11-09",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Democrats win the US Senate and House of Representatives and Trump will face a hostile Congress",
-    "entradilla": "Trump says he will accept the result and is willing to work with them, although he claims he would have won had he been on the ballot.",
+    "titular": "COP31, the UN climate summit, opens in Antalya with money for the most vulnerable countries as the big issue",
+    "entradilla": "Delegations from around the world negotiate until 20 November; heads of state and government meet on the 11th and 12th.",
     "parrafos": [
-     "On Tuesday 3 November, the United States held its [[midterm elections|midterms]], which are voted on halfway through the president's term and renew the whole House of Representatives and part of the Senate. According to US media, Democrats won a majority in the Senate of the [[US Congress|congresoeeuu]] overnight, taking seats from the Republicans in states such as Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; CBS News projects 54 Democratic senators and 44 Republican ones, with two seats still to be decided. After the count, the media confirm that they have also won the House of Representatives. Democrats also won the governorships of Texas and Ohio, two states they had not governed for years.",
-     "The result leaves [[Donald Trump|trump]] facing a hostile Congress for the last two years of his term. It is what in the United States is called [[divided government|gobiernodividido]]: passing laws requires deals, and Democrats can block what the president proposes. According to analysts cited by the press, it could affect tariffs, public spending and stock markets. Trump said he will accept the results and is willing to work with Democrats, but on his Truth Social network he wrote that he 'was not on the ballot' and that, had he been, they would have won 'by a landslide'. They will have to live together until the next presidential election, in 2028."
+     "Today, Monday 9 November, opens in [[Antalya|antalya]], in Turkey, [[COP31|cop31]], the annual United Nations conference on [[climate change|cambioclimatico]]. It will run until 20 November at the city's Expo centre. It is chaired by Turkey's Murat Kurum, Australia's Chris Bowen leads the negotiations, and heads of state and government meet on the 11th and 12th, according to the UN. It is the meeting where countries try to agree on what to do to slow the warming of the planet and to let the most vulnerable protect themselves from droughts, floods and other effects.",
+     "The big issue is money. Developing countries ask the rich ones to keep their funding promises. According to the media, the talks will cover how to set new targets beyond the 100,000 million dollars a year that was promised, who checks that it is paid, and whether the aid arrives as a grant or as a loan, which has to be repaid. They will also discuss cutting emissions, moving away from [[fossil fuels|fosiles]] and making sure that change does not leave workers or communities behind. The summit is presented as a test of the credibility of the [[Paris Agreement|acuerdoparis]]. There is no agreement yet: two weeks of negotiation are beginning."
     ],
-    "nota_actualizacion": "The media confirm that Democrats have also won the House of Representatives and now control the whole of Congress."
+    "nota_actualizacion": null
    }
   },
   {
@@ -3635,11 +3650,56 @@
     "n": "Data centres",
     "x": "Buildings full of powerful computers that store information and run the internet and artificial intelligence. They use a lot of electricity."
    }
+  },
+  "cop31": {
+   "t": "palabra",
+   "n": "COP31",
+   "x": "Conferencia anual de las Naciones Unidas sobre el cambio climático; esta es la número 31. «COP» significa «Conferencia de las Partes», es decir, de los países que firmaron el tratado del clima.",
+   "en": {
+    "n": "COP31",
+    "x": "The annual United Nations conference on climate change; this is the 31st. 'COP' stands for 'Conference of the Parties', meaning the countries that signed the climate treaty."
+   }
+  },
+  "cambioclimatico": {
+   "t": "palabra",
+   "n": "Cambio climático",
+   "x": "Subida de la temperatura media de la Tierra y cambios en el clima, causados sobre todo por quemar petróleo, gas y carbón, que liberan gases que retienen el calor.",
+   "en": {
+    "n": "Climate change",
+    "x": "A rise in the Earth's average temperature and changes in the climate, caused mainly by burning oil, gas and coal, which release gases that trap heat."
+   }
+  },
+  "acuerdoparis": {
+   "t": "palabra",
+   "n": "Acuerdo de París",
+   "x": "Tratado de 2015 por el que los países se comprometieron a mantener el calentamiento global muy por debajo de 2 grados e intentar no pasar de 1,5 respecto a la época preindustrial.",
+   "en": {
+    "n": "Paris Agreement",
+    "x": "A 2015 treaty in which countries pledged to keep global warming well below 2 degrees and to try not to exceed 1.5 compared with pre-industrial times."
+   }
+  },
+  "fosiles": {
+   "t": "palabra",
+   "n": "Combustibles fósiles",
+   "x": "El petróleo, el gas y el carbón. Se formaron hace millones de años y, al quemarlos para obtener energía, se libera dióxido de carbono, que calienta el planeta.",
+   "en": {
+    "n": "Fossil fuels",
+    "x": "Oil, gas and coal. They formed millions of years ago and, when burned for energy, they release carbon dioxide, which warms the planet."
+   }
+  },
+  "antalya": {
+   "t": "lugar",
+   "n": "Antalya",
+   "x": "Ciudad turca de la costa mediterránea, muy conocida por sus playas y el turismo. Acoge la COP31.",
+   "en": {
+    "n": "Antalya",
+    "x": "A Turkish city on the Mediterranean coast, well known for its beaches and tourism. It hosts COP31."
+   }
   }
  },
- "edicion_en": "Sunday 8 November 2026",
+ "edicion_en": "Monday 9 November 2026",
  "destacada": {
-  "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
-  "fecha": "2026-11-08"
+  "id": "cop31-antalya-cumbre-clima-financiacion",
+  "fecha": "2026-11-09"
  }
 }
