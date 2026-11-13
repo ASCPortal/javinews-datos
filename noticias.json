@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-12T07:00:00+01:00",
- "edicion": "Jueves 12 de noviembre de 2026",
+ "actualizado": "2026-11-13T07:00:00+01:00",
+ "edicion": "Viernes 13 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -75,7 +75,7 @@
    "entradilla": "Interior registra 53 detenidos y 1.044 incidencias en la primera huelga general en 14 años, según datos provisionales; los organizadores hablan de cientos de miles de manifestantes.",
    "parrafos": [
     "La [[huelga general|huelgageneral]] del miércoles 11 de noviembre, la primera en 14 años, terminó con una gran manifestación en Madrid: la Delegación del Gobierno contó 120.000 personas y los organizadores hablan de cientos de miles; en Barcelona, la Delegación contó 55.000. Convocaron CCOO, UGT, CGT, CNT y otras organizaciones para exigir un tope al alquiler, una subida del 7 % del salario mínimo y un millón de viviendas asequibles. La valoración del seguimiento depende de quién la haga: los sindicatos hablan de éxito, aunque sin dar una cifra nacional, y la patronal [[CEOE|ceoe]] de «fracaso», con menos de un 5 % de seguimiento en las empresas.",
-    "Red Eléctrica registró hasta las 18:00 una demanda de electricidad un 4,9 % menor que la prevista para un día sin huelga. Según el [[Ministerio del Interior|interior]], con datos provisionales, hubo 53 detenidos y 1.044 incidencias en toda España. Según los medios, hubo cargas policiales en Madrid y Barcelona y, en esta última, escaparates rotos y saqueos tras la marcha. Detrás de las protestas está Maricarmen, de 87 años, desahuciada en Madrid, que murió el 7 de octubre; su [[desahucio|desahucio]] las encendió. Hoy, jueves 12, la Diputación Permanente vota los decretos de vivienda del Gobierno."
+    "Red Eléctrica registró hasta las 18:00 una demanda de electricidad un 4,9 % menor que la prevista para un día sin huelga. Según el [[Ministerio del Interior|interior]], con datos provisionales, hubo 53 detenidos y 1.044 incidencias en toda España. Según los medios, hubo cargas policiales en Madrid y Barcelona y, en esta última, escaparates rotos y saqueos tras la marcha. Detrás de las protestas está Maricarmen, de 87 años, desahuciada en Madrid, que murió el 7 de octubre; su [[desahucio|desahucio]] las encendió. Ayer, jueves 12, la Diputación Permanente convalidó uno de los decretos de vivienda del Gobierno y tumbó el otro."
    ],
    "busqueda_imagenes": "Puerta del Sol acampada vivienda huelga",
    "fuentes": [
@@ -104,27 +104,27 @@
     "eleconomista.es"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-12",
-   "nota_actualizacion": "Balance de la huelga general: la Delegación del Gobierno contó 120.000 personas en Madrid, Interior registró 53 detenidos y la patronal habla de «fracaso» mientras los sindicatos hablan de éxito.",
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "El 12 de noviembre la Diputación Permanente convalidó uno de los decretos de vivienda del Gobierno y tumbó el otro.",
    "en": {
     "titular": "General strike over housing: unions and employers disagree on turnout, with 120,000 marching in Madrid according to the Government",
     "entradilla": "The Interior Ministry reports 53 arrests and 1,044 incidents on the first general strike in 14 years, according to provisional data; the organisers speak of hundreds of thousands of marchers.",
     "parrafos": [
      "The [[general strike|huelgageneral]] of Wednesday 11 November, the first in 14 years, ended with a huge march in Madrid: the Government Delegation counted 120,000 people and the organisers speak of hundreds of thousands; in Barcelona, the Delegation counted 55,000. It was called by CCOO, UGT, CGT, CNT and other organisations to demand a cap on rents, a 7% rise in the minimum wage and a million affordable homes. How the turnout is judged depends on who is judging: the unions speak of a success, though without giving a national figure, and the employers' federation [[CEOE|ceoe]] speaks of a 'failure', with less than 5% turnout in companies.",
-     "Red Eléctrica recorded, up to 18:00, electricity demand 4.9% lower than forecast for a day without a strike. According to the [[Ministry of the Interior|interior]], on provisional data, there were 53 arrests and 1,044 incidents across Spain. According to the media, there were police charges in Madrid and Barcelona and, in the latter, broken shop windows and looting after the march. Behind the protests is Maricarmen, 87, evicted in Madrid, who died on 7 October; her [[eviction|desahucio]] set them off. Today, Thursday 12, the Permanent Deputation votes on the Government's housing decrees."
+     "Red Eléctrica recorded, up to 18:00, electricity demand 4.9% lower than forecast for a day without a strike. According to the [[Ministry of the Interior|interior]], on provisional data, there were 53 arrests and 1,044 incidents across Spain. According to the media, there were police charges in Madrid and Barcelona and, in the latter, broken shop windows and looting after the march. Behind the protests is Maricarmen, 87, evicted in Madrid, who died on 7 October; her [[eviction|desahucio]] set them off. Yesterday, Thursday 12, the Permanent Deputation ratified one of the Government's housing decrees and threw out the other."
     ],
-    "nota_actualizacion": "General strike balance: the Government Delegation counted 120,000 people in Madrid, the Interior Ministry recorded 53 arrests and employers speak of 'failure' while the unions speak of success."
+    "nota_actualizacion": "On 12 November the Permanent Deputation ratified one of the Government's housing decrees and threw out the other."
    }
   },
   {
    "id": "el-congreso-decide-sobre-las-leyes-de-vivienda",
    "seccion": "es",
    "dibujo": "congress",
-   "titular": "Sánchez convoca elecciones el 29 de noviembre y los decretos de vivienda se votan hoy, con el PNV decisivo",
-   "entradilla": "La Diputación Permanente los vota hoy, jueves 12, a las 9:00, un día después de la huelga general y la víspera de la campaña.",
+   "titular": "La Diputación Permanente convalida el «decreto Maricarmen» por 35 votos a 34 y tumba el de los alquileres, en vísperas de la campaña",
+   "entradilla": "El PNV fue decisivo: apoyó el decreto de desahucios y ayudas, pero votó contra la prórroga automática de los alquileres, que se quedó en 34 votos.",
    "parrafos": [
-    "El lunes 5 de octubre, [[Pedro Sánchez|sanchez]] anunció que adelanta las [[elecciones anticipadas|elecciones]] generales al domingo 29 de noviembre, después de que el [[Congreso|congreso]] rechazara los dos decretos de vivienda con 172 votos a favor y 178 en contra. El Boletín Oficial del Estado publicó el decreto el martes 6: las Cortes quedaron disueltas. Cuando se disuelven antes de tiempo, la ley dice que se vota 54 días después de publicar el decreto. Si no las hubiera adelantado, las elecciones habrían tocado en 2027.",
-    "El Gobierno volvió a aprobar los dos [[reales decretos-ley|rdl]], con retoques técnicos, para que los vote la [[Diputación Permanente|diputacionpermanente]], el grupo de 69 diputados que sustituye al Congreso mientras está disuelto. La votación estaba fijada para el viernes 16 de octubre, pero la presidenta del Congreso, Francina Armengol, la convocó para hoy, jueves 12 de noviembre, a las 9:00. Según los medios, PP, Vox y Junts suman 34 votos frente a 35 del resto de grupos, así que el [[PNV|pnv]] es decisivo. Su portavoz anunció que votará a favor del primer decreto, con el escudo contra desahucios, y en contra del segundo, el de los alquileres: con un empate a 34, este último no se convalidaría."
+    "La [[Diputación Permanente|diputacionpermanente]], el grupo de 69 diputados que sustituye al [[Congreso|congreso]] mientras está disuelto, votó ayer, jueves 12, los dos [[reales decretos-ley|rdl]] de vivienda del Gobierno. El llamado «decreto Maricarmen», en recuerdo de la mujer de 87 años cuyo [[desahucio|desahucio]] encendió las protestas, salió adelante con 35 votos a favor (PSOE, Sumar, PNV, ERC, Bildu y Podemos) y 34 en contra (PP, Vox y Junts). Según los medios, protege de los desahucios a los hogares vulnerables y ofrece préstamos de hasta 50.000 euros a quien compre su primera casa.",
+    "El segundo decreto renovaba automáticamente los contratos de alquiler por cinco años más. Obtuvo solo 34 votos, uno menos de los necesarios, y queda derogado: PP, Vox y Junts votaron en contra de los dos decretos y en este segundo se sumó el [[PNV|pnv]], que lo consideró desproporcionado y temió que redujera la oferta de pisos. El Gobierno defendía la prórroga como una protección para los inquilinos. Hoy, viernes 13, arranca la campaña de las [[elecciones anticipadas|elecciones]] del 29 de noviembre, en la que la vivienda será uno de los temas centrales."
    ],
    "busqueda_imagenes": "Congreso de los Diputados votación",
    "fuentes": [
@@ -140,32 +140,34 @@
     "Infobae (Europa Press)",
     "Deia",
     "La Región",
-    "El Debate"
+    "El Debate",
+    "Euronews",
+    "Estrella Digital"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-12",
-   "nota_actualizacion": "La Diputación Permanente vota hoy, jueves 12 de noviembre a las 9:00, los decretos de vivienda; el PNV es decisivo.",
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "La Diputación Permanente convalidó el 12 de noviembre, por 35 votos a 34, el «decreto Maricarmen» y tumbó el de la prórroga automática de los alquileres.",
    "en": {
-    "titular": "Sánchez calls an election for 29 November and the housing decrees are voted on today, with the PNV holding the key",
-    "entradilla": "The Permanent Deputation votes on them today, Thursday 12, at 9:00, a day after the general strike and on the eve of the campaign.",
+    "titular": "Permanent Deputation ratifies the 'Maricarmen decree' by 35 votes to 34 and throws out the rents decree, on the eve of the campaign",
+    "entradilla": "The PNV held the key: it backed the decree on evictions and aid, but voted against the automatic extension of rents, which got 34 votes.",
     "parrafos": [
-     "On Monday 5 October, [[Pedro Sánchez|sanchez]] announced that he is bringing the general [[early election|elecciones]] forward to Sunday 29 November, after the [[Congress|congreso]] rejected the two housing decrees by 172 votes in favour to 178 against. The official state gazette (the BOE) published the decree on Tuesday 6: Parliament was dissolved. When Parliament is dissolved early, the law says the vote is held 54 days after the decree is published. Had he not brought it forward, the election would have been due in 2027.",
-     "The Government approved the two [[royal decree-laws|rdl]] again, with technical changes, so that the [[Permanent Deputation|diputacionpermanente]], the group of 69 MPs who stand in for Congress while it is dissolved, can vote on them. The vote had been set for Friday 16 October, but Congress Speaker Francina Armengol called it for today, Thursday 12 November, at 9:00. According to the media, PP, Vox and Junts have 34 votes against 35 for the other groups, so the [[PNV|pnv]] holds the key. Its spokesperson announced that it will vote for the first decree, which contains the shield against evictions, and against the second one, on rents: with a 34-34 tie, the latter would not be ratified."
+     "The [[Permanent Deputation|diputacionpermanente]], the group of 69 MPs who stand in for [[Congress|congreso]] while it is dissolved, voted yesterday, Thursday 12, on the Government's two housing [[royal decree-laws|rdl]]. The so-called 'Maricarmen decree', named after the 87-year-old woman whose [[eviction|desahucio]] set off the protests, passed with 35 votes in favour (PSOE, Sumar, PNV, ERC, Bildu and Podemos) and 34 against (PP, Vox and Junts). According to the media, it protects vulnerable households from eviction and offers loans of up to 50,000 euros to people buying their first home.",
+     "The second decree would have automatically renewed rental contracts for another five years. It got only 34 votes, one short of what it needed, and is repealed: PP, Vox and Junts voted against both decrees and on this second one they were joined by the [[PNV|pnv]], which found it disproportionate and feared it would reduce the supply of flats. The Government defended the extension as protection for tenants. Today, Friday 13, the campaign for the 29 November [[early election|elecciones]] begins, with housing set to be one of its central themes."
     ],
-    "nota_actualizacion": "The Permanent Deputation votes on the housing decrees today, Thursday 12 November at 9:00; the PNV holds the key."
+    "nota_actualizacion": "On 12 November the Permanent Deputation ratified the 'Maricarmen decree' by 35 votes to 34 and threw out the one on the automatic extension of rents."
    }
   },
   {
    "id": "supremo-mantiene-sin-voto-a-163020-nacionalizados-ley-de-nietos",
    "seccion": "es",
    "dibujo": "ballot",
-   "titular": "El Supremo mantiene sin voto el 29 de noviembre a 163.020 nacionalizados por la «ley de nietos»",
-   "entradilla": "El Supremo estudia ahora ampliar la medida a los hijos de los nacionalizados; el Constitucional no admitió el recurso del Defensor del Pueblo.",
+   "titular": "El Supremo deja votar el 29 de noviembre a 189.678 hijos de nacionalizados por la «ley de nietos», pero mantiene sin voto a sus padres",
+   "entradilla": "El tribunal rechazó ampliar la suspensión por falta de tiempo; el procedimiento sigue abierto y continuará después de las elecciones.",
    "parrafos": [
-    "El lunes 12 de octubre, el [[Tribunal Supremo|supremo]] decidió mantener la [[suspensión cautelar|suspensioncautelar]] del voto de 163.020 personas que se han nacionalizado españolas con la llamada [[ley de nietos|leynietos]]. Esa norma permite pedir la nacionalidad a hijos y nietos de españoles que se exiliaron, sobre todo durante la Guerra Civil y la dictadura. Los afectados no podrán votar en las elecciones del 29 de noviembre, salvo que un consulado certifique que su antepasado salió de España por exilio. El tribunal rechazó la petición del Gobierno de levantar la medida: sostiene que sigue existiendo el riesgo de formar un [[censo electoral|censo]] de forma irregular.",
-    "La suspensión la pidieron Vox y la asociación Iustitia Europa, que sostienen que una instrucción del Ministerio de Justicia amplió la ley al dar por supuesto que quien salió de España entre 1936 y 1955 lo hizo por exilio. El Gobierno, cuya portavoz, Elma Saiz, calificó la decisión de «extraordinariamente grave», responde que se restringe un derecho fundamental, el voto. El [[Tribunal Constitucional|tc]] no admitió, por 10 votos contra 2, el recurso del Defensor del Pueblo, porque lo consideró prematuro: el Supremo todavía tramita el caso. Ahora el Supremo estudia si extiende la suspensión a los hijos de los nacionalizados inscritos como residentes en el extranjero; según los medios, ya ha dejado fuera a quienes viven en España."
+    "La llamada [[ley de nietos|leynietos]] permite pedir la nacionalidad a hijos y nietos de españoles que se exiliaron, sobre todo durante la Guerra Civil y la dictadura. Desde septiembre, el [[Tribunal Supremo|supremo]] mantiene la [[suspensión cautelar|suspensioncautelar]] del voto de unos 162.000 nacionalizados por esa vía, a petición de Vox y la asociación Iustitia Europa, que temen que se forme un [[censo electoral|censo]] de forma irregular. Esas personas no podrán votar el 29 de noviembre, salvo que un consulado certifique que su antepasado salió de España por exilio.",
+    "El lunes 9 de noviembre, el Supremo rechazó extender esa suspensión a los hijos adultos de los nacionalizados: 189.678 personas inscritas en el censo de residentes en el extranjero podrán votar. Los magistrados alegaron que la petición llegó cuando ya había pasado más de la mitad del calendario electoral y que revisar el censo expediente por expediente era inviable en tan poco tiempo. Además, dieron a los afectados 20 días hábiles para personarse en el procedimiento, que seguirá abierto tras las elecciones. Los padres, en cambio, siguen sin voto."
    ],
-   "busqueda_imagenes": "Tribunal Supremo ley de nietos voto 29N",
+   "busqueda_imagenes": "Tribunal Supremo ley de nietos hijos voto 29N",
    "fuentes": [
     "Infobae",
     "The Objective",
@@ -180,19 +182,22 @@
     "Democrata",
     "Mundiario",
     "elderecho.com",
-    "EFE (Infobae)"
+    "EFE (Infobae)",
+    "TheObjective",
+    "El Debate",
+    "CiberCuba"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-11-03",
-   "nota_actualizacion": "El Supremo estudia ampliar la suspensión del voto a los hijos de los nacionalizados inscritos como residentes en el extranjero; según los medios, ya ha dejado fuera a quienes viven en España.",
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "El 9 de noviembre el Supremo rechazó suspender el voto de 189.678 hijos adultos de nacionalizados, que podrán votar el 29N; sus padres siguen sin voto.",
    "en": {
-    "titular": "The Supreme Court keeps 163,020 people naturalised under the 'grandchildren's law' from voting on 29 November",
-    "entradilla": "The Supreme Court is now considering extending the measure to the children of those naturalised; the Constitutional Court did not admit the Ombudsman's appeal.",
+    "titular": "Supreme Court lets 189,678 children of people naturalised under the 'grandchildren's law' vote on 29 November, but keeps their parents from voting",
+    "entradilla": "The court refused to extend the suspension for lack of time; the proceedings remain open and will continue after the election.",
     "parrafos": [
-     "On Monday 12 October, the [[Supreme Court|supremo]] decided to keep in place the [[precautionary suspension|suspensioncautelar]] of the vote of 163,020 people who have become Spanish nationals under the so-called [[grandchildren's law|leynietos]]. That rule lets the children and grandchildren of Spaniards who went into exile, mainly during the Civil War and the dictatorship, apply for nationality. Those affected will not be able to vote in the 29 November election unless a consulate certifies that their ancestor left Spain because of exile. The court rejected the Government's request to lift the measure: it maintains that the risk of building an [[electoral roll|censo]] irregularly still exists.",
-     "The suspension was requested by Vox and the association Iustitia Europa, who argue that a Ministry of Justice instruction stretched the law by assuming that anyone who left Spain between 1936 and 1955 did so because of exile. The Government, whose spokesperson, Elma Saiz, called the decision 'extraordinarily serious', replies that a fundamental right, the right to vote, is being restricted. The [[Constitutional Court|tc]] refused to admit, by 10 votes to 2, the Ombudsman's appeal, deeming it premature: the Supreme Court is still handling the case. The Supreme Court is now considering whether to extend the suspension to the children of those naturalised who are registered as living abroad; according to the media, it has already left out those who live in Spain."
+     "The so-called [[grandchildren's law|leynietos]] lets the children and grandchildren of Spaniards who went into exile, mainly during the Civil War and the dictatorship, apply for nationality. Since September, the [[Supreme Court|supremo]] has kept in place the [[precautionary suspension|suspensioncautelar]] of the vote of about 162,000 people naturalised that way, at the request of Vox and the association Iustitia Europa, who fear an [[electoral roll|censo]] is being built irregularly. Those people will not be able to vote on 29 November unless a consulate certifies that their ancestor left Spain because of exile.",
+     "On Monday 9 November, the Supreme Court refused to extend that suspension to the adult children of those naturalised: 189,678 people registered on the roll of residents abroad will be able to vote. The judges argued that the request came when more than half of the electoral calendar had already passed and that reviewing the roll file by file was unworkable in so little time. They also gave those affected 20 working days to join the proceedings, which will remain open after the election. Their parents, however, remain without a vote."
     ],
-    "nota_actualizacion": "The Supreme Court is considering extending the voting suspension to the children of those naturalised who are registered as living abroad; according to the media, it has already left out those who live in Spain."
+    "nota_actualizacion": "On 9 November the Supreme Court refused to suspend the vote of 189,678 adult children of those naturalised, who will be able to vote on 29 November; their parents remain without a vote."
    }
   },
   {
@@ -325,11 +330,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Catar ve «progresos» entre EE. UU. e Irán, pero Teherán niega que negocie y mantiene cerrado el estrecho",
-   "entradilla": "Trump dice que la guerra está «militarmente» terminada y que reanudar los ataques es improbable; el bloqueo naval sigue en vigor.",
+   "titular": "Ormuz: Trump dice que EE. UU. «no necesita un acuerdo» con Irán y aparta a Vance de las negociaciones; el estrecho sigue cerrado",
+   "entradilla": "El giro llega un día después de que Catar hablara de «progresos»; Irán mantiene sus siete condiciones y el bloqueo naval sigue en vigor.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Esta semana, el primer ministro de Catar se reunió con Trump en la Casa Blanca y luego con ministros europeos en París. Su portavoz dijo que hay «progresos»: las dos partes hablan de una salida diplomática. Trump asegura que la guerra está «militarmente» terminada y que reanudar los ataques es improbable, aunque mantiene el bloqueo naval. Irán niega que ahora negocie y dice que Ormuz seguirá cerrado hasta que se cumplan siete condiciones suyas; propone retomar las conversaciones en dos días si EE. UU. frena los ataques, levanta el bloqueo de sus puertos y renuncia a algunas sanciones. El secretario de Estado, Marco Rubio, había dicho que el diálogo «no ha sido productivo»."
+    "Esta semana, el primer ministro de Catar se reunió con Trump en la Casa Blanca y con ministros europeos en París; su portavoz habló de «progresos» y Trump dijo que la guerra estaba «militarmente» terminada. Pero el jueves 12 Trump cambió el tono: afirmó que Estados Unidos «no necesita un acuerdo» con Irán porque tiene «su dinero» y «su estrecho de Ormuz», y apartó de las conversaciones al vicepresidente, JD Vance, que estudiaba reabrirlas. Irán niega que ahora negocie y dice que Ormuz seguirá cerrado hasta que se cumplan siete condiciones suyas, entre ellas que EE. UU. levante el bloqueo de sus puertos. El bloqueo naval estadounidense sigue en vigor."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -374,19 +379,22 @@
     "Telemundo",
     "Informador",
     "La Patilla",
-    "PanAm Post (EFE)"
+    "PanAm Post (EFE)",
+    "Libertad Digital",
+    "Yahoo Noticias",
+    "Diario Las Américas"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-11",
-   "nota_actualizacion": "Catar dice ver «progresos» entre EE. UU. e Irán y Trump da la guerra por «militarmente» terminada, pero Irán niega que negocie y mantiene cerrado Ormuz hasta que se cumplan siete condiciones.",
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "El 12 de noviembre Trump dijo que EE. UU. «no necesita un acuerdo» con Irán y apartó a Vance de las negociaciones, un día después de que Catar hablara de «progresos».",
    "en": {
-    "titular": "Hormuz: Qatar sees 'progress' between the US and Iran, but Tehran denies negotiating and keeps the strait closed",
-    "entradilla": "Trump says the war is 'militarily' over and that resuming attacks is unlikely; the naval blockade remains in force.",
+    "titular": "Hormuz: Trump says the US 'does not need a deal' with Iran and sidelines Vance from the talks; the strait stays closed",
+    "entradilla": "The turn comes a day after Qatar spoke of 'progress'; Iran keeps its seven conditions and the naval blockade remains in force.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "This week, Qatar's prime minister met Trump at the White House and then European ministers in Paris. His spokesperson said there is 'progress': both sides are talking about a diplomatic way out. Trump claims the war is 'militarily' over and that resuming attacks is unlikely, although he is keeping the naval blockade. Iran denies it is negotiating at the moment and says Hormuz will stay closed until seven of its conditions are met; it proposes resuming talks in two days if the US halts the attacks, lifts the blockade of its ports and drops some sanctions. Secretary of State Marco Rubio had said the dialogue 'has not been productive'."
+     "This week, Qatar's prime minister met Trump at the White House and European ministers in Paris; his spokesperson spoke of 'progress' and Trump said the war was 'militarily' over. But on Thursday 12 Trump changed his tone: he said the United States 'does not need a deal' with Iran because it has 'its money' and 'its Strait of Hormuz', and he took Vice-President JD Vance, who had been considering reopening talks, off the negotiations. Iran denies it is negotiating at the moment and says Hormuz will stay closed until seven of its conditions are met, among them that the US lift the blockade of its ports. The US naval blockade remains in force."
     ],
-    "nota_actualizacion": "Qatar says it sees 'progress' between the US and Iran and Trump says the war is 'militarily' over, but Iran denies negotiating and keeps Hormuz closed until seven conditions are met."
+    "nota_actualizacion": "On 12 November Trump said the US 'does not need a deal' with Iran and sidelined Vance from the talks, a day after Qatar spoke of 'progress'."
    }
   },
   {
@@ -394,10 +402,10 @@
    "seccion": "int",
    "dibujo": "aid",
    "titular": "Gaza: un año de alto el fuego y la ONU avisa de que el riesgo de volver a la guerra «nunca ha sido tan alto»",
-   "entradilla": "Los puntos centrales del acuerdo de 2025 siguen sin cumplirse y la tregua no frena las muertes.",
+   "entradilla": "Un bombardeo israelí contra el hospital Nasser dejó seis muertos el 12 de noviembre; los puntos centrales del acuerdo de 2025 siguen sin cumplirse.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto 74.640 personas, y 1.610 de ellas por ataques israelíes desde la tregua. El 15 de octubre, la ONU advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El martes 10 de noviembre murieron al menos tres palestinos en nuevos ataques israelíes, entre ellos un padre y su hijo de 13 años en un refugio del norte de [[Gaza|gaza]], según agencias; Hamás pide que se abran los pasos fronterizos y entre más ayuda humanitaria. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen pendientes."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto 74.640 personas, y más de 1.600 de ellas por ataques israelíes desde la tregua. El 15 de octubre, la ONU advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El jueves 12 de noviembre, según los hospitales de [[Gaza|gaza]], once personas murieron en ataques israelíes, seis de ellas en un bombardeo contra el hospital Nasser, en Jan Yunis; entre las víctimas había un niño y un médico. Dos días antes habían muerto al menos tres palestinos. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen pendientes."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -420,19 +428,22 @@
     "Infobae (Europa Press)",
     "Teleprensa",
     "Democrata",
-    "Infobae"
+    "Infobae",
+    "Cubadebate",
+    "La República (Ecuador)",
+    "Extra (Ecuador)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-11",
-   "nota_actualizacion": "El 10 de noviembre murieron al menos tres palestinos en nuevos ataques israelíes, entre ellos un padre y su hijo de 13 años en un refugio; Hamás pide abrir los pasos fronterizos.",
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "El 12 de noviembre murieron once personas en ataques israelíes, seis de ellas en un bombardeo contra el hospital Nasser, según los hospitales de Gaza.",
    "en": {
     "titular": "Gaza: a year of ceasefire and the UN warns the risk of a return to war 'has never been higher'",
-    "entradilla": "The central points of the 2025 agreement are still unfulfilled and the truce does not stop the deaths.",
+    "entradilla": "An Israeli strike on Nasser hospital killed six people on 12 November; the central points of the 2025 agreement are still unfulfilled.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which Hamas controls, 74,640 people have died in the war, 1,610 of them from Israeli attacks since the truce. On 15 October, the UN warned that the risk of a return to war 'has never been higher'. On Tuesday 10 November at least three Palestinians died in new Israeli attacks, among them a father and his 13-year-old son in a shelter in northern [[Gaza|gaza]], according to news agencies; Hamas calls for the border crossings to be opened and more humanitarian aid to be let in. Hamas's disarmament, the Israeli withdrawal and the international force are still pending."
+     "According to the Gaza Health Ministry, which Hamas controls, 74,640 people have died in the war, more than 1,600 of them from Israeli attacks since the truce. On 15 October, the UN warned that the risk of a return to war 'has never been higher'. On Thursday 12 November, according to hospitals in [[Gaza|gaza]], eleven people were killed in Israeli attacks, six of them in a strike on Nasser hospital in Khan Younis; the victims included a child and a doctor. Two days earlier at least three Palestinians had died. Hamas's disarmament, the Israeli withdrawal and the international force are still pending."
     ],
-    "nota_actualizacion": "On 10 November at least three Palestinians died in new Israeli attacks, among them a father and his 13-year-old son in a shelter; Hamas calls for the border crossings to be opened."
+    "nota_actualizacion": "On 12 November eleven people were killed in Israeli attacks, six of them in a strike on Nasser hospital, according to Gaza's hospitals."
    }
   },
   {
@@ -440,9 +451,9 @@
    "seccion": "int",
    "dibujo": "sunflower",
    "titular": "Ucrania: Rusia y Ucrania acuerdan en Abu Dabi un gran canje de prisioneros, pero no avanzan en el territorio",
-   "entradilla": "Fue la primera ronda directa desde febrero; las cifras del canje se fijarán hoy y no hay acuerdo de paz.",
+   "entradilla": "Zelenski habla de unos 1.000 prisioneros por cada bando; no hay acuerdo de paz y las cifras definitivas se esperaban para el jueves 12.",
    "parrafos": [
-    "Las conversaciones de Abu Dabi entre delegaciones de Rusia, Ucrania y Estados Unidos terminaron el miércoles 11 de noviembre, tras dos días. Fueron el primer contacto directo entre rusos y ucranianos desde febrero. Las había anunciado el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], y las confirmó [[Vladímir Putin|putin]]; Ucrania envió a Rustem Umérov y Rusia, a Vladímir Medinski. Según el enviado estadounidense Jared Kushner, las partes acordaron hacer la mayor liberación humanitaria de prisioneros, con las cifras definitivas por fijar hoy, jueves 12. El secretario de Estado, Marco Rubio, había calificado las conversaciones de «muy productivas».",
+    "Las conversaciones de Abu Dabi entre delegaciones de Rusia, Ucrania y Estados Unidos terminaron el miércoles 11 de noviembre, tras dos días. Fueron el primer contacto directo entre rusos y ucranianos desde febrero. Las había anunciado el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], y las confirmó [[Vladímir Putin|putin]]. Según el enviado estadounidense Jared Kushner, las partes acordaron la mayor liberación humanitaria de prisioneros; [[Zelenski|zelenski]] habló de unos 1.000 por cada bando, y las cifras definitivas debían fijarse el jueves 12. Kushner anunció que él y Witkoff viajarían a Moscú para ver a Putin y después a Dublín para hablar con Zelenski.",
     "No hubo avances en lo más difícil: Rusia exige que Ucrania se retire del este del Donbás, y [[Zelenski|zelenski]] responde que los asuntos territoriales deben decidirlos los líderes. Moscú acepta que la seguridad sea la «máxima prioridad», pero rechaza un alto el fuego inmediato sin saber qué vendría después; Kiev pide primero ese alto el fuego. Según las agencias, se habló también de garantías de seguridad, de reconstrucción y del regreso de civiles y menores trasladados. Mientras tanto, el 2 de noviembre bombas rusas destruyeron una escuela subterránea de Komyshuvakha, en [[Zaporiyia|zaporiyia]]: según los servicios de emergencia ucranianos, hay 53 muertos y unos 50 desaparecidos."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
@@ -478,19 +489,21 @@
     "Infobae (EFE)",
     "Menorca.info",
     "France 24",
-    "Infobae (Ukrainska Pravda)"
+    "Infobae (Ukrainska Pravda)",
+    "Gestión (Perú)",
+    "El Tiempo"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-12",
-   "nota_actualizacion": "Las conversaciones de Abu Dabi terminaron el 11 de noviembre con un acuerdo de canje masivo de prisioneros, pero sin avances sobre el territorio; las cifras se fijarán hoy.",
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "Tras las conversaciones de Abu Dabi, Rusia y Ucrania acordaron un gran canje de prisioneros, de unos 1.000 por bando según Zelenski; Kushner y Witkoff viajarían a Moscú a ver a Putin.",
    "en": {
     "titular": "Ukraine: Russia and Ukraine agree a big prisoner swap in Abu Dhabi, but make no progress on territory",
-    "entradilla": "It was the first direct round since February; the numbers for the swap are due to be set today and there is no peace deal.",
+    "entradilla": "Zelensky speaks of about 1,000 prisoners from each side; there is no peace deal and the final numbers were expected on Thursday 12.",
     "parrafos": [
-     "The Abu Dhabi talks between delegations from Russia, Ukraine and the United States ended on Wednesday 11 November, after two days. They were the first direct contact between Russians and Ukrainians since February. They had been announced by the White House envoy, [[Steve Witkoff|witkoff]], and confirmed by [[Vladimir Putin|putin]]; Ukraine sent Rustem Umerov and Russia sent Vladimir Medinsky. According to the US envoy Jared Kushner, the parties agreed to carry out the biggest humanitarian release of prisoners, with the final numbers to be set today, Thursday 12. Secretary of State Marco Rubio had called the talks 'very productive'.",
+     "The Abu Dhabi talks between delegations from Russia, Ukraine and the United States ended on Wednesday 11 November, after two days. They were the first direct contact between Russians and Ukrainians since February. They had been announced by the White House envoy, [[Steve Witkoff|witkoff]], and confirmed by [[Vladimir Putin|putin]]. According to the US envoy Jared Kushner, the parties agreed to carry out the biggest humanitarian release of prisoners; [[Zelensky|zelenski]] spoke of about 1,000 from each side, and the final numbers were due to be set on Thursday 12. Kushner announced that he and Witkoff would travel to Moscow to see Putin and then to Dublin to speak with Zelensky.",
      "There was no progress on the hardest issue: Russia demands that Ukraine withdraw from the east of Donbas, and [[Zelensky|zelenski]] replies that territorial matters must be decided by the leaders. Moscow accepts that security should be the 'top priority', but rejects an immediate ceasefire without knowing what would come next; Kyiv wants that ceasefire first. According to news agencies, security guarantees, reconstruction and the return of civilians and deported children were also discussed. Meanwhile, on 2 November Russian bombs destroyed an underground school in Komyshuvakha, in [[Zaporizhzhia|zaporiyia]]: according to Ukrainian emergency services, 53 people died and about 50 are missing."
     ],
-    "nota_actualizacion": "The Abu Dhabi talks ended on 11 November with an agreement on a mass prisoner swap, but with no progress on territory; the numbers are due to be set today."
+    "nota_actualizacion": "After the Abu Dhabi talks, Russia and Ukraine agreed a big prisoner swap, of about 1,000 per side according to Zelensky; Kushner and Witkoff were to travel to Moscow to see Putin."
    }
   },
   {
@@ -714,11 +727,11 @@
    "id": "ai-act-dieciseis-paises-sin-autoridad-cumbre-dublin",
    "seccion": "tec",
    "dibujo": "eu",
-   "titular": "Dieciséis países de la UE no han designado del todo a la autoridad que vigilará la ley de IA, a tres días de la cumbre de Dublín",
+   "titular": "Dieciséis países de la UE no han designado del todo a la autoridad que vigilará la ley de IA, y los líderes se reúnen hoy en Dublín",
    "entradilla": "Seis Estados no han nombrado a nadie y diez solo tienen una designación provisional, según la Comisión Europea citada por los medios.",
    "parrafos": [
     "La ley europea de inteligencia artificial, un [[reglamento europeo|reglamento]] conocido como AI Act, obligaba a cada país de la [[Unión Europea|ue]] a nombrar antes del 2 de agosto de 2025 a las autoridades que vigilen su cumplimiento. Según la [[Comisión Europea|comisioneuropea]], citada por los medios, 16 de los 27 no lo han hecho del todo: seis (Austria, Bélgica, Bulgaria, Croacia, Eslovaquia y Hungría) no han designado a nadie y diez solo tienen una designación provisional, pendiente de aprobarse formalmente. Sin esas autoridades, la ley existe, pero su aplicación puede ser desigual de un país a otro.",
-    "El viernes 13 de noviembre, los líderes de los Veintisiete se reúnen en Dublín en una cita informal convocada por el presidente del Consejo Europeo, António Costa. Hablarán de la posición de Europa en la [[inteligencia artificial|ia]]: su dependencia de otros países en capacidad de cálculo, modelos avanzados y chips, y cómo movilizar dinero público y privado para ganar autonomía. También se tratará la participación europea en las iniciativas internacionales de seguridad de la IA. Al ser una reunión informal, no se espera que adopte decisiones formales: es un lugar para debatir."
+    "Hoy, viernes 13 de noviembre, los líderes de los Veintisiete se reúnen en Dublín en una cita informal convocada por el presidente del Consejo Europeo, António Costa, la primera dedicada solo a la [[inteligencia artificial|ia]]. Hablarán de la dependencia de Europa de otros países en capacidad de cálculo, modelos avanzados y chips, y de cómo movilizar dinero público y privado para ganar autonomía. Participan como invitados [[Geoffrey Hinton|hinton]], premio Nobel, y Arthur Mensch, de la empresa francesa Mistral AI. Al ser una reunión informal, no se esperan decisiones formales: es un lugar para debatir."
    ],
    "busqueda_imagenes": "AI Act autoridades nacionales cumbre Dublín líderes UE inteligencia artificial",
    "fuentes": [
@@ -726,19 +739,20 @@
     "Captain Compliance",
     "Consejo Europeo",
     "Brussels Times",
-    "Aquí Europa"
+    "Aquí Europa",
+    "Infobae (agencias)"
    ],
    "publicada": "2026-11-10",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "Los líderes de la UE se reúnen hoy, 13 de noviembre, en Dublín en la primera cumbre dedicada solo a la IA, con Hinton y el director de Mistral AI como invitados.",
    "en": {
-    "titular": "Sixteen EU countries have not fully designated the authority that will oversee the AI law, three days before the Dublin summit",
+    "titular": "Sixteen EU countries have not fully designated the authority that will oversee the AI law, and leaders meet in Dublin today",
     "entradilla": "Six states have named no one and ten have only a provisional designation, according to the European Commission as cited by the media.",
     "parrafos": [
      "The European law on artificial intelligence, a [[European regulation|reglamento]] known as the AI Act, required every country in the [[European Union|ue]] to name, before 2 August 2025, the authorities that will oversee compliance. According to the [[European Commission|comisioneuropea]], as cited by the media, 16 of the 27 have not fully done so: six (Austria, Belgium, Bulgaria, Croatia, Slovakia and Hungary) have designated no one and ten have only a provisional designation, awaiting formal approval. Without those authorities the law exists, but its application may be uneven from one country to another.",
-     "On Friday 13 November, the leaders of the Twenty-Seven meet in Dublin for an informal gathering called by the President of the European Council, António Costa. They will discuss Europe's position in [[artificial intelligence|ia]]: its dependence on other countries for computing power, advanced models and chips, and how to mobilise public and private money to gain autonomy. European participation in international AI-safety initiatives will also be addressed. As it is an informal meeting, it is not expected to take formal decisions: it is a place to debate."
+     "Today, Friday 13 November, the leaders of the Twenty-Seven meet in Dublin for an informal gathering called by European Council President António Costa, the first devoted solely to [[artificial intelligence|ia]]. They will discuss Europe's dependence on other countries for computing power, advanced models and chips, and how to mobilise public and private money to gain autonomy. The guests are Nobel laureate [[Geoffrey Hinton|hinton]] and Arthur Mensch of the French company Mistral AI. As it is an informal meeting, no formal decisions are expected: it is a place for debate."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "EU leaders meet in Dublin today, 13 November, for the first summit devoted solely to AI, with Hinton and the head of Mistral AI as guests."
    }
   },
   {
@@ -817,7 +831,7 @@
    "seccion": "es",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
    "titular": "Tras Urda, el Gobierno aprueba un decreto de seguridad ferroviaria y la Fiscalía Europea investiga los fondos de la línea Madrid-Sevilla",
-   "entradilla": "El decreto está en vigor desde ayer y reconoce el derecho de los maquinistas a parar el tren ante un «riesgo grave»; las causas del choque siguen sin confirmarse.",
+   "entradilla": "El decreto está en vigor desde el miércoles 11 y reconoce el derecho de los maquinistas a parar el tren ante un «riesgo grave»; las causas del choque siguen sin confirmarse.",
    "parrafos": [
     "La mañana del miércoles 28 de octubre, a las 8:53 según el organismo investigador, un tren [[AVE|ave]] de Renfe chocó por detrás con un tren de [[Iryo|iryo]] parado en la vía de alta velocidad Madrid-Andalucía, entre Mora y Urda (Toledo). Murieron 69 personas, según el Gobierno de Castilla-La Mancha, y hubo más de un centenar de heridos. El martes 10, los Reyes presidieron en la catedral de Toledo el funeral de Estado, con unos 150 familiares; el arzobispo pidió que «se esclarezcan las causas». El 3 de noviembre, el Consejo de Ministros aprobó 30 millones de euros de ayudas y adelantos de indemnización, 144.242,92 euros por familia. Las causas siguen sin confirmarse.",
     "El martes 10, el Consejo de Ministros aprobó un [[real decreto-ley|rdl]] de seguridad ferroviaria, en vigor desde el miércoles 11. Reconoce el derecho del personal a tomar medidas «necesarias y proporcionadas» ante un riesgo grave e inminente, como parar un tren o no reiniciarlo, y crea cauces confidenciales para avisar de riesgos; lo relativo a los tiempos de conducción de los maquinistas se aplicará en seis meses. El 6 de noviembre, la UCO de la Guardia Civil acudió a la sede de [[Adif|adif]] y la [[Fiscalía Europea|fiscaliaeuropea]] investiga un posible fraude con fondos europeos de seguridad en la línea Madrid-Sevilla. El ministro Óscar Puente dimitió; [[Carlos Cuerpo|cuerpo]] dirige Transportes de forma transitoria desde el 4 de noviembre."
@@ -866,7 +880,7 @@
    "nota_actualizacion": "El Gobierno aprobó el 10 de noviembre un decreto-ley de seguridad ferroviaria, en vigor desde el 11, que reconoce el derecho del personal a parar un tren ante un riesgo grave.",
    "en": {
     "titular": "After Urda, the Government approves a rail safety decree and the European Public Prosecutor's Office investigates funds for the Madrid-Seville line",
-    "entradilla": "The decree has been in force since yesterday and recognises train drivers' right to stop the train when there is a 'serious risk'; the causes of the crash are still unconfirmed.",
+    "entradilla": "The decree has been in force since Wednesday 11 and recognises train drivers' right to stop the train when there is a 'serious risk'; the causes of the crash are still unconfirmed.",
     "parrafos": [
      "On the morning of Wednesday 28 October, at 8:53 according to the investigating body, a Renfe [[AVE|ave]] train hit from behind an [[Iryo|iryo]] train stopped on the Madrid-Andalusia high-speed line, between Mora and Urda (Toledo). Sixty-nine people died, according to the Castilla-La Mancha government, and more than a hundred were injured. On Tuesday 10, the King and Queen presided at Toledo Cathedral over the state funeral, with about 150 relatives; the archbishop called for 'the causes to be clarified'. On 3 November, the Council of Ministers approved 30 million euros in aid and advance compensation, 144,242.92 euros per family. The causes remain unconfirmed.",
      "On Tuesday 10, the Council of Ministers approved a rail safety [[royal decree-law|rdl]], in force since Wednesday 11. It recognises the right of staff to take 'necessary and proportionate' measures in the face of a serious and imminent risk, such as stopping a train or not restarting it, and sets up confidential channels for reporting risks; the part on drivers' driving times will apply in six months. On 6 November, the Civil Guard's UCO went to the headquarters of [[Adif|adif]] and the [[European Public Prosecutor's Office|fiscaliaeuropea]] is investigating possible fraud involving EU safety funds on the Madrid-Seville line. Minister Óscar Puente resigned; [[Carlos Cuerpo|cuerpo]] has run Transport on a temporary basis since 4 November."
@@ -875,31 +889,32 @@
    }
   },
   {
-   "id": "pacto-pp-vox-senado-elecciones-29-noviembre",
+   "id": "arranca-campana-29n-cis-psoe-40db-pp",
    "seccion": "es",
    "dibujo": "ballot",
-   "titular": "PP y Vox pactan cómo repartirse las candidaturas al Senado en las elecciones del 29 de noviembre",
-   "entradilla": "Vox se retira en seis provincias, el PP no se presenta en tres y en catorce habrá tres candidatos del PP y uno de Vox; el pacto solo vale para el Senado.",
+   "titular": "Arranca la campaña del 29 de noviembre con encuestas que no coinciden: el CIS da ventaja al PSOE y 40dB, al PP",
+   "entradilla": "El CIS ve al PSOE primero y a PP y Vox sin mayoría absoluta; la encuesta de 40dB para El País y la SER coloca al PP por delante.",
    "parrafos": [
-    "El lunes 26 de octubre, horas antes de que acabara el plazo para presentar candidaturas a las [[elecciones del 29 de noviembre|elecciones]], el [[PP|pp]] y [[Vox|vox]] anunciaron un pacto para el [[Senado|senado]]. El PP no presentará lista en Gipuzkoa, Girona y Tarragona, y Vox se retira en seis provincias (Las Palmas, Santa Cruz de Tenerife, Cádiz, Valencia, Castellón y Baleares), donde el PP incluirá a independientes propuestos por Vox. En otras catorce, entre ellas Sevilla, Huelva, Granada y Jaén, el PP presentará tres candidatos y Vox, uno. El acuerdo solo afecta al Senado: en el Congreso cada partido irá por su cuenta.",
-    "El PP habla de «entendimiento» y de «sentido de Estado», y Vox lo presenta como un gesto para frenar a Pedro Sánchez. Según los medios, el objetivo es lograr tres quintos del Senado, la mayoría necesaria para renovar sin el PSOE a cuatro magistrados del [[Tribunal Constitucional|tc]] cuyo mandato lleva tiempo caducado; calculan reunir entre 125 y 140 senadores. En la mayoría de las provincias se eligen cuatro senadores y cada persona puede votar a tres, así que repartirse las listas evita dividir el voto de la derecha. La izquierda, con el PSOE a la cabeza, también presenta candidaturas conjuntas al Senado."
+    "Hoy, viernes 13, los partidos abren la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para tener mayoría absoluta. La vivienda, tras la huelga general y los decretos votados ayer, será uno de los temas centrales. La víspera se publicó el macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas: estima que el PSOE gana con el 33,3 % de los votos, unos ocho puntos por delante del PP, y que Vox llega al 18,4 %.",
+    "En escaños, el CIS calcula entre 134 y 143 para el PSOE y entre 57 y 65 para Vox, y concluye que PP y Vox no alcanzarían la mayoría absoluta. Según los medios, es la excepción: la última encuesta de 40dB para El País y la Cadena SER, del 9 de noviembre, da el 31,9 % al PP, el 29,9 % al PSOE y el 18 % a Vox. Una [[encuesta|encuesta]] es una foto aproximada de un momento, no un resultado, y estas dos discrepan en quién queda primero. Además, en España los votos se convierten en escaños provincia a provincia, así que el reparto final puede variar."
    ],
-   "busqueda_imagenes": "Senado pacto PP Vox candidaturas 29N",
+   "busqueda_imagenes": "campaña electoral 29N encuestas CIS 40dB",
    "fuentes": [
-    "Infobae (Europa Press)",
-    "Moncloa.com",
-    "Qué!",
-    "Press Digital"
+    "elDiario.es",
+    "Público",
+    "Euronews",
+    "Democrata",
+    "Yahoo Noticias"
    ],
-   "publicada": "2026-10-27",
+   "publicada": "2026-11-13",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "PP and Vox agree how to share out their Senate candidacies in the 29 November election",
-    "entradilla": "Vox steps aside in six provinces, the PP does not stand in three and in fourteen there will be three PP candidates and one from Vox; the pact applies only to the Senate.",
+    "titular": "The 29 November campaign begins with polls that disagree: the CIS gives the PSOE the lead and 40dB gives it to the PP",
+    "entradilla": "The CIS puts the PSOE first and PP and Vox short of an absolute majority; the 40dB poll for El País and SER puts the PP ahead.",
     "parrafos": [
-     "On Monday 26 October, hours before the deadline for submitting candidacies for the [[29 November election|elecciones]], the [[PP|pp]] and [[Vox|vox]] announced a pact for the [[Senate|senado]]. The PP will not field a list in Gipuzkoa, Girona and Tarragona, and Vox is withdrawing in six provinces (Las Palmas, Santa Cruz de Tenerife, Cádiz, Valencia, Castellón and the Balearic Islands), where the PP will include independents proposed by Vox. In another fourteen, including Seville, Huelva, Granada and Jaén, the PP will field three candidates and Vox one. The deal covers only the Senate: in the Congress each party will go it alone.",
-     "The PP talks of an 'understanding' and a 'sense of State', and Vox presents it as a gesture to stop Pedro Sánchez. According to the media, the aim is to win three-fifths of the Senate, the majority needed to renew, without the PSOE, four judges of the [[Constitutional Court|tc]] whose terms expired some time ago; they calculate they could gather between 125 and 140 senators. In most provinces four senators are elected and each person can vote for three, so sharing out the lists avoids splitting the right-wing vote. The left, led by the PSOE, is also presenting joint candidacies for the Senate."
+     "Today, Friday 13, the parties open the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. Housing, after the general strike and the decrees voted on yesterday, will be one of the central themes. On the eve of the campaign the large pre-election survey by the [[CIS|cis]], the public sociological research body, was published, with more than 45,000 interviews: it estimates that the PSOE wins with 33.3% of the vote, about eight points ahead of the PP, and that Vox reaches 18.4%.",
+     "In seats, the CIS calculates between 134 and 143 for the PSOE and between 57 and 65 for Vox, and concludes that PP and Vox would not reach an absolute majority. According to the media, it is the exception: the latest 40dB poll for El País and Cadena SER, from 9 November, gives 31.9% to the PP, 29.9% to the PSOE and 18% to Vox. A [[poll|encuesta]] is an approximate snapshot of a moment, not a result, and these two disagree on who comes first. Moreover, in Spain votes are turned into seats province by province, so the final split can vary."
     ],
     "nota_actualizacion": null
    }
@@ -1036,38 +1051,33 @@
    }
   },
   {
-   "id": "champions-jornada-4-barca-psg-bayern",
+   "id": "espana-gana-0-2-republica-checa-nations-league-inglaterra-domingo",
    "seccion": "dep",
    "dibujo": "trophy",
-   "titular": "Champions: ganan Barça y Real Madrid; pierden Atlético, Betis y Villarreal, goleado 6-0 por el PSG",
-   "entradilla": "El Madrid remontó en el tiempo añadido en Atenas (2-3 al AEK) y el Betis perdió su primer partido, 2-1 en Dortmund.",
+   "titular": "España gana 0-2 en Praga y se jugará el primer puesto de su grupo de la Nations League ante Inglaterra el domingo",
+   "entradilla": "Baena, de penalti, y Pubill, en el tiempo añadido, marcaron los goles; a España le basta un empate en Madrid para acabar primera.",
    "parrafos": [
-    "El martes 3 de noviembre, en la cuarta jornada de la [[Liga de Campeones|champions]], el Barcelona ganó 3-0 al Aston Villa. El [[París Saint-Germain|psg]] goleó 6-0 al Villarreal, un resultado muy duro para el equipo castellonense, y el Atlético de Madrid perdió 0-2 en casa ante el Bayern de Múnich. Fueron los tres equipos españoles que jugaron ese día. Entre los otros resultados, el Inter ganó 3-0 al Feyenoord, el Manchester United remontó contra la Roma (3-2) y el Galatasaray ganó 2-0 al Stuttgart.",
-    "El miércoles 4, el Real Madrid ganó 2-3 al AEK en Atenas con un gol de Valverde en el segundo minuto de descuento. Koita adelantó a los griegos, Bellingham empató, Pilios volvió a adelantar al AEK y Mbappé igualó casi enseguida. Es su cuarta victoria en cuatro partidos. Ese mismo día, el Betis, que llegaba con tres victorias, perdió 2-1 en Dortmund: Fabio Silva y Karetsas marcaron para el Dortmund y Ruibal recortó. En la [[fase de liga|fasedeliga]], cada equipo juega ocho partidos contra rivales distintos y todos se ordenan en una sola clasificación: los ocho primeros pasan directos a octavos, y del noveno al vigésimo cuarto juegan una eliminatoria extra."
+    "El jueves 12 de noviembre, la selección española ganó 0-2 a República Checa en Praga, en la quinta jornada de su grupo de la [[Nations League|nations]]. Álex Baena abrió el marcador de [[penalti|penalti]] en el minuto 39 y Marc Pubill cerró el resultado en el tiempo añadido, en el 90+6. Con este triunfo, España suma 15 puntos, con cinco victorias en cinco partidos, y lidera su grupo con una jornada por jugar.",
+    "El domingo 15 de noviembre, a las 20:45 en el estadio Metropolitano de Madrid, España recibe a Inglaterra con el primer puesto del grupo en juego. Según los medios, le basta un empate para acabar primera y asegurarse el pase a los cuartos de final de la competición. El seleccionador, [[Luis de la Fuente|delafuente]], convocó a 27 jugadores para esta ventana de partidos de noviembre, entre ellos Pedri, Nico Williams y Dean Huijsen."
    ],
-   "busqueda_imagenes": "Barcelona Aston Villa Champions League 3 noviembre 2026",
+   "busqueda_imagenes": "selección española Praga República Checa Nations League",
    "fuentes": [
-    "UEFA",
-    "El Universal (México)",
-    "Crónica (México)",
-    "TV Azteca",
-    "Soy Referee",
-    "ESPN",
-    "VAVEL",
-    "LA NACION",
-    "Emol"
+    "COPE",
+    "Infobae (agencias)",
+    "Herqles",
+    "ESPN"
    ],
-   "publicada": "2026-11-04",
-   "actualizada": "2026-11-07",
-   "nota_actualizacion": "El Real Madrid remontó 2-3 al AEK en Atenas y el Betis perdió 2-1 en Dortmund en la cuarta jornada de la Champions.",
+   "publicada": "2026-11-13",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Champions League: Barça and Real Madrid win; Atlético, Betis and Villarreal lose, the latter thrashed 6-0 by PSG",
-    "entradilla": "Madrid came from behind in stoppage time in Athens (3-2 at AEK) and Betis lost their first match, 2-1 at Dortmund.",
+    "titular": "Spain win 0-2 in Prague and will play England on Sunday for first place in their Nations League group",
+    "entradilla": "Baena, from the penalty spot, and Pubill, in stoppage time, scored the goals; Spain need only a draw in Madrid to finish top.",
     "parrafos": [
-     "On Tuesday 3 November, in the fourth round of the [[Champions League|champions]], Barcelona beat Aston Villa 3-0. [[Paris Saint-Germain|psg]] thrashed Villarreal 6-0, a very heavy result for the side from Castellón province, and Atlético de Madrid lost 2-0 at home to Bayern Munich. Those were the three Spanish teams in action that day. Among the other results, Inter beat Feyenoord 3-0, Manchester United came back against Roma (3-2) and Galatasaray won 2-0 against Stuttgart.",
-     "On Wednesday 4, Real Madrid won 3-2 at AEK in Athens with a goal from Valverde in the second minute of stoppage time. Koita put the Greeks ahead, Bellingham equalised, Pilios put AEK in front again and Mbappé levelled almost immediately. It is their fourth win in four matches. The same day, Betis, who arrived with three wins, lost 2-1 in Dortmund: Fabio Silva and Karetsas scored for Dortmund and Ruibal pulled one back. In the [[league phase|fasedeliga]], each team plays eight matches against different opponents and all are ranked in a single table: the top eight go straight to the round of 16, and the teams from ninth to twenty-fourth play an extra knockout round."
+     "On Thursday 12 November, the Spanish national team won 0-2 against the Czech Republic in Prague, in the fifth round of their [[Nations League|nations]] group. Álex Baena opened the scoring from a [[penalty|penalti]] in the 39th minute and Marc Pubill sealed the result in stoppage time, in the 90+6. With this win, Spain have 15 points, five wins in five games, and lead their group with one round to go.",
+     "On Sunday 15 November, at 20:45 at the Metropolitano stadium in Madrid, Spain host England with first place in the group at stake. According to the media, a draw is enough for them to finish top and secure a place in the competition's quarter-finals. The manager, [[Luis de la Fuente|delafuente]], called up 27 players for this November window, among them Pedri, Nico Williams and Dean Huijsen."
     ],
-    "nota_actualizacion": "Real Madrid came from behind to win 3-2 at AEK in Athens and Betis lost 2-1 in Dortmund in round four of the Champions League."
+    "nota_actualizacion": null
    }
   },
   {
@@ -1139,10 +1149,10 @@
    "id": "atp-finals-turin-2026-alcaraz-jodar-sin-sinner",
    "seccion": "dep",
    "dibujo": "trophy",
-   "titular": "Alcaraz y Jódar, los dos españoles de las ATP Finals sin Sinner: el sorteo de grupos es el jueves",
-   "entradilla": "El torneo de maestros arranca el domingo 15 en Turín, con Zverev como número uno y Sinner lesionado.",
+   "titular": "Alcaraz y Jódar no se cruzarán en la fase de grupos de las ATP Finals: Alcaraz, con Medvedev, Cobolli y Tiafoe; Jódar, con Zverev, Shelton y Fils",
+   "entradilla": "El torneo arranca el domingo 15 en Turín, con Zverev como número uno y Sinner lesionado.",
    "parrafos": [
-    "Las [[ATP Finals|atpfinals]], el torneo que reúne a los ocho mejores tenistas de la temporada, se juegan del 15 al 22 de noviembre en el Inalpi Arena de Turín, y el sorteo de los grupos es el jueves 12. Los clasificados son [[Alexander Zverev|zverev]], [[Carlos Alcaraz|alcaraz]], Ben Shelton, Daniil Medvedev, Flavio Cobolli, Arthur Fils, Frances Tiafoe y Rafa Jódar. Es la primera vez desde 2015 que dos españoles se clasifican directamente. Los ocho se reparten en dos grupos, y los dos primeros de cada uno pasan a semifinales.",
+    "Las [[ATP Finals|atpfinals]], el torneo que reúne a los ocho mejores tenistas de la temporada, se juegan del 15 al 22 de noviembre en Turín. El sorteo del jueves 12 formó dos grupos: [[Carlos Alcaraz|alcaraz]] comparte el suyo con Daniil Medvedev, Flavio Cobolli y Frances Tiafoe, y Rafa Jódar, debutante, con [[Alexander Zverev|zverev]], Ben Shelton y Arthur Fils. Los dos españoles no se enfrentarán en la fase de grupos y solo podrían verse en semifinales, a las que pasan los dos primeros de cada grupo. Es la primera vez desde 2015 que dos españoles se clasifican directamente.",
     "El gran ausente es [[Jannik Sinner|sinner]], ganador de las dos últimas ediciones, que está lesionado y no jugará. Zverev, nuevo número uno del mundo, llega como cabeza de serie. Alcaraz, tercero del ranking, viene de ganar el [[Masters 1000|masters1000]] de París; el año pasado perdió la final ante Sinner y aún no ha ganado este torneo, el gran hueco de su palmarés. [[Rafa Jódar|jodar]], de 20 años, empezó 2026 en el puesto 168, el ranking más bajo de inicio de temporada con el que alguien ha llegado a las Finales, según los medios."
    ],
    "busqueda_imagenes": "ATP Finals Turín Alcaraz Jódar 2026",
@@ -1150,19 +1160,21 @@
     "Sport Aragón",
     "Tico Times",
     "Metro Ecuador",
-    "Tennis World España"
+    "Tennis World España",
+    "Infobae",
+    "Industria del Tenis"
    ],
    "publicada": "2026-11-11",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "El sorteo del 12 de noviembre dejó a Alcaraz en el grupo de Medvedev, Cobolli y Tiafoe y a Jódar en el de Zverev, Shelton y Fils; no se cruzarán en la fase de grupos.",
    "en": {
-    "titular": "Alcaraz and Jódar, the two Spaniards at the ATP Finals without Sinner: the group draw is on Thursday",
-    "entradilla": "The season-ending tournament opens on Sunday 15 in Turin, with Zverev as world number one and Sinner injured.",
+    "titular": "Alcaraz and Jódar will not meet in the ATP Finals group stage: Alcaraz with Medvedev, Cobolli and Tiafoe; Jódar with Zverev, Shelton and Fils",
+    "entradilla": "The tournament starts on Sunday 15 in Turin, with Zverev as world number one and Sinner injured.",
     "parrafos": [
-     "The [[ATP Finals|atpfinals]], the tournament that brings together the eight best players of the season, are played from 15 to 22 November at the Inalpi Arena in Turin, and the group draw is on Thursday 12. The qualifiers are [[Alexander Zverev|zverev]], [[Carlos Alcaraz|alcaraz]], Ben Shelton, Daniil Medvedev, Flavio Cobolli, Arthur Fils, Frances Tiafoe and Rafa Jódar. It is the first time since 2015 that two Spaniards have qualified directly. The eight are split into two groups, and the top two in each go through to the semi-finals.",
+     "The [[ATP Finals|atpfinals]], the tournament that brings together the eight best players of the season, are played from 15 to 22 November in Turin. The draw on Thursday 12 formed two groups: [[Carlos Alcaraz|alcaraz]] shares his with Daniil Medvedev, Flavio Cobolli and Frances Tiafoe, and Rafa Jódar, a debutant, with [[Alexander Zverev|zverev]], Ben Shelton and Arthur Fils. The two Spaniards will not face each other in the group stage and could only meet in the semi-finals, which the top two in each group reach. It is the first time since 2015 that two Spaniards have qualified directly.",
      "The big absentee is [[Jannik Sinner|sinner]], winner of the last two editions, who is injured and will not play. Zverev, the new world number one, comes in as top seed. Alcaraz, third in the rankings, has just won the Paris [[Masters 1000|masters1000]]; last year he lost the final to Sinner and has still not won this tournament, the big gap in his record. [[Rafa Jódar|jodar]], 20, started 2026 ranked 168th, the lowest starting ranking with which anyone has reached the Finals, according to the media."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The 12 November draw put Alcaraz in a group with Medvedev, Cobolli and Tiafoe and Jódar with Zverev, Shelton and Fils; they will not meet in the group stage."
    }
   },
   {
@@ -1173,7 +1185,7 @@
    "entradilla": "Eurostat sitúa los precios de octubre en su nivel más alto desde 2023, por la energía; el euríbor ronda el 3,3 %, lo que encarece las hipotecas variables.",
    "parrafos": [
     "El 4 de noviembre, [[Eurostat|eurostat]], la oficina europea de estadística, informó de que la [[inflación|inflacion]] en los países del euro fue del 4 % en octubre, dos décimas más que en septiembre (3,8 %) y el nivel más alto desde 2023. La energía, un 20,8 % más cara que hace un año, explica casi la mitad de esa cifra, y la subyacente, que la deja fuera, se mantiene en el 2,5 %. España, con un 4,9 % según el avance del INE, queda por encima de la media del euro. Detrás de la subida de la energía está, sobre todo, la guerra con Irán, que ha encarecido el petróleo.",
-    "Con unos precios que duplican el objetivo del [[Banco Central Europeo|bce]], del 2 %, los mercados dan por probable que suba los [[tipos de interés|tiposinteres]] en su reunión del 17 de diciembre; todavía no está decidido. A las familias les llega a través del [[euríbor|euribor]], que ronda el 3,3 % y sirve para calcular la cuota de muchas [[hipotecas|hipoteca]] variables: si sube, esa cuota mensual sube. Subir los tipos ayuda a frenar los precios, pero también encarece los préstamos de personas y empresas."
+    "Con unos precios que duplican el objetivo del [[Banco Central Europeo|bce]], del 2 %, los mercados dan por probable que suba los [[tipos de interés|tiposinteres]] en su reunión del 17 de diciembre; todavía no está decidido. A las familias les llega a través del [[euríbor|euribor]], que el jueves 12 subió al 3,293 % y sirve para calcular la cuota de muchas [[hipotecas|hipoteca]] variables: si sube, esa cuota mensual sube. Subir los tipos ayuda a frenar los precios, pero también encarece los préstamos de personas y empresas."
    ],
    "busqueda_imagenes": "inflación eurozona octubre 2026 Eurostat BCE",
    "fuentes": [
@@ -1182,19 +1194,21 @@
     "El Español",
     "Moncloa.com",
     "Rankia",
-    "Euribor.com.es"
+    "Euribor.com.es",
+    "euribordiario.es",
+    "Economía Responsable"
    ],
    "publicada": "2026-11-06",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "El euríbor subió el 12 de noviembre al 3,293 % y la media provisional de noviembre es del 3,266 %.",
    "en": {
     "titular": "Eurozone inflation rises to 4% and markets expect the ECB to raise rates in December",
     "entradilla": "Eurostat puts October prices at their highest level since 2023, because of energy; the Euribor is around 3.3%, which makes variable-rate mortgages more expensive.",
     "parrafos": [
      "On 4 November, [[Eurostat|eurostat]], the European statistics office, reported that [[inflation|inflacion]] in the euro countries was 4% in October, two tenths more than in September (3.8%) and the highest level since 2023. Energy, 20.8% more expensive than a year ago, accounts for almost half of that figure, and core inflation, which leaves it out, stays at 2.5%. Spain, at 4.9% according to the INE flash estimate, is above the euro average. Behind the rise in energy is, above all, the war with Iran, which has made oil more expensive.",
-     "With prices at double the target of the [[European Central Bank|bce]], which is 2%, markets consider it likely that it will raise [[interest rates|tiposinteres]] at its meeting on 17 December; it has not yet been decided. It reaches families through the [[Euribor|euribor]], which is around 3.3% and is used to work out the payment on many variable-rate [[mortgages|hipoteca]]: if it rises, that monthly payment rises. Raising rates helps slow prices, but it also makes loans more expensive for people and companies."
+     "With prices at double the target of the [[European Central Bank|bce]], which is 2%, markets consider it likely that it will raise [[interest rates|tiposinteres]] at its meeting on 17 December; it has not yet been decided. It reaches families through the [[Euribor|euribor]], which on Thursday 12 rose to 3.293% and is used to work out the payment on many variable-rate [[mortgages|hipoteca]]: if it rises, that monthly payment rises. Raising rates helps slow prices, but it also makes loans more expensive for people and companies."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The Euribor rose to 3.293% on 12 November, and the provisional November average is 3.266%."
    }
   },
   {
@@ -1290,11 +1304,11 @@
    "id": "borrascas-bruna-charles-avisos-andalucia",
    "seccion": "and",
    "dibujo": "rain",
-   "titular": "La borrasca Charles suspende las clases en 30 municipios de Cádiz y Huelva y hoy se aleja con aviso naranja por viento en Andalucía",
-   "entradilla": "La Junta activó el plan de emergencias por inundaciones y envió un ES-Alert; hoy sigue el viento, pero la borrasca se debilita y se aleja.",
+   "titular": "La borrasca Charles suspendió las clases en 30 municipios de Cádiz y Huelva y se alejó el jueves con aviso naranja por viento en Andalucía",
+   "entradilla": "La Junta activó el plan de emergencias por inundaciones y envió un ES-Alert; el jueves siguió el viento, pero la borrasca se debilitó y se alejó.",
    "parrafos": [
     "Dos borrascas han afectado esta semana a la península. Bruna trajo lluvia persistente y el martes 10 hubo [[aviso rojo|alertaroja]] en el norte de Cáceres y el sur de Ávila, fuera de Andalucía. Charles, de origen subtropical, llegó el miércoles 11 con lluvia y viento fuertes, y se esperaban rachas de hasta 120 km/h: la Junta suspendió las clases en 30 municipios de la costa de Huelva y Cádiz y del Estrecho, cerró parques y jardines en las zonas con aviso naranja y envió un aviso [[Es-Alert|esalert]] a los móviles. Activó además la fase de emergencia, situación operativa 1, del plan andaluz de riesgo de inundaciones.",
-    "Hoy, jueves 12, Charles se debilita y se aleja hacia el nordeste, con lluvias en el norte, pero deja un temporal de viento: según la [[AEMET|aemet]], sigue el aviso naranja por viento en Andalucía, Aragón, Castilla y León, Castilla-La Mancha, Madrid, Murcia, Valencia y Ceuta. Fuera de Andalucía hay aviso rojo por lluvia en Ávila y Cáceres y por viento en La Palma. Las autoridades piden evitar desplazamientos innecesarios en las horas de más viento y asegurar toldos y antenas. A mediados de octubre, la [[dana|dana]] Adam dejó siete muertos en varias comunidades, según el Gobierno, y en Andalucía el 112 atendió 673 emergencias en tres días."
+    "El jueves 12, Charles se debilitó y se alejó hacia el nordeste, con lluvias en el norte, pero dejó un temporal de viento: según la [[AEMET|aemet]], siguió el aviso naranja por viento en Andalucía, Aragón, Castilla y León, Castilla-La Mancha, Madrid, Murcia, Valencia y Ceuta. Fuera de Andalucía hubo aviso rojo por lluvia en Ávila y Cáceres y por viento en La Palma. Las autoridades pidieron evitar desplazamientos innecesarios en las horas de más viento y asegurar toldos y antenas. A mediados de octubre, la [[dana|dana]] Adam dejó siete muertos en varias comunidades, según el Gobierno, y en Andalucía el 112 atendió 673 emergencias en tres días."
    ],
    "busqueda_imagenes": "borrasca Charles Andalucía lluvias aviso naranja",
    "fuentes": [
@@ -1312,16 +1326,16 @@
     "Democrata"
    ],
    "publicada": "2026-11-10",
-   "actualizada": "2026-11-12",
-   "nota_actualizacion": "Charles dejó el miércoles clases suspendidas en 30 municipios de Cádiz y Huelva; hoy se aleja, con aviso naranja por viento en Andalucía.",
+   "actualizada": "2026-11-13",
+   "nota_actualizacion": "Charles se debilitó y se alejó de Andalucía el jueves 12, aunque siguieron los avisos por viento.",
    "en": {
-    "titular": "Storm Charles suspends classes in 30 municipalities in Cádiz and Huelva and moves away today with an orange wind warning in Andalusia",
-    "entradilla": "The regional government activated its flood emergency plan and sent an ES-Alert; the wind continues today, but the storm is weakening and moving away.",
+    "titular": "Storm Charles suspended classes in 30 municipalities in Cádiz and Huelva and moved away on Thursday with an orange wind warning in Andalusia",
+    "entradilla": "The regional government activated its flood emergency plan and sent an ES-Alert; the wind continued on Thursday, but the storm weakened and moved away.",
     "parrafos": [
      "Two storms have hit the peninsula this week. Bruna brought persistent rain and on Tuesday 10 there was a [[red warning|alertaroja]] in northern Cáceres and southern Ávila, outside Andalusia. Charles, of subtropical origin, arrived on Wednesday 11 with heavy rain and wind, and gusts of up to 120 km/h were expected: the regional government suspended classes in 30 municipalities on the Huelva and Cádiz coast and in the Strait area, closed parks and gardens in areas under orange warning and sent an [[Es-Alert|esalert]] message to mobile phones. It also activated the emergency phase, operational situation 1, of Andalusia's flood-risk plan.",
-     "Today, Thursday 12, Charles is weakening and moving north-east, with rain in the north, but it leaves a wind storm behind: according to [[AEMET|aemet]], the orange wind warning remains in Andalusia, Aragon, Castile and León, Castile-La Mancha, Madrid, Murcia, Valencia and Ceuta. Outside Andalusia there is a red warning for rain in Ávila and Cáceres and for wind in La Palma. The authorities ask people to avoid unnecessary journeys during the windiest hours and to secure awnings and aerials. In mid-October, the [[cut-off low|dana]] Adam left seven dead across several regions, according to the Government, and in Andalusia the 112 emergency line handled 673 emergencies in three days."
+     "On Thursday 12, Charles weakened and moved north-east, with rain in the north, but it left a wind storm behind: according to [[AEMET|aemet]], the orange wind warning remained in Andalusia, Aragon, Castile and León, Castile-La Mancha, Madrid, Murcia, Valencia and Ceuta. Outside Andalusia there was a red warning for rain in Ávila and Cáceres and for wind in La Palma. The authorities asked people to avoid unnecessary journeys during the windiest hours and to secure awnings and aerials. In mid-October, the [[cut-off low|dana]] Adam left seven dead across several regions, according to the Government, and in Andalusia the 112 emergency line handled 673 emergencies in three days."
     ],
-    "nota_actualizacion": "On Wednesday Charles led to classes being suspended in 30 municipalities in Cádiz and Huelva; today it moves away, with an orange wind warning in Andalusia."
+    "nota_actualizacion": "Charles weakened and moved away from Andalusia on Thursday 12, although the wind warnings continued."
    }
   },
   {
@@ -3825,11 +3839,20 @@
     "n": "Alcalá de Henares",
     "x": "A city near Madrid where Miguel de Cervantes, the author of 'Don Quixote', was born. The Cervantes Prize is presented there every year."
    }
+  },
+  "cis": {
+   "t": "palabra",
+   "n": "CIS",
+   "x": "Centro de Investigaciones Sociológicas: organismo público que hace encuestas sobre política y sociedad. Depende del Gobierno, por lo que sus sondeos suelen generar debate.",
+   "en": {
+    "n": "CIS",
+    "x": "The Centre for Sociological Research: a public body that runs polls on politics and society. It answers to the Government, so its polls often spark debate."
+   }
   }
  },
- "edicion_en": "Thursday 12 November 2026",
+ "edicion_en": "Friday 13 November 2026",
  "destacada": {
-  "id": "cientos-de-personas-acampan-en-sol-por-la-vivien",
-  "fecha": "2026-11-12"
+  "id": "el-congreso-decide-sobre-las-leyes-de-vivienda",
+  "fecha": "2026-11-13"
  }
 }
