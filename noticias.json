@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-13T07:00:00+01:00",
- "edicion": "Viernes 13 de noviembre de 2026",
+ "actualizado": "2026-11-14T07:00:00+01:00",
+ "edicion": "Sábado 14 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -204,11 +204,11 @@
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Huelga docente en Madrid: nueve miembros del comité de huelga se encierran en la Consejería y las universidades se suman el 4 y 5 de noviembre",
-   "entradilla": "La huelga indefinida de la pública entra en su cuarta semana y la consejera sigue sin aceptar negociar con el comité de huelga.",
+   "titular": "Huelga docente en Madrid: la Consejería convoca al comité solo para modificar los servicios mínimos y los sindicatos anuncian que irán a los tribunales",
+   "entradilla": "La huelga indefinida de la pública, a punto de cumplir un mes, sigue en pie; el comité lamenta que no se negocien sus demandas.",
    "parrafos": [
-    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y afecta a unos 65.000 docentes. Esta semana se han retomado las protestas tras el parón por el luto de Urda, y el 4 y 5 de noviembre se sumaron las seis universidades públicas. El jueves 5, nueve miembros del comité de huelga se encerraron en la [[Consejería de Educación|consejeria]] para exigir una reunión. La consejera, Mercedes Zarzalejo, mantiene que no negociará con el comité y que las mejoras deben tratarse en la mesa sectorial ordinaria, que es la que reúne a la Administración con los sindicatos más representativos.",
-    "La huelga es en Madrid, pero también se nota en Andalucía: estaban convocadas concentraciones de apoyo en Almería, Cádiz, Granada, Huelva, Málaga y Sevilla para defender la educación pública. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden bajar las horas de clase a 17 en Secundaria y a 22 en Primaria (ahora son 19 y 25), menos alumnos por aula, más personal y una subida de sueldo. Las seis universidades públicas madrileñas hicieron huelga el 4 y 5 de noviembre."
+    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y afecta a unos 65.000 docentes. El viernes 13, la [[Consejería de Educación|consejeria]] convocó por videoconferencia al comité de huelga con un único punto: su propuesta de modificar los servicios mínimos, es decir, cuántos docentes deben trabajar aunque haya paro. La Comunidad dice que quiere evitar perjuicios a los alumnos de la PAU. El comité se mostró «satisfecho» con la reunión, pero mantiene la huelga indefinida, lamenta que sus demandas sigan sin negociarse y anunció que acudirá a la Justicia porque considera «inconstitucionales» esos servicios mínimos.",
+    "La huelga es en Madrid, pero también se nota en Andalucía: se convocaron concentraciones de apoyo en varias provincias andaluzas. La educación la gestionan las [[comunidades autónomas|ccaa]], cada una con su propio presupuesto y sus plantillas, así que las condiciones de las aulas cambian de una región a otra. Los sindicatos piden bajar las horas de clase a 17 en Secundaria y a 22 en Primaria (ahora son 19 y 25), menos alumnos por aula, más personal y una subida de sueldo. La consejera, Mercedes Zarzalejo, sostiene que las mejoras deben tratarse en la mesa sectorial ordinaria, que reúne a la Administración con los sindicatos más representativos."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
    "fuentes": [
@@ -231,19 +231,21 @@
     "infoLibre",
     "Noticias Obreras",
     "El Diario de Madrid",
-    "El Distrito"
+    "El Distrito",
+    "Telemadrid",
+    "COPE"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-11-06",
-   "nota_actualizacion": "El 5 de noviembre nueve miembros del comité de huelga se encerraron en la Consejería para exigir negociar; la consejera mantiene que solo tratará con la mesa sectorial.",
+   "actualizada": "2026-11-14",
+   "nota_actualizacion": "El 13 de noviembre la Consejería convocó al comité solo para tratar los servicios mínimos; el comité mantiene la huelga indefinida y anunció que acudirá a los tribunales.",
    "en": {
-    "titular": "Madrid teachers' strike: nine strike-committee members stage a sit-in at the Education Department and universities join on 4 and 5 November",
-    "entradilla": "The indefinite strike in public schools enters its fourth week and the councillor still refuses to negotiate with the strike committee.",
+    "titular": "Madrid teachers' strike: the Education Department calls the committee only to change minimum services and unions announce they will go to court",
+    "entradilla": "The indefinite strike in public schools, about to reach a month, goes on; the committee laments that its demands are not being negotiated.",
     "parrafos": [
-     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and affects about 65,000 teachers. Protests resumed this week after the pause for Urda mourning, and on 4 and 5 November the six public universities joined in. On Thursday 5, nine members of the strike committee staged a sit-in at the regional [[Education Department|consejeria]] to demand a meeting. The councillor, Mercedes Zarzalejo, maintains that she will not negotiate with the committee and that improvements must be dealt with in the ordinary sector-wide table, which brings together the administration and the most representative unions.",
-     "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in Almería, Cádiz, Granada, Huelva, Málaga and Seville to defend public education. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want teaching hours cut to 17 in Secondary and 22 in Primary (now 19 and 25), fewer pupils per class, more staff and a pay rise. The six public universities in Madrid went on strike on 4 and 5 November."
+     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and affects about 65,000 teachers. On Friday 13, the regional [[Education Department|consejeria]] called the strike committee to a video meeting with a single item: its proposal to change the minimum services, that is, how many teachers must work even during a strike. The regional government says it wants to avoid harming pupils sitting the PAU university entrance exam. The committee said it was 'satisfied' with the meeting, but is keeping the indefinite strike, laments that its demands are still not being negotiated and announced it will go to court because it considers those minimum services 'unconstitutional'.",
+     "The strike is in Madrid, but it is also felt in Andalusia: support rallies were called in several Andalusian provinces. Education is run by the [[autonomous communities|ccaa]], each with its own budget and staffing, so classroom conditions vary from one region to another. The unions want teaching hours cut to 17 in Secondary and 22 in Primary (now 19 and 25), fewer pupils per class, more staff and a pay rise. The councillor, Mercedes Zarzalejo, maintains that improvements must be dealt with in the ordinary sector-wide table, which brings together the administration and the most representative unions."
     ],
-    "nota_actualizacion": "On 5 November nine strike-committee members staged a sit-in at the Education Department to demand negotiations; the councillor maintains she will only deal with the sector-wide table."
+    "nota_actualizacion": "On 13 November the Education Department called the committee only to discuss minimum services; the committee is keeping the indefinite strike and announced it will go to court."
    }
   },
   {
@@ -330,11 +332,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Trump dice que EE. UU. «no necesita un acuerdo» con Irán y aparta a Vance de las negociaciones; el estrecho sigue cerrado",
-   "entradilla": "El giro llega un día después de que Catar hablara de «progresos»; Irán mantiene sus siete condiciones y el bloqueo naval sigue en vigor.",
+   "titular": "Ormuz: Trump dice que EE. UU. «no necesita un acuerdo» con Irán, aparta a Vance y avisa de que podría reanudar los ataques; Irán mantiene cerrado el estrecho",
+   "entradilla": "Trump asegura que el régimen iraní «se está desmoronando»; Irán mantiene sus siete condiciones y el bloqueo naval sigue en vigor.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Esta semana, el primer ministro de Catar se reunió con Trump en la Casa Blanca y con ministros europeos en París; su portavoz habló de «progresos» y Trump dijo que la guerra estaba «militarmente» terminada. Pero el jueves 12 Trump cambió el tono: afirmó que Estados Unidos «no necesita un acuerdo» con Irán porque tiene «su dinero» y «su estrecho de Ormuz», y apartó de las conversaciones al vicepresidente, JD Vance, que estudiaba reabrirlas. Irán niega que ahora negocie y dice que Ormuz seguirá cerrado hasta que se cumplan siete condiciones suyas, entre ellas que EE. UU. levante el bloqueo de sus puertos. El bloqueo naval estadounidense sigue en vigor."
+    "El primer ministro de Catar se reunió esta semana con Trump y su portavoz habló de «progresos». Pero el jueves 12 Trump cambió el tono: dijo que Estados Unidos «no necesita un acuerdo» con Irán y apartó de las conversaciones al vicepresidente, JD Vance. El viernes 13 insistió en que el régimen iraní «se está desmoronando» por el bloqueo y las sanciones, aseguró que EE. UU. tiene «control total» del estrecho y avisó de que podría reanudar los ataques si la situación empeora. Irán niega que ahora negocie y dice que Ormuz seguirá cerrado hasta que se cumplan siete condiciones suyas, entre ellas el fin del bloqueo, que sigue en vigor."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -385,16 +387,16 @@
     "Diario Las Américas"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-13",
-   "nota_actualizacion": "El 12 de noviembre Trump dijo que EE. UU. «no necesita un acuerdo» con Irán y apartó a Vance de las negociaciones, un día después de que Catar hablara de «progresos».",
+   "actualizada": "2026-11-14",
+   "nota_actualizacion": "El 13 de noviembre Trump dijo que el régimen iraní «se está desmoronando», que EE. UU. controla el estrecho y que podría reanudar los ataques; el 12 había dicho que «no necesita un acuerdo».",
    "en": {
-    "titular": "Hormuz: Trump says the US 'does not need a deal' with Iran and sidelines Vance from the talks; the strait stays closed",
-    "entradilla": "The turn comes a day after Qatar spoke of 'progress'; Iran keeps its seven conditions and the naval blockade remains in force.",
+    "titular": "Hormuz: Trump says the US 'does not need a deal' with Iran, sidelines Vance and warns he could resume attacks; Iran keeps the strait closed",
+    "entradilla": "Trump claims the Iranian regime is 'collapsing'; Iran keeps its seven conditions and the naval blockade remains in force.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "This week, Qatar's prime minister met Trump at the White House and European ministers in Paris; his spokesperson spoke of 'progress' and Trump said the war was 'militarily' over. But on Thursday 12 Trump changed his tone: he said the United States 'does not need a deal' with Iran because it has 'its money' and 'its Strait of Hormuz', and he took Vice-President JD Vance, who had been considering reopening talks, off the negotiations. Iran denies it is negotiating at the moment and says Hormuz will stay closed until seven of its conditions are met, among them that the US lift the blockade of its ports. The US naval blockade remains in force."
+     "Qatar's prime minister met Trump this week and his spokesperson spoke of 'progress'. But on Thursday 12 Trump changed his tone: he said the United States 'does not need a deal' with Iran and took Vice-President JD Vance off the negotiations. On Friday 13 he insisted that the Iranian regime is 'collapsing' under the blockade and sanctions, claimed the US has 'total control' of the strait and warned he could resume attacks if the situation worsens. Iran denies it is negotiating at present and says Hormuz will stay closed until seven of its conditions are met, among them an end to the blockade, which remains in force."
     ],
-    "nota_actualizacion": "On 12 November Trump said the US 'does not need a deal' with Iran and sidelined Vance from the talks, a day after Qatar spoke of 'progress'."
+    "nota_actualizacion": "On 13 November Trump said the Iranian regime is 'collapsing', that the US controls the strait and that he could resume attacks; on the 12th he had said the US 'does not need a deal'."
    }
   },
   {
@@ -402,10 +404,10 @@
    "seccion": "int",
    "dibujo": "aid",
    "titular": "Gaza: un año de alto el fuego y la ONU avisa de que el riesgo de volver a la guerra «nunca ha sido tan alto»",
-   "entradilla": "Un bombardeo israelí contra el hospital Nasser dejó seis muertos el 12 de noviembre; los puntos centrales del acuerdo de 2025 siguen sin cumplirse.",
+   "entradilla": "Un bombardeo israelí contra el hospital Nasser dejó siete muertos el 12 de noviembre, entre ellos un médico y un niño de 13 años; los puntos centrales del acuerdo de 2025 siguen sin cumplirse.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto 74.640 personas, y más de 1.600 de ellas por ataques israelíes desde la tregua. El 15 de octubre, la ONU advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El jueves 12 de noviembre, según los hospitales de [[Gaza|gaza]], once personas murieron en ataques israelíes, seis de ellas en un bombardeo contra el hospital Nasser, en Jan Yunis; entre las víctimas había un niño y un médico. Dos días antes habían muerto al menos tres palestinos. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen pendientes."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto 74.640 personas, y más de 1.600 de ellas por ataques israelíes desde la tregua. El 15 de octubre, la ONU advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El jueves 12 de noviembre murieron 13 personas en ataques israelíes en [[Gaza|gaza]], según el ministerio y el hospital Nasser, de Jan Yunis: siete de ellas en un bombardeo contra el edificio Al Yasín, dentro del complejo del hospital, entre ellas un médico y un niño de 13 años. Israel sostiene que atacaba a combatientes de Hamás. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen pendientes."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -431,30 +433,31 @@
     "Infobae",
     "Cubadebate",
     "La República (Ecuador)",
-    "Extra (Ecuador)"
+    "Extra (Ecuador)",
+    "Infobae (EFE)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-13",
-   "nota_actualizacion": "El 12 de noviembre murieron once personas en ataques israelíes, seis de ellas en un bombardeo contra el hospital Nasser, según los hospitales de Gaza.",
+   "actualizada": "2026-11-14",
+   "nota_actualizacion": "El 12 de noviembre murieron 13 personas en ataques israelíes, siete de ellas en un bombardeo contra el hospital Nasser, según Sanidad de Gaza y el hospital.",
    "en": {
     "titular": "Gaza: a year of ceasefire and the UN warns the risk of a return to war 'has never been higher'",
-    "entradilla": "An Israeli strike on Nasser hospital killed six people on 12 November; the central points of the 2025 agreement are still unfulfilled.",
+    "entradilla": "An Israeli strike on Nasser hospital killed seven people on 12 November, including a doctor and a 13-year-old boy; the central points of the 2025 agreement are still unfulfilled.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which Hamas controls, 74,640 people have died in the war, more than 1,600 of them from Israeli attacks since the truce. On 15 October, the UN warned that the risk of a return to war 'has never been higher'. On Thursday 12 November, according to hospitals in [[Gaza|gaza]], eleven people were killed in Israeli attacks, six of them in a strike on Nasser hospital in Khan Younis; the victims included a child and a doctor. Two days earlier at least three Palestinians had died. Hamas's disarmament, the Israeli withdrawal and the international force are still pending."
+     "According to the Gaza Health Ministry, which Hamas controls, 74,640 people have died in the war, more than 1,600 of them from Israeli attacks since the truce. On 15 October, the UN warned that the risk of a return to war 'has never been higher'. On Thursday 12 November, 13 people were killed in Israeli attacks in [[Gaza|gaza]], according to the ministry and Nasser hospital in Khan Younis: seven of them in a strike on the Al Yasin building, inside the hospital complex, among them a doctor and a 13-year-old boy. Israel says it was targeting Hamas fighters. Hamas's disarmament, the Israeli withdrawal and the international force are still pending."
     ],
-    "nota_actualizacion": "On 12 November eleven people were killed in Israeli attacks, six of them in a strike on Nasser hospital, according to Gaza's hospitals."
+    "nota_actualizacion": "On 12 November 13 people were killed in Israeli attacks, seven of them in a strike on Nasser hospital, according to Gaza's Health Ministry and the hospital."
    }
   },
   {
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Rusia y Ucrania acuerdan en Abu Dabi un gran canje de prisioneros, pero no avanzan en el territorio",
-   "entradilla": "Zelenski habla de unos 1.000 prisioneros por cada bando; no hay acuerdo de paz y las cifras definitivas se esperaban para el jueves 12.",
+   "titular": "Ucrania: EE. UU. prepara el mayor canje de prisioneros de la guerra y Rusia y Ucrania aceptan que Europa entre en la próxima ronda de conversaciones",
+   "entradilla": "Witkoff y Kushner vieron a Putin en Moscú y después informaron a Zelenski en Dublín; aún no hay fecha para el canje ni acuerdo sobre el territorio.",
    "parrafos": [
-    "Las conversaciones de Abu Dabi entre delegaciones de Rusia, Ucrania y Estados Unidos terminaron el miércoles 11 de noviembre, tras dos días. Fueron el primer contacto directo entre rusos y ucranianos desde febrero. Las había anunciado el enviado de la Casa Blanca, [[Steve Witkoff|witkoff]], y las confirmó [[Vladímir Putin|putin]]. Según el enviado estadounidense Jared Kushner, las partes acordaron la mayor liberación humanitaria de prisioneros; [[Zelenski|zelenski]] habló de unos 1.000 por cada bando, y las cifras definitivas debían fijarse el jueves 12. Kushner anunció que él y Witkoff viajarían a Moscú para ver a Putin y después a Dublín para hablar con Zelenski.",
-    "No hubo avances en lo más difícil: Rusia exige que Ucrania se retire del este del Donbás, y [[Zelenski|zelenski]] responde que los asuntos territoriales deben decidirlos los líderes. Moscú acepta que la seguridad sea la «máxima prioridad», pero rechaza un alto el fuego inmediato sin saber qué vendría después; Kiev pide primero ese alto el fuego. Según las agencias, se habló también de garantías de seguridad, de reconstrucción y del regreso de civiles y menores trasladados. Mientras tanto, el 2 de noviembre bombas rusas destruyeron una escuela subterránea de Komyshuvakha, en [[Zaporiyia|zaporiyia]]: según los servicios de emergencia ucranianos, hay 53 muertos y unos 50 desaparecidos."
+    "Las conversaciones de Abu Dabi entre delegaciones de Rusia, Ucrania y Estados Unidos terminaron el miércoles 11 de noviembre, tras dos días, y fueron el primer contacto directo entre rusos y ucranianos desde febrero. Después, los enviados de la Casa Blanca, [[Steve Witkoff|witkoff]] y Jared Kushner, viajaron a Moscú, donde se reunieron con [[Vladímir Putin|putin]], y de allí a Dublín para informar a [[Zelenski|zelenski]]. Kushner dijo que trabajan en lo que sería el mayor canje de prisioneros de la guerra, con «miles» de personas que podrían reencontrarse con sus familias. Aún no hay cifras ni fecha oficiales; Zelenski, que había hablado de unos 1.000 por bando, lo calificó de «éxito real».",
+    "Siguen las diferencias en lo más difícil: Rusia exige que Ucrania se retire del este del Donbás, y [[Zelenski|zelenski]] responde que los asuntos territoriales deben decidirlos los líderes. Moscú acepta que la seguridad sea la «máxima prioridad», pero rechaza un alto el fuego inmediato; Kiev pide primero ese alto el fuego. La novedad es que ambas partes aceptaron que la próxima ronda incluya a socios europeos, aunque no se han anunciado ni el calendario ni el formato. Mientras tanto, el 2 de noviembre bombas rusas destruyeron una escuela subterránea de Komyshuvakha, en [[Zaporiyia|zaporiyia]]: según los servicios de emergencia ucranianos, hay 53 muertos y unos 50 desaparecidos."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -491,19 +494,21 @@
     "France 24",
     "Infobae (Ukrainska Pravda)",
     "Gestión (Perú)",
-    "El Tiempo"
+    "El Tiempo",
+    "The Moscow Times",
+    "Diario Siglo XXI (Europa Press)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-13",
-   "nota_actualizacion": "Tras las conversaciones de Abu Dabi, Rusia y Ucrania acordaron un gran canje de prisioneros, de unos 1.000 por bando según Zelenski; Kushner y Witkoff viajarían a Moscú a ver a Putin.",
+   "actualizada": "2026-11-14",
+   "nota_actualizacion": "Witkoff y Kushner vieron a Putin en Moscú y a Zelenski en Dublín; EE. UU. habla del mayor canje de prisioneros de la guerra y Europa entrará en la próxima ronda de conversaciones.",
    "en": {
-    "titular": "Ukraine: Russia and Ukraine agree a big prisoner swap in Abu Dhabi, but make no progress on territory",
-    "entradilla": "Zelensky speaks of about 1,000 prisoners from each side; there is no peace deal and the final numbers were expected on Thursday 12.",
+    "titular": "Ukraine: the US prepares the biggest prisoner swap of the war, and Russia and Ukraine agree that Europe will join the next round of talks",
+    "entradilla": "Witkoff and Kushner met Putin in Moscow and then briefed Zelensky in Dublin; there is still no date for the swap and no agreement on territory.",
     "parrafos": [
-     "The Abu Dhabi talks between delegations from Russia, Ukraine and the United States ended on Wednesday 11 November, after two days. They were the first direct contact between Russians and Ukrainians since February. They had been announced by the White House envoy, [[Steve Witkoff|witkoff]], and confirmed by [[Vladimir Putin|putin]]. According to the US envoy Jared Kushner, the parties agreed to carry out the biggest humanitarian release of prisoners; [[Zelensky|zelenski]] spoke of about 1,000 from each side, and the final numbers were due to be set on Thursday 12. Kushner announced that he and Witkoff would travel to Moscow to see Putin and then to Dublin to speak with Zelensky.",
-     "There was no progress on the hardest issue: Russia demands that Ukraine withdraw from the east of Donbas, and [[Zelensky|zelenski]] replies that territorial matters must be decided by the leaders. Moscow accepts that security should be the 'top priority', but rejects an immediate ceasefire without knowing what would come next; Kyiv wants that ceasefire first. According to news agencies, security guarantees, reconstruction and the return of civilians and deported children were also discussed. Meanwhile, on 2 November Russian bombs destroyed an underground school in Komyshuvakha, in [[Zaporizhzhia|zaporiyia]]: according to Ukrainian emergency services, 53 people died and about 50 are missing."
+     "The Abu Dhabi talks between delegations from Russia, Ukraine and the United States ended on Wednesday 11 November, after two days, and were the first direct contact between Russians and Ukrainians since February. Afterwards, the White House envoys, [[Steve Witkoff|witkoff]] and Jared Kushner, travelled to Moscow, where they met [[Vladimir Putin|putin]], and from there to Dublin to brief [[Zelensky|zelenski]]. Kushner said they are working on what would be the biggest prisoner swap of the war, with 'thousands' of people who could be reunited with their families. There are still no official numbers or date; Zelensky, who had spoken of about 1,000 from each side, called it a 'real success'.",
+     "Differences remain on the hardest issue: Russia demands that Ukraine withdraw from the east of Donbas, and [[Zelensky|zelenski]] replies that territorial matters must be decided by the leaders. Moscow accepts that security should be the 'top priority' but rejects an immediate ceasefire; Kyiv wants that ceasefire first. The novelty is that both sides agreed the next round should include European partners, although neither a timetable nor a format has been announced. Meanwhile, on 2 November Russian bombs destroyed an underground school in Komyshuvakha, in [[Zaporizhzhia|zaporiyia]]: according to Ukrainian emergency services, 53 people died and about 50 are missing."
     ],
-    "nota_actualizacion": "After the Abu Dhabi talks, Russia and Ukraine agreed a big prisoner swap, of about 1,000 per side according to Zelensky; Kushner and Witkoff were to travel to Moscow to see Putin."
+    "nota_actualizacion": "Witkoff and Kushner met Putin in Moscow and Zelensky in Dublin; the US speaks of the biggest prisoner swap of the war and Europe will join the next round of talks."
    }
   },
   {
@@ -626,35 +631,35 @@
    }
   },
   {
-   "id": "premios-princesa-de-asturias-2026-semana",
+   "id": "latin-grammy-2026-rosalia-album-del-ano-lux",
    "seccion": "cul",
    "dibujo": "trophy",
-   "titular": "Leonor abre por primera vez la ceremonia de los Princesa de Asturias, con Messi, Patti Smith y Studio Ghibli entre los premiados",
-   "entradilla": "La princesa abrió la ceremonia en Oviedo con un discurso dirigido a los jóvenes; el sábado se entregó en Llanes el premio al Pueblo Ejemplar a su Cofradía de Pescadores.",
+   "titular": "Rosalía gana el Latin Grammy al Álbum del Año con «Lux» y se lleva cinco premios; Milo J, Grabación del Año",
+   "entradilla": "La gala se celebró en Las Vegas la noche del 12 de noviembre; Karol G ganó el premio al mejor álbum de música urbana.",
    "parrafos": [
-    "Los [[Premios Princesa de Asturias|princesa]] de 2026 ya tienen todos sus ganadores. Entre ellos están la cantante y escritora Patti Smith (Artes), [[Studio Ghibli|ghibli]], el estudio de animación japonés (Comunicación y Humanidades), el escritor británico Julian Barnes (Letras) y el futbolista [[Leo Messi|messi]] (Deportes). También reciben premio el historiador Timothy Garton Ash (Ciencias Sociales), los científicos David Klenerman, Shankar Balasubramanian y Pascal Mayer (Investigación Científica y Técnica), la astronauta Christina Koch (Concordia) y la [[Bóveda Global de Semillas de Svalbard|svalbard]] (Cooperación Internacional).",
-    "La ceremonia se celebró el viernes 23 de octubre en el Teatro Campoamor de Oviedo. Por primera vez fue la princesa [[Leonor|leonor]] quien abrió el acto con su discurso. Habló sobre todo a los jóvenes: reconoció sentir «una mezcla de vértigo e ilusión», defendió la esperanza frente al desencanto social y citó entre los problemas de su generación la falta de expectativas, los extremismos y las guerras. El sábado 24 se entregó en Llanes el premio al Pueblo Ejemplar de Asturias a la Cofradía de Pescadores de la localidad. Que el mismo año reciban premio una artista del rock, un estudio de dibujos animados y un futbolista muestra lo amplio que es el abanico de estos galardones."
+    "La gala de los [[Latin Grammy|latingrammy]] de 2026 se celebró en Las Vegas la noche del jueves 12 de noviembre. La cantante catalana [[Rosalía|rosalia]] fue la gran triunfadora: ganó cinco premios, entre ellos el de Álbum del Año por «Lux», el tercero que logra en esa categoría tras «El mal querer» (2018) y «Motomami» (2022), y el de Canción del Año por «La Perla», que canta con Yahritza y Su Esencia. También se llevó los de mejor canción pop, mejor álbum de música alternativa y mejor vídeo musical de formato corto por «Sauvignon Blanc». Con cinco gramófonos, es la artista más premiada de la noche.",
+    "Entre los demás premios principales, el argentino [[Milo J|milo]] ganó Grabación del Año por «Niño» y la colombiana [[Karol G|karolg]], el de Mejor Álbum de Música Urbana por «Tropicoqueta». Los Latin Grammy los concede la Academia Latina de la Grabación, con el voto de profesionales de la industria, y premian música en español y portugués de todo el mundo, por eso compiten juntos artistas de España, Latinoamérica y Estados Unidos. Son distintos de los Grammy estadounidenses, que se entregan en febrero y premian sobre todo música en inglés."
    ],
-   "busqueda_imagenes": "Premios Princesa de Asturias 2026 Oviedo",
+   "busqueda_imagenes": "Rosalía Latin Grammy 2026 Las Vegas",
    "fuentes": [
-    "Fundación Princesa de Asturias",
-    "Olympics.com",
-    "El Búscolu",
-    "Moncloa.com",
-    "Herqles",
-    "Infobae"
+    "CNN en Español",
+    "Billboard",
+    "Infobae",
+    "Yahoo Noticias",
+    "Deadline",
+    "ABC7 Los Angeles"
    ],
-   "publicada": "2026-10-13",
-   "actualizada": "2026-10-25",
-   "nota_actualizacion": "La ceremonia del 23 de octubre la abrió por primera vez la princesa Leonor; el 24, el Pueblo Ejemplar de Asturias fue para la Cofradía de Pescadores de Llanes.",
+   "publicada": "2026-11-14",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Leonor opens the Princess of Asturias ceremony for the first time, with Messi, Patti Smith and Studio Ghibli among the winners",
-    "entradilla": "The princess opened the ceremony in Oviedo with a speech aimed at young people; on Saturday the Exemplary Town of Asturias award was presented in Llanes to its Fishermen's Guild.",
+    "titular": "Rosalía wins the Latin Grammy for Album of the Year with 'Lux' and takes home five awards; Milo J, Record of the Year",
+    "entradilla": "The ceremony was held in Las Vegas on the night of 12 November; Karol G won the award for best urban music album.",
     "parrafos": [
-     "The 2026 [[Princess of Asturias Awards|princesa]] now have all their winners. They include the singer and writer Patti Smith (Arts), [[Studio Ghibli|ghibli]], the Japanese animation studio (Communication and Humanities), the British writer Julian Barnes (Literature) and the footballer [[Lionel Messi|messi]] (Sports). Awards also go to the historian Timothy Garton Ash (Social Sciences), the scientists David Klenerman, Shankar Balasubramanian and Pascal Mayer (Technical and Scientific Research), the astronaut Christina Koch (Concord) and the [[Svalbard Global Seed Vault|svalbard]] (International Cooperation).",
-     "The ceremony took place on Friday 23 October at the Campoamor Theatre in Oviedo. For the first time it was Princess [[Leonor|leonor]] who opened the event with her speech. She spoke mainly to young people: she admitted feeling 'a mix of vertigo and excitement', defended hope in the face of social disenchantment and named among the problems of her generation the lack of prospects, extremism and wars. On Saturday 24 the Exemplary Town of Asturias award was presented in Llanes to the town's Fishermen's Guild. That in the same year an award goes to a rock artist, an animation studio and a footballer shows how wide the range of these awards is."
+     "The 2026 [[Latin Grammys|latingrammy]] ceremony was held in Las Vegas on the night of Thursday 12 November. The Catalan singer [[Rosalía|rosalia]] was the big winner: she took five awards, among them Album of the Year for 'Lux', the third she has won in that category after 'El mal querer' (2018) and 'Motomami' (2022), and Song of the Year for 'La Perla', which she sings with Yahritza y Su Esencia. She also won best pop song, best alternative music album and best short-form music video for 'Sauvignon Blanc'. With five gramophones, she is the most awarded artist of the night.",
+     "Among the other main awards, the Argentine [[Milo J|milo]] won Record of the Year for 'Niño' and the Colombian [[Karol G|karolg]] won Best Urban Music Album for 'Tropicoqueta'. The Latin Grammys are given by the Latin Recording Academy, by vote of industry professionals, and reward music in Spanish and Portuguese from all over the world, which is why artists from Spain, Latin America and the United States compete together. They are separate from the American Grammys, which are held in February and mainly reward music in English."
     ],
-    "nota_actualizacion": "Princess Leonor opened the 23 October ceremony for the first time; on the 24th the Exemplary Town of Asturias award went to Llanes's Fishermen's Guild."
+    "nota_actualizacion": null
    }
   },
   {
@@ -759,11 +764,11 @@
    "id": "ipc-septiembre-2026-sube-49",
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M12 18 H26 L36 58 H88 L98 28 H30\"/><rect class=\"d-b\" x=\"40\" y=\"30\" width=\"16\" height=\"22\"/><rect class=\"d-y\" x=\"60\" y=\"34\" width=\"14\" height=\"18\"/><rect class=\"d-g\" x=\"76\" y=\"38\" width=\"10\" height=\"14\"/><circle class=\"d-i\" cx=\"42\" cy=\"70\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"70\" r=\"6\"/><path class=\"d-a\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/><path class=\"d-l\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/></svg>",
-   "titular": "Los precios se mantienen en el 4,9 % en octubre, según el avance del INE",
-   "entradilla": "La inflación no sube más, pero sigue en su nivel más alto desde febrero de 2023; el dato definitivo se conocerá el 13 de noviembre.",
+   "titular": "El INE confirma que los precios subieron un 4,9 % en octubre, igual que en septiembre y en el nivel más alto desde febrero de 2023",
+   "entradilla": "Es el tercer mes seguido por encima del 4 %; la inflación subyacente se queda en el 3,1 %.",
    "parrafos": [
-    "El 30 de octubre, el Instituto Nacional de Estadística ([[INE|ine]]) publicó el indicador adelantado del [[IPC|ipc]] de octubre: los precios están un 4,9 % más altos que hace un año, igual que en septiembre, cuando la [[inflación|inflacion]] llegó a su nivel más alto desde febrero de 2023. Respecto a septiembre, los precios subieron un 0,6 %. La subyacente, que deja fuera la energía y los alimentos sin elaborar, se mantiene en el 3,1 %. Es un primer cálculo y el dato definitivo se publicará el 13 de noviembre. En septiembre, la causa principal fueron los carburantes, encarecidos por la guerra con Irán, que ha disparado el precio del [[petróleo|petroleo]].",
-    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre, así que lo que pase en octubre y noviembre influirá en la subida de 2027. Subir las pensiones con la inflación protege el poder de compra de los pensionistas, pero supone más gasto para el Estado."
+    "El viernes 13 de noviembre, el Instituto Nacional de Estadística ([[INE|ine]]) confirmó el dato definitivo del [[IPC|ipc]] de octubre: los precios están un 4,9 % más altos que hace un año, igual que en septiembre, y la [[inflación|inflacion]] encadena tres meses por encima del 4 %, en niveles de febrero de 2023. Respecto a septiembre, los precios subieron un 0,6 %. La subyacente, que deja fuera la energía y los alimentos sin elaborar, se mantiene en el 3,1 %. Entre los factores, el INE cita el gas, que subió, y los carburantes, que tiraron a la baja. La guerra con Irán ha disparado el precio del [[petróleo|petroleo]].",
+    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre, así que con octubre ya confirmado, lo que pase en noviembre influirá aún en la subida de 2027. Subir las pensiones con la inflación protege el poder de compra de los pensionistas, pero supone más gasto para el Estado."
    ],
    "busqueda_imagenes": "IPC octubre 2026 INE adelantado 4,9%",
    "fuentes": [
@@ -773,19 +778,22 @@
     "Hispanidad",
     "The Objective",
     "Vozpópuli",
-    "elEconomista"
+    "elEconomista",
+    "Deia",
+    "Democrata",
+    "Diario en Positivo"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-10-31",
-   "nota_actualizacion": "El avance del INE sitúa el IPC de octubre en el 4,9 %, igual que en septiembre; la subyacente sigue en el 3,1 %.",
+   "actualizada": "2026-11-14",
+   "nota_actualizacion": "El 13 de noviembre el INE confirmó el IPC de octubre en el 4,9 %, con la subyacente en el 3,1 % y tres meses seguidos por encima del 4 %.",
    "en": {
-    "titular": "Prices hold at 4.9% in October, according to the INE's flash estimate",
-    "entradilla": "Inflation is not rising any further, but it stays at its highest level since February 2023; the final figure will be released on 13 November.",
+    "titular": "The INE confirms prices rose 4.9% in October, the same as in September and the highest level since February 2023",
+    "entradilla": "It is the third month in a row above 4%; core inflation stays at 3.1%.",
     "parrafos": [
-     "On 30 October, the National Statistics Institute ([[INE|ine]]) published the flash estimate of the October [[CPI|ipc]]: prices are 4.9% higher than a year ago, the same as in September, when [[inflation|inflacion]] reached its highest level since February 2023. Compared with September, prices rose by 0.6%. Core inflation, which leaves out energy and unprocessed food, stays at 3.1%. This is a first estimate and the final figure will be published on 13 November. In September, the main cause was fuel, made more expensive by the war with Iran, which has sent the price of [[oil|petroleo]] soaring.",
-     "This matters because the same money buys fewer things, and wages do not always rise at the same pace. It also affects [[pensions|pension]]: by law, each year they rise in line with average inflation between December and November, so what happens in October and November will influence the 2027 increase. Raising pensions with inflation protects pensioners' purchasing power, but means more spending for the State."
+     "On Friday 13 November, the National Statistics Institute ([[INE|ine]]) confirmed the final October [[CPI|ipc]] figure: prices are 4.9% higher than a year ago, the same as in September, and [[inflation|inflacion]] has now stayed above 4% for three months running, at levels last seen in February 2023. Compared with September, prices rose by 0.6%. Core inflation, which leaves out energy and unprocessed food, stays at 3.1%. Among the factors, the INE cites gas, which rose, and fuels, which pulled downwards. The war with Iran has sent the price of [[oil|petroleo]] soaring.",
+     "This matters because the same money buys fewer things, and wages do not always rise at the same pace. It also affects [[pensions|pension]]: by law, each year they rise in line with average inflation between December and November, so with October now confirmed, what happens in November will still influence the 2027 increase. Raising pensions with inflation protects pensioners' purchasing power, but means more spending for the State."
     ],
-    "nota_actualizacion": "The INE's flash estimate puts October's CPI at 4.9%, the same as in September; core inflation remains at 3.1%."
+    "nota_actualizacion": "On 13 November the INE confirmed October CPI at 4.9%, with core inflation at 3.1% and three months in a row above 4%."
    }
   },
   {
@@ -893,10 +901,10 @@
    "seccion": "es",
    "dibujo": "ballot",
    "titular": "Arranca la campaña del 29 de noviembre con encuestas que no coinciden: el CIS da ventaja al PSOE y 40dB, al PP",
-   "entradilla": "El CIS ve al PSOE primero y a PP y Vox sin mayoría absoluta; la encuesta de 40dB para El País y la SER coloca al PP por delante.",
+   "entradilla": "El CIS ve al PSOE primero y a PP y Vox sin mayoría absoluta; 40dB coloca al PP por delante. El cara a cara Sánchez-Feijóo será el jueves 19.",
    "parrafos": [
     "Hoy, viernes 13, los partidos abren la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para tener mayoría absoluta. La vivienda, tras la huelga general y los decretos votados ayer, será uno de los temas centrales. La víspera se publicó el macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas: estima que el PSOE gana con el 33,3 % de los votos, unos ocho puntos por delante del PP, y que Vox llega al 18,4 %.",
-    "En escaños, el CIS calcula entre 134 y 143 para el PSOE y entre 57 y 65 para Vox, y concluye que PP y Vox no alcanzarían la mayoría absoluta. Según los medios, es la excepción: la última encuesta de 40dB para El País y la Cadena SER, del 9 de noviembre, da el 31,9 % al PP, el 29,9 % al PSOE y el 18 % a Vox. Una [[encuesta|encuesta]] es una foto aproximada de un momento, no un resultado, y estas dos discrepan en quién queda primero. Además, en España los votos se convierten en escaños provincia a provincia, así que el reparto final puede variar."
+    "En escaños, el CIS calcula entre 134 y 143 para el PSOE y entre 57 y 65 para Vox, y concluye que PP y Vox no alcanzarían la mayoría absoluta. Según los medios, es la excepción: la última encuesta de 40dB para El País y la Cadena SER, del 9 de noviembre, da el 31,9 % al PP, el 29,9 % al PSOE y el 18 % a Vox. Una [[encuesta|encuesta]] es una foto aproximada de un momento, no un resultado. En televisión habrá un cara a cara entre Sánchez y Feijóo el jueves 19 de noviembre, moderado por María Casado, y está previsto otro debate con los principales partidos hacia el 26."
    ],
    "busqueda_imagenes": "campaña electoral 29N encuestas CIS 40dB",
    "fuentes": [
@@ -904,19 +912,21 @@
     "Público",
     "Euronews",
     "Democrata",
-    "Yahoo Noticias"
+    "Yahoo Noticias",
+    "Infobae (agencias)",
+    "elDiario.es (Vertele)"
    ],
    "publicada": "2026-11-13",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-14",
+   "nota_actualizacion": "Se ha fijado para el jueves 19 de noviembre el cara a cara televisado entre Sánchez y Feijóo, moderado por María Casado; hay otro debate previsto hacia el 26.",
    "en": {
     "titular": "The 29 November campaign begins with polls that disagree: the CIS gives the PSOE the lead and 40dB gives it to the PP",
-    "entradilla": "The CIS puts the PSOE first and PP and Vox short of an absolute majority; the 40dB poll for El País and SER puts the PP ahead.",
+    "entradilla": "The CIS puts the PSOE first and PP and Vox short of an absolute majority; 40dB puts the PP ahead. The Sánchez-Feijóo head-to-head will be on Thursday 19.",
     "parrafos": [
      "Today, Friday 13, the parties open the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. Housing, after the general strike and the decrees voted on yesterday, will be one of the central themes. On the eve of the campaign the large pre-election survey by the [[CIS|cis]], the public sociological research body, was published, with more than 45,000 interviews: it estimates that the PSOE wins with 33.3% of the vote, about eight points ahead of the PP, and that Vox reaches 18.4%.",
-     "In seats, the CIS calculates between 134 and 143 for the PSOE and between 57 and 65 for Vox, and concludes that PP and Vox would not reach an absolute majority. According to the media, it is the exception: the latest 40dB poll for El País and Cadena SER, from 9 November, gives 31.9% to the PP, 29.9% to the PSOE and 18% to Vox. A [[poll|encuesta]] is an approximate snapshot of a moment, not a result, and these two disagree on who comes first. Moreover, in Spain votes are turned into seats province by province, so the final split can vary."
+     "In seats, the CIS calculates between 134 and 143 for the PSOE and between 57 and 65 for Vox, and concludes that PP and Vox would not reach an absolute majority. According to the media, it is the exception: the latest 40dB poll for El País and Cadena SER, from 9 November, gives 31.9% to the PP, 29.9% to the PSOE and 18% to Vox. A [[poll|encuesta]] is an approximate snapshot of a moment, not a result. On television there will be a head-to-head between Sánchez and Feijóo on Thursday 19 November, moderated by María Casado, and another debate with the main parties is planned for around the 26th."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The televised Sánchez-Feijóo head-to-head has been set for Thursday 19 November, moderated by María Casado; another debate is planned for around the 26th."
    }
   },
   {
@@ -961,11 +971,11 @@
    "id": "petroleo-brent-cae-esperanza-acuerdo-eeuu-iran",
    "seccion": "eco",
    "dibujo": "tanker",
-   "titular": "El petróleo Brent cae un 4,5 % y queda en torno a los 94 dólares, su nivel más bajo en más de dos meses, por la esperanza de un acuerdo entre EE. UU. e Irán",
-   "entradilla": "Trump dijo a la CNN que ve «muy improbable» reanudar los ataques si Teherán avanza hacia un acuerdo nuclear; Ormuz sigue sin abrirse.",
+   "titular": "El petróleo Brent rebota un 3,3 % hasta los 95,82 dólares después de que Trump diga que EE. UU. «no necesita un acuerdo» con Irán",
+   "entradilla": "El barril de referencia en Europa subió el jueves 12 tras varias jornadas de caídas por la esperanza de un pacto; Ormuz sigue sin abrirse.",
    "parrafos": [
-    "El lunes 9 de noviembre, el [[Brent|brent]], el petróleo de referencia en Europa, cayó un 4,5 % hasta quedar en torno a los 94 dólares por barril, su nivel más bajo en más de dos meses, según los medios. El crudo estadounidense WTI bajó un porcentaje similar, hasta unos 87 dólares. La causa que dan los analistas es la esperanza de que el conflicto entre Estados Unidos e [[Irán|iran]] se resuelva negociando: Trump dijo a la CNN que ve «muy improbable» tener que reanudar los ataques si hay avances hacia un acuerdo nuclear.",
-    "El [[petróleo|petroleo]] importa a una familia porque de él salen la gasolina y el gasóleo, y su precio influye en el transporte y en los precios de casi todo. Cuando baja el crudo, con el tiempo suele abaratarse también el combustible, aunque el precio en el surtidor tarda en reaccionar. Pero no hay acuerdo todavía: el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del crudo mundial, sigue cerrado casi por completo y Estados Unidos mantiene su bloqueo naval a Irán, así que el precio puede volver a subir en cuanto cambien las noticias."
+    "El jueves 12 de noviembre, el [[Brent|brent]], el petróleo de referencia en Europa, subió un 3,3 % y cerró en 95,82 dólares por barril, según las agencias, después de que Trump dijera que Estados Unidos «no necesita un acuerdo» con [[Irán|iran]]. El crudo estadounidense WTI subió un 2,55 %, hasta 88,74 dólares. Es la reacción contraria a la del lunes 9, cuando el Brent había caído un 4,5 % hasta unos 94 dólares, su nivel más bajo en más de dos meses, por la esperanza de que el conflicto se resolviera negociando. El precio se mueve con cada frase de Washington porque está en juego cuánto crudo podrá salir del Golfo.",
+    "El [[petróleo|petroleo]] importa a una familia porque de él salen la gasolina y el gasóleo, y su precio influye en el transporte y en los precios de casi todo. Cuando baja el crudo, con el tiempo suele abaratarse también el combustible, aunque el precio en el surtidor tarda en reaccionar, y cuando sube ocurre lo contrario. Y no hay acuerdo: el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del crudo mundial, sigue cerrado casi por completo y Estados Unidos mantiene su bloqueo naval a Irán, así que el precio puede seguir moviéndose con cada noticia."
    ],
    "busqueda_imagenes": "precio petróleo Brent barril",
    "fuentes": [
@@ -974,19 +984,24 @@
     "Diario Libre",
     "Unitel (agencias)",
     "KCH FM",
-    "Infobae"
+    "Infobae",
+    "Infobae (EFE)",
+    "El Periódico de la Energía",
+    "Bloomberg",
+    "Gestión (Perú)",
+    "Diario Siglo XXI (Europa Press)"
    ],
    "publicada": "2026-11-10",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-14",
+   "nota_actualizacion": "El 12 de noviembre el Brent subió un 3,3 % hasta 95,82 dólares después de que Trump dijera que EE. UU. «no necesita un acuerdo» con Irán.",
    "en": {
-    "titular": "Brent crude falls 4.5% to around 94 dollars, its lowest level in more than two months, on hopes of a US-Iran deal",
-    "entradilla": "Trump told CNN he sees resuming attacks as 'very unlikely' if Tehran moves towards a nuclear deal; Hormuz is still not open.",
+    "titular": "Brent crude rebounds 3.3% to 95.82 dollars after Trump says the US 'does not need a deal' with Iran",
+    "entradilla": "Europe's benchmark barrel rose on Thursday 12 after several days of falls on hopes of a deal; Hormuz is still not open.",
     "parrafos": [
-     "On Monday 9 November, [[Brent|brent]], Europe's benchmark oil, fell 4.5% to around 94 dollars a barrel, its lowest level in more than two months, according to the media. US WTI crude dropped by a similar percentage, to about 87 dollars. The reason analysts give is hope that the conflict between the United States and [[Iran|iran]] will be settled by negotiation: Trump told CNN he sees it as 'very unlikely' that attacks will have to resume if there is progress towards a nuclear deal.",
-     "[[Oil|petroleo]] matters to a family because petrol and diesel are made from it, and its price affects transport and the cost of almost everything. When crude falls, fuel usually gets cheaper too in time, although the price at the pump is slow to react. But there is no deal yet: the [[Strait of Hormuz|ormuz]], through which a fifth of the world's crude passes, is still almost completely closed and the United States keeps its naval blockade on Iran, so the price could rise again as soon as the news changes."
+     "On Thursday 12 November, [[Brent|brent]], Europe's benchmark oil, rose 3.3% and closed at 95.82 dollars a barrel, according to news agencies, after Trump said the United States 'does not need a deal' with [[Iran|iran]]. US WTI crude rose 2.55%, to 88.74 dollars. It is the opposite of Monday 9, when Brent had fallen 4.5% to around 94 dollars, its lowest level in more than two months, on hopes that the conflict would be settled by negotiation. The price moves with every sentence from Washington because what is at stake is how much crude will be able to leave the Gulf.",
+     "[[Oil|petroleo]] matters to a family because petrol and diesel are made from it, and its price affects transport and the cost of almost everything. When crude falls, fuel usually gets cheaper too in time, although the price at the pump is slow to react, and when it rises the opposite happens. And there is no deal: the [[Strait of Hormuz|ormuz]], through which a fifth of the world's crude passes, is still almost completely closed and the United States keeps its naval blockade on Iran, so the price can keep moving with every piece of news."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On 12 November Brent rose 3.3% to 95.82 dollars after Trump said the US 'does not need a deal' with Iran."
    }
   },
   {
@@ -1024,30 +1039,34 @@
    "id": "cop31-antalya-cumbre-clima-financiacion",
    "seccion": "int",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-b\" cx=\"52\" cy=\"46\" r=\"32\"/><path class=\"d-g\" d=\"M34 36 Q42 26 54 30 Q60 36 52 42 Q44 46 40 54 Q32 50 34 36 Z\"/><path class=\"d-g\" d=\"M60 54 Q70 48 76 56 Q74 68 64 72 Q58 64 60 54 Z\"/><circle class=\"d-l\" cx=\"52\" cy=\"46\" r=\"32\"/><rect class=\"d-p\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><rect class=\"d-a\" x=\"95\" y=\"32\" width=\"4\" height=\"34\"/><circle class=\"d-a\" cx=\"97\" cy=\"68\" r=\"8\"/><rect class=\"d-l\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><circle class=\"d-l\" cx=\"97\" cy=\"68\" r=\"8\"/></svg>",
-   "titular": "Arranca en Antalya la COP31, la cumbre del clima de la ONU, con el dinero para los países más vulnerables como gran asunto",
-   "entradilla": "Delegaciones de todo el mundo negocian hasta el 20 de noviembre; los jefes de Estado y de Gobierno se reúnen los días 11 y 12.",
+   "titular": "COP31: la cumbre de líderes termina sin dinero nuevo y los negociadores tienen hasta el 20 de noviembre para pactar el texto final",
+   "entradilla": "Los grandes productores de combustibles fósiles se resisten a fijar objetivos firmes; el dinero para los países vulnerables sigue siendo el gran asunto.",
    "parrafos": [
-    "Hoy, lunes 9 de noviembre, arranca en [[Antalya|antalya]], en Turquía, la [[COP31|cop31]], la conferencia anual de las Naciones Unidas sobre el [[cambio climático|cambioclimatico]]. Durará hasta el 20 de noviembre en el centro Expo de la ciudad. La preside el turco Murat Kurum, el australiano Chris Bowen dirige las negociaciones y los jefes de Estado y de Gobierno se reúnen los días 11 y 12, según la ONU. Es la cita en la que los países intentan ponerse de acuerdo sobre qué hacer para frenar el calentamiento del planeta y para que los más vulnerables puedan protegerse de sequías, inundaciones y otros efectos.",
-    "El gran asunto es el dinero. Los países en desarrollo piden que los ricos cumplan sus promesas de financiación. Según los medios, se discutirá cómo fijar nuevos objetivos más allá de los 100.000 millones de dólares anuales prometidos, quién comprueba que se pagan y si la ayuda llega como donación o como préstamo, que hay que devolver. También se hablará de recortar emisiones, de abandonar los [[combustibles fósiles|fosiles]] y de que ese cambio no deje atrás a trabajadores ni a comunidades. La cumbre se presenta como una prueba de credibilidad del [[Acuerdo de París|acuerdoparis]]. Todavía no hay ningún acuerdo: empiezan dos semanas de negociación."
+    "La cumbre de jefes de Estado y de Gobierno de la [[COP31|cop31]], la conferencia de la ONU sobre el [[cambio climático|cambioclimatico]] que se celebra en [[Antalya|antalya]], terminó el 12 de noviembre sin decisiones formales ni dinero nuevo, según los medios. Desde el viernes 13, la negociación está en manos de los equipos técnicos, que tienen hasta el 20 de noviembre para acordar el texto final. La preside el turco Murat Kurum y el australiano Chris Bowen dirige las negociaciones. El dinero sigue siendo el gran asunto: los países más vulnerables piden que las promesas de financiación se conviertan en ayuda real para protegerse de sequías, inundaciones y otros efectos.",
+    "También han aparecido las primeras fricciones sobre los [[combustibles fósiles|fosiles]]. Según las agencias, productores como Arabia Saudí y Rusia rechazan fórmulas que limiten su uso, mientras que Brasil y otros países piden objetivos más claros para abandonarlos; la Unión Europea apoya electrificar la economía con energías limpias. Australia, que dirige la negociación, debía reunir propuestas hasta el sábado para presentar un borrador la próxima semana. La cumbre se presenta como una prueba de credibilidad del [[Acuerdo de París|acuerdoparis]]. Todavía no hay ningún acuerdo y, si las diferencias sobre el dinero continúan, el resultado final puede ser modesto."
    ],
    "busqueda_imagenes": "COP31 Antalya cumbre clima 2026",
    "fuentes": [
     "CMNUCC (ONU)",
     "Moncloa.com",
     "EcoAvant",
-    "Pacto Mundial"
+    "Pacto Mundial",
+    "Yahoo Noticias",
+    "Metro Puerto Rico",
+    "Crónica del Henares",
+    "MCN"
    ],
    "publicada": "2026-11-09",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-14",
+   "nota_actualizacion": "La cumbre de líderes terminó el 12 de noviembre sin dinero nuevo; desde el 13, los negociadores tienen hasta el 20 para pactar el texto, con fricciones sobre los combustibles fósiles.",
    "en": {
-    "titular": "COP31, the UN climate summit, opens in Antalya with money for the most vulnerable countries as the big issue",
-    "entradilla": "Delegations from around the world negotiate until 20 November; heads of state and government meet on the 11th and 12th.",
+    "titular": "COP31: the leaders' summit ends without new money and negotiators have until 20 November to agree the final text",
+    "entradilla": "The big fossil-fuel producers resist setting firm targets; money for vulnerable countries remains the big issue.",
     "parrafos": [
-     "Today, Monday 9 November, opens in [[Antalya|antalya]], in Turkey, [[COP31|cop31]], the annual United Nations conference on [[climate change|cambioclimatico]]. It will run until 20 November at the city's Expo centre. It is chaired by Turkey's Murat Kurum, Australia's Chris Bowen leads the negotiations, and heads of state and government meet on the 11th and 12th, according to the UN. It is the meeting where countries try to agree on what to do to slow the warming of the planet and to let the most vulnerable protect themselves from droughts, floods and other effects.",
-     "The big issue is money. Developing countries ask the rich ones to keep their funding promises. According to the media, the talks will cover how to set new targets beyond the 100,000 million dollars a year that was promised, who checks that it is paid, and whether the aid arrives as a grant or as a loan, which has to be repaid. They will also discuss cutting emissions, moving away from [[fossil fuels|fosiles]] and making sure that change does not leave workers or communities behind. The summit is presented as a test of the credibility of the [[Paris Agreement|acuerdoparis]]. There is no agreement yet: two weeks of negotiation are beginning."
+     "The summit of heads of state and government at [[COP31|cop31]], the UN conference on [[climate change|cambioclimatico]] being held in [[Antalya|antalya]], ended on 12 November with no formal decisions and no new money, according to the media. Since Friday 13, the negotiation has been in the hands of the technical teams, who have until 20 November to agree the final text. It is chaired by Turkey's Murat Kurum and Australia's Chris Bowen leads the negotiations. Money remains the big issue: the most vulnerable countries ask for funding promises to be turned into real help to protect themselves from droughts, floods and other effects.",
+     "The first frictions over [[fossil fuels|fosiles]] have also appeared. According to news agencies, producers such as Saudi Arabia and Russia reject wording that would limit their use, while Brazil and others ask for clearer targets to move away from them; the European Union backs electrifying the economy with clean energy. Australia, which leads the negotiation, had until Saturday to gather proposals and present a draft next week. The summit is presented as a test of the credibility of the [[Paris Agreement|acuerdoparis]]. There is still no agreement and, if the differences over money continue, the final outcome may be modest."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "The leaders' summit ended on 12 November without new money; since the 13th, negotiators have until the 20th to agree the text, with friction over fossil fuels."
    }
   },
   {
@@ -3848,11 +3867,47 @@
     "n": "CIS",
     "x": "The Centre for Sociological Research: a public body that runs polls on politics and society. It answers to the Government, so its polls often spark debate."
    }
+  },
+  "latingrammy": {
+   "t": "palabra",
+   "n": "Latin Grammy",
+   "x": "Premios anuales de la Academia Latina de la Grabación a la música en español y portugués. Son distintos de los Grammy de Estados Unidos.",
+   "en": {
+    "n": "Latin Grammys",
+    "x": "Annual awards given by the Latin Recording Academy to music in Spanish and Portuguese. They are separate from the Grammys in the United States."
+   }
+  },
+  "rosalia": {
+   "t": "persona",
+   "n": "Rosalía",
+   "x": "Cantante y compositora catalana que mezcla flamenco, pop y música electrónica. Es una de las artistas españolas más famosas del mundo.",
+   "en": {
+    "n": "Rosalía",
+    "x": "A Catalan singer and songwriter who blends flamenco, pop and electronic music. She is one of the most famous Spanish artists in the world."
+   }
+  },
+  "milo": {
+   "t": "persona",
+   "n": "Milo J",
+   "x": "Cantante y rapero argentino de la nueva generación de la música en español.",
+   "en": {
+    "n": "Milo J",
+    "x": "An Argentine singer and rapper from the new generation of music in Spanish."
+   }
+  },
+  "karolg": {
+   "t": "persona",
+   "n": "Karol G",
+   "x": "Cantante colombiana de reguetón y música urbana, una de las más escuchadas del mundo.",
+   "en": {
+    "n": "Karol G",
+    "x": "A Colombian reggaeton and urban music singer, one of the most listened-to in the world."
+   }
   }
  },
- "edicion_en": "Friday 13 November 2026",
+ "edicion_en": "Saturday 14 November 2026",
  "destacada": {
-  "id": "el-congreso-decide-sobre-las-leyes-de-vivienda",
-  "fecha": "2026-11-13"
+  "id": "ucrania-ataques-mientras-se-habla-de-paz",
+  "fecha": "2026-11-14"
  }
 }
