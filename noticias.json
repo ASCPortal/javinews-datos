@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-14T07:00:00+01:00",
- "edicion": "Sábado 14 de noviembre de 2026",
+ "actualizado": "2026-11-15T07:20:00+01:00",
+ "edicion": "Domingo 15 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -332,11 +332,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Trump dice que EE. UU. «no necesita un acuerdo» con Irán, aparta a Vance y avisa de que podría reanudar los ataques; Irán mantiene cerrado el estrecho",
-   "entradilla": "Trump asegura que el régimen iraní «se está desmoronando»; Irán mantiene sus siete condiciones y el bloqueo naval sigue en vigor.",
+   "titular": "Ormuz: Irán dice haber atacado un radar de EE. UU. en Baréin, Washington lo niega y Trump avisa de que podría reanudar los ataques",
+   "entradilla": "La Armada iraní asegura que dos petroleros se incendiaron al chocar con minas; el bloqueo naval sigue en vigor y no hay acuerdo.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "El primer ministro de Catar se reunió esta semana con Trump y su portavoz habló de «progresos». Pero el jueves 12 Trump cambió el tono: dijo que Estados Unidos «no necesita un acuerdo» con Irán y apartó de las conversaciones al vicepresidente, JD Vance. El viernes 13 insistió en que el régimen iraní «se está desmoronando» por el bloqueo y las sanciones, aseguró que EE. UU. tiene «control total» del estrecho y avisó de que podría reanudar los ataques si la situación empeora. Irán niega que ahora negocie y dice que Ormuz seguirá cerrado hasta que se cumplan siete condiciones suyas, entre ellas el fin del bloqueo, que sigue en vigor."
+    "El jueves 12, Trump dijo que EE. UU. «no necesita un acuerdo» con Irán y apartó de las conversaciones al vicepresidente, JD Vance; el viernes 13 aseguró que el régimen iraní «se está desmoronando» y que podría reanudar los ataques. Ese viernes, la Guardia Revolucionaria iraní dijo haber atacado un radar estadounidense en [[Baréin|bahrein]], en respuesta a un ataque de EE. UU. contra una torre de telecomunicaciones iraní. El Mando Central de EE. UU. lo niega: afirma que derribó dos drones, sin heridos ni daños. El sábado 14, la Armada iraní informó de que dos petroleros se incendiaron al chocar con minas cerca de Ormuz. Ninguna de las versiones se ha podido confirmar de forma independiente."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -384,19 +384,22 @@
     "PanAm Post (EFE)",
     "Libertad Digital",
     "Yahoo Noticias",
-    "Diario Las Américas"
+    "Diario Las Américas",
+    "ANI",
+    "Tehran Times",
+    "The New Arab"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-14",
-   "nota_actualizacion": "El 13 de noviembre Trump dijo que el régimen iraní «se está desmoronando», que EE. UU. controla el estrecho y que podría reanudar los ataques; el 12 había dicho que «no necesita un acuerdo».",
+   "actualizada": "2026-11-15",
+   "nota_actualizacion": "El 13 de noviembre Irán dijo haber atacado un radar de EE. UU. en Baréin, algo que Washington niega; el 14, la Armada iraní informó del incendio de dos petroleros por minas.",
    "en": {
-    "titular": "Hormuz: Trump says the US 'does not need a deal' with Iran, sidelines Vance and warns he could resume attacks; Iran keeps the strait closed",
-    "entradilla": "Trump claims the Iranian regime is 'collapsing'; Iran keeps its seven conditions and the naval blockade remains in force.",
+    "titular": "Hormuz: Iran says it hit a US radar in Bahrain, Washington denies it and Trump warns he could resume attacks",
+    "entradilla": "Iran's navy says two tankers caught fire after hitting mines; the naval blockade remains in force and there is no deal.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "Qatar's prime minister met Trump this week and his spokesperson spoke of 'progress'. But on Thursday 12 Trump changed his tone: he said the United States 'does not need a deal' with Iran and took Vice-President JD Vance off the negotiations. On Friday 13 he insisted that the Iranian regime is 'collapsing' under the blockade and sanctions, claimed the US has 'total control' of the strait and warned he could resume attacks if the situation worsens. Iran denies it is negotiating at present and says Hormuz will stay closed until seven of its conditions are met, among them an end to the blockade, which remains in force."
+     "On Thursday 12, Trump said the US 'does not need a deal' with Iran and took Vice-President JD Vance off the talks; on Friday 13 he claimed the Iranian regime is 'collapsing' and that he could resume attacks. That Friday, Iran's Revolutionary Guard said it had hit a US radar in [[Bahrain|bahrein]], in response to a US strike on an Iranian telecommunications tower. US Central Command denies it: it says it shot down two drones, with no injuries or damage. On Saturday 14, Iran's navy reported that two tankers caught fire after hitting mines near Hormuz. Neither version has been independently confirmed."
     ],
-    "nota_actualizacion": "On 13 November Trump said the Iranian regime is 'collapsing', that the US controls the strait and that he could resume attacks; on the 12th he had said the US 'does not need a deal'."
+    "nota_actualizacion": "On 13 November Iran said it had hit a US radar in Bahrain, which Washington denies; on the 14th, Iran's navy reported two tankers on fire after hitting mines."
    }
   },
   {
@@ -407,7 +410,7 @@
    "entradilla": "Un bombardeo israelí contra el hospital Nasser dejó siete muertos el 12 de noviembre, entre ellos un médico y un niño de 13 años; los puntos centrales del acuerdo de 2025 siguen sin cumplirse.",
    "parrafos": [
     "El 7 de octubre de 2026 se cumplieron tres años del ataque de [[Hamás|hamas]] contra Israel, que mató a unas 1.200 personas y en el que fueron secuestradas unas 250. Israel guardó un minuto de silencio y, según Reuters, fue el primer aniversario sin rehenes en manos de Hamás en Gaza. Ese mismo día, las autoridades palestinas informaron de cinco muertos por bombardeos israelíes, pese al [[alto el fuego|altoelfuego]] vigente desde octubre de 2025. El ejército israelí dijo haber matado a dos combatientes de Hamás que, según él, habían colocado explosivos.",
-    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto 74.640 personas, y más de 1.600 de ellas por ataques israelíes desde la tregua. El 15 de octubre, la ONU advirtió de que el riesgo de volver a la guerra «nunca ha sido tan alto». El jueves 12 de noviembre murieron 13 personas en ataques israelíes en [[Gaza|gaza]], según el ministerio y el hospital Nasser, de Jan Yunis: siete de ellas en un bombardeo contra el edificio Al Yasín, dentro del complejo del hospital, entre ellas un médico y un niño de 13 años. Israel sostiene que atacaba a combatientes de Hamás. El desarme de Hamás, la retirada israelí y la fuerza internacional siguen pendientes."
+    "Según el Ministerio de Sanidad de Gaza, que controla Hamás, en la guerra han muerto 74.640 personas, más de 1.600 de ellas por ataques israelíes desde la tregua. El jueves 12 de noviembre murieron 13 personas en ataques israelíes en [[Gaza|gaza]], según el ministerio y el hospital Nasser, de Jan Yunis: siete, entre ellas un médico y un niño de 13 años, en un bombardeo contra un edificio del complejo del hospital. Israel sostiene que atacaba a combatientes de Hamás. El sábado 14, la Unión Europea pidió a Israel que permita la entrada de ayuda humanitaria sin trabas y reabra todos los pasos fronterizos, tras las inundaciones. El desarme de Hamás y la retirada israelí siguen pendientes."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -434,19 +437,21 @@
     "Cubadebate",
     "La República (Ecuador)",
     "Extra (Ecuador)",
-    "Infobae (EFE)"
+    "Infobae (EFE)",
+    "Consejo de la UE",
+    "Al Jazeera (UE)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-14",
-   "nota_actualizacion": "El 12 de noviembre murieron 13 personas en ataques israelíes, siete de ellas en un bombardeo contra el hospital Nasser, según Sanidad de Gaza y el hospital.",
+   "actualizada": "2026-11-15",
+   "nota_actualizacion": "El 14 de noviembre la Unión Europea pidió a Israel que permita la ayuda humanitaria sin trabas y reabra los pasos fronterizos de Gaza tras las inundaciones.",
    "en": {
     "titular": "Gaza: a year of ceasefire and the UN warns the risk of a return to war 'has never been higher'",
     "entradilla": "An Israeli strike on Nasser hospital killed seven people on 12 November, including a doctor and a 13-year-old boy; the central points of the 2025 agreement are still unfulfilled.",
     "parrafos": [
      "On 7 October 2026 it was three years since the attack by [[Hamas|hamas]] on Israel, which killed about 1,200 people and in which about 250 were kidnapped. Israel held a minute of silence and, according to Reuters, it was the first anniversary with no hostages held by Hamas in Gaza. The same day, Palestinian authorities reported five people killed by Israeli bombing, despite the [[ceasefire|altoelfuego]] in force since October 2025. The Israeli army said it had killed two Hamas fighters who, it claimed, had planted explosives.",
-     "According to the Gaza Health Ministry, which Hamas controls, 74,640 people have died in the war, more than 1,600 of them from Israeli attacks since the truce. On 15 October, the UN warned that the risk of a return to war 'has never been higher'. On Thursday 12 November, 13 people were killed in Israeli attacks in [[Gaza|gaza]], according to the ministry and Nasser hospital in Khan Younis: seven of them in a strike on the Al Yasin building, inside the hospital complex, among them a doctor and a 13-year-old boy. Israel says it was targeting Hamas fighters. Hamas's disarmament, the Israeli withdrawal and the international force are still pending."
+     "According to the Gaza Health Ministry, which Hamas controls, 74,640 people have died in the war, more than 1,600 of them from Israeli attacks since the truce. On Thursday 12 November, 13 people were killed in Israeli attacks in [[Gaza|gaza]], according to the ministry and Nasser hospital in Khan Younis: seven of them, among them a doctor and a 13-year-old boy, in a strike on a building in the hospital complex. Israel says it was targeting Hamas fighters. On Saturday 14, the European Union asked Israel to allow humanitarian aid in without obstruction and to reopen all border crossings, after the floods. Hamas's disarmament and the Israeli withdrawal are still pending."
     ],
-    "nota_actualizacion": "On 12 November 13 people were killed in Israeli attacks, seven of them in a strike on Nasser hospital, according to Gaza's Health Ministry and the hospital."
+    "nota_actualizacion": "On 14 November the European Union asked Israel to allow humanitarian aid without obstruction and to reopen Gaza's border crossings after the floods."
    }
   },
   {
@@ -658,37 +663,6 @@
     "parrafos": [
      "The 2026 [[Latin Grammys|latingrammy]] ceremony was held in Las Vegas on the night of Thursday 12 November. The Catalan singer [[Rosalía|rosalia]] was the big winner: she took five awards, among them Album of the Year for 'Lux', the third she has won in that category after 'El mal querer' (2018) and 'Motomami' (2022), and Song of the Year for 'La Perla', which she sings with Yahritza y Su Esencia. She also won best pop song, best alternative music album and best short-form music video for 'Sauvignon Blanc'. With five gramophones, she is the most awarded artist of the night.",
      "Among the other main awards, the Argentine [[Milo J|milo]] won Record of the Year for 'Niño' and the Colombian [[Karol G|karolg]] won Best Urban Music Album for 'Tropicoqueta'. The Latin Grammys are given by the Latin Recording Academy, by vote of industry professionals, and reward music in Spanish and Portuguese from all over the world, which is why artists from Spain, Latin America and the United States compete together. They are separate from the American Grammys, which are held in February and mainly reward music in English."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
-   "id": "isabel-allende-gana-premio-planeta-2026",
-   "seccion": "cul",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-a\" d=\"M60 22 C46 12 28 12 14 18 V72 C28 66 46 66 60 76 Z\"/><path class=\"d-b\" d=\"M60 22 C74 12 92 12 106 18 V72 C92 66 74 66 60 76 Z\"/><path class=\"d-p\" d=\"M20 24 C32 21 44 22 54 28 V66 C44 62 32 61 20 64 Z\"/><path class=\"d-p\" d=\"M100 24 C88 21 76 22 66 28 V66 C76 62 88 61 100 64 Z\"/><path class=\"d-l\" d=\"M60 22 V76 M26 34 H48 M26 42 H48 M26 50 H48 M72 34 H94 M72 42 H94 M72 50 H94\"/><circle class=\"d-y\" cx=\"96\" cy=\"14\" r=\"5\"/></svg>",
-   "titular": "Isabel Allende gana el Premio Planeta 2026 con una continuación de «La casa de los espíritus»",
-   "entradilla": "La escritora chilena, de 84 años, recibió el millón de euros del premio en la gala del 75.º aniversario, en Barcelona.",
-   "parrafos": [
-    "La escritora chilena [[Isabel Allende|allende]], de 84 años, ganó el jueves 15 de octubre el [[Premio Planeta|planeta]] de novela con «La hora antes del alba». El premio, de un millón de euros, se entregó en una gala en Montjuïc, en Barcelona, a la que asistieron los Reyes, en la 75.ª edición del galardón. El finalista fue el escritor valenciano Sergio Hernández Carrasco con «La añoranza». El Planeta es uno de los premios más conocidos de la literatura en español, y su ganador se anuncia cada otoño en una ceremonia muy seguida.",
-    "«La hora antes del alba» continúa la historia de «[[La casa de los espíritus|casaespiritus]]», la novela que Allende publicó hace unos 45 años y que la hizo famosa en todo el mundo. Responde a una pregunta que muchos lectores se hacían: qué fue de Alba, la nieta de la familia, después del final de aquel libro. La nueva obra habla de las consecuencias de la violencia política durante la dictadura de [[Augusto Pinochet|pinochet]] en Chile y de cómo una joven intenta rehacer su vida. Es una buena ocasión para acercarse a una de las autoras en español más leídas del mundo."
-   ],
-   "busqueda_imagenes": "Isabel Allende Premio Planeta 2026",
-   "fuentes": [
-    "Crónica Global (El Español)",
-    "Hola",
-    "Vozpópuli",
-    "El Universo",
-    "Radio Concierto"
-   ],
-   "publicada": "2026-10-17",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "Isabel Allende wins the 2026 Planeta Prize with a sequel to 'The House of the Spirits'",
-    "entradilla": "The 84-year-old Chilean writer received the prize's one million euros at the 75th-anniversary gala in Barcelona.",
-    "parrafos": [
-     "The Chilean writer [[Isabel Allende|allende]], aged 84, won the [[Planeta Prize|planeta]] for fiction on Thursday 15 October with 'La hora antes del alba' ('The Hour Before Dawn'). The prize, worth one million euros, was presented at a gala at Montjuïc in Barcelona, attended by the King and Queen, at the award's 75th edition. The runner-up was the Valencian writer Sergio Hernández Carrasco with 'La añoranza' ('The Longing'). The Planeta is one of the best-known prizes in Spanish-language literature, and its winner is announced every autumn at a closely followed ceremony.",
-     "'La hora antes del alba' continues the story of '[[The House of the Spirits|casaespiritus]]', the novel Allende published some 45 years ago and which made her famous around the world. It answers a question many readers had: what became of Alba, the family's granddaughter, after the end of that book. The new work deals with the consequences of political violence under the dictatorship of [[Augusto Pinochet|pinochet]] in Chile and with how a young woman tries to rebuild her life. It is a good chance to get to know one of the most widely read authors in Spanish in the world."
     ],
     "nota_actualizacion": null
    }
@@ -1259,36 +1233,6 @@
    }
   },
   {
-   "id": "declaracion-salamanca-ia-derechos-infancia-rego-usal",
-   "seccion": "tec",
-   "dibujo": "chip",
-   "titular": "El Gobierno y la Universidad de Salamanca firman un decálogo para proteger a los niños frente a la inteligencia artificial",
-   "entradilla": "La ministra Sira Rego y el rector Juan Manuel Corchado firmaron el 5 de noviembre la Declaración de Salamanca, que no es una ley.",
-   "parrafos": [
-    "El jueves 5 de noviembre, la ministra de Juventud e Infancia, [[Sira Rego|rego]], y el rector de la [[Universidad de Salamanca|usal]], Juan Manuel Corchado, firmaron la Declaración de Salamanca sobre inteligencia artificial y derechos de la infancia, durante el Foro Salamanca 2026. Son diez compromisos para instituciones públicas y privadas. Piden una regulación pública que ponga en el centro el interés del niño, que los datos de los menores no se traten como simple materia prima ni se usen para entrenar modelos, y que haya investigación independiente sobre cómo afecta la [[inteligencia artificial|ia]] al cerebro y a las emociones.",
-    "También piden que los sistemas no manipulen las emociones ni finjan vínculos afectivos y que los usuarios sepan siempre que hablan con una máquina; que no repitan discriminaciones por discapacidad, género, origen o nivel económico; que los niños participen en el diseño y la evaluación de estas tecnologías; y que existan vías de queja rápidas y adaptadas a ellos. La Declaración no es una ley ni obliga legalmente a nadie: es un compromiso. Otros lugares avanzan con normas concretas: Nueva York prohíbe que los [[chatbots|chatbot]] finjan ser humanos ante menores de 18 años."
-   ],
-   "busqueda_imagenes": "Declaración de Salamanca inteligencia artificial infancia Sira Rego",
-   "fuentes": [
-    "El Español",
-    "Infobae",
-    "Diario de Castilla y León",
-    "Tribuna de Salamanca"
-   ],
-   "publicada": "2026-11-07",
-   "actualizada": null,
-   "nota_actualizacion": null,
-   "en": {
-    "titular": "The Government and the University of Salamanca sign a ten-point charter to protect children from artificial intelligence",
-    "entradilla": "Minister Sira Rego and rector Juan Manuel Corchado signed the Salamanca Declaration on 5 November; it is not a law.",
-    "parrafos": [
-     "On Thursday 5 November, the Minister of Youth and Children, [[Sira Rego|rego]], and the rector of the [[University of Salamanca|usal]], Juan Manuel Corchado, signed the Salamanca Declaration on artificial intelligence and children's rights, during the Salamanca Forum 2026. It contains ten commitments for public and private institutions. They call for public regulation that puts the child's interest at the centre, for minors' data not to be treated as mere raw material or used to train models, and for independent research on how [[artificial intelligence|ia]] affects the brain and emotions.",
-     "They also ask that systems do not manipulate emotions or pretend to form emotional bonds and that users always know they are talking to a machine; that they do not repeat discrimination based on disability, gender, origin or income; that children take part in designing and evaluating these technologies; and that there are quick complaint channels adapted to them. The Declaration is not a law and does not legally bind anyone: it is a pledge. Other places are moving ahead with concrete rules: New York bans [[chatbots|chatbot]] from pretending to be human with under-18s."
-    ],
-    "nota_actualizacion": null
-   }
-  },
-  {
    "id": "virus-nilo-sexta-muerte-andalucia-2026",
    "seccion": "and",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><ellipse class=\"d-b\" cx=\"52\" cy=\"30\" rx=\"24\" ry=\"9\" transform=\"rotate(-30 52 30)\"/><ellipse class=\"d-l\" cx=\"52\" cy=\"30\" rx=\"24\" ry=\"9\" transform=\"rotate(-30 52 30)\"/><ellipse class=\"d-b\" cx=\"70\" cy=\"30\" rx=\"24\" ry=\"9\" transform=\"rotate(-8 70 30)\"/><ellipse class=\"d-l\" cx=\"70\" cy=\"30\" rx=\"24\" ry=\"9\" transform=\"rotate(-8 70 30)\"/><ellipse class=\"d-i\" cx=\"66\" cy=\"48\" rx=\"26\" ry=\"8\"/><circle class=\"d-i\" cx=\"34\" cy=\"50\" r=\"7\"/><path class=\"d-l\" d=\"M28 52 L10 66\"/><path class=\"d-l\" d=\"M50 55 L40 78 M64 56 L62 80 M78 55 L88 78 M90 50 L108 62\"/><circle class=\"d-a\" cx=\"8\" cy=\"68\" r=\"5\"/></svg>",
@@ -1414,6 +1358,69 @@
     "parrafos": [
      "On 3 November the Ministry of Culture announced that the 2026 [[Cervantes Prize|cervantes]] goes to the writer [[Cristina Fernández Cubas|fernandezcubas]], born in Arenys de Mar (Barcelona) in 1945. The prize honours the complete works of an author writing in Spanish. The jury, chaired by the 2025 winner, the Mexican writer Gonzalo Celorio, highlighted 'the originality, excellence and coherence' of a body of work that has renewed the contemporary [[short story|cuento]] and transformed fantastic literature in Spanish.",
      "Fernández Cubas is above all a short-story writer: her books include 'Mi hermana Elba' (1980), 'Los altillos de Brumal' (1983) and 'La habitación de Nona' (2015), which won the National Narrative Prize. In 2023 she had already received the National Prize for Spanish Letters. Her stories belong to fantastic literature: the strange breaks into everyday life. The Cervantes Prize is traditionally presented on 23 April, Book Day, in [[Alcalá de Henares|alcala]], the birthplace of Miguel de Cervantes, the author of 'Don Quixote'."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "nvidia-huang-dimite-kress-interina-chips-china",
+   "seccion": "tec",
+   "dibujo": "chip",
+   "titular": "Jensen Huang dimite como jefe de Nvidia, la empresa de los chips de la IA, y la acción cae hasta un 14 % en un día",
+   "entradilla": "La compañía investiga el caso con un bufete externo y presenta resultados el martes 17, su primera prueba sin el fundador.",
+   "parrafos": [
+    "El jueves 12 de noviembre, [[Nvidia|nvidia]], la empresa que fabrica los chips con los que funciona gran parte de la [[inteligencia artificial|ia]], anunció que su fundador y director ejecutivo, [[Jensen Huang|jensenhuang]], dimite con efecto inmediato. El consejo no explicó el motivo, pero según los medios llega tras conocerse que Huang mantuvo relaciones personales ocultas, una de ellas con una persona presuntamente vinculada a la inteligencia china. Huang había pedido perdón a su familia y a sus empleados el domingo 9. Ese jueves las acciones llegaron a caer más de un 14 %. La directora financiera, [[Colette Kress|colettekress]], dirigirá la empresa de forma interina mientras se busca un sustituto.",
+    "Nvidia encargó una investigación independiente al bufete Wachtell, Lipton, Rosen & Katz, que examina, según los medios, si Huang fue objetivo de espionaje extranjero. El caso importa porque Estados Unidos y China compiten por la IA y los chips avanzados están sujetos a [[controles de exportación|controlesexport]], reglas que deciden quién puede comprarlos. Huang defendía vender chips avanzados a China, y en diciembre de 2025 Trump autorizó ventas de los H200 con condiciones. Nvidia presentará sus resultados trimestrales el martes 17 de noviembre, la primera prueba para la empresa sin su fundador."
+   ],
+   "busqueda_imagenes": "Nvidia sede chips Jensen Huang",
+   "fuentes": [
+    "Al Jazeera",
+    "CNBC",
+    "Fortune",
+    "CNN en Español",
+    "Xataka",
+    "El Español",
+    "Nvidia (comunicado a la SEC)"
+   ],
+   "publicada": "2026-11-15",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Jensen Huang resigns as head of Nvidia, the AI chip company, and the share price falls by up to 14% in a day",
+    "entradilla": "The company is investigating the case with an outside law firm and reports results on Tuesday 17, its first test without its founder.",
+    "parrafos": [
+     "On Thursday 12 November, [[Nvidia|nvidia]], the company that makes the chips that power much of [[artificial intelligence|ia]], announced that its founder and chief executive, [[Jensen Huang|jensenhuang]], is resigning with immediate effect. The board did not give a reason, but according to the media it follows the revelation that Huang had hidden personal relationships, one of them with a person allegedly linked to Chinese intelligence. Huang had apologised to his family and employees on Sunday 9. That Thursday the shares fell by more than 14% at one point. Chief financial officer [[Colette Kress|colettekress]] will run the company on an interim basis while a replacement is sought.",
+     "Nvidia commissioned an independent investigation by the law firm Wachtell, Lipton, Rosen & Katz, which is examining, according to the media, whether Huang was the target of foreign espionage. The case matters because the United States and China are competing over AI and advanced chips are subject to [[export controls|controlesexport]], rules that decide who can buy them. Huang argued for selling advanced chips to China, and in December 2025 Trump authorised sales of the H200 with conditions. Nvidia will report its quarterly results on Tuesday 17 November, the company's first test without its founder."
+    ],
+    "nota_actualizacion": null
+   }
+  },
+  {
+   "id": "sergio-ramirez-ingresa-rae-silla-vargas-llosa",
+   "seccion": "cul",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-p\" d=\"M60 24 Q38 14 14 20 V72 Q38 66 60 78 Z\"/><path class=\"d-b\" d=\"M60 24 Q82 14 106 20 V72 Q82 66 60 78 Z\"/><path class=\"d-l\" d=\"M60 24 Q38 14 14 20 V72 Q38 66 60 78 Q82 66 106 72 V20 Q82 14 60 24 Z M60 24 V78\"/><path class=\"d-l\" d=\"M24 32 Q40 28 52 34 M24 42 Q40 38 52 44 M24 52 Q40 48 52 54 M68 34 Q80 28 96 32 M68 44 Q80 38 96 42\"/><path class=\"d-a\" d=\"M60 4 L70 14 H50 Z\"/><rect class=\"d-a\" x=\"55\" y=\"14\" width=\"10\" height=\"8\"/></svg>",
+   "titular": "Sergio Ramírez, novelista nicaragüense exiliado, ingresa hoy en la Real Academia Española en la silla de Vargas Llosa",
+   "entradilla": "Será el primer centroamericano en ocupar un sillón de la institución; leerá su discurso, «Un novelista ecuménico», a las 19:00.",
+   "parrafos": [
+    "Esta tarde, domingo 15 de noviembre, el escritor [[Sergio Ramírez|sergioramirez]] toma posesión en la [[Real Academia Española|rae]] de la silla L, vacante desde la muerte de [[Mario Vargas Llosa|vargasllosa]] el 13 de abril de 2025. Nacido en Masatepe (Nicaragua) en 1942, tiene 84 años y será el primer centroamericano miembro de número de la institución. La ceremonia empieza a las 19:00 en Madrid. Ramírez leerá un discurso titulado «Un novelista ecuménico», dedicado al Nobel hispanoperuano, y le dará la bienvenida en nombre de la corporación el escritor Luis Mateo Díez.",
+    "La RAE cuida el buen uso del español y publica el diccionario de la lengua; sus miembros ocupan «sillas» designadas con letras. Ramírez, autor de más de setenta libros, entre ellos la novela «Margarita, está linda la mar» (1998), vive en Madrid en [[exilio|exilio]] desde 2021, cuando la fiscalía de Nicaragua dictó una orden de detención contra él, según informó la agencia EFE. Hoy tiene también la nacionalidad española. El pleno de la RAE lo eligió el 21 de mayo de 2026, con el apoyo, entre otros, del exdirector Víctor García de la Concha."
+   ],
+   "busqueda_imagenes": "Sergio Ramírez ingreso Real Academia Española",
+   "fuentes": [
+    "Infobae (EFE)",
+    "La Prensa (Nicaragua)",
+    "La Nación (Costa Rica)",
+    "El Español"
+   ],
+   "publicada": "2026-11-15",
+   "actualizada": null,
+   "nota_actualizacion": null,
+   "en": {
+    "titular": "Sergio Ramírez, exiled Nicaraguan novelist, joins the Royal Spanish Academy today in Vargas Llosa's seat",
+    "entradilla": "He will be the first Central American to take a seat in the institution; he will read his speech, 'Un novelista ecuménico', at 19:00.",
+    "parrafos": [
+     "This evening, Sunday 15 November, the writer [[Sergio Ramírez|sergioramirez]] takes up seat L at the [[Royal Spanish Academy|rae]], vacant since the death of [[Mario Vargas Llosa|vargasllosa]] on 13 April 2025. Born in Masatepe, Nicaragua, in 1942, he is 84 and will be the first Central American full member of the institution. The ceremony starts at 19:00 in Madrid. Ramírez will read a speech titled 'Un novelista ecuménico' ('An ecumenical novelist'), devoted to the Spanish-Peruvian Nobel laureate, and the writer Luis Mateo Díez will welcome him on behalf of the academy.",
+     "The RAE looks after the proper use of Spanish and publishes the dictionary of the language; its members hold 'seats' designated by letters. Ramírez, author of more than seventy books, among them the novel 'Margarita, está linda la mar' (1998), has lived in Madrid in [[exile|exilio]] since 2021, when Nicaragua's prosecutors issued an arrest warrant against him, according to the EFE news agency. He now also holds Spanish nationality. The RAE's plenary elected him on 21 May 2026, with the backing, among others, of former director Víctor García de la Concha."
     ],
     "nota_actualizacion": null
    }
@@ -3903,11 +3910,92 @@
     "n": "Karol G",
     "x": "A Colombian reggaeton and urban music singer, one of the most listened-to in the world."
    }
+  },
+  "bahrein": {
+   "t": "lugar",
+   "n": "Baréin",
+   "x": "Pequeño país formado por islas en el golfo Pérsico, cerca de Irán y Arabia Saudí. Allí hay una importante base de la Armada de EE. UU.",
+   "en": {
+    "n": "Bahrain",
+    "x": "A small country made up of islands in the Persian Gulf, near Iran and Saudi Arabia. An important US Navy base is located there."
+   }
+  },
+  "nvidia": {
+   "t": "lugar",
+   "n": "Nvidia",
+   "x": "Empresa estadounidense que diseña los chips más usados para entrenar inteligencia artificial. Es una de las compañías más valiosas del mundo.",
+   "en": {
+    "n": "Nvidia",
+    "x": "A US company that designs the chips most used to train artificial intelligence. It is one of the most valuable companies in the world."
+   }
+  },
+  "jensenhuang": {
+   "t": "persona",
+   "n": "Jensen Huang",
+   "x": "Ingeniero nacido en Taiwán que fundó Nvidia en 1993 y la dirigió hasta su dimisión el 12 de noviembre de 2026.",
+   "en": {
+    "n": "Jensen Huang",
+    "x": "An engineer born in Taiwan who founded Nvidia in 1993 and ran it until his resignation on 12 November 2026."
+   }
+  },
+  "colettekress": {
+   "t": "persona",
+   "n": "Colette Kress",
+   "x": "Directora financiera de Nvidia desde 2013 y ahora jefa interina de la empresa. «Interina» significa que ocupa el puesto de forma temporal.",
+   "en": {
+    "n": "Colette Kress",
+    "x": "Nvidia’s chief financial officer since 2013 and now its interim chief executive. “Interim” means she holds the post temporarily."
+   }
+  },
+  "controlesexport": {
+   "t": "palabra",
+   "n": "Controles de exportación",
+   "x": "Reglas de un país que limitan qué tecnologías puede vender a otros. EE. UU. las usa para frenar la venta de chips avanzados a China.",
+   "en": {
+    "n": "Export controls",
+    "x": "A country’s rules limiting which technologies it may sell to others. The US uses them to restrict sales of advanced chips to China."
+   }
+  },
+  "sergioramirez": {
+   "t": "persona",
+   "n": "Sergio Ramírez",
+   "x": "Escritor nicaragüense nacido en 1942. Fue político en su país y hoy vive exiliado en España, donde tiene la nacionalidad.",
+   "en": {
+    "n": "Sergio Ramírez",
+    "x": "A Nicaraguan writer born in 1942. He was a politician in his country and now lives in exile in Spain, where he holds citizenship."
+   }
+  },
+  "rae": {
+   "t": "lugar",
+   "n": "Real Academia Española",
+   "x": "Institución fundada en 1713 que cuida el buen uso del español y publica el diccionario. Sus miembros se llaman académicos.",
+   "en": {
+    "n": "Royal Spanish Academy",
+    "x": "An institution founded in 1713 that looks after the proper use of Spanish and publishes the dictionary. Its members are called academicians."
+   }
+  },
+  "vargasllosa": {
+   "t": "persona",
+   "n": "Mario Vargas Llosa",
+   "x": "Escritor hispanoperuano que ganó el Premio Nobel de Literatura en 2010. Murió el 13 de abril de 2025.",
+   "en": {
+    "n": "Mario Vargas Llosa",
+    "x": "A Spanish-Peruvian writer who won the Nobel Prize in Literature in 2010. He died on 13 April 2025."
+   }
+  },
+  "exilio": {
+   "t": "palabra",
+   "n": "Exilio",
+   "x": "Vivir fuera de tu país porque volver supondría un peligro, normalmente por motivos políticos.",
+   "en": {
+    "n": "Exile",
+    "x": "Living outside your country because going back would be dangerous, usually for political reasons."
+   }
   }
  },
- "edicion_en": "Saturday 14 November 2026",
+ "edicion_en": "Sunday 15 November 2026",
  "destacada": {
-  "id": "ucrania-ataques-mientras-se-habla-de-paz",
-  "fecha": "2026-11-14"
+  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
+  "fecha": "2026-11-15"
  }
 }
