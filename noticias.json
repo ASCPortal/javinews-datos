@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-15T07:20:00+01:00",
- "edicion": "Domingo 15 de noviembre de 2026",
+ "actualizado": "2026-11-16T07:30:00+01:00",
+ "edicion": "Lunes 16 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -332,11 +332,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán dice haber atacado un radar de EE. UU. en Baréin, Washington lo niega y Trump avisa de que podría reanudar los ataques",
-   "entradilla": "La Armada iraní asegura que dos petroleros se incendiaron al chocar con minas; el bloqueo naval sigue en vigor y no hay acuerdo.",
+   "titular": "Ormuz: Irán dice haber atacado por segunda vez en tres días un radar de EE. UU. en Baréin, y Trump aplaza los bombardeos pero mantiene el bloqueo",
+   "entradilla": "Washington negó el ataque del viernes y no hay acuerdo; las versiones sobre los ataques no se han podido confirmar de forma independiente.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "El jueves 12, Trump dijo que EE. UU. «no necesita un acuerdo» con Irán y apartó de las conversaciones al vicepresidente, JD Vance; el viernes 13 aseguró que el régimen iraní «se está desmoronando» y que podría reanudar los ataques. Ese viernes, la Guardia Revolucionaria iraní dijo haber atacado un radar estadounidense en [[Baréin|bahrein]], en respuesta a un ataque de EE. UU. contra una torre de telecomunicaciones iraní. El Mando Central de EE. UU. lo niega: afirma que derribó dos drones, sin heridos ni daños. El sábado 14, la Armada iraní informó de que dos petroleros se incendiaron al chocar con minas cerca de Ormuz. Ninguna de las versiones se ha podido confirmar de forma independiente."
+    "El jueves 12, Trump dijo que EE. UU. «no necesita un acuerdo» con Irán. El viernes 13, la Guardia Revolucionaria iraní dijo haber atacado un radar estadounidense en [[Baréin|bahrein]]; el Mando Central de EE. UU. lo niega y afirma que derribó dos drones. El sábado 14, la Armada iraní informó de que dos petroleros se incendiaron al chocar con minas cerca de Ormuz. El domingo 15, la Guardia Revolucionaria aseguró haber lanzado seis drones contra un radar estadounidense en la base de helicópteros de Al Rifa, en Baréin, el segundo ataque en tres días. Según los medios, Trump aplaza nuevos bombardeos salvo provocación y mantiene el bloqueo. Ninguna de las versiones se ha podido confirmar de forma independiente."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -387,19 +387,21 @@
     "Diario Las Américas",
     "ANI",
     "Tehran Times",
-    "The New Arab"
+    "The New Arab",
+    "El Tiempo",
+    "teleSUR"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-15",
-   "nota_actualizacion": "El 13 de noviembre Irán dijo haber atacado un radar de EE. UU. en Baréin, algo que Washington niega; el 14, la Armada iraní informó del incendio de dos petroleros por minas.",
+   "actualizada": "2026-11-16",
+   "nota_actualizacion": "El 15 de noviembre la Guardia Revolucionaria dijo haber atacado con seis drones un radar de EE. UU. en Baréin, el segundo en tres días; según los medios, Trump aplaza los bombardeos y mantiene el bloqueo.",
    "en": {
-    "titular": "Hormuz: Iran says it hit a US radar in Bahrain, Washington denies it and Trump warns he could resume attacks",
-    "entradilla": "Iran's navy says two tankers caught fire after hitting mines; the naval blockade remains in force and there is no deal.",
+    "titular": "Hormuz: Iran says it hit a US radar in Bahrain for the second time in three days, and Trump puts off bombing but keeps the blockade",
+    "entradilla": "Washington denied Friday's attack and there is no deal; the accounts of the attacks have not been independently confirmed.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "On Thursday 12, Trump said the US 'does not need a deal' with Iran and took Vice-President JD Vance off the talks; on Friday 13 he claimed the Iranian regime is 'collapsing' and that he could resume attacks. That Friday, Iran's Revolutionary Guard said it had hit a US radar in [[Bahrain|bahrein]], in response to a US strike on an Iranian telecommunications tower. US Central Command denies it: it says it shot down two drones, with no injuries or damage. On Saturday 14, Iran's navy reported that two tankers caught fire after hitting mines near Hormuz. Neither version has been independently confirmed."
+     "On Thursday 12, Trump said the US 'does not need a deal' with Iran. On Friday 13, Iran's Revolutionary Guard said it had hit a US radar in [[Bahrain|bahrein]]; US Central Command denies it and says it shot down two drones. On Saturday 14, Iran's navy reported that two tankers caught fire after hitting mines near Hormuz. On Sunday 15, the Revolutionary Guard said it had launched six drones at a US radar at the Al Rifa helicopter base in Bahrain, the second attack in three days. According to the media, Trump is putting off new bombing unless provoked and is keeping the blockade. None of the accounts has been independently confirmed."
     ],
-    "nota_actualizacion": "On 13 November Iran said it had hit a US radar in Bahrain, which Washington denies; on the 14th, Iran's navy reported two tankers on fire after hitting mines."
+    "nota_actualizacion": "On 15 November the Revolutionary Guard said it had hit a US radar in Bahrain with six drones, the second attack in three days; according to the media, Trump is putting off bombing and keeping the blockade."
    }
   },
   {
@@ -520,11 +522,11 @@
    "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
    "seccion": "int",
    "dibujo": "ballot",
-   "titular": "Israel: Eisenkot, encargado de formar Gobierno, cancela su reunión con el Likud tras un discurso de Netanyahu",
-   "entradilla": "Eisenkot tiene 28 días, ampliables otros 14, para reunir 61 diputados, y ofrece al Likud un sitio en su Gobierno, pero bajo su mando.",
+   "titular": "Israel: el Likud y el partido de Eisenkot negocian un posible Gobierno de unidad, pero Eisenkot rechaza que Netanyahu lo encabece",
+   "entradilla": "Eisenkot, que tiene 28 días para formar Gobierno, se abre a pactar con el Likud pero sin Netanyahu; las delegaciones acordaron seguir hablando.",
    "parrafos": [
     "El martes 27 de octubre, Israel celebró elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Se votaba a los 120 diputados de la [[Knesset|knesset]], el Parlamento israelí, y quien reúna 61 podrá formar Gobierno. Según el recuento final de la Comisión Electoral Central, la participación fue del 77,9 %. El Likud de [[Benjamín Netanyahu|netanyahu]] es el partido más votado, con 27 escaños, menos que los 32 que tenía. Su bloque, con partidos ultraortodoxos y de extrema derecha, suma 53, ocho menos de los necesarios.",
-    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes tienen 19 y no pertenecen a ningún bloque. Tras las consultas, 67 de los 120 diputados recomendaron a Eisenkot y 46 a Netanyahu, y el domingo 8 el presidente, Isaac Herzog, le encargó formar Gobierno. Eisenkot ofreció al Likud un sitio bajo su mando, pero el martes 10 canceló una reunión con ese partido por un discurso «divisivo» de Netanyahu en la Knesset. El Likud respondió que le desconcierta que Eisenkot siga negociando con los partidos árabes. Aún no tiene coalición."
+    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], exjefe del Estado Mayor del Ejército, suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes tienen 19 y no pertenecen a ningún bloque. El domingo 8, el presidente, Isaac Herzog, le encargó formar Gobierno. Tras cancelar el martes 10 una reunión con el Likud, el domingo 15 delegaciones de ambos partidos se reunieron en Herzliya para explorar un Gobierno de unidad y acordaron seguir hablando. Eisenkot dijo que Netanyahu no puede seguir ni un minuto más como primer ministro, pero se mostró abierto a pactar con el Likud sin él."
    ],
    "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
    "fuentes": [
@@ -552,19 +554,22 @@
     "Estrella Digital",
     "Times of Israel",
     "Israel Hayom",
-    "Cadena 3"
+    "Cadena 3",
+    "Deia",
+    "Teleprensa",
+    "ABC Color"
    ],
    "publicada": "2026-10-20",
-   "actualizada": "2026-11-11",
-   "nota_actualizacion": "El 10 de noviembre Eisenkot canceló una reunión con el Likud por un discurso «divisivo» de Netanyahu en la Knesset; el Likud le reprocha negociar con los partidos árabes.",
+   "actualizada": "2026-11-16",
+   "nota_actualizacion": "El domingo 15 delegaciones del Likud y de Yashar se reunieron para explorar un Gobierno de unidad y acordaron seguir hablando; Eisenkot rechaza que Netanyahu siga al frente.",
    "en": {
-    "titular": "Israel: Eisenkot, tasked with forming a government, cancels his meeting with Likud after a Netanyahu speech",
-    "entradilla": "Eisenkot has 28 days, extendable by another 14, to gather 61 MPs, and offers Likud a place in his government, but under his leadership.",
+    "titular": "Israel: Likud and Eisenkot's party negotiate a possible unity government, but Eisenkot rejects Netanyahu leading it",
+    "entradilla": "Eisenkot, who has 28 days to form a government, is open to a deal with Likud but without Netanyahu; the delegations agreed to keep talking.",
     "parrafos": [
      "On Tuesday 27 October, Israel held parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. The 120 members of the [[Knesset|knesset]], the Israeli Parliament, were being elected, and whoever gathers 61 can form a government. According to the final count by the Central Elections Committee, turnout was 77.9%. [[Benjamin Netanyahu|netanyahu]]'s Likud is the most-voted party, with 27 seats, fewer than the 32 it held. His bloc, with ultra-Orthodox and far-right parties, has 53, eight short of what it needs.",
-     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties have 19 and belong to neither bloc. After the consultations, 67 of the 120 members of parliament recommended Eisenkot and 46 recommended Netanyahu, and on Sunday 8 President Isaac Herzog tasked him with forming a government. Eisenkot offered Likud a place under his leadership, but on Tuesday 10 he cancelled a meeting with that party over a 'divisive' speech by Netanyahu in the Knesset. Likud replied that it finds it baffling that Eisenkot keeps negotiating with the Arab parties. He does not yet have a coalition."
+     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], a former chief of staff of the army, has 48 seats; his party, Yashar, is the second most-voted, with 21. The Arab parties have 19 and belong to neither bloc. On Sunday 8, President Isaac Herzog tasked him with forming a government. After he cancelled a meeting with Likud on Tuesday 10, on Sunday 15 delegations from both parties met in Herzliya to explore a unity government and agreed to keep talking. Eisenkot said Netanyahu cannot stay on as prime minister for even a minute longer, but he showed himself open to a deal with Likud without him."
     ],
-    "nota_actualizacion": "On 10 November Eisenkot cancelled a meeting with Likud over a 'divisive' speech by Netanyahu in the Knesset; Likud criticises him for negotiating with the Arab parties."
+    "nota_actualizacion": "On Sunday 15 delegations from Likud and Yashar met to explore a unity government and agreed to keep talking; Eisenkot rejects Netanyahu staying at the helm."
    }
   },
   {
@@ -1047,30 +1052,32 @@
    "id": "espana-gana-0-2-republica-checa-nations-league-inglaterra-domingo",
    "seccion": "dep",
    "dibujo": "trophy",
-   "titular": "España gana 0-2 en Praga y se jugará el primer puesto de su grupo de la Nations League ante Inglaterra el domingo",
-   "entradilla": "Baena, de penalti, y Pubill, en el tiempo añadido, marcaron los goles; a España le basta un empate en Madrid para acabar primera.",
+   "titular": "Inglaterra gana 3-2 a España en Madrid, acaba con su racha de más de 40 partidos sin perder y se queda con el primer puesto del grupo",
+   "entradilla": "Ambos acaban con 15 puntos y pasan a los cuartos de final de la Nations League, pero Inglaterra es primera por diferencia de goles.",
    "parrafos": [
-    "El jueves 12 de noviembre, la selección española ganó 0-2 a República Checa en Praga, en la quinta jornada de su grupo de la [[Nations League|nations]]. Álex Baena abrió el marcador de [[penalti|penalti]] en el minuto 39 y Marc Pubill cerró el resultado en el tiempo añadido, en el 90+6. Con este triunfo, España suma 15 puntos, con cinco victorias en cinco partidos, y lidera su grupo con una jornada por jugar.",
-    "El domingo 15 de noviembre, a las 20:45 en el estadio Metropolitano de Madrid, España recibe a Inglaterra con el primer puesto del grupo en juego. Según los medios, le basta un empate para acabar primera y asegurarse el pase a los cuartos de final de la competición. El seleccionador, [[Luis de la Fuente|delafuente]], convocó a 27 jugadores para esta ventana de partidos de noviembre, entre ellos Pedri, Nico Williams y Dean Huijsen."
+    "El domingo 15 de noviembre, Inglaterra ganó 3-2 a España en el estadio Metropolitano de Madrid, en la última jornada del grupo de la [[Nations League|nations]]. [[Harry Kane|kane]] adelantó a los ingleses de [[penalti|penalti]] en el minuto 45, y Ezri Konsa y Ben White marcaron en el 53 y el 57. España reaccionó con un penalti de Mikel Oyarzabal en el 65 y un gol de Nico Williams en el 75, y apretó hasta el final, pero no consiguió el empate. Según los medios, es el fin de una racha de más de 40 partidos sin perder.",
+    "Con este resultado, los dos equipos acaban con 15 puntos, pero Inglaterra, que dirige el alemán Thomas Tuchel, queda primera del grupo por diferencia de goles y España, segunda. Ambos habían asegurado ya su plaza en los cuartos de final, así que lo que estaba en juego era solo el primer puesto. El seleccionador español, [[Luis de la Fuente|delafuente]], dijo que la derrota demuestra lo difícil que es lo que ha conseguido su equipo en estos años."
    ],
-   "busqueda_imagenes": "selección española Praga República Checa Nations League",
+   "busqueda_imagenes": "Inglaterra España Nations League Metropolitano Kane",
    "fuentes": [
-    "COPE",
-    "Infobae (agencias)",
-    "Herqles",
+    "Infobae",
+    "Telemundo",
+    "Yahoo Noticias",
+    "Yahoo Sports",
+    "The National",
     "ESPN"
    ],
    "publicada": "2026-11-13",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-16",
+   "nota_actualizacion": "El domingo 15 Inglaterra ganó 3-2 a España en Madrid y quedó primera del grupo; los dos equipos pasan a cuartos de final.",
    "en": {
-    "titular": "Spain win 0-2 in Prague and will play England on Sunday for first place in their Nations League group",
-    "entradilla": "Baena, from the penalty spot, and Pubill, in stoppage time, scored the goals; Spain need only a draw in Madrid to finish top.",
+    "titular": "England beat Spain 3-2 in Madrid, end their run of more than 40 games unbeaten and take first place in the group",
+    "entradilla": "Both finish on 15 points and go through to the Nations League quarter-finals, but England top the group on goal difference.",
     "parrafos": [
-     "On Thursday 12 November, the Spanish national team won 0-2 against the Czech Republic in Prague, in the fifth round of their [[Nations League|nations]] group. Álex Baena opened the scoring from a [[penalty|penalti]] in the 39th minute and Marc Pubill sealed the result in stoppage time, in the 90+6. With this win, Spain have 15 points, five wins in five games, and lead their group with one round to go.",
-     "On Sunday 15 November, at 20:45 at the Metropolitano stadium in Madrid, Spain host England with first place in the group at stake. According to the media, a draw is enough for them to finish top and secure a place in the competition's quarter-finals. The manager, [[Luis de la Fuente|delafuente]], called up 27 players for this November window, among them Pedri, Nico Williams and Dean Huijsen."
+     "On Sunday 15 November, England beat Spain 3-2 at the Metropolitano stadium in Madrid, on the last matchday of their [[Nations League|nations]] group. [[Harry Kane|kane]] put the English ahead from the [[penalty|penalti]] spot in the 45th minute, and Ezri Konsa and Ben White scored in the 53rd and 57th. Spain hit back with a penalty from Mikel Oyarzabal in the 65th and a goal from Nico Williams in the 75th, and pushed until the end, but could not find an equaliser. According to the media, it ends a run of more than 40 games without defeat.",
+     "With this result, both teams finish on 15 points, but England, managed by the German Thomas Tuchel, top the group on goal difference and Spain are second. Both had already secured their place in the quarter-finals, so all that was at stake was first place. Spain's manager, [[Luis de la Fuente|delafuente]], said the defeat shows how hard it is to achieve what his team has achieved in recent years."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On Sunday 15 England beat Spain 3-2 in Madrid and finished top of the group; both teams go through to the quarter-finals."
    }
   },
   {
@@ -1399,30 +1406,32 @@
    "id": "sergio-ramirez-ingresa-rae-silla-vargas-llosa",
    "seccion": "cul",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-p\" d=\"M60 24 Q38 14 14 20 V72 Q38 66 60 78 Z\"/><path class=\"d-b\" d=\"M60 24 Q82 14 106 20 V72 Q82 66 60 78 Z\"/><path class=\"d-l\" d=\"M60 24 Q38 14 14 20 V72 Q38 66 60 78 Q82 66 106 72 V20 Q82 14 60 24 Z M60 24 V78\"/><path class=\"d-l\" d=\"M24 32 Q40 28 52 34 M24 42 Q40 38 52 44 M24 52 Q40 48 52 54 M68 34 Q80 28 96 32 M68 44 Q80 38 96 42\"/><path class=\"d-a\" d=\"M60 4 L70 14 H50 Z\"/><rect class=\"d-a\" x=\"55\" y=\"14\" width=\"10\" height=\"8\"/></svg>",
-   "titular": "Sergio Ramírez, novelista nicaragüense exiliado, ingresa hoy en la Real Academia Española en la silla de Vargas Llosa",
-   "entradilla": "Será el primer centroamericano en ocupar un sillón de la institución; leerá su discurso, «Un novelista ecuménico», a las 19:00.",
+   "titular": "Sergio Ramírez, novelista nicaragüense exiliado, ingresa en la Real Academia Española en la silla de Vargas Llosa y reivindica el exilio",
+   "entradilla": "Es el primer centroamericano en ocupar un sillón de la institución; su discurso, «Un novelista ecuménico», estuvo centrado en Vargas Llosa.",
    "parrafos": [
-    "Esta tarde, domingo 15 de noviembre, el escritor [[Sergio Ramírez|sergioramirez]] toma posesión en la [[Real Academia Española|rae]] de la silla L, vacante desde la muerte de [[Mario Vargas Llosa|vargasllosa]] el 13 de abril de 2025. Nacido en Masatepe (Nicaragua) en 1942, tiene 84 años y será el primer centroamericano miembro de número de la institución. La ceremonia empieza a las 19:00 en Madrid. Ramírez leerá un discurso titulado «Un novelista ecuménico», dedicado al Nobel hispanoperuano, y le dará la bienvenida en nombre de la corporación el escritor Luis Mateo Díez.",
-    "La RAE cuida el buen uso del español y publica el diccionario de la lengua; sus miembros ocupan «sillas» designadas con letras. Ramírez, autor de más de setenta libros, entre ellos la novela «Margarita, está linda la mar» (1998), vive en Madrid en [[exilio|exilio]] desde 2021, cuando la fiscalía de Nicaragua dictó una orden de detención contra él, según informó la agencia EFE. Hoy tiene también la nacionalidad española. El pleno de la RAE lo eligió el 21 de mayo de 2026, con el apoyo, entre otros, del exdirector Víctor García de la Concha."
+    "El domingo 15 de noviembre, el escritor [[Sergio Ramírez|sergioramirez]] tomó posesión en la [[Real Academia Española|rae]] de la silla L, vacante desde la muerte de [[Mario Vargas Llosa|vargasllosa]] el 13 de abril de 2025. Nacido en Masatepe (Nicaragua) en 1942, tiene 84 años y es el primer centroamericano miembro de número de la institución. La ceremonia se celebró en Madrid. Ramírez leyó un discurso titulado «Un novelista ecuménico», centrado en el Nobel hispanoperuano, y le dio la bienvenida en nombre de la corporación el escritor Luis Mateo Díez. Según los medios, aprovechó la ocasión para reivindicar el exilio.",
+    "La RAE cuida el buen uso del español y publica el diccionario de la lengua; sus miembros ocupan «sillas» designadas con letras. Ramírez, autor de más de setenta libros, entre ellos la novela «Margarita, está linda la mar» (1998), vive en Madrid en [[exilio|exilio]] desde 2021, cuando la fiscalía de Nicaragua dictó una orden de detención contra él, según informó la agencia EFE. También tiene la nacionalidad española. El pleno de la RAE lo eligió el 21 de mayo de 2026, con el apoyo, entre otros, del exdirector Víctor García de la Concha."
    ],
    "busqueda_imagenes": "Sergio Ramírez ingreso Real Academia Española",
    "fuentes": [
     "Infobae (EFE)",
     "La Prensa (Nicaragua)",
     "La Nación (Costa Rica)",
-    "El Español"
+    "El Español",
+    "Letralia",
+    "Heraldo de Puebla"
    ],
    "publicada": "2026-11-15",
-   "actualizada": null,
-   "nota_actualizacion": null,
+   "actualizada": "2026-11-16",
+   "nota_actualizacion": "El 15 de noviembre Ramírez tomó posesión de la silla L de la RAE y reivindicó el exilio.",
    "en": {
-    "titular": "Sergio Ramírez, exiled Nicaraguan novelist, joins the Royal Spanish Academy today in Vargas Llosa's seat",
-    "entradilla": "He will be the first Central American to take a seat in the institution; he will read his speech, 'Un novelista ecuménico', at 19:00.",
+    "titular": "Sergio Ramírez, exiled Nicaraguan novelist, joins the Royal Spanish Academy in Vargas Llosa's seat and speaks up for exile",
+    "entradilla": "He is the first Central American to take a seat in the institution; his speech, 'Un novelista ecuménico', centred on Vargas Llosa.",
     "parrafos": [
-     "This evening, Sunday 15 November, the writer [[Sergio Ramírez|sergioramirez]] takes up seat L at the [[Royal Spanish Academy|rae]], vacant since the death of [[Mario Vargas Llosa|vargasllosa]] on 13 April 2025. Born in Masatepe, Nicaragua, in 1942, he is 84 and will be the first Central American full member of the institution. The ceremony starts at 19:00 in Madrid. Ramírez will read a speech titled 'Un novelista ecuménico' ('An ecumenical novelist'), devoted to the Spanish-Peruvian Nobel laureate, and the writer Luis Mateo Díez will welcome him on behalf of the academy.",
-     "The RAE looks after the proper use of Spanish and publishes the dictionary of the language; its members hold 'seats' designated by letters. Ramírez, author of more than seventy books, among them the novel 'Margarita, está linda la mar' (1998), has lived in Madrid in [[exile|exilio]] since 2021, when Nicaragua's prosecutors issued an arrest warrant against him, according to the EFE news agency. He now also holds Spanish nationality. The RAE's plenary elected him on 21 May 2026, with the backing, among others, of former director Víctor García de la Concha."
+     "On Sunday 15 November, the writer [[Sergio Ramírez|sergioramirez]] took up seat L at the [[Royal Spanish Academy|rae]], vacant since the death of [[Mario Vargas Llosa|vargasllosa]] on 13 April 2025. Born in Masatepe, Nicaragua, in 1942, he is 84 and is the first Central American full member of the institution. The ceremony was held in Madrid. Ramírez read a speech titled 'Un novelista ecuménico' ('An ecumenical novelist'), centred on the Spanish-Peruvian Nobel laureate, and the writer Luis Mateo Díez welcomed him on behalf of the academy. According to the media, he used the occasion to speak up for exile.",
+     "The RAE looks after the proper use of Spanish and publishes the dictionary of the language; its members hold 'seats' designated by letters. Ramírez, author of more than seventy books, among them the novel 'Margarita, está linda la mar' (1998), has lived in Madrid in [[exile|exilio]] since 2021, when Nicaragua's prosecutors issued an arrest warrant against him, according to the EFE news agency. He also holds Spanish nationality. The RAE's plenary elected him on 21 May 2026, with the backing, among others, of former director Víctor García de la Concha."
     ],
-    "nota_actualizacion": null
+    "nota_actualizacion": "On 15 November Ramírez took up seat L at the RAE and spoke up for exile."
    }
   }
  ],
@@ -3993,9 +4002,9 @@
    }
   }
  },
- "edicion_en": "Sunday 15 November 2026",
+ "edicion_en": "Monday 16 November 2026",
  "destacada": {
   "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-11-15"
+  "fecha": "2026-11-16"
  }
 }
