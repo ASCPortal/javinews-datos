@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-19T07:00:00+01:00",
- "edicion": "Jueves 19 de noviembre de 2026",
+ "actualizado": "2026-11-20T07:00:00+01:00",
+ "edicion": "Viernes 20 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -413,10 +413,10 @@
    "id": "gaza-un-alto-el-fuego-que-no-termina-de-llegar",
    "seccion": "int",
    "dibujo": "aid",
-   "titular": "Gaza: Israel lanza una operación terrestre en el centro de la Franja, la primera desde la tregua, y Hamás denuncia una violación del alto el fuego",
-   "entradilla": "El ejército dice que busca eliminar una amenaza contra sus tropas; decenas de palestinos huyeron de sus tiendas cerca de Nuseirat, según la prensa.",
+   "titular": "Gaza: Israel da por terminada tras un día su operación terrestre en el centro de la Franja, la primera desde la tregua, y Hamás denuncia una violación del alto el fuego",
+   "entradilla": "El ejército dice que buscaba desmantelar un túnel que amenazaba a sus tropas; las familias que huyeron empezaron a volver el jueves.",
    "parrafos": [
-    "El miércoles 18 de noviembre, el ejército israelí inició una operación terrestre en el centro de Gaza, al oeste de la [[Línea Amarilla|lineaamarilla]], una zona de la que se retiró con el [[alto el fuego|altoelfuego]] de octubre de 2025. Según los medios, es la primera acción de este tipo desde la tregua. Israel la describe como una operación «precisa» para eliminar una amenaza contra sus soldados y acusa a [[Hamás|hamas]] de haber roto antes el acuerdo; Hamás habla de «violación flagrante». Según las agencias, hubo tanques cerca de los campos de Nuseirat y Al Bureij, se ordenó evacuar zonas del noreste de Nuseirat y decenas de palestinos huyeron de sus tiendas y refugios.",
+    "El miércoles 18 de noviembre, el ejército israelí inició una operación terrestre en el centro de Gaza, al oeste de la [[Línea Amarilla|lineaamarilla]], una zona de la que se retiró con el [[alto el fuego|altoelfuego]] de octubre de 2025. El jueves 19 anunció que la había terminado. Según los medios, es la primera acción de este tipo desde la tregua. Israel dice que buscaba desmantelar un túnel de [[Hamás|hamas]] que amenazaba a sus soldados y acusa a Hamás de haber violado antes el acuerdo; Hamás habla de «violación flagrante». Muchas familias, la mayoría ya desplazadas varias veces desde 2023, huyeron y el jueves volvieron a revisar sus casas, aunque seguían oyéndose disparos.",
     "Ese día murieron tres palestinos en ataques con drones, según la Defensa Civil de Gaza, aunque no está claro si guardan relación con la operación. Según el Ministerio de Sanidad de [[Gaza|gaza]], que controla Hamás, en la guerra han muerto más de 74.000 personas, 1.647 de ellas por ataques israelíes desde la tregua, según su recuento hasta el lunes 16. La operación llega después de que la UE y cuatro países (Reino Unido, Australia, Canadá e Italia) pidieran a Israel que deje entrar ayuda, y con las primeras lluvias del invierno, que aumentan las enfermedades, según la OMS. La ONU ya avisaba de que el riesgo de volver a la guerra «nunca ha sido tan alto»."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
@@ -453,30 +453,33 @@
     "France 24",
     "US News (AP)",
     "The Times of Israel",
-    "Resumen Latinoamericano"
+    "Resumen Latinoamericano",
+    "CP24 (AFP)",
+    "Al Arabiya",
+    "The New Arab"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El 18 de noviembre Israel lanzó una operación terrestre en el centro de Gaza, la primera desde la tregua, y Hamás la calificó de violación del alto el fuego.",
+   "actualizada": "2026-11-20",
+   "nota_actualizacion": "El 19 de noviembre Israel dio por terminada la operación terrestre en el centro de Gaza, que dice que buscaba desmantelar un túnel de Hamás.",
    "en": {
-    "titular": "Gaza: Israel launches a ground operation in central Gaza, the first since the truce, and Hamas denounces a ceasefire violation",
-    "entradilla": "The army says it aims to eliminate a threat to its troops; dozens of Palestinians fled their tents near Nuseirat, according to the press.",
+    "titular": "Gaza: Israel ends after one day its ground operation in central Gaza, the first since the truce, and Hamas denounces a ceasefire violation",
+    "entradilla": "The army says it aimed to dismantle a tunnel that threatened its troops; the families who fled began returning on Thursday.",
     "parrafos": [
-     "On Wednesday 18 November, the Israeli army began a ground operation in central Gaza, west of the [[Yellow Line|lineaamarilla]], an area it withdrew from under the October 2025 [[ceasefire|altoelfuego]]. According to the media, it is the first action of this kind since the truce. Israel describes it as a 'precise' operation to eliminate a threat to its soldiers and accuses [[Hamas|hamas]] of having broken the agreement first; Hamas speaks of a 'flagrant violation'. According to news agencies, tanks were seen near the Nuseirat and Al Bureij camps, evacuations were ordered in parts of north-eastern Nuseirat, and dozens of Palestinians fled their tents and shelters.",
+     "On Wednesday 18 November, the Israeli army began a ground operation in central Gaza, west of the [[Yellow Line|lineaamarilla]], an area it withdrew from under the October 2025 [[ceasefire|altoelfuego]]. On Thursday 19 it announced it had finished. According to the media, it is the first action of this kind since the truce. Israel says it aimed to dismantle a [[Hamas|hamas]] tunnel that threatened its soldiers and accuses Hamas of having broken the agreement first; Hamas speaks of a 'flagrant violation'. Many families, most of them already displaced several times since 2023, fled and on Thursday went back to check their homes, although gunfire could still be heard.",
      "That day three Palestinians were killed in drone strikes, according to Gaza's Civil Defence, although it is unclear whether they are linked to the operation. According to the Health Ministry in [[Gaza|gaza]], which Hamas controls, more than 74,000 people have died in the war, 1,647 of them from Israeli attacks since the truce, by its count up to Monday 16. The operation comes after the EU and four countries (the UK, Australia, Canada and Italy) asked Israel to let aid in, and with the first rains of winter, which raise illness, according to the WHO. The UN had already warned that the risk of a return to war 'has never been higher'."
     ],
-    "nota_actualizacion": "On 18 November Israel launched a ground operation in central Gaza, the first since the truce, and Hamas called it a ceasefire violation."
+    "nota_actualizacion": "On 19 November Israel declared its ground operation in central Gaza over; it says it aimed to dismantle a Hamas tunnel."
    }
   },
   {
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Kiev calcula unos mil prisioneros por bando en el canje que prepara EE. UU., mientras el Kremlin niega haber aceptado que Europa participe en la próxima ronda",
-   "entradilla": "Aún no hay fecha para el canje, lo más difícil de pactar es la suerte de los defensores de Mariúpol y sigue sin haber acuerdo sobre el territorio.",
+   "titular": "Ucrania: Europa cierra filas en Berlín con Zelenski mientras Trump, Putin y Xi se reúnen sin ellos; sigue sin fecha el canje de unos mil prisioneros por bando",
+   "entradilla": "Los enviados de EE. UU., Kushner y Witkoff, acudieron a Berlín; aún no hay acuerdo sobre el territorio ni sobre el papel de Europa en la mesa.",
    "parrafos": [
     "Las conversaciones de Abu Dabi entre delegaciones de Rusia, Ucrania y Estados Unidos terminaron el miércoles 11 de noviembre y fueron el primer contacto directo entre rusos y ucranianos desde febrero. Después, los enviados de la Casa Blanca, [[Steve Witkoff|witkoff]] y Jared Kushner, se reunieron en Moscú con [[Vladímir Putin|putin]] y en Dublín con [[Zelenski|zelenski]]. Kushner habló de lo que sería el mayor canje de prisioneros de la guerra. El 18 de noviembre, el comisionado ucraniano de Derechos Humanos, Dmytro Lubinets, dijo que no hay una cifra cerrada, pero que ronda el millar por cada bando, con prioridad para heridos y enfermos. Lo más difícil de negociar es la suerte de los defensores de Mariúpol, presos desde mayo de 2022.",
-    "Siguen las diferencias en lo más difícil: Rusia exige que Ucrania se retire del este del Donbás, y [[Zelenski|zelenski]] responde que los asuntos territoriales deben decidirlos los líderes. Moscú rechaza un alto el fuego inmediato; Kiev lo pide primero. EE. UU. y Zelenski habían dicho que Europa se sentaría a la mesa, pero el lunes 16 el asesor del Kremlin Yuri Ushákov afirmó que Rusia no lo había aceptado: la próxima ronda será otra vez entre rusos, ucranianos y estadounidenses, y Europa solo entraría después, si propone algo constructivo. Mientras, Rusia dañó dos puentes de Kiev, según su alcalde. El 2 de noviembre, una escuela subterránea de [[Zaporiyia|zaporiyia]] fue destruida: 53 muertos y unos 50 desaparecidos, según emergencias ucranianas."
+    "Siguen las diferencias en lo más difícil: Rusia exige que Ucrania se retire del este del Donbás, y [[Zelenski|zelenski]] responde que los asuntos territoriales deben decidirlos los líderes. Moscú rechaza un alto el fuego inmediato; Kiev lo pide primero. El jueves 19, mientras Trump, Putin y Xi firmaban en Shenzhen una declaración que no menciona Ucrania, unas 40 delegaciones de la coalición de países que apoyan a Kiev se reunieron en Berlín con Zelenski y con Witkoff y Kushner. Según Infobae, el canciller alemán, Friedrich Merz, dijo que un formato «al estilo Yalta» no traerá la paz. El 2 de noviembre, una escuela subterránea de [[Zaporiyia|zaporiyia]] fue destruida: 53 muertos y unos 50 desaparecidos, según emergencias ucranianas."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -520,78 +523,53 @@
     "BioBioChile",
     "Reuters",
     "Al-Monitor",
-    "Teleprensa"
+    "Teleprensa",
+    "Kyiv Independent"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El 18 de noviembre el comisionado ucraniano de Derechos Humanos calculó en cerca de mil los prisioneros por bando en el canje que se prepara; sigue sin haber fecha.",
+   "actualizada": "2026-11-20",
+   "nota_actualizacion": "El 19 de noviembre la coalición de apoyo a Ucrania se reunió en Berlín con Zelenski y los enviados de EE. UU., el mismo día de la cumbre de Trump, Putin y Xi en Shenzhen.",
    "en": {
-    "titular": "Ukraine: Kyiv puts the number at about a thousand prisoners per side in the swap the US is preparing, while the Kremlin denies agreeing that Europe will take part in the next round",
-    "entradilla": "There is still no date for the swap, the hardest point to agree is the fate of the Mariupol defenders, and there is still no deal on territory.",
+    "titular": "Ukraine: Europe closes ranks in Berlin with Zelensky while Trump, Putin and Xi meet without them; still no date for the swap of about a thousand prisoners per side",
+    "entradilla": "The US envoys, Kushner and Witkoff, went to Berlin; there is still no deal on territory or on Europe's role at the table.",
     "parrafos": [
      "The Abu Dhabi talks between delegations from Russia, Ukraine and the United States ended on Wednesday 11 November and were the first direct contact between Russians and Ukrainians since February. Afterwards, the White House envoys, [[Steve Witkoff|witkoff]] and Jared Kushner, met [[Vladimir Putin|putin]] in Moscow and [[Zelensky|zelenski]] in Dublin. Kushner spoke of what would be the biggest prisoner swap of the war. On 18 November, Ukraine's human rights commissioner, Dmytro Lubinets, said there is no firm figure yet, but that it is around a thousand per side, with priority for the wounded and the sick. The hardest point to negotiate is the fate of the defenders of Mariupol, held since May 2022.",
-     "Differences remain on the hardest issue: Russia demands that Ukraine withdraw from the east of Donbas, and [[Zelensky|zelenski]] replies that territorial matters must be decided by the leaders. Moscow rejects an immediate ceasefire; Kyiv wants it first. The US and Zelensky had said Europe would sit at the table, but on Monday 16 Kremlin aide Yuri Ushakov said Russia had not accepted it: the next round will again be between Russians, Ukrainians and Americans, and Europe would join only later, if it proposes something constructive. Meanwhile, Russia damaged two bridges in Kyiv, according to its mayor. On 2 November, an underground school in [[Zaporizhzhia|zaporiyia]] was destroyed: 53 dead and about 50 missing, according to Ukrainian emergency services."
+     "Differences remain on the hardest issue: Russia demands that Ukraine withdraw from the east of Donbas, and [[Zelensky|zelenski]] replies that territorial matters must be decided by the leaders. Moscow rejects an immediate ceasefire; Kyiv wants it first. On Thursday 19, while Trump, Putin and Xi signed in Shenzhen a declaration that does not mention Ukraine, some 40 delegations from the coalition of countries backing Kyiv met in Berlin with Zelensky and with Witkoff and Kushner. According to Infobae, German Chancellor Friedrich Merz said that a 'Yalta-style' format will not bring peace. On 2 November, an underground school in [[Zaporizhzhia|zaporiyia]] was destroyed: 53 dead and about 50 missing, according to Ukrainian emergency services."
     ],
-    "nota_actualizacion": "On 18 November Ukraine's human rights commissioner put the number at about a thousand prisoners per side in the swap being prepared; there is still no date."
+    "nota_actualizacion": "On 19 November the coalition backing Ukraine met in Berlin with Zelensky and the US envoys, the same day as the Trump-Putin-Xi summit in Shenzhen."
    }
   },
   {
-   "id": "israel-elecciones-27-octubre-netanyahu-eisenkot",
+   "id": "cumbre-trump-xi-putin-shenzhen-declaracion-de-paz",
    "seccion": "int",
-   "dibujo": "ballot",
-   "titular": "Israel: un aliado de Eisenkot preside la Knesset tras ganar por 66 votos a 52 al candidato de Netanyahu, mientras Eisenkot sigue rechazando que este encabece el Gobierno",
-   "entradilla": "Matan Kahana fue elegido con apoyo de los partidos árabes; Eisenkot tiene 28 días, prorrogables 14, para reunir los 61 diputados que necesita.",
+   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-b\" cx=\"60\" cy=\"45\" r=\"34\"/><ellipse class=\"d-o\" cx=\"60\" cy=\"45\" rx=\"14\" ry=\"34\"/><path class=\"d-o\" d=\"M26 45 H94 M32 28 H88 M32 62 H88\"/><circle class=\"d-l\" cx=\"60\" cy=\"45\" r=\"34\"/><path class=\"d-l\" d=\"M60 11 L92 66 H28 Z\"/><circle class=\"d-y\" cx=\"60\" cy=\"11\" r=\"7\"/><circle class=\"d-a\" cx=\"92\" cy=\"66\" r=\"7\"/><circle class=\"d-g\" cx=\"28\" cy=\"66\" r=\"7\"/><circle class=\"d-o\" cx=\"60\" cy=\"11\" r=\"7\"/><circle class=\"d-o\" cx=\"92\" cy=\"66\" r=\"7\"/><circle class=\"d-o\" cx=\"28\" cy=\"66\" r=\"7\"/></svg>",
+   "titular": "Trump, Putin y Xi firman en Shenzhen una «declaración de paz» en su primera reunión a tres, sin mencionar Ucrania ni Irán",
+   "entradilla": "Europa, que no estaba en la sala, reacciona con escepticismo; el texto habla de reformar la ONU, de energía y de riesgos nucleares.",
    "parrafos": [
-    "El martes 27 de octubre, Israel celebró elecciones parlamentarias, las primeras desde el ataque de [[Hamás|hamas]] del 7 de octubre de 2023 y con la tregua de [[Gaza|gaza]] aún frágil. Se votaba a los 120 diputados de la [[Knesset|knesset]], el Parlamento israelí, y quien reúna 61 podrá formar Gobierno. Según el recuento final de la Comisión Electoral Central, la participación fue del 77,9 %. El Likud de [[Benjamín Netanyahu|netanyahu]] es el partido más votado, con 27 escaños, menos que los 32 que tenía. Su bloque, con partidos ultraortodoxos y de extrema derecha, suma 53, ocho menos de los necesarios.",
-    "El bloque de la oposición, liderado por [[Gadi Eisenkot|eisenkot]], suma 48 escaños; su partido, Yashar, es el segundo más votado, con 21. Los partidos árabes tienen 19 y no pertenecen a ningún bloque. El domingo 8, el presidente, Isaac Herzog, le encargó formar Gobierno. Netanyahu le propone un Gobierno de unidad, pero Eisenkot rechaza que Netanyahu lo encabece. El martes 17, la Knesset eligió presidente a Matan Kahana, de Yashar, por 66 votos frente a 52 de Ofir Katz, del Likud; ese cargo controla el calendario de debates y votaciones. El miércoles 18, los líderes del bloque (Bennett, Lapid, Golan y Liberman) declararon que sustituir a Netanyahu es «prioridad máxima» y pidieron un Gobierno de emergencia nacional."
+    "El jueves 19 de noviembre, [[Donald Trump|trump]], [[Vladímir Putin|putin]] y [[Xi Jinping|xi]], presidentes de Estados Unidos, Rusia y China, se reunieron en Shenzhen (China) en el marco de la cumbre de la [[APEC|apec]], el foro de cooperación económica de Asia-Pacífico. Según los medios, fue la primera vez que los tres se sentaron juntos. La reunión duró una hora y media y terminó con una «declaración de paz» de cuatro puntos: promover una reforma de la ONU, aumentar la producción y el suministro de productos del petróleo refinado, repetir que una guerra nuclear no debe librarse nunca y abrir un diálogo para reducir los riesgos nucleares.",
+    "El texto también afirma que la [[Corte Penal Internacional|cpi]] y otros organismos similares no deben abusar de su jurisdicción. No menciona la guerra de Ucrania ni el conflicto con Irán, y no anuncia acuerdos para limitar armas. Trump presentó a Putin como «mi amigo» y dijo que estaban «haciendo historia». Europa no estaba en la sala y reaccionó con escepticismo: según Infobae, el canciller alemán, Friedrich Merz, dijo que un formato «al estilo [[Yalta|yalta]]», la conferencia de 1945 en la que los vencedores de la Segunda Guerra Mundial decidieron el futuro de Europa, no traerá la paz."
    ],
-   "busqueda_imagenes": "elecciones Israel Knesset Netanyahu Eisenkot",
+   "busqueda_imagenes": "Trump Xi Putin Shenzhen APEC cumbre",
    "fuentes": [
-    "The Jerusalem Post",
-    "France 24",
-    "Emol",
-    "Infobae",
-    "Ámbito",
-    "Público",
-    "Infobae (EFE)",
-    "The Times of Israel",
-    "The Jerusalem Post",
-    "i24NEWS",
-    "The Jewish Chronicle",
-    "DW",
-    "swissinfo.ch",
-    "Diario de Santiago",
-    "Haaretz",
-    "AP",
+    "Fox News",
+    "The Hill",
     "Al Jazeera",
-    "Quartz en español",
-    "CNN en Español",
-    "Moncloa.com",
-    "La Jornada",
-    "Estrella Digital",
-    "Times of Israel",
-    "Israel Hayom",
-    "Cadena 3",
-    "Deia",
-    "Teleprensa",
-    "ABC Color",
-    "Semana",
-    "Houston Chronicle",
-    "Ynet",
-    "ContraPunto",
-    "Diario Judío México"
+    "Kyiv Independent",
+    "Infobae",
+    "Euronews",
+    "US News"
    ],
-   "publicada": "2026-10-20",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El 18 de noviembre los líderes del bloque de Eisenkot pidieron un Gobierno de emergencia nacional y dijeron que sustituir a Netanyahu es «prioridad máxima».",
+   "publicada": "2026-11-20",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Israel: an ally of Eisenkot becomes Knesset speaker, beating Netanyahu's candidate by 66 votes to 52, while Eisenkot keeps refusing to let Netanyahu lead the government",
-    "entradilla": "Matan Kahana was elected with the backing of the Arab parties; Eisenkot has 28 days, extendable by 14, to gather the 61 MPs he needs.",
+    "titular": "Trump, Putin and Xi sign a 'declaration of peace' in Shenzhen in their first three-way meeting, without mentioning Ukraine or Iran",
+    "entradilla": "Europe, which was not in the room, reacts with scepticism; the text speaks of reforming the UN, energy and nuclear risks.",
     "parrafos": [
-     "On Tuesday 27 October, Israel held parliamentary elections, the first since the [[Hamas|hamas]] attack of 7 October 2023, with the truce in [[Gaza|gaza]] still fragile. The 120 members of the [[Knesset|knesset]], the Israeli Parliament, were being elected, and whoever gathers 61 can form a government. According to the final count by the Central Elections Committee, turnout was 77.9%. [[Benjamin Netanyahu|netanyahu]]'s Likud is the most-voted party, with 27 seats, fewer than the 32 it held. His bloc, with ultra-Orthodox and far-right parties, has 53, eight short of what it needs.",
-     "The opposition bloc, led by [[Gadi Eisenkot|eisenkot]], has 48 seats; his party, Yashar, is the second most voted, with 21. The Arab parties have 19 and belong to neither bloc. On Sunday 8, President Isaac Herzog asked him to form a government. Netanyahu offers him a unity government, but Eisenkot rejects Netanyahu leading it. On Tuesday 17, the Knesset elected as its speaker Matan Kahana, of Yashar, by 66 votes to 52 for Ofir Katz, of Likud; that post controls the calendar of debates and votes. On Wednesday 18, the leaders of the bloc (Bennett, Lapid, Golan and Liberman) declared that replacing Netanyahu is a 'top priority' and called for a national emergency government."
+     "On Thursday 19 November, [[Donald Trump|trump]], [[Vladimir Putin|putin]] and [[Xi Jinping|xi]], the presidents of the United States, Russia and China, met in Shenzhen (China) during the [[APEC|apec]] summit, the Asia-Pacific economic cooperation forum. According to the media, it was the first time the three had sat down together. The meeting lasted an hour and a half and ended with a four-point 'declaration of peace': to promote reform of the UN, to increase the production and supply of refined petroleum products, to repeat that a nuclear war must never be fought, and to open a dialogue on reducing nuclear risks.",
+     "The text also states that the [[International Criminal Court|cpi]] and similar bodies must not abuse their jurisdiction. It does not mention the war in Ukraine or the conflict with Iran, and it announces no agreements to limit weapons. Trump introduced Putin as 'my friend' and said they were 'making history'. Europe was not in the room and reacted with scepticism: according to Infobae, German Chancellor Friedrich Merz said that a format in the style of [[Yalta|yalta]], the 1945 conference at which the victors of the Second World War decided Europe's future, will not bring peace."
     ],
-    "nota_actualizacion": "On 18 November the leaders of Eisenkot's bloc called for a national emergency government and said replacing Netanyahu is a 'top priority'."
+    "nota_actualizacion": null
    }
   },
   {
@@ -906,11 +884,11 @@
    "id": "arranca-campana-29n-cis-psoe-40db-pp",
    "seccion": "es",
    "dibujo": "ballot",
-   "titular": "Sánchez y Feijóo se enfrentan esta noche en el cara a cara de la campaña del 29N, con encuestas que no coinciden",
-   "entradilla": "El debate, a las 22:00 y moderado por María Casado, tratará vivienda, economía, política social, corrupción y migración; el CIS da ventaja al PSOE y 40dB, al PP.",
+   "titular": "Sánchez y Feijóo chocan por vivienda, corrupción y Ceuta en el único cara a cara de la campaña, y cada partido se atribuye la victoria",
+   "entradilla": "El debate, moderado por María Casado, tuvo cinco bloques; el PSOE dijo que ganó Sánchez y el PP se declaró «muy satisfecho».",
    "parrafos": [
-    "El viernes 13 los partidos abrieron la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para tener mayoría absoluta. La vivienda, tras la huelga general y los decretos votados el jueves 12, será uno de los temas centrales. La víspera se publicó el macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas: estima que el PSOE gana con el 33,3 % de los votos, unos ocho puntos por delante del PP, y que Vox llega al 18,4 %.",
-    "En escaños, el CIS calcula entre 134 y 143 para el PSOE y entre 57 y 65 para Vox, y concluye que PP y Vox no alcanzarían la mayoría absoluta. La última encuesta de 40dB para El País y la Cadena SER, del 9 de noviembre, da el 31,9 % al PP, el 29,9 % al PSOE y el 18 % a Vox. Una [[encuesta|encuesta]] es una foto aproximada de un momento, no un resultado. Esta noche, jueves 19, a las 22:00, Sánchez y Feijóo debaten cara a cara. Habrá cinco bloques: vivienda, economía e impuestos, política social, corrupción y democracia, y migración y política exterior. Está previsto otro debate con los principales partidos hacia el 26."
+    "El viernes 13 los partidos abrieron la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para tener mayoría absoluta. La víspera se publicó el macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas: estima que el PSOE gana con el 33,3 % de los votos, unos ocho puntos por delante del PP, y que Vox llega al 18,4 %. La última encuesta de 40dB para El País y la Cadena SER, del 9 de noviembre, da el 31,9 % al PP, el 29,9 % al PSOE y el 18 % a Vox.",
+    "El jueves 19, a las 22:00, [[Pedro Sánchez|sanchez]] y [[Alberto Núñez Feijóo|feijoo]] debatieron cara a cara, con cinco bloques: vivienda, economía e impuestos, política social, corrupción y democracia, y migración y política exterior. Según los medios, chocaron por la vivienda, por la corrupción, donde Sánchez pidió perdón por los casos que han afectado a su entorno, por la crisis de [[Ceuta|ceuta]] y por los accidentes de tren de [[Adamuz|adamuz]] y Urda. Después, el PSOE dijo que había ganado Sánchez y el PP se declaró «muy satisfecho». Una encuesta es una foto aproximada de un momento, no un resultado: aún se espera otro debate con los principales partidos hacia el 26."
    ],
    "busqueda_imagenes": "campaña electoral 29N encuestas CIS 40dB",
    "fuentes": [
@@ -923,19 +901,24 @@
     "elDiario.es (Vertele)",
     "Diario Crítico",
     "La Voz del Sur",
-    "Demócrata"
+    "Demócrata",
+    "The Objective",
+    "101TV",
+    "Canal 4 Diario",
+    "El Boletín",
+    "OKDiario"
    ],
    "publicada": "2026-11-13",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El jueves 19 a las 22:00 se celebra el cara a cara Sánchez-Feijóo, con cinco bloques temáticos.",
+   "actualizada": "2026-11-20",
+   "nota_actualizacion": "El 19 de noviembre Sánchez y Feijóo debatieron cara a cara; el PSOE dijo que ganó Sánchez y el PP se declaró «muy satisfecho».",
    "en": {
-    "titular": "Sánchez and Feijóo face off tonight in the campaign's head-to-head for 29 November, with polls that disagree",
-    "entradilla": "The debate, at 22:00 and moderated by María Casado, will cover housing, the economy, social policy, corruption and migration; the CIS gives the PSOE the lead and 40dB gives it to the PP.",
+    "titular": "Sánchez and Feijóo clash over housing, corruption and Ceuta in the campaign's only head-to-head, and each party claims victory",
+    "entradilla": "The debate, moderated by María Casado, had five blocks; the PSOE said Sánchez won and the PP declared itself 'very satisfied'.",
     "parrafos": [
-     "On Friday 13 the parties opened the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. Housing, after the general strike and the decrees voted on Thursday 12, will be one of the central themes. On the eve of the campaign the large pre-election survey by the [[CIS|cis]], the public sociological research body, was published, with more than 45,000 interviews: it estimates that the PSOE wins with 33.3% of the vote, about eight points ahead of the PP, and that Vox reaches 18.4%.",
-     "In seats, the CIS calculates between 134 and 143 for the PSOE and between 57 and 65 for Vox, and concludes that PP and Vox would not reach an absolute majority. The latest 40dB poll for El País and Cadena SER, from 9 November, gives 31.9% to the PP, 29.9% to the PSOE and 18% to Vox. A [[poll|encuesta]] is a rough snapshot of a moment, not a result. Tonight, Thursday 19, at 22:00, Sánchez and Feijóo debate head to head. There will be five blocks: housing, economy and taxes, social policy, corruption and democracy, and migration and foreign policy. Another debate with the main parties is planned for around the 26th."
+     "On Friday 13 the parties opened the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. The day before, the [[CIS|cis]], the public sociological research body, published its large poll, with more than 45,000 interviews: it estimates that the PSOE wins with 33.3% of the vote, about eight points ahead of the PP, and that Vox reaches 18.4%. The latest 40dB poll for El País and the Cadena SER, from 9 November, gives 31.9% to the PP, 29.9% to the PSOE and 18% to Vox.",
+     "On Thursday 19, at 22:00, [[Pedro Sánchez|sanchez]] and [[Alberto Núñez Feijóo|feijoo]] debated head-to-head, in five blocks: housing, economy and taxes, social policy, corruption and democracy, and migration and foreign policy. According to the media, they clashed over housing, over corruption, where Sánchez apologised for the cases that have affected his circle, over the [[Ceuta|ceuta]] crisis and over the train accidents at [[Adamuz|adamuz]] and Urda. Afterwards, the PSOE said Sánchez had won and the PP declared itself 'very satisfied'. A poll is a rough snapshot of one moment, not a result: another debate with the main parties is still expected around the 26th."
     ],
-    "nota_actualizacion": "On Thursday 19 at 22:00 the Sánchez-Feijóo head-to-head takes place, with five thematic blocks."
+    "nota_actualizacion": "On 19 November Sánchez and Feijóo debated head-to-head; the PSOE said Sánchez won and the PP declared itself 'very satisfied'."
    }
   },
   {
@@ -1019,32 +1002,32 @@
    }
   },
   {
-   "id": "meta-ia-detecta-adolescentes-edad-todo-el-mundo",
+   "id": "comision-europea-ciberataque-generado-con-ia",
    "seccion": "tec",
    "dibujo": "chip",
-   "titular": "Meta lleva a todo el mundo su inteligencia artificial para detectar a adolescentes que mienten sobre su edad",
-   "entradilla": "Anunciado el 9 de noviembre, analiza pistas en publicaciones y fotos para pasar a esas cuentas al modo adolescente, con más límites.",
+   "titular": "La Comisión Europea admite una campaña de ciberataques generada con inteligencia artificial contra sus sistemas, detectada el 22 de octubre",
+   "entradilla": "Varias aplicaciones se desactivaron temporalmente; Bruselas dice que no hay pruebas de una brecha de datos que afecte a todo el personal y no señala a ningún culpable.",
    "parrafos": [
-    "El lunes 9 de noviembre, [[Meta|meta]] anunció que extiende a todos los países su sistema de [[inteligencia artificial|ia]] para detectar a adolescentes que se han registrado con una fecha de nacimiento falsa de adulto. Según Infobae, llegará a Instagram, Facebook y Threads antes de que termine el año. La IA no se fía solo de la fecha: busca pistas como menciones a cumpleaños o a cursos escolares en publicaciones, comentarios y biografías, y analiza fotos y vídeos, combinando varias señales. Las cuentas que detecte pasarán a ser [[cuentas para adolescentes|cuentasadolescentes]], con límites sobre quién puede escribirles, qué contenidos ven y cuánto tiempo usan la aplicación.",
-    "Importa porque hay menores que mienten en la edad para entrar en redes pensadas para mayores, y comprobarla es difícil sin pedir documentos. Según Infobae, Meta no ha precisado qué grado de acierto tiene el sistema ni cómo se corregirán los errores. El martes 10, en Francia, un consejo de expertos en IA entregó al presidente [[Emmanuel Macron|macron]] un informe que pide reforzar de inmediato las normas sobre los asistentes de IA por el riesgo para los menores; Macron dijo que, si un uso de la IA supone un riesgo para los niños, «debe prohibirse». El debate sobre cómo proteger a los niños en internet sigue abierto también en España y en la UE."
+    "El jueves 19 de noviembre, el portavoz de la [[Comisión Europea|comisioneuropea]], Thomas Regnier, confirmó que la institución sufrió una campaña de [[ciberataques|ciberataque]] generada con [[inteligencia artificial|ia]]. Se detectó el 22 de octubre y la Comisión desactivó temporalmente varias aplicaciones, la mayoría ya restablecidas. Según Euronews, el objetivo eran sistemas internos de recursos humanos, como Sysper, la gestión de personal, y JSIS, el seguro de enfermedad, donde hay datos sensibles de miles de funcionarios europeos. Regnier dijo que «muchos elementos han sido contenidos», pero que no puede decir más mientras siga la investigación.",
+    "Por ahora, según el portavoz, no hay pruebas de una brecha de [[datos personales|datospersonales]] que afecte al conjunto del personal, y la Comisión no atribuye el ataque a ningún actor concreto. El caso muestra que la IA no solo sirve para ayudar: también puede usarse para atacar, y por eso la [[ciberseguridad|ciberseguridad]] de las instituciones públicas, que guardan información de mucha gente, es cada vez más importante. La investigación sigue abierta."
    ],
-   "busqueda_imagenes": "Instagram cuentas adolescentes Meta edad inteligencia artificial",
+   "busqueda_imagenes": "Comisión Europea Bruselas ciberataque inteligencia artificial",
    "fuentes": [
+    "The Objective",
     "Infobae",
-    "Wwwhatsnew",
-    "KCH FM",
-    "Euronews",
-    "El Diario Alerta"
+    "BioBioChile",
+    "iProUP",
+    "Euronews"
    ],
-   "publicada": "2026-11-11",
+   "publicada": "2026-11-20",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Meta rolls out worldwide its artificial intelligence to detect teenagers who lie about their age",
-    "entradilla": "Announced on 9 November, it analyses clues in posts and photos to move those accounts to teen mode, with more limits.",
+    "titular": "European Commission admits a cyberattack campaign generated with artificial intelligence against its systems, detected on 22 October",
+    "entradilla": "Several applications were temporarily shut down; Brussels says there is no evidence of a data breach affecting all staff and does not point to anyone responsible.",
     "parrafos": [
-     "On Monday 9 November, [[Meta|meta]] announced that it is extending to all countries its [[artificial intelligence|ia]] system for detecting teenagers who signed up with a false adult date of birth. According to Infobae, it will reach Instagram, Facebook and Threads before the end of the year. The AI does not rely on the date alone: it looks for clues such as mentions of birthdays or school years in posts, comments and bios, and analyses photos and videos, combining several signals. Accounts it detects will become [[teen accounts|cuentasadolescentes]], with limits on who can message them, what content they see and how long they use the app.",
-     "It matters because some children lie about their age to join networks designed for adults, and checking it is hard without asking for documents. According to Infobae, Meta has not said how accurate the system is or how mistakes will be corrected. On Tuesday 10, in France, an expert council on AI gave President [[Emmanuel Macron|macron]] a report calling for an immediate tightening of the rules on AI assistants because of the risk to minors; Macron said that if a use of AI poses a risk to children, 'it must be banned'. The debate on how to protect children online remains open in Spain and in the EU too."
+     "On Thursday 19 November, the spokesperson for the [[European Commission|comisioneuropea]], Thomas Regnier, confirmed that the institution suffered a [[cyberattack|ciberataque]] campaign generated with [[artificial intelligence|ia]]. It was detected on 22 October and the Commission temporarily shut down several applications, most of them now restored. According to Euronews, the target was internal human-resources systems, such as Sysper, the staff-management system, and JSIS, the health insurance scheme, which hold sensitive data on thousands of European officials. Regnier said that 'many elements have been contained', but that he cannot say more while the investigation continues.",
+     "For now, according to the spokesperson, there is no evidence of a breach of [[personal data|datospersonales]] affecting the staff as a whole, and the Commission does not attribute the attack to any particular actor. The case shows that AI is not only there to help: it can also be used to attack, which is why the [[cybersecurity|ciberseguridad]] of public institutions, which hold information about many people, matters more and more. The investigation remains open."
     ],
     "nota_actualizacion": null
    }
@@ -1053,11 +1036,11 @@
    "id": "cop31-antalya-cumbre-clima-financiacion",
    "seccion": "int",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-b\" cx=\"52\" cy=\"46\" r=\"32\"/><path class=\"d-g\" d=\"M34 36 Q42 26 54 30 Q60 36 52 42 Q44 46 40 54 Q32 50 34 36 Z\"/><path class=\"d-g\" d=\"M60 54 Q70 48 76 56 Q74 68 64 72 Q58 64 60 54 Z\"/><circle class=\"d-l\" cx=\"52\" cy=\"46\" r=\"32\"/><rect class=\"d-p\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><rect class=\"d-a\" x=\"95\" y=\"32\" width=\"4\" height=\"34\"/><circle class=\"d-a\" cx=\"97\" cy=\"68\" r=\"8\"/><rect class=\"d-l\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><circle class=\"d-l\" cx=\"97\" cy=\"68\" r=\"8\"/></svg>",
-   "titular": "COP31: el primer borrador del acuerdo incluye la opción de salir «de inmediato» de los combustibles fósiles, pero es solo un menú de opciones",
-   "entradilla": "Los negociadores tienen hasta el 20 de noviembre para pactar el texto final; la UE empuja y los productores de petróleo y gas frenan.",
+   "titular": "COP31: el segundo borrador del acuerdo elimina toda mención a abandonar los combustibles fósiles, y el cierre de este viernes podría alargarse",
+   "entradilla": "La copresidencia de Turquía y Australia lo publicó el jueves 19 para desbloquear la negociación; la financiación sigue atascada entre 198 países.",
    "parrafos": [
     "La cumbre de jefes de Estado y de Gobierno de la [[COP31|cop31]], la conferencia de la ONU sobre el [[cambio climático|cambioclimatico]] que se celebra en [[Antalya|antalya]], terminó el 12 de noviembre sin decisiones formales ni dinero nuevo, según los medios. Desde el viernes 13, la negociación está en manos de los equipos técnicos, que tienen hasta el 20 de noviembre para acordar el texto final. La preside el turco Murat Kurum y el australiano Chris Bowen dirige las negociaciones. El dinero sigue siendo el gran asunto: los países más vulnerables piden que las promesas de financiación se conviertan en ayuda real para protegerse de sequías, inundaciones y otros efectos.",
-    "El lunes 16, los negociadores publicaron el primer borrador del texto final: no es un acuerdo, sino un menú de opciones. La más ambiciosa propone «transitar de inmediato» fuera de los [[combustibles fósiles|fosiles]], un compromiso que ya se aceptó en la COP28 de Dubái, en 2023. La Unión Europea lo calificó de «lista de la compra» y, con el Reino Unido, empuja para ir más lejos; los grandes productores del Golfo buscan alargar los plazos. El miércoles 18 por la noche, los ministros intentaron desbloquear una negociación atascada en los fósiles, la financiación y la ciencia, y se espera un nuevo borrador antes del viernes. Si la palabra «inmediato» desaparece, el resultado del [[Acuerdo de París|acuerdoparis]] puede ser simbólico."
+    "El lunes 16, los negociadores publicaron el primer borrador, un menú de opciones, con una que proponía «transitar de inmediato» fuera de los [[combustibles fósiles|fosiles]], algo ya aceptado en la COP28 de 2023. La Unión Europea lo llamó «lista de la compra». El jueves 19, la copresidencia de Turquía y Australia publicó un segundo borrador que, según las agencias, elimina toda referencia a abandonar el petróleo, el gas y el carbón y a retirar sus subvenciones ineficientes, y reduce los compromisos de financiación, para buscar el consenso antes del cierre previsto este viernes, que podría alargarse al sábado. Los países que querían más ambición deben decidir ahora si aceptan ese texto en el [[Acuerdo de París|acuerdoparis]]."
    ],
    "busqueda_imagenes": "COP31 Antalya cumbre clima 2026",
    "fuentes": [
@@ -1070,19 +1053,21 @@
     "Crónica del Henares",
     "MCN",
     "econews",
-    "France 24"
+    "France 24",
+    "Infobae (agencias)",
+    "Portafolio"
    ],
    "publicada": "2026-11-09",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El 18 de noviembre los ministros intentaron desbloquear la negociación, atascada en los combustibles fósiles, la financiación y la ciencia; se espera un nuevo borrador antes del viernes 20.",
+   "actualizada": "2026-11-20",
+   "nota_actualizacion": "El 19 de noviembre la copresidencia publicó un segundo borrador que elimina toda mención a abandonar los combustibles fósiles; el cierre, previsto el viernes 20, podría alargarse.",
    "en": {
-    "titular": "COP31: the first draft of the agreement includes an option to move 'immediately' away from fossil fuels, but it is only a menu of options",
-    "entradilla": "Negotiators have until 20 November to agree the final text; the EU is pushing and oil and gas producers are holding back.",
+    "titular": "COP31: the second draft of the agreement drops any mention of moving away from fossil fuels, and Friday's closing could run over",
+    "entradilla": "The Turkish and Australian co-presidency published it on Thursday 19 to unblock the talks; climate finance is still stuck among 198 countries.",
     "parrafos": [
      "The summit of heads of state and government at [[COP31|cop31]], the UN conference on [[climate change|cambioclimatico]] being held in [[Antalya|antalya]], ended on 12 November with no formal decisions and no new money, according to the media. Since Friday 13, the negotiation has been in the hands of the technical teams, who have until 20 November to agree the final text. It is chaired by Turkey's Murat Kurum and Australia's Chris Bowen leads the negotiations. Money remains the big issue: the most vulnerable countries ask for funding promises to be turned into real help to protect themselves from droughts, floods and other effects.",
-     "On Monday 16, negotiators published the first draft of the final text: it is not an agreement but a menu of options. The most ambitious proposes a 'transition away immediately' from [[fossil fuels|fosiles]], a commitment already accepted at COP28 in Dubai in 2023. The European Union called it a 'shopping list' and, with the United Kingdom, is pushing to go further; the big Gulf producers want longer deadlines. On Wednesday night, ministers tried to unblock talks stuck over fossil fuels, finance and science, and a new draft is expected before Friday. If the word 'immediately' disappears, the outcome for the [[Paris Agreement|acuerdoparis]] may be merely symbolic."
+     "On Monday 16, negotiators published the first draft, a menu of options, one of which proposed to 'transition immediately' away from [[fossil fuels|fosiles]], something already accepted at COP28 in 2023. The European Union called it a 'shopping list'. On Thursday 19, the Turkish and Australian co-presidency published a second draft which, according to news agencies, removes any reference to phasing out oil, gas and coal and to ending their inefficient subsidies, and reduces the financing commitments, to seek consensus before the closing planned for this Friday, which could run over to Saturday. The countries that wanted more ambition must now decide whether to accept that text under the [[Paris Agreement|acuerdoparis]]."
     ],
-    "nota_actualizacion": "On 18 November ministers tried to unblock the talks, stuck over fossil fuels, finance and science; a new draft is expected before Friday 20."
+    "nota_actualizacion": "On 19 November the co-presidency published a second draft that removes any mention of moving away from fossil fuels; the closing, planned for Friday 20, could run over."
    }
   },
   {
@@ -1186,11 +1171,11 @@
    "id": "atp-finals-turin-2026-alcaraz-jodar-sin-sinner",
    "seccion": "dep",
    "dibujo": "trophy",
-   "titular": "ATP Finals: Alcaraz vence a Medvedev (6-2, 6-4) y se clasifica para semifinales; Jódar cayó ante Fils tras ganar el primer set",
-   "entradilla": "Alcaraz ya está en semifinales con un partido de grupo por jugar; Jódar, debutante, acusó el esfuerzo físico en Turín.",
+   "titular": "ATP Finals: Alcaraz, sin lesión muscular según la resonancia, se medirá a Shelton en semifinales el sábado",
+   "entradilla": "La resonancia descartó daños en el isquiotibial izquierdo; Jódar perdió ante Shelton (7-6 y 7-5) y el estadounidense pasa a semifinales.",
    "parrafos": [
     "Las [[ATP Finals|atpfinals]], el torneo que reúne a los ocho mejores tenistas de la temporada, se juegan del 15 al 22 de noviembre en Turín. Pasan a semifinales los dos primeros de cada grupo. [[Carlos Alcaraz|alcaraz]] comparte el suyo con Daniil Medvedev, Flavio Cobolli y Frances Tiafoe, y Rafa Jódar, debutante, con [[Alexander Zverev|zverev]], Ben Shelton y Arthur Fils; solo podrían verse en semifinales. Es la primera vez desde 2015 que dos españoles se clasifican directamente. El gran ausente es [[Jannik Sinner|sinner]], ganador de las dos últimas ediciones, que está lesionado.",
-    "El lunes 16, Alcaraz debutó con un 6-2, 6-2 sobre Tiafoe. El miércoles 18 ganó a Medvedev por 6-2 y 6-4 y quedó matemáticamente clasificado para semifinales cuando Tiafoe derrotó a Cobolli por 7-6 (6) y 6-0, aunque aún le queda un partido de grupo. Viene de ganar el [[Masters 1000|masters1000]] de París y busca el título que le falta en su palmarés. El martes 17, [[Rafa Jódar|jodar]], de 20 años, ganó el primer set a Fils (6-4), pero acusó el esfuerzo físico, pidió asistencia médica a mitad del segundo y perdió 4-6, 6-2, 6-2. Fils se medirá el jueves a Zverev, número uno del mundo."
+    "El lunes 16, Alcaraz debutó con un 6-2, 6-2 sobre Tiafoe. El miércoles 18 ganó a Medvedev por 6-2 y 6-4 y aseguró su plaza en semifinales, aunque se resintió del isquiotibial izquierdo; la resonancia del jueves descartó una lesión muscular y seguirá en Turín. Este viernes juega su último partido de grupo, contra Flavio Cobolli. En el otro grupo, [[Ben Shelton|shelton]] ganó a Jódar por 7-6 (10-8) y 7-5 y, al vencer Zverev a Fils, se clasificó para semifinales: el sábado 21 se medirá a Alcaraz. La final es el domingo 22. Jódar, de 20 años, había perdido ante Fils tras ganar el primer set."
    ],
    "busqueda_imagenes": "ATP Finals Turín Alcaraz Jódar 2026",
    "fuentes": [
@@ -1207,19 +1192,23 @@
     "El Nuevo Diario",
     "Eurosport",
     "La Nación",
-    "Field Level Media"
+    "Field Level Media",
+    "Vanguardia",
+    "Punto de Break",
+    "Herqles",
+    "Hoy Diario"
    ],
    "publicada": "2026-11-11",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El 18 de noviembre Alcaraz ganó a Medvedev (6-2, 6-4) y quedó clasificado para semifinales de las ATP Finals.",
+   "actualizada": "2026-11-20",
+   "nota_actualizacion": "El 19 de noviembre la resonancia descartó una lesión muscular de Alcaraz, que se medirá a Shelton en semifinales el sábado 21.",
    "en": {
-    "titular": "ATP Finals: Alcaraz beats Medvedev (6-2, 6-4) and reaches the semi-finals; Jódar lost to Fils after winning the first set",
-    "entradilla": "Alcaraz is through to the semi-finals with one group match still to play; Jódar, a debutant, felt the physical strain in Turin.",
+    "titular": "ATP Finals: Alcaraz, with no muscle injury according to his scan, will face Shelton in the semi-finals on Saturday",
+    "entradilla": "The scan ruled out damage to his left hamstring; Jódar lost to Shelton (7-6 and 7-5) and the American goes through to the semi-finals.",
     "parrafos": [
      "The [[ATP Finals|atpfinals]], the tournament that brings together the eight best players of the season, are played from 15 to 22 November in Turin. The top two in each group go through to the semi-finals. [[Carlos Alcaraz|alcaraz]] shares his group with Daniil Medvedev, Flavio Cobolli and Frances Tiafoe, and Rafa Jódar, a debutant, with [[Alexander Zverev|zverev]], Ben Shelton and Arthur Fils; they could only meet in the semi-finals. It is the first time since 2015 that two Spaniards have qualified directly. The big absentee is [[Jannik Sinner|sinner]], winner of the last two editions, who is injured.",
-     "On Monday 16, Alcaraz made his debut with a 6-2, 6-2 win over Tiafoe. On Wednesday 18 he beat Medvedev 6-2, 6-4 and was mathematically through to the semi-finals when Tiafoe beat Cobolli 7-6 (6), 6-0, although he still has one group match left. He comes from winning the Paris [[Masters 1000|masters1000]] and is chasing the title missing from his record. On Tuesday 17, [[Rafa Jódar|jodar]], 20, won the first set against Fils (6-4), but felt the physical strain, asked for medical assistance midway through the second and lost 4-6, 6-2, 6-2. Fils will face Zverev, the world number one, on Thursday."
+     "On Monday 16, Alcaraz made his debut with a 6-2, 6-2 win over Tiafoe. On Wednesday 18 he beat Medvedev 6-2, 6-4 and secured his place in the semi-finals, although he felt his left hamstring; Thursday's scan ruled out a muscle injury and he will stay in Turin. This Friday he plays his last group match, against Flavio Cobolli. In the other group, [[Ben Shelton|shelton]] beat Jódar 7-6 (10-8), 7-5 and, with Zverev beating Fils, qualified for the semi-finals: on Saturday 21 he will face Alcaraz. The final is on Sunday 22. Jódar, 20, had lost to Fils after winning the first set."
     ],
-    "nota_actualizacion": "On 18 November Alcaraz beat Medvedev (6-2, 6-4) and booked his place in the ATP Finals semi-finals."
+    "nota_actualizacion": "On 19 November a scan ruled out a muscle injury for Alcaraz, who will face Shelton in the semi-finals on Saturday 21."
    }
   },
   {
@@ -4144,11 +4133,56 @@
     "n": "Ronda",
     "x": "A city in the province of Málaga built on the edge of a deep gorge, which the Puente Nuevo bridge crosses."
    }
+  },
+  "xi": {
+   "t": "persona",
+   "n": "Xi Jinping",
+   "x": "Es el presidente de China y el líder del Partido Comunista Chino. Gobierna desde 2013.",
+   "en": {
+    "n": "Xi Jinping",
+    "x": "He is the president of China and leader of the Chinese Communist Party. He has governed since 2013."
+   }
+  },
+  "apec": {
+   "t": "palabra",
+   "n": "APEC",
+   "x": "Foro de Cooperación Económica Asia-Pacífico: reúne cada año a 21 economías de ambos lados del océano Pacífico, entre ellas EE. UU., China y Rusia, para hablar de comercio.",
+   "en": {
+    "n": "APEC",
+    "x": "The Asia-Pacific Economic Cooperation forum: every year it brings together 21 economies from both sides of the Pacific Ocean, including the US, China and Russia, to talk about trade."
+   }
+  },
+  "yalta": {
+   "t": "lugar",
+   "n": "Yalta",
+   "x": "Ciudad de Crimea donde, en febrero de 1945, EE. UU., el Reino Unido y la Unión Soviética se reunieron para decidir cómo organizar Europa tras la Segunda Guerra Mundial. Hoy se usa su nombre para criticar que las grandes potencias decidan sin los demás países.",
+   "en": {
+    "n": "Yalta",
+    "x": "A city in Crimea where, in February 1945, the US, the UK and the Soviet Union met to decide how to organise Europe after the Second World War. Today its name is used to criticise great powers deciding without the other countries."
+   }
+  },
+  "feijoo": {
+   "t": "persona",
+   "n": "Alberto Núñez Feijóo",
+   "x": "Es el presidente del Partido Popular (PP) y el principal líder de la oposición. Es el candidato del PP en las elecciones del 29 de noviembre.",
+   "en": {
+    "n": "Alberto Núñez Feijóo",
+    "x": "He is the leader of the Partido Popular (PP) and the main opposition leader. He is the PP's candidate in the 29 November election."
+   }
+  },
+  "shelton": {
+   "t": "persona",
+   "n": "Ben Shelton",
+   "x": "Tenista estadounidense nacido en 2002, zurdo y conocido por su potente saque. Es la primera vez que llega a semifinales de las ATP Finals.",
+   "en": {
+    "n": "Ben Shelton",
+    "x": "An American tennis player born in 2002, left-handed and known for his powerful serve. It is the first time he has reached the ATP Finals semi-finals."
+   }
   }
  },
- "edicion_en": "Thursday 19 November 2026",
+ "edicion_en": "Friday 20 November 2026",
  "destacada": {
-  "id": "gaza-un-alto-el-fuego-que-no-termina-de-llegar",
-  "fecha": "2026-11-19"
+  "id": "cumbre-trump-xi-putin-shenzhen-declaracion-de-paz",
+  "fecha": "2026-11-20"
  }
 }
