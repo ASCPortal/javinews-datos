@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-20T07:00:00+01:00",
- "edicion": "Viernes 20 de noviembre de 2026",
+ "actualizado": "2026-11-21T07:00:00+01:00",
+ "edicion": "Sábado 21 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -290,11 +290,11 @@
    "id": "andalucia-sin-ave-con-madrid-tras-urda",
    "seccion": "and",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
-   "titular": "Andalucía sigue sin alta velocidad con Madrid: Puente prevé reabrir la línea diez días después de la autorización judicial",
-   "entradilla": "Turismo Costa del Sol calcula pérdidas de 185,6 millones y 1.974 empleos en Málaga; Moreno pide una auditoría de todo el corredor.",
+   "titular": "Andalucía sigue sin AVE con Madrid: la jueza autoriza a Adif a reparar la vía de Urda, pero no hay fecha oficial de reapertura",
+   "entradilla": "Las obras durarían unos diez días, según la estimación de Puente antes de dimitir; Turismo Costa del Sol calcula pérdidas de 185,6 millones en Málaga.",
    "parrafos": [
-    "El choque de Urda sigue cortando la alta velocidad ([[AVE|ave]]) entre Madrid y Andalucía, la línea que une la capital con Córdoba, Sevilla o Málaga. El martes 3 de noviembre, el ministro Óscar Puente dijo que, cuando un juez autorice reconstruir la vía, la línea podría reabrir en un máximo de diez días. Lo hará con menos frecuencias hasta que se complete el sistema europeo de seguridad ERTMS-2 y se haga una revisión extraordinaria de los sistemas actuales. Mientras tanto, [[Adif|adif]] mantiene la suspensión sin fecha de reapertura y [[Renfe|renfe]] no vende billetes del corredor hasta el 13 de diciembre, aunque esa fecha no es un anuncio de reapertura: podría abrir antes si Adif lo autoriza.",
-    "En Andalucía el accidente también abre una polémica. [[Juanma Moreno|moreno]] dijo que no se montará en el AVE a Madrid «hasta que haya una auditoría y una revisión», y Puente le respondió que sus palabras eran «profundamente irresponsables»; horas después dimitió como ministro. El jueves 5, Moreno insistió en pedir una auditoría de todo el corredor tras detectar los peritos de [[Adamuz|adamuz]], donde otro choque dejó 46 muertos el 18 de enero, nuevas «anomalías». Turismo Costa del Sol, de la Diputación de Málaga, calcula pérdidas de 185,6 millones y 1.974 empleos en la provincia entre el 28 de octubre y el 13 de diciembre, y la Junta avisa de que serán «importantes». Las causas de Urda siguen sin confirmarse."
+    "La jueza que investiga el choque de Urda autorizó el jueves 19 de noviembre a [[Adif|adif]], el gestor de las vías, a reparar el tramo dañado de la línea de alta velocidad ([[AVE|ave]]) entre Madrid y Andalucía, cerrada desde el 28 de octubre. Puso dos condiciones, una pedida por la Fiscalía: que Adif detalle todos los elementos dañados antes de reconstruir y, al acabar, todo lo que repare o sustituya, con su ubicación exacta. Óscar Puente calculó, antes de dimitir, que las obras tardarían diez días como máximo. [[Renfe|renfe]] vende billetes desde el 13 de diciembre, pero eso no es un anuncio de reapertura: Adif aún no ha dado fecha.",
+    "En Andalucía el accidente también abre una polémica. [[Juanma Moreno|moreno]] dijo que no se montará en el AVE a Madrid «hasta que haya una auditoría y una revisión» y pidió auditar todo el corredor tras detectar los peritos de [[Adamuz|adamuz]], donde otro choque dejó 46 muertos el 18 de enero, nuevas «anomalías». Turismo Costa del Sol, de la Diputación de Málaga, calcula pérdidas de 185,6 millones y 1.974 empleos en la provincia entre el 28 de octubre y el 13 de diciembre, y la Junta avisa de que serán «importantes». Las causas de Urda siguen sin confirmarse."
    ],
    "busqueda_imagenes": "alta velocidad Madrid Andalucía suspendida Urda",
    "fuentes": [
@@ -313,30 +313,34 @@
     "COPE",
     "Press Digital",
     "El Debate",
-    "El Mira"
+    "El Mira",
+    "El Español",
+    "CLM24",
+    "CMMedia",
+    "esdiario"
    ],
    "publicada": "2026-10-29",
-   "actualizada": "2026-11-10",
-   "nota_actualizacion": "Turismo Costa del Sol, de la Diputación de Málaga, estima en 185,6 millones de euros y 1.974 empleos el impacto del corte del AVE en la provincia hasta el 13 de diciembre.",
+   "actualizada": "2026-11-21",
+   "nota_actualizacion": "El 19 de noviembre la jueza autorizó a Adif a reparar la vía de Urda; no hay fecha oficial de reapertura.",
    "en": {
-    "titular": "Andalusia is still without a high-speed link to Madrid: Puente expects to reopen the line ten days after judicial authorisation",
-    "entradilla": "Turismo Costa del Sol estimates losses of 185.6 million and 1,974 jobs in Málaga; Moreno calls for an audit of the whole corridor.",
+    "titular": "Andalusia is still without an AVE link to Madrid: the judge lets Adif repair the track at Urda, but there is no official reopening date",
+    "entradilla": "The works would take about ten days, according to Puente's estimate before he resigned; Turismo Costa del Sol estimates losses of 185.6 million in Málaga.",
     "parrafos": [
-     "The Urda crash is still cutting the high-speed ([[AVE|ave]]) link between Madrid and Andalusia, the line that connects the capital with Córdoba, Seville and Málaga. On Tuesday 3 November, minister Óscar Puente said that, once a judge authorises rebuilding the track, the line could reopen within a maximum of ten days. It will do so with fewer services until the European ERTMS-2 safety system is completed and an extraordinary review of the current systems is carried out. In the meantime, [[Adif|adif]] is keeping services suspended with no reopening date and [[Renfe|renfe]] is not selling tickets on the corridor until 13 December, although that date is not an announcement of reopening: the line could open sooner if Adif authorises it.",
-     "In Andalusia the accident also opens a controversy. [[Juanma Moreno|moreno]] said he will not board the AVE to Madrid 'until there is an audit and a review', and Puente replied that his words were 'deeply irresponsible'; hours later he resigned as minister. On Thursday 5, Moreno insisted on calling for an audit of the whole corridor after the experts at [[Adamuz|adamuz]], where another collision left 46 dead on 18 January, detected new 'anomalies'. Turismo Costa del Sol, part of Málaga's provincial council, estimates losses of 185.6 million and 1,974 jobs in the province between 28 October and 13 December, and the regional government warns they will be 'significant'. The causes of Urda remain unconfirmed."
+     "The judge investigating the Urda crash authorised [[Adif|adif]], the track manager, on Thursday 19 November to repair the damaged section of the high-speed ([[AVE|ave]]) line between Madrid and Andalusia, closed since 28 October. She set two conditions, one requested by the Prosecutor's Office: that Adif list every damaged element before rebuilding and, when finished, everything it repairs or replaces, with its exact location. Óscar Puente estimated, before resigning, that the works would take ten days at most. [[Renfe|renfe]] has been selling tickets from 13 December, but that is not an announcement of reopening: Adif has not yet given a date.",
+     "In Andalusia the accident also opens a controversy. [[Juanma Moreno|moreno]] said he will not board the AVE to Madrid 'until there is an audit and a review' and called for an audit of the whole corridor after the experts at [[Adamuz|adamuz]], where another collision left 46 dead on 18 January, detected new 'anomalies'. Turismo Costa del Sol, part of Málaga's provincial council, estimates losses of 185.6 million and 1,974 jobs in the province between 28 October and 13 December, and the regional government warns they will be 'significant'. The causes of Urda remain unconfirmed."
     ],
-    "nota_actualizacion": "Turismo Costa del Sol, part of Málaga's provincial council, estimates the impact of the AVE closure at 185.6 million euros and 1,974 jobs in the province up to 13 December."
+    "nota_actualizacion": "On 19 November the judge authorised Adif to repair the track at Urda; there is no official reopening date."
    }
   },
   {
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán ataca con drones bases de EE. UU. en Kuwait y Baréin tras el bombardeo estadounidense de la isla de Qeshm",
-   "entradilla": "Washington niega que los drones alcanzaran un radar, como asegura Teherán; tiene tres portaaviones en la zona y mantiene el bloqueo naval, y no hay confirmación independiente.",
+   "titular": "Ormuz: Irán prepara un convoy de petroleros para romper el bloqueo de EE. UU. y Trump dice que decidirá sobre nuevos ataques tras el Año Nuevo",
+   "entradilla": "Teherán y Washington se contradicen tras los ataques con drones del 18 de noviembre; EE. UU. mantiene el bloqueo naval y apuesta por la presión económica, y no hay confirmación independiente.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Según los medios, el viernes 13 y el domingo 15 la Guardia Revolucionaria dijo haber atacado radares estadounidenses en [[Baréin|bahrein]]; EE. UU. y Baréin aseguran que derribaron o interceptaron los drones sin daños. El martes 17, según el Mando Central de EE. UU., sus cazas bombardearon una base de lanzamiento de misiles iraní en la isla de Qeshm, a la entrada de Ormuz. En la madrugada del miércoles 18, Irán respondió con drones contra la base aérea de Ali Al Salem, en Kuwait, y contra Baréin. La Guardia Revolucionaria asegura que en Baréin alcanzó un radar; el Mando Central lo llama «falso» y dice que interceptó los aparatos sin daños ni heridos."
+    "Según los medios, el 17 de noviembre el Mando Central de EE. UU. bombardeó una base de misiles iraní en la isla de Qeshm y el 18 Irán respondió con drones contra bases en Kuwait y Baréin; la [[Guardia Revolucionaria|guardiarev]] dice que alcanzó un radar y Washington lo niega. Ahora la tensión pasa al mar: según Euronews, más de una docena de petroleros iraníes se concentran en la isla de Kharg, por donde sale la mayor parte del crudo de Irán, para intentar romper el bloqueo en los próximos días. Trump dijo el jueves 19 que no tiene prisa y que hablará de nuevos ataques cuando empiece el año."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -397,16 +401,16 @@
     "n.com.do"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El 18 de noviembre Irán atacó con drones bases de EE. UU. en Kuwait y Baréin tras el bombardeo estadounidense de Qeshm; Washington niega que alcanzaran un radar.",
+   "actualizada": "2026-11-21",
+   "nota_actualizacion": "Según los medios, Irán concentra petroleros en Kharg para intentar romper el bloqueo, y Trump dijo el 19 de noviembre que decidirá sobre nuevos ataques cuando empiece el año.",
    "en": {
-    "titular": "Hormuz: Iran attacks US bases in Kuwait and Bahrain with drones after the American strike on Qeshm island",
-    "entradilla": "Washington denies that the drones hit a radar, as Tehran claims; it has three aircraft carriers in the area and keeps up the naval blockade, and there is no independent confirmation.",
+    "titular": "Hormuz: Iran readies a tanker convoy to break the US blockade and Trump says he will decide on new strikes after the New Year",
+    "entradilla": "Tehran and Washington contradict each other after the 18 November drone attacks; the US keeps up the naval blockade and bets on economic pressure, and there is no independent confirmation.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "According to the media, on Friday 13 and Sunday 15 the Revolutionary Guard said it had hit US radars in [[Bahrain|bahrein]]; the US and Bahrain say they shot down or intercepted the drones without damage. On Tuesday 17, according to US Central Command, its fighters bombed an Iranian missile launch base on Qeshm island, at the entrance to Hormuz. In the early hours of Wednesday 18, Iran responded with drones against the Ali Al Salem air base in Kuwait and against Bahrain. The Revolutionary Guard claims that in Bahrain it hit a radar; Central Command calls that 'false' and says it intercepted the drones with no damage or injuries."
+     "According to the media, on 17 November US Central Command bombed an Iranian missile base on Qeshm island and on the 18th Iran responded with drones against bases in Kuwait and Bahrain; the [[Revolutionary Guard|guardiarev]] says it hit a radar and Washington denies it. Now the tension moves to the sea: according to Euronews, more than a dozen Iranian tankers are gathering at Kharg Island, through which most of Iran's crude leaves, to try to break the blockade in the coming days. Trump said on Thursday 19 that he is in no rush and will discuss new strikes when the year begins."
     ],
-    "nota_actualizacion": "On 18 November Iran attacked US bases in Kuwait and Bahrain with drones after the American strike on Qeshm; Washington denies that they hit a radar."
+    "nota_actualizacion": "According to the media, Iran is gathering tankers at Kharg to try to break the blockade, and Trump said on 19 November he will decide on new strikes when the year begins."
    }
   },
   {
@@ -475,68 +479,72 @@
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Europa cierra filas en Berlín con Zelenski mientras Trump, Putin y Xi se reúnen sin ellos; sigue sin fecha el canje de unos mil prisioneros por bando",
-   "entradilla": "Los enviados de EE. UU., Kushner y Witkoff, acudieron a Berlín; aún no hay acuerdo sobre el territorio ni sobre el papel de Europa en la mesa.",
+   "titular": "Ucrania: Rusia lanza más de 110 misiles y 400 drones tras el ataque al puente de Crimea; hay al menos ocho muertos y dos misiles caen en Polonia",
+   "entradilla": "Moscú dice que atacó instalaciones militares; el primer ministro polaco habla de «provocación intencionada» y la OTAN condena la violación de su espacio aéreo.",
    "parrafos": [
-    "Las conversaciones de Abu Dabi entre delegaciones de Rusia, Ucrania y Estados Unidos terminaron el miércoles 11 de noviembre y fueron el primer contacto directo entre rusos y ucranianos desde febrero. Después, los enviados de la Casa Blanca, [[Steve Witkoff|witkoff]] y Jared Kushner, se reunieron en Moscú con [[Vladímir Putin|putin]] y en Dublín con [[Zelenski|zelenski]]. Kushner habló de lo que sería el mayor canje de prisioneros de la guerra. El 18 de noviembre, el comisionado ucraniano de Derechos Humanos, Dmytro Lubinets, dijo que no hay una cifra cerrada, pero que ronda el millar por cada bando, con prioridad para heridos y enfermos. Lo más difícil de negociar es la suerte de los defensores de Mariúpol, presos desde mayo de 2022.",
-    "Siguen las diferencias en lo más difícil: Rusia exige que Ucrania se retire del este del Donbás, y [[Zelenski|zelenski]] responde que los asuntos territoriales deben decidirlos los líderes. Moscú rechaza un alto el fuego inmediato; Kiev lo pide primero. El jueves 19, mientras Trump, Putin y Xi firmaban en Shenzhen una declaración que no menciona Ucrania, unas 40 delegaciones de la coalición de países que apoyan a Kiev se reunieron en Berlín con Zelenski y con Witkoff y Kushner. Según Infobae, el canciller alemán, Friedrich Merz, dijo que un formato «al estilo Yalta» no traerá la paz. El 2 de noviembre, una escuela subterránea de [[Zaporiyia|zaporiyia]] fue destruida: 53 muertos y unos 50 desaparecidos, según emergencias ucranianas."
+    "En la madrugada del viernes 20 de noviembre, Rusia lanzó más de 110 misiles, 27 de ellos balísticos, y más de 400 drones contra varias ciudades ucranianas, según [[Zelenski|zelenski]], que lo calificó como uno de los mayores ataques desde la invasión de 2022. Murieron al menos ocho personas, seis en [[Kiev|kiev]] y dos en la región de Leópolis, y hubo apagones en la capital. Moscú asegura que atacó instalaciones militares. Era la respuesta anunciada por [[Vladímir Putin|putin]] al ataque ucraniano contra el [[puente de Crimea|crimea]] del 17 de noviembre, que según los medios hundió parte de la calzada: Putin dijo que tras esos ataques no habrá acuerdo.",
+    "Varsovia informó de que dos misiles rusos, uno de crucero Kh-101, y un posible dron cayeron en el sureste de Polonia, a menos de 50 kilómetros de la frontera, sin víctimas ni daños de consideración. El primer ministro, Donald Tusk, habló de «provocación intencionada» y anunció que pedirá apoyo a la [[OTAN|otan]]; la alianza condenó la violación del espacio aéreo. Ocurrió un día después de que Trump, Putin y Xi firmaran en Shenzhen una declaración que no menciona Ucrania, y de que la coalición de apoyo a Kiev se reuniera en Berlín con Zelenski y los enviados de EE. UU., [[Steve Witkoff|witkoff]] y Jared Kushner. Sigue sin acuerdo sobre el territorio ni sobre el alto el fuego."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
+    "Acento",
+    "Al Jazeera",
+    "Al-Monitor",
+    "Audacy",
+    "BioBioChile",
+    "Bloomberg",
+    "CNN en Español",
+    "Cadena 3",
+    "Canal 9",
+    "Democrata",
+    "Diario Siglo XXI (Europa Press)",
+    "El Deber (BBC)",
+    "El Imparcial",
+    "El Nacional",
+    "El Tiempo",
+    "Euronews",
+    "France 24",
+    "Gestión (Perú)",
+    "Herqles",
     "Infobae",
+    "Infobae (EFE)",
     "Infobae (Europa Press)",
     "Infobae (The New York Times)",
-    "La Nación",
-    "Metro Puerto Rico",
-    "NX Noticias",
-    "Herqles",
-    "The Objective",
-    "Yahoo Noticias",
-    "Cadena 3",
-    "Moncloa.com",
-    "Acento",
+    "Infobae (Ukrainska Pravda)",
+    "Infobae (agencias)",
     "KCH FM",
-    "Al Jazeera",
-    "CNN en Español",
-    "Audacy",
-    "El Deber (BBC)",
-    "Euronews",
-    "Bloomberg",
-    "El Nacional",
-    "Unitel",
+    "Kyiv Independent",
+    "Kyiv Post",
     "La Jornada",
     "La Jornada San Luis",
+    "La Nación",
     "MDZ",
-    "Kyiv Post",
-    "Democrata",
-    "Mundiario",
-    "Infobae (agencias)",
-    "Infobae (EFE)",
     "Menorca.info",
-    "France 24",
-    "Infobae (Ukrainska Pravda)",
-    "Gestión (Perú)",
-    "El Tiempo",
-    "The Moscow Times",
-    "Diario Siglo XXI (Europa Press)",
-    "Canal 9",
-    "BioBioChile",
+    "Metro Puerto Rico",
+    "Moncloa.com",
+    "Mundiario",
+    "NX Noticias",
+    "Periódico AM",
+    "Prensa Latina",
     "Reuters",
-    "Al-Monitor",
     "Teleprensa",
-    "Kyiv Independent"
+    "The Moscow Times",
+    "The Objective",
+    "Unitel",
+    "Vanguardia",
+    "Yahoo Noticias"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-20",
-   "nota_actualizacion": "El 19 de noviembre la coalición de apoyo a Ucrania se reunió en Berlín con Zelenski y los enviados de EE. UU., el mismo día de la cumbre de Trump, Putin y Xi en Shenzhen.",
+   "actualizada": "2026-11-21",
+   "nota_actualizacion": "El 20 de noviembre Rusia lanzó más de 110 misiles y 400 drones tras el ataque al puente de Crimea, y dos misiles rusos cayeron en Polonia.",
    "en": {
-    "titular": "Ukraine: Europe closes ranks in Berlin with Zelensky while Trump, Putin and Xi meet without them; still no date for the swap of about a thousand prisoners per side",
-    "entradilla": "The US envoys, Kushner and Witkoff, went to Berlin; there is still no deal on territory or on Europe's role at the table.",
+    "titular": "Ukraine: Russia fires more than 110 missiles and 400 drones after the attack on the Crimean bridge; at least eight dead and two missiles fall in Poland",
+    "entradilla": "Moscow says it hit military facilities; Poland's prime minister speaks of an 'intentional provocation' and NATO condemns the violation of its airspace.",
     "parrafos": [
-     "The Abu Dhabi talks between delegations from Russia, Ukraine and the United States ended on Wednesday 11 November and were the first direct contact between Russians and Ukrainians since February. Afterwards, the White House envoys, [[Steve Witkoff|witkoff]] and Jared Kushner, met [[Vladimir Putin|putin]] in Moscow and [[Zelensky|zelenski]] in Dublin. Kushner spoke of what would be the biggest prisoner swap of the war. On 18 November, Ukraine's human rights commissioner, Dmytro Lubinets, said there is no firm figure yet, but that it is around a thousand per side, with priority for the wounded and the sick. The hardest point to negotiate is the fate of the defenders of Mariupol, held since May 2022.",
-     "Differences remain on the hardest issue: Russia demands that Ukraine withdraw from the east of Donbas, and [[Zelensky|zelenski]] replies that territorial matters must be decided by the leaders. Moscow rejects an immediate ceasefire; Kyiv wants it first. On Thursday 19, while Trump, Putin and Xi signed in Shenzhen a declaration that does not mention Ukraine, some 40 delegations from the coalition of countries backing Kyiv met in Berlin with Zelensky and with Witkoff and Kushner. According to Infobae, German Chancellor Friedrich Merz said that a 'Yalta-style' format will not bring peace. On 2 November, an underground school in [[Zaporizhzhia|zaporiyia]] was destroyed: 53 dead and about 50 missing, according to Ukrainian emergency services."
+     "In the early hours of Friday 20 November, Russia fired more than 110 missiles, 27 of them ballistic, and more than 400 drones at several Ukrainian cities, according to [[Zelensky|zelenski]], who called it one of the biggest attacks since the 2022 invasion. At least eight people died, six in [[Kyiv|kiev]] and two in the Lviv region, and there were power cuts in the capital. Moscow says it hit military facilities. It was the response announced by [[Vladimir Putin|putin]] to the Ukrainian attack on the [[Crimean Bridge|crimea]] on 17 November, which according to the media sank part of the roadway: Putin said there will be no deal after those attacks.",
+     "Warsaw reported that two Russian missiles, one of them a Kh-101 cruise missile, and a suspected drone fell in south-eastern Poland, less than 50 kilometres from the border, with no casualties or significant damage. Prime Minister Donald Tusk spoke of an 'intentional provocation' and announced he will ask [[NATO|otan]] for support; the alliance condemned the violation of its airspace. It happened a day after Trump, Putin and Xi signed in Shenzhen a declaration that does not mention Ukraine, and after the coalition backing Kyiv met in Berlin with Zelensky and the US envoys, [[Steve Witkoff|witkoff]] and Jared Kushner. There is still no deal on territory or on a ceasefire."
     ],
-    "nota_actualizacion": "On 19 November the coalition backing Ukraine met in Berlin with Zelensky and the US envoys, the same day as the Trump-Putin-Xi summit in Shenzhen."
+    "nota_actualizacion": "On 20 November Russia fired more than 110 missiles and 400 drones after the attack on the Crimean bridge, and two Russian missiles fell in Poland."
    }
   },
   {
@@ -1036,11 +1044,11 @@
    "id": "cop31-antalya-cumbre-clima-financiacion",
    "seccion": "int",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-b\" cx=\"52\" cy=\"46\" r=\"32\"/><path class=\"d-g\" d=\"M34 36 Q42 26 54 30 Q60 36 52 42 Q44 46 40 54 Q32 50 34 36 Z\"/><path class=\"d-g\" d=\"M60 54 Q70 48 76 56 Q74 68 64 72 Q58 64 60 54 Z\"/><circle class=\"d-l\" cx=\"52\" cy=\"46\" r=\"32\"/><rect class=\"d-p\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><rect class=\"d-a\" x=\"95\" y=\"32\" width=\"4\" height=\"34\"/><circle class=\"d-a\" cx=\"97\" cy=\"68\" r=\"8\"/><rect class=\"d-l\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><circle class=\"d-l\" cx=\"97\" cy=\"68\" r=\"8\"/></svg>",
-   "titular": "COP31: el segundo borrador del acuerdo elimina toda mención a abandonar los combustibles fósiles, y el cierre de este viernes podría alargarse",
-   "entradilla": "La copresidencia de Turquía y Australia lo publicó el jueves 19 para desbloquear la negociación; la financiación sigue atascada entre 198 países.",
+   "titular": "COP31: la cumbre entra en prórroga sin acuerdo, con un borrador que no menciona los combustibles fósiles y la financiación atascada",
+   "entradilla": "El cierre previsto para el viernes 20 se agotó y la negociación continúa el sábado entre 198 países; organizaciones ecologistas critican el texto.",
    "parrafos": [
     "La cumbre de jefes de Estado y de Gobierno de la [[COP31|cop31]], la conferencia de la ONU sobre el [[cambio climático|cambioclimatico]] que se celebra en [[Antalya|antalya]], terminó el 12 de noviembre sin decisiones formales ni dinero nuevo, según los medios. Desde el viernes 13, la negociación está en manos de los equipos técnicos, que tienen hasta el 20 de noviembre para acordar el texto final. La preside el turco Murat Kurum y el australiano Chris Bowen dirige las negociaciones. El dinero sigue siendo el gran asunto: los países más vulnerables piden que las promesas de financiación se conviertan en ayuda real para protegerse de sequías, inundaciones y otros efectos.",
-    "El lunes 16, los negociadores publicaron el primer borrador, un menú de opciones, con una que proponía «transitar de inmediato» fuera de los [[combustibles fósiles|fosiles]], algo ya aceptado en la COP28 de 2023. La Unión Europea lo llamó «lista de la compra». El jueves 19, la copresidencia de Turquía y Australia publicó un segundo borrador que, según las agencias, elimina toda referencia a abandonar el petróleo, el gas y el carbón y a retirar sus subvenciones ineficientes, y reduce los compromisos de financiación, para buscar el consenso antes del cierre previsto este viernes, que podría alargarse al sábado. Los países que querían más ambición deben decidir ahora si aceptan ese texto en el [[Acuerdo de París|acuerdoparis]]."
+    "El lunes 16, los negociadores publicaron el primer borrador, un menú de opciones, con una que proponía «transitar de inmediato» fuera de los [[combustibles fósiles|fosiles]], algo ya aceptado en la COP28 de 2023; la Unión Europea lo llamó «lista de la compra». El jueves 19, la copresidencia publicó un segundo borrador que, según las agencias, elimina toda referencia a abandonar el petróleo, el gas y el carbón y reduce los compromisos de financiación. El viernes 20, día previsto del cierre, la conferencia entró en prórroga sin acuerdo; Bowen dijo que trabajará «el tiempo que haga falta». Los países que querían más ambición deben decidir si aceptan el texto en el [[Acuerdo de París|acuerdoparis]]."
    ],
    "busqueda_imagenes": "COP31 Antalya cumbre clima 2026",
    "fuentes": [
@@ -1055,19 +1063,22 @@
     "econews",
     "France 24",
     "Infobae (agencias)",
-    "Portafolio"
+    "Portafolio",
+    "elDiario.es",
+    "Moncloa.com",
+    "Infobae"
    ],
    "publicada": "2026-11-09",
-   "actualizada": "2026-11-20",
-   "nota_actualizacion": "El 19 de noviembre la copresidencia publicó un segundo borrador que elimina toda mención a abandonar los combustibles fósiles; el cierre, previsto el viernes 20, podría alargarse.",
+   "actualizada": "2026-11-21",
+   "nota_actualizacion": "El 20 de noviembre, día previsto del cierre, la cumbre entró en prórroga sin acuerdo y la negociación continúa el sábado 21.",
    "en": {
-    "titular": "COP31: the second draft of the agreement drops any mention of moving away from fossil fuels, and Friday's closing could run over",
-    "entradilla": "The Turkish and Australian co-presidency published it on Thursday 19 to unblock the talks; climate finance is still stuck among 198 countries.",
+    "titular": "COP31: the summit goes into extra time without a deal, with a draft that does not mention fossil fuels and finance stuck",
+    "entradilla": "The closing planned for Friday 20 ran out and talks among 198 countries continue on Saturday; environmental groups criticise the text.",
     "parrafos": [
      "The summit of heads of state and government at [[COP31|cop31]], the UN conference on [[climate change|cambioclimatico]] being held in [[Antalya|antalya]], ended on 12 November with no formal decisions and no new money, according to the media. Since Friday 13, the negotiation has been in the hands of the technical teams, who have until 20 November to agree the final text. It is chaired by Turkey's Murat Kurum and Australia's Chris Bowen leads the negotiations. Money remains the big issue: the most vulnerable countries ask for funding promises to be turned into real help to protect themselves from droughts, floods and other effects.",
-     "On Monday 16, negotiators published the first draft, a menu of options, one of which proposed to 'transition immediately' away from [[fossil fuels|fosiles]], something already accepted at COP28 in 2023. The European Union called it a 'shopping list'. On Thursday 19, the Turkish and Australian co-presidency published a second draft which, according to news agencies, removes any reference to phasing out oil, gas and coal and to ending their inefficient subsidies, and reduces the financing commitments, to seek consensus before the closing planned for this Friday, which could run over to Saturday. The countries that wanted more ambition must now decide whether to accept that text under the [[Paris Agreement|acuerdoparis]]."
+     "On Monday 16, negotiators published the first draft, a menu of options, including one proposing to 'transition immediately' away from [[fossil fuels|fosiles]], something already accepted at COP28 in 2023; the European Union called it a 'shopping list'. On Thursday 19, the co-presidency published a second draft which, according to the agencies, removes any reference to moving away from oil, gas and coal and reduces the finance commitments. On Friday 20, the day planned for the close, the conference went into extra time without a deal; Bowen said he will work 'as long as it takes'. Countries that wanted more ambition must now decide whether to accept the text in the [[Paris Agreement|acuerdoparis]]."
     ],
-    "nota_actualizacion": "On 19 November the co-presidency published a second draft that removes any mention of moving away from fossil fuels; the closing, planned for Friday 20, could run over."
+    "nota_actualizacion": "On 20 November, the day planned for the close, the summit went into extra time without a deal and talks continue on Saturday 21."
    }
   },
   {
@@ -1216,10 +1227,10 @@
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-b\" x=\"14\" y=\"56\" width=\"16\" height=\"22\"/><rect class=\"d-b\" x=\"38\" y=\"46\" width=\"16\" height=\"32\"/><rect class=\"d-a\" x=\"62\" y=\"34\" width=\"16\" height=\"44\"/><rect class=\"d-a\" x=\"86\" y=\"22\" width=\"16\" height=\"56\"/><path class=\"d-l\" d=\"M8 78 H112 M14 56 H30 V78 H14 Z M38 46 H54 V78 H38 Z M62 34 H78 V78 H62 Z M86 22 H102 V78 H86 Z\"/><path class=\"d-l\" d=\"M12 42 L46 30 L70 18 M60 14 L72 17 L69 29\"/></svg>",
    "titular": "La inflación de la eurozona sube al 4 % y el mercado espera que el BCE suba los tipos en diciembre",
-   "entradilla": "Eurostat sitúa los precios de octubre en su nivel más alto desde 2023, por la energía; el euríbor ronda el 3,3 %, lo que encarece las hipotecas variables.",
+   "entradilla": "Eurostat sitúa los precios de octubre en su nivel más alto desde 2023, por la energía; el euríbor supera el 3,3 %, lo que encarece las hipotecas variables.",
    "parrafos": [
     "El 4 de noviembre, [[Eurostat|eurostat]], la oficina europea de estadística, informó de que la [[inflación|inflacion]] en los países del euro fue del 4 % en octubre, dos décimas más que en septiembre (3,8 %) y el nivel más alto desde 2023. La energía, un 20,8 % más cara que hace un año, explica casi la mitad de esa cifra, y la subyacente, que la deja fuera, se mantiene en el 2,5 %. España, con un 4,9 % según el avance del INE, queda por encima de la media del euro. Detrás de la subida de la energía está, sobre todo, la guerra con Irán, que ha encarecido el petróleo.",
-    "Con unos precios que duplican el objetivo del [[Banco Central Europeo|bce]], del 2 %, los mercados dan por probable que suba los [[tipos de interés|tiposinteres]] en su reunión del 17 de diciembre; todavía no está decidido. A las familias les llega a través del [[euríbor|euribor]], que el jueves 12 subió al 3,293 % y sirve para calcular la cuota de muchas [[hipotecas|hipoteca]] variables: si sube, esa cuota mensual sube. Subir los tipos ayuda a frenar los precios, pero también encarece los préstamos de personas y empresas."
+    "Con unos precios que duplican el objetivo del [[Banco Central Europeo|bce]], del 2 %, los mercados dan por probable que suba los [[tipos de interés|tiposinteres]] en su reunión del 17 de diciembre; todavía no está decidido. A las familias les llega a través del [[euríbor|euribor]], que el viernes 20 subió al 3,372 % y sirve para calcular la cuota de muchas [[hipotecas|hipoteca]] variables: la media provisional de noviembre es del 3,300 %, frente al 2,217 % de hace un año. Subir los tipos ayuda a frenar los precios, pero también encarece los préstamos de personas y empresas."
    ],
    "busqueda_imagenes": "inflación eurozona octubre 2026 Eurostat BCE",
    "fuentes": [
@@ -1233,16 +1244,16 @@
     "Economía Responsable"
    ],
    "publicada": "2026-11-06",
-   "actualizada": "2026-11-13",
-   "nota_actualizacion": "El euríbor subió el 12 de noviembre al 3,293 % y la media provisional de noviembre es del 3,266 %.",
+   "actualizada": "2026-11-21",
+   "nota_actualizacion": "El euríbor subió el 20 de noviembre al 3,372 % y la media provisional de noviembre es del 3,300 %.",
    "en": {
     "titular": "Eurozone inflation rises to 4% and markets expect the ECB to raise rates in December",
-    "entradilla": "Eurostat puts October prices at their highest level since 2023, because of energy; the Euribor is around 3.3%, which makes variable-rate mortgages more expensive.",
+    "entradilla": "Eurostat puts October prices at their highest level since 2023, because of energy; the Euribor is above 3.3%, which makes variable-rate mortgages more expensive.",
     "parrafos": [
      "On 4 November, [[Eurostat|eurostat]], the European statistics office, reported that [[inflation|inflacion]] in the euro countries was 4% in October, two tenths more than in September (3.8%) and the highest level since 2023. Energy, 20.8% more expensive than a year ago, accounts for almost half of that figure, and core inflation, which leaves it out, stays at 2.5%. Spain, at 4.9% according to the INE flash estimate, is above the euro average. Behind the rise in energy is, above all, the war with Iran, which has made oil more expensive.",
-     "With prices at double the target of the [[European Central Bank|bce]], which is 2%, markets consider it likely that it will raise [[interest rates|tiposinteres]] at its meeting on 17 December; it has not yet been decided. It reaches families through the [[Euribor|euribor]], which on Thursday 12 rose to 3.293% and is used to work out the payment on many variable-rate [[mortgages|hipoteca]]: if it rises, that monthly payment rises. Raising rates helps slow prices, but it also makes loans more expensive for people and companies."
+     "With prices at double the target of the [[European Central Bank|bce]], which is 2%, markets consider it likely that it will raise [[interest rates|tiposinteres]] at its meeting on 17 December; it has not yet been decided. It reaches families through the [[Euribor|euribor]], which on Friday 20 rose to 3.372% and is used to work out the payment on many variable-rate [[mortgages|hipoteca]]: the provisional November average is 3.300%, against 2.217% a year ago. Raising rates helps slow prices, but it also makes loans more expensive for people and companies."
     ],
-    "nota_actualizacion": "The Euribor rose to 3.293% on 12 November, and the provisional November average is 3.266%."
+    "nota_actualizacion": "The Euribor rose to 3.372% on 20 November, and the provisional November average is 3.300%."
    }
   },
   {
@@ -4178,11 +4189,29 @@
     "n": "Ben Shelton",
     "x": "An American tennis player born in 2002, left-handed and known for his powerful serve. It is the first time he has reached the ATP Finals semi-finals."
    }
+  },
+  "crimea": {
+   "t": "lugar",
+   "n": "Puente de Crimea",
+   "x": "Puente de 19 kilómetros sobre el estrecho de Kerch que une Rusia con la península de Crimea, que Rusia se anexionó en 2014. Es la principal vía por tierra hacia ella.",
+   "en": {
+    "n": "Crimean Bridge",
+    "x": "A 19-kilometre bridge across the Kerch Strait linking Russia to the Crimean peninsula, which Russia annexed in 2014. It is the main land route to it."
+   }
+  },
+  "otan": {
+   "t": "lugar",
+   "n": "OTAN",
+   "x": "Alianza militar de 32 países de Europa y Norteamérica, entre ellos Polonia, España y Estados Unidos. Sus miembros se comprometen a defenderse si alguno es atacado.",
+   "en": {
+    "n": "NATO",
+    "x": "A military alliance of 32 countries in Europe and North America, including Poland, Spain and the United States. Its members promise to defend each other if one is attacked."
+   }
   }
  },
- "edicion_en": "Friday 20 November 2026",
+ "edicion_en": "Saturday 21 November 2026",
  "destacada": {
-  "id": "cumbre-trump-xi-putin-shenzhen-declaracion-de-paz",
-  "fecha": "2026-11-20"
+  "id": "ucrania-ataques-mientras-se-habla-de-paz",
+  "fecha": "2026-11-21"
  }
 }
