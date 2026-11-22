@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-21T07:00:00+01:00",
- "edicion": "Sábado 21 de noviembre de 2026",
+ "actualizado": "2026-11-22T07:00:00+01:00",
+ "edicion": "Domingo 22 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -290,10 +290,10 @@
    "id": "andalucia-sin-ave-con-madrid-tras-urda",
    "seccion": "and",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><rect class=\"d-g\" x=\"0\" y=\"74\" width=\"120\" height=\"16\"/><path class=\"d-a\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z\"/><rect class=\"d-w\" x=\"18\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"38\" y=\"40\" width=\"14\" height=\"10\"/><rect class=\"d-w\" x=\"58\" y=\"40\" width=\"14\" height=\"10\"/><path class=\"d-w\" d=\"M80 40 H92 Q100 40 104 50 H80 Z\"/><rect class=\"d-y\" x=\"8\" y=\"55\" width=\"106\" height=\"4\"/><circle class=\"d-i\" cx=\"28\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"52\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"67\" r=\"6\"/><circle class=\"d-i\" cx=\"102\" cy=\"67\" r=\"6\"/><path class=\"d-l\" d=\"M8 64 V44 Q8 32 22 32 H92 Q110 32 114 54 V64 Z M0 74 H120\"/></svg>",
-   "titular": "Andalucía sigue sin AVE con Madrid: la jueza autoriza a Adif a reparar la vía de Urda, pero no hay fecha oficial de reapertura",
-   "entradilla": "Las obras durarían unos diez días, según la estimación de Puente antes de dimitir; Turismo Costa del Sol calcula pérdidas de 185,6 millones en Málaga.",
+   "titular": "Andalucía sigue sin AVE con Madrid: Adif ya inspecciona la vía de Urda, pero dice que es «imposible comprometer fechas»",
+   "entradilla": "Transportes asume, según los medios, que no funcionará en el puente de diciembre; Turismo Costa del Sol calcula pérdidas de 185,6 millones en Málaga.",
    "parrafos": [
-    "La jueza que investiga el choque de Urda autorizó el jueves 19 de noviembre a [[Adif|adif]], el gestor de las vías, a reparar el tramo dañado de la línea de alta velocidad ([[AVE|ave]]) entre Madrid y Andalucía, cerrada desde el 28 de octubre. Puso dos condiciones, una pedida por la Fiscalía: que Adif detalle todos los elementos dañados antes de reconstruir y, al acabar, todo lo que repare o sustituya, con su ubicación exacta. Óscar Puente calculó, antes de dimitir, que las obras tardarían diez días como máximo. [[Renfe|renfe]] vende billetes desde el 13 de diciembre, pero eso no es un anuncio de reapertura: Adif aún no ha dado fecha.",
+    "La jueza que investiga el choque de Urda autorizó el jueves 19 de noviembre a [[Adif|adif]], el gestor de las vías, a reparar el tramo dañado de la línea de alta velocidad ([[AVE|ave]]) entre Madrid y Andalucía, cerrada desde el 28 de octubre, con dos condiciones: que detalle todos los elementos dañados antes de reconstruir y, al acabar, todo lo que repare o sustituya. El viernes 20, técnicos de Adif accedieron al punto kilométrico 118 para evaluar los daños. Adif dice que es «imposible comprometer fechas»; según los medios, el Ministerio de Transportes maneja unas dos semanas de obras y asume que no habrá servicio en el puente de diciembre. [[Renfe|renfe]] no vende billetes hasta el 13 de diciembre.",
     "En Andalucía el accidente también abre una polémica. [[Juanma Moreno|moreno]] dijo que no se montará en el AVE a Madrid «hasta que haya una auditoría y una revisión» y pidió auditar todo el corredor tras detectar los peritos de [[Adamuz|adamuz]], donde otro choque dejó 46 muertos el 18 de enero, nuevas «anomalías». Turismo Costa del Sol, de la Diputación de Málaga, calcula pérdidas de 185,6 millones y 1.974 empleos en la provincia entre el 28 de octubre y el 13 de diciembre, y la Junta avisa de que serán «importantes». Las causas de Urda siguen sin confirmarse."
    ],
    "busqueda_imagenes": "alta velocidad Madrid Andalucía suspendida Urda",
@@ -317,30 +317,32 @@
     "El Español",
     "CLM24",
     "CMMedia",
-    "esdiario"
+    "esdiario",
+    "Telecinco",
+    "El Constitucional"
    ],
    "publicada": "2026-10-29",
-   "actualizada": "2026-11-21",
-   "nota_actualizacion": "El 19 de noviembre la jueza autorizó a Adif a reparar la vía de Urda; no hay fecha oficial de reapertura.",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El 20 de noviembre Adif inspeccionó la vía de Urda y dijo que es «imposible comprometer fechas»; Transportes asume que no funcionará en el puente de diciembre.",
    "en": {
-    "titular": "Andalusia is still without an AVE link to Madrid: the judge lets Adif repair the track at Urda, but there is no official reopening date",
-    "entradilla": "The works would take about ten days, according to Puente's estimate before he resigned; Turismo Costa del Sol estimates losses of 185.6 million in Málaga.",
+    "titular": "Andalusia is still without an AVE link to Madrid: Adif is now inspecting the track at Urda, but says it is 'impossible to commit to dates'",
+    "entradilla": "Transport assumes, according to the media, that it will not be running for the December long weekend; Turismo Costa del Sol estimates losses of 185.6 million in Málaga.",
     "parrafos": [
-     "The judge investigating the Urda crash authorised [[Adif|adif]], the track manager, on Thursday 19 November to repair the damaged section of the high-speed ([[AVE|ave]]) line between Madrid and Andalusia, closed since 28 October. She set two conditions, one requested by the Prosecutor's Office: that Adif list every damaged element before rebuilding and, when finished, everything it repairs or replaces, with its exact location. Óscar Puente estimated, before resigning, that the works would take ten days at most. [[Renfe|renfe]] has been selling tickets from 13 December, but that is not an announcement of reopening: Adif has not yet given a date.",
+     "The judge investigating the Urda crash authorised [[Adif|adif]], the track manager, on Thursday 19 November to repair the damaged section of the high-speed ([[AVE|ave]]) line between Madrid and Andalusia, closed since 28 October, with two conditions: that it list every damaged element before rebuilding and, when finished, everything it repairs or replaces. On Friday 20, Adif technicians reached kilometre point 118 to assess the damage. Adif says it is 'impossible to commit to dates'; according to the media, the Transport Ministry is working with about two weeks of works and assumes there will be no service over the December long weekend. [[Renfe|renfe]] is not selling tickets until 13 December.",
      "In Andalusia the accident also opens a controversy. [[Juanma Moreno|moreno]] said he will not board the AVE to Madrid 'until there is an audit and a review' and called for an audit of the whole corridor after the experts at [[Adamuz|adamuz]], where another collision left 46 dead on 18 January, detected new 'anomalies'. Turismo Costa del Sol, part of Málaga's provincial council, estimates losses of 185.6 million and 1,974 jobs in the province between 28 October and 13 December, and the regional government warns they will be 'significant'. The causes of Urda remain unconfirmed."
     ],
-    "nota_actualizacion": "On 19 November the judge authorised Adif to repair the track at Urda; there is no official reopening date."
+    "nota_actualizacion": "On 20 November Adif inspected the track at Urda and said it is 'impossible to commit to dates'; Transport assumes it will not be running for the December long weekend."
    }
   },
   {
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: Irán prepara un convoy de petroleros para romper el bloqueo de EE. UU. y Trump dice que decidirá sobre nuevos ataques tras el Año Nuevo",
-   "entradilla": "Teherán y Washington se contradicen tras los ataques con drones del 18 de noviembre; EE. UU. mantiene el bloqueo naval y apuesta por la presión económica, y no hay confirmación independiente.",
+   "titular": "Ormuz: al menos tres petroleros atacados cerca del estrecho e Irán promete romper el bloqueo de EE. UU., que llama «acto de guerra»",
+   "entradilla": "Según el centro británico UKMTO, dos petroleros fueron alcanzados por proyectiles; Irán dice que uno chocó con una mina. No hubo heridos.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Según los medios, el 17 de noviembre el Mando Central de EE. UU. bombardeó una base de misiles iraní en la isla de Qeshm y el 18 Irán respondió con drones contra bases en Kuwait y Baréin; la [[Guardia Revolucionaria|guardiarev]] dice que alcanzó un radar y Washington lo niega. Ahora la tensión pasa al mar: según Euronews, más de una docena de petroleros iraníes se concentran en la isla de Kharg, por donde sale la mayor parte del crudo de Irán, para intentar romper el bloqueo en los próximos días. Trump dijo el jueves 19 que no tiene prisa y que hablará de nuevos ataques cuando empiece el año."
+    "Tras los choques del 17 y 18 de noviembre entre EE. UU. e Irán, la tensión pasó al mar. El sábado 21, el centro británico UKMTO informó de que dos petroleros fueron alcanzados por proyectiles al salir del golfo Pérsico; los medios hablan de al menos tres buques atacados, sin heridos, y la Armada iraní dijo que uno chocó con una mina y se incendió. Irán atacó también una instalación industrial en Baréin. Su viceministro de Exteriores, Kazem Garibabadi, calificó el [[bloqueo naval|bloqueo]] de Estados Unidos de «acto de guerra» y prometió «todas las medidas necesarias» para romperlo."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -398,30 +400,31 @@
     "Perfil",
     "Bloomberg",
     "Diario Panorama",
-    "n.com.do"
+    "n.com.do",
+    "Milenio"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-21",
-   "nota_actualizacion": "Según los medios, Irán concentra petroleros en Kharg para intentar romper el bloqueo, y Trump dijo el 19 de noviembre que decidirá sobre nuevos ataques cuando empiece el año.",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El 21 de noviembre fueron atacados al menos tres petroleros cerca de Ormuz e Irán prometió «todas las medidas necesarias» para romper el bloqueo de EE. UU.",
    "en": {
-    "titular": "Hormuz: Iran readies a tanker convoy to break the US blockade and Trump says he will decide on new strikes after the New Year",
-    "entradilla": "Tehran and Washington contradict each other after the 18 November drone attacks; the US keeps up the naval blockade and bets on economic pressure, and there is no independent confirmation.",
+    "titular": "Hormuz: at least three tankers attacked near the strait and Iran vows to break the US blockade, which it calls an 'act of war'",
+    "entradilla": "According to Britain's UKMTO centre, two tankers were hit by projectiles; Iran says one struck a mine. No injuries were reported.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "According to the media, on 17 November US Central Command bombed an Iranian missile base on Qeshm island and on the 18th Iran responded with drones against bases in Kuwait and Bahrain; the [[Revolutionary Guard|guardiarev]] says it hit a radar and Washington denies it. Now the tension moves to the sea: according to Euronews, more than a dozen Iranian tankers are gathering at Kharg Island, through which most of Iran's crude leaves, to try to break the blockade in the coming days. Trump said on Thursday 19 that he is in no rush and will discuss new strikes when the year begins."
+     "After the clashes of 17 and 18 November between the US and Iran, the tension moved to the sea. On Saturday 21, Britain's UKMTO centre reported that two tankers were hit by projectiles as they left the Persian Gulf; the media speak of at least three ships attacked, with no injuries, and the Iranian Navy said one hit a mine and caught fire. Iran also attacked an industrial facility in Bahrain. Its deputy foreign minister, Kazem Gharibabadi, called the US [[naval blockade|bloqueo]] an 'act of war' and promised 'all necessary measures' to break it."
     ],
-    "nota_actualizacion": "According to the media, Iran is gathering tankers at Kharg to try to break the blockade, and Trump said on 19 November he will decide on new strikes when the year begins."
+    "nota_actualizacion": "On 21 November at least three tankers were attacked near Hormuz and Iran promised 'all necessary measures' to break the US blockade."
    }
   },
   {
    "id": "gaza-un-alto-el-fuego-que-no-termina-de-llegar",
    "seccion": "int",
    "dibujo": "aid",
-   "titular": "Gaza: Israel da por terminada tras un día su operación terrestre en el centro de la Franja, la primera desde la tregua, y Hamás denuncia una violación del alto el fuego",
-   "entradilla": "El ejército dice que buscaba desmantelar un túnel que amenazaba a sus tropas; las familias que huyeron empezaron a volver el jueves.",
+   "titular": "Gaza: un ataque israelí mata a tres personas en una furgoneta con comida, dos días después de que Israel diera por terminada su operación terrestre",
+   "entradilla": "El ejército dice que atacó a «varios milicianos»; testigos cuentan que el vehículo iba a repartir comida a niños. Sanidad de Gaza cuenta 1.671 muertos desde la tregua.",
    "parrafos": [
     "El miércoles 18 de noviembre, el ejército israelí inició una operación terrestre en el centro de Gaza, al oeste de la [[Línea Amarilla|lineaamarilla]], una zona de la que se retiró con el [[alto el fuego|altoelfuego]] de octubre de 2025. El jueves 19 anunció que la había terminado. Según los medios, es la primera acción de este tipo desde la tregua. Israel dice que buscaba desmantelar un túnel de [[Hamás|hamas]] que amenazaba a sus soldados y acusa a Hamás de haber violado antes el acuerdo; Hamás habla de «violación flagrante». Muchas familias, la mayoría ya desplazadas varias veces desde 2023, huyeron y el jueves volvieron a revisar sus casas, aunque seguían oyéndose disparos.",
-    "Ese día murieron tres palestinos en ataques con drones, según la Defensa Civil de Gaza, aunque no está claro si guardan relación con la operación. Según el Ministerio de Sanidad de [[Gaza|gaza]], que controla Hamás, en la guerra han muerto más de 74.000 personas, 1.647 de ellas por ataques israelíes desde la tregua, según su recuento hasta el lunes 16. La operación llega después de que la UE y cuatro países (Reino Unido, Australia, Canadá e Italia) pidieran a Israel que deje entrar ayuda, y con las primeras lluvias del invierno, que aumentan las enfermedades, según la OMS. La ONU ya avisaba de que el riesgo de volver a la guerra «nunca ha sido tan alto»."
+    "El sábado 21, un ataque con dron israelí mató a tres personas en una furgoneta que, según testigos, iba a repartir comida a desplazados en Tal al-Hawa, en la ciudad de Gaza; el ejército dijo que atacó a «varios milicianos» sin dar más detalles. Otro palestino murió por disparos israelíes cerca de Jabalia. Según el Ministerio de Sanidad de [[Gaza|gaza]], que controla Hamás, en la guerra han muerto 74.736 personas, 1.671 de ellas desde la tregua. La UE y cuatro países habían pedido a Israel que deje entrar ayuda, y la OMS avisa de que las primeras lluvias del invierno aumentan las enfermedades."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -460,19 +463,20 @@
     "Resumen Latinoamericano",
     "CP24 (AFP)",
     "Al Arabiya",
-    "The New Arab"
+    "The New Arab",
+    "Reuters"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-20",
-   "nota_actualizacion": "El 19 de noviembre Israel dio por terminada la operación terrestre en el centro de Gaza, que dice que buscaba desmantelar un túnel de Hamás.",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El 21 de noviembre un ataque israelí con dron mató a tres personas en una furgoneta con comida en la ciudad de Gaza; el ejército dice que atacó a milicianos.",
    "en": {
-    "titular": "Gaza: Israel ends after one day its ground operation in central Gaza, the first since the truce, and Hamas denounces a ceasefire violation",
-    "entradilla": "The army says it aimed to dismantle a tunnel that threatened its troops; the families who fled began returning on Thursday.",
+    "titular": "Gaza: Israeli strike kills three in a van carrying food, two days after Israel declared its ground operation over",
+    "entradilla": "The army says it hit 'several militants'; witnesses say the vehicle was about to hand out food to children. Gaza's Health Ministry counts 1,671 dead since the truce.",
     "parrafos": [
      "On Wednesday 18 November, the Israeli army began a ground operation in central Gaza, west of the [[Yellow Line|lineaamarilla]], an area it withdrew from under the October 2025 [[ceasefire|altoelfuego]]. On Thursday 19 it announced it had finished. According to the media, it is the first action of this kind since the truce. Israel says it aimed to dismantle a [[Hamas|hamas]] tunnel that threatened its soldiers and accuses Hamas of having broken the agreement first; Hamas speaks of a 'flagrant violation'. Many families, most of them already displaced several times since 2023, fled and on Thursday went back to check their homes, although gunfire could still be heard.",
-     "That day three Palestinians were killed in drone strikes, according to Gaza's Civil Defence, although it is unclear whether they are linked to the operation. According to the Health Ministry in [[Gaza|gaza]], which Hamas controls, more than 74,000 people have died in the war, 1,647 of them from Israeli attacks since the truce, by its count up to Monday 16. The operation comes after the EU and four countries (the UK, Australia, Canada and Italy) asked Israel to let aid in, and with the first rains of winter, which raise illness, according to the WHO. The UN had already warned that the risk of a return to war 'has never been higher'."
+     "On Saturday 21, an Israeli drone strike killed three people in a van that, according to witnesses, was about to hand out food to displaced people in Tal al-Hawa, in Gaza City; the army said it hit 'several militants' without giving further details. Another Palestinian was killed by Israeli fire near Jabalia. According to the Health Ministry in [[Gaza|gaza]], which Hamas controls, 74,736 people have died in the war, 1,671 of them since the truce. The EU and four countries had asked Israel to let aid in, and the WHO warns that the first rains of winter raise illness."
     ],
-    "nota_actualizacion": "On 19 November Israel declared its ground operation in central Gaza over; it says it aimed to dismantle a Hamas tunnel."
+    "nota_actualizacion": "On 21 November an Israeli drone strike killed three people in a van carrying food in Gaza City; the army says it hit militants."
    }
   },
   {
@@ -483,7 +487,7 @@
    "entradilla": "Moscú dice que atacó instalaciones militares; el primer ministro polaco habla de «provocación intencionada» y la OTAN condena la violación de su espacio aéreo.",
    "parrafos": [
     "En la madrugada del viernes 20 de noviembre, Rusia lanzó más de 110 misiles, 27 de ellos balísticos, y más de 400 drones contra varias ciudades ucranianas, según [[Zelenski|zelenski]], que lo calificó como uno de los mayores ataques desde la invasión de 2022. Murieron al menos ocho personas, seis en [[Kiev|kiev]] y dos en la región de Leópolis, y hubo apagones en la capital. Moscú asegura que atacó instalaciones militares. Era la respuesta anunciada por [[Vladímir Putin|putin]] al ataque ucraniano contra el [[puente de Crimea|crimea]] del 17 de noviembre, que según los medios hundió parte de la calzada: Putin dijo que tras esos ataques no habrá acuerdo.",
-    "Varsovia informó de que dos misiles rusos, uno de crucero Kh-101, y un posible dron cayeron en el sureste de Polonia, a menos de 50 kilómetros de la frontera, sin víctimas ni daños de consideración. El primer ministro, Donald Tusk, habló de «provocación intencionada» y anunció que pedirá apoyo a la [[OTAN|otan]]; la alianza condenó la violación del espacio aéreo. Ocurrió un día después de que Trump, Putin y Xi firmaran en Shenzhen una declaración que no menciona Ucrania, y de que la coalición de apoyo a Kiev se reuniera en Berlín con Zelenski y los enviados de EE. UU., [[Steve Witkoff|witkoff]] y Jared Kushner. Sigue sin acuerdo sobre el territorio ni sobre el alto el fuego."
+    "Varsovia informó de que dos misiles rusos, uno de crucero Kh-101, y un posible dron cayeron en el sureste de Polonia, a menos de 50 kilómetros de la frontera, sin víctimas ni daños de consideración, cerca de donde maniobraban soldados europeos. El primer ministro, Donald Tusk, habló de «provocación intencionada» y pedirá a la [[OTAN|otan]] más vigilancia aérea. El sábado 21, su secretario general, Mark Rutte, viajó a Varsovia y prometió defender «cada pulgada» del territorio polaco; el Consejo del Atlántico Norte lo examinará el lunes en Bruselas. El Instituto para el Estudio de la Guerra, un centro de análisis estadounidense, cree que Rusia disparó a propósito. Sigue sin acuerdo sobre el territorio ni sobre el alto el fuego."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -532,19 +536,22 @@
     "The Objective",
     "Unitel",
     "Vanguardia",
-    "Yahoo Noticias"
+    "Yahoo Noticias",
+    "El Universo",
+    "Diario Las Américas",
+    "Institute for the Study of War"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-21",
-   "nota_actualizacion": "El 20 de noviembre Rusia lanzó más de 110 misiles y 400 drones tras el ataque al puente de Crimea, y dos misiles rusos cayeron en Polonia.",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El 21 de noviembre el jefe de la OTAN, Mark Rutte, viajó a Varsovia y prometió defender «cada pulgada» de Polonia tras la caída de dos misiles rusos.",
    "en": {
     "titular": "Ukraine: Russia fires more than 110 missiles and 400 drones after the attack on the Crimean bridge; at least eight dead and two missiles fall in Poland",
     "entradilla": "Moscow says it hit military facilities; Poland's prime minister speaks of an 'intentional provocation' and NATO condemns the violation of its airspace.",
     "parrafos": [
      "In the early hours of Friday 20 November, Russia fired more than 110 missiles, 27 of them ballistic, and more than 400 drones at several Ukrainian cities, according to [[Zelensky|zelenski]], who called it one of the biggest attacks since the 2022 invasion. At least eight people died, six in [[Kyiv|kiev]] and two in the Lviv region, and there were power cuts in the capital. Moscow says it hit military facilities. It was the response announced by [[Vladimir Putin|putin]] to the Ukrainian attack on the [[Crimean Bridge|crimea]] on 17 November, which according to the media sank part of the roadway: Putin said there will be no deal after those attacks.",
-     "Warsaw reported that two Russian missiles, one of them a Kh-101 cruise missile, and a suspected drone fell in south-eastern Poland, less than 50 kilometres from the border, with no casualties or significant damage. Prime Minister Donald Tusk spoke of an 'intentional provocation' and announced he will ask [[NATO|otan]] for support; the alliance condemned the violation of its airspace. It happened a day after Trump, Putin and Xi signed in Shenzhen a declaration that does not mention Ukraine, and after the coalition backing Kyiv met in Berlin with Zelensky and the US envoys, [[Steve Witkoff|witkoff]] and Jared Kushner. There is still no deal on territory or on a ceasefire."
+     "Warsaw reported that two Russian missiles, one of them a Kh-101 cruise missile, and a suspected drone fell in south-eastern Poland, less than 50 kilometres from the border, with no casualties or significant damage, near where European soldiers were holding exercises. Prime Minister Donald Tusk spoke of an 'intentional provocation' and will ask [[NATO|otan]] for more air surveillance. On Saturday 21, its secretary general, Mark Rutte, travelled to Warsaw and promised to defend 'every inch' of Polish territory; the North Atlantic Council will examine the incident on Monday in Brussels. The Institute for the Study of War, a US think tank, believes Russia fired on purpose. There is still no deal on territory or on a ceasefire."
     ],
-    "nota_actualizacion": "On 20 November Russia fired more than 110 missiles and 400 drones after the attack on the Crimean bridge, and two Russian missiles fell in Poland."
+    "nota_actualizacion": "On 21 November NATO chief Mark Rutte travelled to Warsaw and promised to defend 'every inch' of Poland after two Russian missiles fell there."
    }
   },
   {
@@ -584,11 +591,11 @@
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Bezzecchi gana en Qatar y Márquez, segundo, aplaza el título a Portugal con 60 puntos de ventaja sobre Martín",
-   "entradilla": "Martín fue séptimo y retrasa la celebración: quedan 74 puntos en juego y Márquez puede cerrar el título este fin de semana en Portugal.",
+   "titular": "Márquez se cae en la sprint de Portugal y aplaza otra vez el título: su ventaja sobre Martín baja a 55 puntos",
+   "entradilla": "Bezzecchi ganó la sprint y la lluvia dejó a Márquez en el suelo; en la carrera larga del domingo saldrá segundo y Martín, séptimo.",
    "parrafos": [
-    "El domingo 8 de noviembre, [[Marco Bezzecchi|bezzecchi]], de Aprilia, ganó la carrera larga del Gran Premio de Qatar, en el circuito de Lusail, y logró su sexta victoria del año. [[Marc Márquez|marquez]], de Ducati, fue segundo y [[Jorge Martín|martin]], también de Aprilia, acabó séptimo. El día anterior, Márquez había ganado la [[carrera sprint|sprint]] y Martín había sido tercero. Según los medios, para proclamarse campeón en Qatar necesitaba ganar y que Martín no puntuara, y no se cumplió ninguna de las dos cosas, así que la celebración se aplaza.",
-    "Tras la carrera, Márquez suma 431 puntos y Martín, 371: la ventaja es de 60. En el [[MotoGP|motogp]] gana el título quien más puntos suma al final de la temporada, y quedan 74 en juego en las dos citas que faltan, a razón de 37 por fin de semana: 25 para el ganador de la carrera larga y 12 para el de la sprint. Esta semana, del 20 al 22 de noviembre, se corre en Portimão (Portugal): según los medios, Márquez puede proclamarse campeón ya en la sprint del sábado 21, si saca suficiente ventaja a Martín, o en la carrera larga del domingo 22; si no, se decidirá en la última cita, en Valencia."
+    "El sábado 21 de noviembre, en Portimão, [[Marco Bezzecchi|bezzecchi]], de Aprilia, ganó la [[carrera sprint|sprint]], la carrera corta del sábado, por delante de Raúl Fernández y Álex Márquez; Jorge Martín fue quinto. [[Marc Márquez|marquez]], de Ducati, que podía proclamarse campeón ese mismo día, se cayó en la curva 7 cuando faltaban dos vueltas y la lluvia arreciaba, y tuvo que abandonar. Antes, en la clasificación, Bezzecchi había logrado la pole con récord del circuito; Márquez saldrá segundo en la carrera larga del domingo y Martín, séptimo.",
+    "Con el cero de Márquez, su ventaja sobre [[Jorge Martín|martin]] bajó de 60 a 55 puntos: Márquez suma 431 y Martín, 376. En el [[MotoGP|motogp]] gana el título quien más puntos suma al acabar la temporada, y quedan 62 en juego: 25 en la carrera larga de Portugal, este domingo 22 a las 14:00, y 37 en la última cita, en Valencia. El título se decide en cuanto la ventaja supera los puntos que quedan por repartir; si Márquez no lo consigue este domingo, tendrá que esperar a Valencia."
    ],
    "busqueda_imagenes": "Marco Bezzecchi Qatar victoria Marc Márquez Lusail 2026",
    "fuentes": [
@@ -603,19 +610,23 @@
     "El Español",
     "Motorsport.com",
     "OKDiario",
-    "El Diario Alerta"
+    "El Diario Alerta",
+    "Motociclismo",
+    "MotoGP.com",
+    "Infobae",
+    "VAVEL España"
    ],
    "publicada": "2026-10-06",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El Gran Premio de Portugal, del 20 al 22 de noviembre, puede dar el título a Márquez ya en la sprint del sábado 21 o en la carrera del domingo 22.",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El 21 de noviembre Márquez se cayó en la sprint de Portugal y su ventaja sobre Martín bajó de 60 a 55 puntos; el título aún puede decidirse el domingo o en Valencia.",
    "en": {
-    "titular": "Bezzecchi wins in Qatar and second-placed Márquez puts off the title until Portugal, with a 60-point lead over Martín",
-    "entradilla": "Martín was seventh and delays the celebration: 74 points remain at stake and Márquez can seal the title this weekend in Portugal.",
+    "titular": "Márquez crashes in the Portugal sprint and puts off the title again: his lead over Martín drops to 55 points",
+    "entradilla": "Bezzecchi won the sprint and the rain put Márquez on the ground; in Sunday's long race he starts second and Martín seventh.",
     "parrafos": [
-     "On Sunday 8 November, [[Marco Bezzecchi|bezzecchi]], on an Aprilia, won the long race of the Qatar Grand Prix, at the Lusail circuit, taking his sixth victory of the year. [[Marc Márquez|marquez]], on a Ducati, was second and [[Jorge Martín|martin]], also on an Aprilia, finished seventh. The day before, Márquez had won the [[sprint race|sprint]] and Martín had been third. According to the media, to be crowned champion in Qatar he needed to win and for Martín to score no points, and neither of those things happened, so the celebration is put off.",
-     "After the race, Márquez has 431 points and Martín 371: a lead of 60. In [[MotoGP|motogp]] the title goes to whoever has most points at the end of the season, and 74 remain at stake in the two rounds left, at 37 per weekend: 25 for the winner of the long race and 12 for the winner of the sprint. This week, from 20 to 22 November, the race is at Portimão (Portugal): according to the media, Márquez can be crowned champion as early as the Saturday 21 sprint, if he gains enough on Martín, or in the long race on Sunday 22; if not, it will be settled in the final round, in Valencia."
+     "On Saturday 21 November, at Portimão, [[Marco Bezzecchi|bezzecchi]], on an Aprilia, won the [[sprint race|sprint]], the short Saturday race, ahead of Raúl Fernández and Álex Márquez; Jorge Martín was fifth. [[Marc Márquez|marquez]], on a Ducati, who could have been crowned champion that very day, crashed at turn 7 with two laps to go as the rain grew heavier, and had to retire. Earlier, in qualifying, Bezzecchi had taken pole with a new circuit record; Márquez will start second in Sunday's long race and Martín seventh.",
+     "With Márquez scoring zero, his lead over [[Jorge Martín|martin]] fell from 60 to 55 points: Márquez has 431 and Martín 376. In [[MotoGP|motogp]] the title goes to whoever has most points at the end of the season, and 62 remain at stake: 25 in the long race in Portugal, this Sunday 22 at 14:00, and 37 in the last round, in Valencia. The title is decided as soon as the lead exceeds the points still to be awarded; if Márquez does not manage it this Sunday, he will have to wait for Valencia."
     ],
-    "nota_actualizacion": "The Portuguese Grand Prix, on 20 to 22 November, can give Márquez the title as early as the Saturday 21 sprint or in the Sunday 22 race."
+    "nota_actualizacion": "On 21 November Márquez crashed in the Portugal sprint and his lead over Martín fell from 60 to 55 points; the title can still be decided on Sunday or in Valencia."
    }
   },
   {
@@ -895,7 +906,7 @@
    "titular": "Sánchez y Feijóo chocan por vivienda, corrupción y Ceuta en el único cara a cara de la campaña, y cada partido se atribuye la victoria",
    "entradilla": "El debate, moderado por María Casado, tuvo cinco bloques; el PSOE dijo que ganó Sánchez y el PP se declaró «muy satisfecho».",
    "parrafos": [
-    "El viernes 13 los partidos abrieron la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para tener mayoría absoluta. La víspera se publicó el macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas: estima que el PSOE gana con el 33,3 % de los votos, unos ocho puntos por delante del PP, y que Vox llega al 18,4 %. La última encuesta de 40dB para El País y la Cadena SER, del 9 de noviembre, da el 31,9 % al PP, el 29,9 % al PSOE y el 18 % a Vox.",
+    "El viernes 13 los partidos abrieron la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para la mayoría absoluta. El macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas, estimó que el PSOE ganaba con el 33,3 % de los votos, unos ocho puntos por delante del PP. Pero la encuesta de seguimiento de 40dB para El País y la Cadena SER, hecha del 17 al 21 de noviembre, da el 31,9 % al PP, el 31,6 % al PSOE y el 16,9 % a Vox: una diferencia de solo tres décimas.",
     "El jueves 19, a las 22:00, [[Pedro Sánchez|sanchez]] y [[Alberto Núñez Feijóo|feijoo]] debatieron cara a cara, con cinco bloques: vivienda, economía e impuestos, política social, corrupción y democracia, y migración y política exterior. Según los medios, chocaron por la vivienda, por la corrupción, donde Sánchez pidió perdón por los casos que han afectado a su entorno, por la crisis de [[Ceuta|ceuta]] y por los accidentes de tren de [[Adamuz|adamuz]] y Urda. Después, el PSOE dijo que había ganado Sánchez y el PP se declaró «muy satisfecho». Una encuesta es una foto aproximada de un momento, no un resultado: aún se espera otro debate con los principales partidos hacia el 26."
    ],
    "busqueda_imagenes": "campaña electoral 29N encuestas CIS 40dB",
@@ -914,19 +925,20 @@
     "101TV",
     "Canal 4 Diario",
     "El Boletín",
-    "OKDiario"
+    "OKDiario",
+    "40dB (El País / Cadena SER)"
    ],
    "publicada": "2026-11-13",
-   "actualizada": "2026-11-20",
-   "nota_actualizacion": "El 19 de noviembre Sánchez y Feijóo debatieron cara a cara; el PSOE dijo que ganó Sánchez y el PP se declaró «muy satisfecho».",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El 21 de noviembre la encuesta de seguimiento de 40dB dio al PP el 31,9 % y al PSOE el 31,6 %, una diferencia de tres décimas.",
    "en": {
     "titular": "Sánchez and Feijóo clash over housing, corruption and Ceuta in the campaign's only head-to-head, and each party claims victory",
     "entradilla": "The debate, moderated by María Casado, had five blocks; the PSOE said Sánchez won and the PP declared itself 'very satisfied'.",
     "parrafos": [
-     "On Friday 13 the parties opened the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. The day before, the [[CIS|cis]], the public sociological research body, published its large poll, with more than 45,000 interviews: it estimates that the PSOE wins with 33.3% of the vote, about eight points ahead of the PP, and that Vox reaches 18.4%. The latest 40dB poll for El País and the Cadena SER, from 9 November, gives 31.9% to the PP, 29.9% to the PSOE and 18% to Vox.",
+     "On Friday 13 the parties opened the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. The [[CIS|cis]], the public sociological research body, published a large poll with more than 45,000 interviews, estimating that the PSOE would win with 33.3% of the vote, about eight points ahead of the PP. But the tracking poll by 40dB for El País and the Cadena SER, carried out from 17 to 21 November, gives 31.9% to the PP, 31.6% to the PSOE and 16.9% to Vox: a gap of only three tenths of a point.",
      "On Thursday 19, at 22:00, [[Pedro Sánchez|sanchez]] and [[Alberto Núñez Feijóo|feijoo]] debated head-to-head, in five blocks: housing, economy and taxes, social policy, corruption and democracy, and migration and foreign policy. According to the media, they clashed over housing, over corruption, where Sánchez apologised for the cases that have affected his circle, over the [[Ceuta|ceuta]] crisis and over the train accidents at [[Adamuz|adamuz]] and Urda. Afterwards, the PSOE said Sánchez had won and the PP declared itself 'very satisfied'. A poll is a rough snapshot of one moment, not a result: another debate with the main parties is still expected around the 26th."
     ],
-    "nota_actualizacion": "On 19 November Sánchez and Feijóo debated head-to-head; the PSOE said Sánchez won and the PP declared itself 'very satisfied'."
+    "nota_actualizacion": "On 21 November the 40dB tracking poll gave the PP 31.9% and the PSOE 31.6%, a gap of three tenths of a point."
    }
   },
   {
@@ -971,10 +983,10 @@
    "id": "petroleo-brent-cae-esperanza-acuerdo-eeuu-iran",
    "seccion": "eco",
    "dibujo": "tanker",
-   "titular": "El petróleo Brent cae por debajo de los 92 dólares pese a los nuevos choques entre EE. UU. e Irán, y acumula un descenso del 20 % en un mes",
-   "entradilla": "La Agencia Internacional de la Energía prevé más oferta que demanda a final de año, lo que frena el precio; Ormuz sigue sin abrirse.",
+   "titular": "El Brent cierra la semana en 92,57 dólares, tras tres semanas seguidas de caídas, antes de los nuevos ataques a petroleros en Ormuz",
+   "entradilla": "La Agencia Internacional de la Energía prevé más oferta que demanda a final de año; Ormuz sigue sin abrirse y el sábado hubo ataques a petroleros.",
    "parrafos": [
-    "El Brent, el petróleo de referencia en Europa, cerró el miércoles 18 de noviembre cerca de 92 dólares por barril (entre 91,65 y 91,95, según la fuente), entre un 1,3 % y un 1,6 % menos, en plena escalada de choques entre EE. UU. e [[Irán|iran]]. Acumula una caída de cerca del 20 % en el último mes: el jueves 12 había subido un 3,3 % hasta 95,82 dólares después de que Trump dijera que EE. UU. «no necesita un acuerdo» con Irán. Frenan la subida las previsiones de la Agencia Internacional de la Energía, que espera más oferta que demanda de crudo en el último trimestre del año.",
+    "El Brent, el petróleo de referencia en Europa, cerró el viernes 20 de noviembre en 92,57 dólares por barril, un 0,64 % más, pero suma tres semanas seguidas de caídas, con el mercado atento a las mayores exportaciones de Oriente Medio y a un posible exceso de oferta. El jueves 12 había subido un 3,3 % hasta 95,82 dólares después de que Trump dijera que EE. UU. «no necesita un acuerdo» con [[Irán|iran]]. Frenan la subida las previsiones de la Agencia Internacional de la Energía, que espera más oferta que demanda de crudo en el último trimestre del año.",
     "El [[petróleo|petroleo]] importa a una familia porque de él salen la gasolina y el gasóleo, y su precio influye en el transporte y en los precios de casi todo. Cuando baja el crudo, con el tiempo suele abaratarse también el combustible, aunque el precio en el surtidor tarda en reaccionar, y cuando sube ocurre lo contrario. Y no hay acuerdo: el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del crudo mundial, sigue cerrado casi por completo y Estados Unidos mantiene su bloqueo naval a Irán, así que el precio puede seguir moviéndose con cada noticia."
    ],
    "busqueda_imagenes": "precio petróleo Brent barril",
@@ -997,16 +1009,16 @@
     "FM Luzu"
    ],
    "publicada": "2026-11-10",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El Brent cerró el 18 de noviembre cerca de 92 dólares, entre un 1,3 % y un 1,6 % menos, pese a los nuevos choques entre EE. UU. e Irán.",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El Brent cerró el 20 de noviembre en 92,57 dólares, un 0,64 % más, y suma tres semanas de caídas; el 21 hubo ataques a petroleros cerca de Ormuz.",
    "en": {
-    "titular": "Brent crude falls below 92 dollars despite fresh clashes between the US and Iran, and is down 20% in a month",
-    "entradilla": "The International Energy Agency expects more supply than demand by the end of the year, which is holding the price back; Hormuz is still not open.",
+    "titular": "Brent ends the week at 92.57 dollars, after three straight weeks of falls, before the new tanker attacks in Hormuz",
+    "entradilla": "The International Energy Agency expects more supply than demand by year-end; Hormuz is still not open and on Saturday tankers were attacked.",
     "parrafos": [
-     "Brent, the benchmark oil in Europe, closed on Wednesday 18 November at about 92 dollars a barrel (between 91.65 and 91.95, depending on the source), between 1.3% and 1.6% lower, amid a flare-up of clashes between the US and [[Iran|iran]]. It is down about 20% over the past month: on Thursday 12 it had risen 3.3% to 95.82 dollars after Trump said the US 'does not need a deal' with Iran. The rise is held back by forecasts from the International Energy Agency, which expects more crude supply than demand in the last quarter of the year.",
+     "Brent, the benchmark oil in Europe, closed on Friday 20 November at 92.57 dollars a barrel, up 0.64%, but has now fallen for three weeks in a row, with the market focused on higher Middle East exports and a possible glut. On Thursday 12 it had risen 3.3% to 95.82 dollars after Trump said the US 'does not need a deal' with [[Iran|iran]]. What holds the rise back are the forecasts of the International Energy Agency, which expects more supply than demand for crude in the last quarter of the year.",
      "[[Oil|petroleo]] matters to a family because petrol and diesel are made from it, and its price affects transport and the cost of almost everything. When crude falls, fuel usually gets cheaper too in time, although the price at the pump is slow to react, and when it rises the opposite happens. And there is no deal: the [[Strait of Hormuz|ormuz]], through which a fifth of the world's crude passes, is still almost completely closed and the United States keeps its naval blockade on Iran, so the price can keep moving with every piece of news."
     ],
-    "nota_actualizacion": "Brent closed on 18 November at about 92 dollars, between 1.3% and 1.6% lower, despite fresh clashes between the US and Iran."
+    "nota_actualizacion": "Brent closed on 20 November at 92.57 dollars, up 0.64%, after three weeks of falls; on the 21st tankers were attacked near Hormuz."
    }
   },
   {
@@ -1044,11 +1056,11 @@
    "id": "cop31-antalya-cumbre-clima-financiacion",
    "seccion": "int",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-b\" cx=\"52\" cy=\"46\" r=\"32\"/><path class=\"d-g\" d=\"M34 36 Q42 26 54 30 Q60 36 52 42 Q44 46 40 54 Q32 50 34 36 Z\"/><path class=\"d-g\" d=\"M60 54 Q70 48 76 56 Q74 68 64 72 Q58 64 60 54 Z\"/><circle class=\"d-l\" cx=\"52\" cy=\"46\" r=\"32\"/><rect class=\"d-p\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><rect class=\"d-a\" x=\"95\" y=\"32\" width=\"4\" height=\"34\"/><circle class=\"d-a\" cx=\"97\" cy=\"68\" r=\"8\"/><rect class=\"d-l\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><circle class=\"d-l\" cx=\"97\" cy=\"68\" r=\"8\"/></svg>",
-   "titular": "COP31: la cumbre entra en prórroga sin acuerdo, con un borrador que no menciona los combustibles fósiles y la financiación atascada",
-   "entradilla": "El cierre previsto para el viernes 20 se agotó y la negociación continúa el sábado entre 198 países; organizaciones ecologistas critican el texto.",
+   "titular": "COP31: tras dos días de prórroga, la presidencia presenta un texto final sin cifras para la financiación y la plenaria decide este domingo",
+   "entradilla": "Kurum dice que el texto resuelve las dudas sobre los combustibles fósiles; los países ricos se resistían a fijar nuevas cifras.",
    "parrafos": [
-    "La cumbre de jefes de Estado y de Gobierno de la [[COP31|cop31]], la conferencia de la ONU sobre el [[cambio climático|cambioclimatico]] que se celebra en [[Antalya|antalya]], terminó el 12 de noviembre sin decisiones formales ni dinero nuevo, según los medios. Desde el viernes 13, la negociación está en manos de los equipos técnicos, que tienen hasta el 20 de noviembre para acordar el texto final. La preside el turco Murat Kurum y el australiano Chris Bowen dirige las negociaciones. El dinero sigue siendo el gran asunto: los países más vulnerables piden que las promesas de financiación se conviertan en ayuda real para protegerse de sequías, inundaciones y otros efectos.",
-    "El lunes 16, los negociadores publicaron el primer borrador, un menú de opciones, con una que proponía «transitar de inmediato» fuera de los [[combustibles fósiles|fosiles]], algo ya aceptado en la COP28 de 2023; la Unión Europea lo llamó «lista de la compra». El jueves 19, la copresidencia publicó un segundo borrador que, según las agencias, elimina toda referencia a abandonar el petróleo, el gas y el carbón y reduce los compromisos de financiación. El viernes 20, día previsto del cierre, la conferencia entró en prórroga sin acuerdo; Bowen dijo que trabajará «el tiempo que haga falta». Los países que querían más ambición deben decidir si aceptan el texto en el [[Acuerdo de París|acuerdoparis]]."
+    "La [[COP31|cop31]], la conferencia de la ONU sobre el [[cambio climático|cambioclimatico]] que se celebra en [[Antalya|antalya]] (Turquía), reúne a casi 200 países. La cumbre de jefes de Estado y de Gobierno terminó el 12 de noviembre sin decisiones formales ni dinero nuevo, según los medios, y desde entonces negocian los equipos técnicos, bajo la presidencia del turco Murat Kurum y con el australiano Chris Bowen al frente de las negociaciones. El dinero sigue siendo el gran asunto: los países más vulnerables piden que las promesas se conviertan en ayuda real contra sequías e inundaciones, y los ricos se resisten a nuevos compromisos con cifras.",
+    "El lunes 16 se publicó un primer borrador con una opción de «transitar de inmediato» fuera de los [[combustibles fósiles|fosiles]], algo ya aceptado en la COP28; el jueves 19, el segundo, según las agencias, eliminaba toda referencia a abandonar petróleo, gas y carbón. El domingo 22 la presidencia presentó otro texto: recuerda la obligación de los países ricos de aportar dinero, pero sin cifra para triplicar la ayuda a la adaptación antes de 2035, y crea una hoja de ruta hasta la COP32, en Adís Abeba, para buscar fuentes públicas. Kurum dice que las dudas sobre los fósiles están resueltas; la plenaria debía aprobarlo a las 7:00 (hora española) y aún no hay resultado."
    ],
    "busqueda_imagenes": "COP31 Antalya cumbre clima 2026",
    "fuentes": [
@@ -1066,19 +1078,21 @@
     "Portafolio",
     "elDiario.es",
     "Moncloa.com",
-    "Infobae"
+    "Infobae",
+    "Al-Monitor",
+    "Democrata"
    ],
    "publicada": "2026-11-09",
-   "actualizada": "2026-11-21",
-   "nota_actualizacion": "El 20 de noviembre, día previsto del cierre, la cumbre entró en prórroga sin acuerdo y la negociación continúa el sábado 21.",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El 22 de noviembre la presidencia presentó un texto final sin cifras para la financiación de la adaptación; la plenaria debía aprobarlo esa mañana y aún no hay resultado.",
    "en": {
-    "titular": "COP31: the summit goes into extra time without a deal, with a draft that does not mention fossil fuels and finance stuck",
-    "entradilla": "The closing planned for Friday 20 ran out and talks among 198 countries continue on Saturday; environmental groups criticise the text.",
+    "titular": "COP31: after two days of extra time, the presidency tables a final text with no figures for finance and the plenary decides this Sunday",
+    "entradilla": "Kurum says the text settles the doubts about fossil fuels; rich countries were reluctant to commit to new figures.",
     "parrafos": [
-     "The summit of heads of state and government at [[COP31|cop31]], the UN conference on [[climate change|cambioclimatico]] being held in [[Antalya|antalya]], ended on 12 November with no formal decisions and no new money, according to the media. Since Friday 13, the negotiation has been in the hands of the technical teams, who have until 20 November to agree the final text. It is chaired by Turkey's Murat Kurum and Australia's Chris Bowen leads the negotiations. Money remains the big issue: the most vulnerable countries ask for funding promises to be turned into real help to protect themselves from droughts, floods and other effects.",
-     "On Monday 16, negotiators published the first draft, a menu of options, including one proposing to 'transition immediately' away from [[fossil fuels|fosiles]], something already accepted at COP28 in 2023; the European Union called it a 'shopping list'. On Thursday 19, the co-presidency published a second draft which, according to the agencies, removes any reference to moving away from oil, gas and coal and reduces the finance commitments. On Friday 20, the day planned for the close, the conference went into extra time without a deal; Bowen said he will work 'as long as it takes'. Countries that wanted more ambition must now decide whether to accept the text in the [[Paris Agreement|acuerdoparis]]."
+     "[[COP31|cop31]], the UN conference on [[climate change|cambioclimatico]] being held in [[Antalya|antalya]] (Turkey), brings together almost 200 countries. The summit of heads of state and government ended on 12 November with no formal decisions and no new money, according to the media, and since then the technical teams have been negotiating, under the presidency of Turkey's Murat Kurum and with Australia's Chris Bowen leading the negotiations. Money remains the big issue: the most vulnerable countries ask for promises to be turned into real help against droughts and floods, and rich countries are reluctant to take on new commitments with figures.",
+     "On Monday 16 a first draft was published with an option to 'transition immediately' away from [[fossil fuels|fosiles]], something already accepted at COP28; on Thursday 19, the second, according to the agencies, removed any reference to moving away from oil, gas and coal. On Sunday 22 the presidency tabled another text: it recalls the obligation of rich countries to provide money, but with no figure for tripling adaptation aid before 2035, and creates a roadmap to COP32, in Addis Ababa, to look for public sources of funding. Kurum says the doubts about fossil fuels are settled; the plenary was due to approve it at 07:00 Spanish time and there is no result yet."
     ],
-    "nota_actualizacion": "On 20 November, the day planned for the close, the summit went into extra time without a deal and talks continue on Saturday 21."
+    "nota_actualizacion": "On 22 November the presidency tabled a final text with no figures for adaptation finance; the plenary was due to approve it that morning and there is no result yet."
    }
   },
   {
@@ -1182,11 +1196,11 @@
    "id": "atp-finals-turin-2026-alcaraz-jodar-sin-sinner",
    "seccion": "dep",
    "dibujo": "trophy",
-   "titular": "ATP Finals: Alcaraz, sin lesión muscular según la resonancia, se medirá a Shelton en semifinales el sábado",
-   "entradilla": "La resonancia descartó daños en el isquiotibial izquierdo; Jódar perdió ante Shelton (7-6 y 7-5) y el estadounidense pasa a semifinales.",
+   "titular": "ATP Finals: Alcaraz remonta a Shelton en las semifinales y jugará la final contra Zverev este domingo en Turín",
+   "entradilla": "Alcaraz ganó 3-6, 6-3 y 7-6 con el muslo vendado; Zverev venció a Medvedev y aspira a su tercer título.",
    "parrafos": [
-    "Las [[ATP Finals|atpfinals]], el torneo que reúne a los ocho mejores tenistas de la temporada, se juegan del 15 al 22 de noviembre en Turín. Pasan a semifinales los dos primeros de cada grupo. [[Carlos Alcaraz|alcaraz]] comparte el suyo con Daniil Medvedev, Flavio Cobolli y Frances Tiafoe, y Rafa Jódar, debutante, con [[Alexander Zverev|zverev]], Ben Shelton y Arthur Fils; solo podrían verse en semifinales. Es la primera vez desde 2015 que dos españoles se clasifican directamente. El gran ausente es [[Jannik Sinner|sinner]], ganador de las dos últimas ediciones, que está lesionado.",
-    "El lunes 16, Alcaraz debutó con un 6-2, 6-2 sobre Tiafoe. El miércoles 18 ganó a Medvedev por 6-2 y 6-4 y aseguró su plaza en semifinales, aunque se resintió del isquiotibial izquierdo; la resonancia del jueves descartó una lesión muscular y seguirá en Turín. Este viernes juega su último partido de grupo, contra Flavio Cobolli. En el otro grupo, [[Ben Shelton|shelton]] ganó a Jódar por 7-6 (10-8) y 7-5 y, al vencer Zverev a Fils, se clasificó para semifinales: el sábado 21 se medirá a Alcaraz. La final es el domingo 22. Jódar, de 20 años, había perdido ante Fils tras ganar el primer set."
+    "Las [[ATP Finals|atpfinals]], el torneo que reúne a los ocho mejores tenistas de la temporada, se juegan hasta este domingo 22 en Turín. El sábado 21, en semifinales, [[Carlos Alcaraz|alcaraz]] ganó a [[Ben Shelton|shelton]] por 3-6, 6-3 y 7-6 (7-1 en el desempate), tras perder el primer set y con el muslo izquierdo vendado y la rodilla derecha con cinta, según las agencias. Llega a la final con 13 victorias seguidas. Es la primera vez desde 2015 que dos españoles se clasificaron directamente: el otro, Rafa Jódar, cayó en la fase de grupos.",
+    "En la otra semifinal, [[Alexander Zverev|zverev]] venció a Daniil Medvedev por 7-6 (7-0) y 6-4. La final es el domingo 22 a las 18:00 en el Inalpi Arena: Alcaraz lidera los duelos entre ambos por 7-6, pero Zverev ganó los dos que jugaron en Turín. Si Alcaraz gana, sería el tercer español campeón del torneo, tras Manuel Orantes (1976) y Álex Corretja (1998), y lograría su primer título aquí. El gran ausente es [[Jannik Sinner|sinner]], ganador de las dos últimas ediciones, que está lesionado."
    ],
    "busqueda_imagenes": "ATP Finals Turín Alcaraz Jódar 2026",
    "fuentes": [
@@ -1207,19 +1221,22 @@
     "Vanguardia",
     "Punto de Break",
     "Herqles",
-    "Hoy Diario"
+    "Hoy Diario",
+    "Yahoo Sports",
+    "AP (KSAT)",
+    "ClaroSports"
    ],
    "publicada": "2026-11-11",
-   "actualizada": "2026-11-20",
-   "nota_actualizacion": "El 19 de noviembre la resonancia descartó una lesión muscular de Alcaraz, que se medirá a Shelton en semifinales el sábado 21.",
+   "actualizada": "2026-11-22",
+   "nota_actualizacion": "El 21 de noviembre Alcaraz ganó a Shelton en semifinales y jugará la final contra Zverev el domingo 22.",
    "en": {
-    "titular": "ATP Finals: Alcaraz, with no muscle injury according to his scan, will face Shelton in the semi-finals on Saturday",
-    "entradilla": "The scan ruled out damage to his left hamstring; Jódar lost to Shelton (7-6 and 7-5) and the American goes through to the semi-finals.",
+    "titular": "ATP Finals: Alcaraz comes back to beat Shelton in the semi-finals and will play Zverev in Sunday's final in Turin",
+    "entradilla": "Alcaraz won 3-6, 6-3, 7-6 with his thigh strapped; Zverev beat Medvedev and is going for his third title.",
     "parrafos": [
-     "The [[ATP Finals|atpfinals]], the tournament that brings together the eight best players of the season, are played from 15 to 22 November in Turin. The top two in each group go through to the semi-finals. [[Carlos Alcaraz|alcaraz]] shares his group with Daniil Medvedev, Flavio Cobolli and Frances Tiafoe, and Rafa Jódar, a debutant, with [[Alexander Zverev|zverev]], Ben Shelton and Arthur Fils; they could only meet in the semi-finals. It is the first time since 2015 that two Spaniards have qualified directly. The big absentee is [[Jannik Sinner|sinner]], winner of the last two editions, who is injured.",
-     "On Monday 16, Alcaraz made his debut with a 6-2, 6-2 win over Tiafoe. On Wednesday 18 he beat Medvedev 6-2, 6-4 and secured his place in the semi-finals, although he felt his left hamstring; Thursday's scan ruled out a muscle injury and he will stay in Turin. This Friday he plays his last group match, against Flavio Cobolli. In the other group, [[Ben Shelton|shelton]] beat Jódar 7-6 (10-8), 7-5 and, with Zverev beating Fils, qualified for the semi-finals: on Saturday 21 he will face Alcaraz. The final is on Sunday 22. Jódar, 20, had lost to Fils after winning the first set."
+     "The [[ATP Finals|atpfinals]], the tournament that brings together the eight best players of the season, run until this Sunday 22 in Turin. On Saturday 21, in the semi-finals, [[Carlos Alcaraz|alcaraz]] beat [[Ben Shelton|shelton]] 3-6, 6-3, 7-6 (7-1 in the tie-break), after losing the first set and with his left thigh strapped and his right knee taped, according to the agencies. He reaches the final on 13 straight wins. It is the first time since 2015 that two Spaniards qualified directly: the other, Rafa Jódar, went out in the group stage.",
+     "In the other semi-final, [[Alexander Zverev|zverev]] beat Daniil Medvedev 7-6 (7-0), 6-4. The final is on Sunday 22 at 18:00 at the Inalpi Arena: Alcaraz leads their head-to-head 7-6, but Zverev won both of their matches in Turin. If Alcaraz wins, he would be the third Spaniard to take the title, after Manuel Orantes (1976) and Álex Corretja (1998), and would win his first title here. The big absentee is [[Jannik Sinner|sinner]], winner of the last two editions, who is injured."
     ],
-    "nota_actualizacion": "On 19 November a scan ruled out a muscle injury for Alcaraz, who will face Shelton in the semi-finals on Saturday 21."
+    "nota_actualizacion": "On 21 November Alcaraz beat Shelton in the semi-finals and will play Zverev in the final on Sunday 22."
    }
   },
   {
@@ -4209,9 +4226,9 @@
    }
   }
  },
- "edicion_en": "Saturday 21 November 2026",
+ "edicion_en": "Sunday 22 November 2026",
  "destacada": {
-  "id": "ucrania-ataques-mientras-se-habla-de-paz",
-  "fecha": "2026-11-21"
+  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
+  "fecha": "2026-11-22"
  }
 }
