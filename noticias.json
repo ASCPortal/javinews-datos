@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-22T07:00:00+01:00",
- "edicion": "Domingo 22 de noviembre de 2026",
+ "actualizado": "2026-11-23T07:00:00+01:00",
+ "edicion": "Lunes 23 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -338,11 +338,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: al menos tres petroleros atacados cerca del estrecho e Irán promete romper el bloqueo de EE. UU., que llama «acto de guerra»",
-   "entradilla": "Según el centro británico UKMTO, dos petroleros fueron alcanzados por proyectiles; Irán dice que uno chocó con una mina. No hubo heridos.",
+   "titular": "Ormuz: tres petroleros alcanzados en dos días; Irán habla de minas y dice haber atacado bases de EE. UU. en Baréin",
+   "entradilla": "El centro británico UKMTO no informa de muertos; Baréin acusa a Irán de un incendio en una instalación industrial.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Tras los choques del 17 y 18 de noviembre entre EE. UU. e Irán, la tensión pasó al mar. El sábado 21, el centro británico UKMTO informó de que dos petroleros fueron alcanzados por proyectiles al salir del golfo Pérsico; los medios hablan de al menos tres buques atacados, sin heridos, y la Armada iraní dijo que uno chocó con una mina y se incendió. Irán atacó también una instalación industrial en Baréin. Su viceministro de Exteriores, Kazem Garibabadi, calificó el [[bloqueo naval|bloqueo]] de Estados Unidos de «acto de guerra» y prometió «todas las medidas necesarias» para romperlo."
+    "Tras los choques del 17 y 18 de noviembre entre EE. UU. e Irán, la tensión pasó al mar. El centro británico UKMTO informó de tres petroleros alcanzados en dos días cerca de la costa de Omán, sin muertos. Irán da otra versión: su Armada dice que dos se incendiaron al chocar con minas tras entrar, pese a los avisos, en aguas restringidas. El sábado 21, [[Baréin|bahrein]] acusó a Irán de atacar una instalación industrial en la isla de Sitra, que se incendió, y la agencia Fars, cercana a la [[Guardia Revolucionaria|guardiarev]] iraní, dijo que había atacado dos bases estadounidenses. Su viceministro de Exteriores, Kazem Garibabadi, calificó el [[bloqueo naval|bloqueo]] de EE. UU. de «acto de guerra»."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -401,30 +401,33 @@
     "Bloomberg",
     "Diario Panorama",
     "n.com.do",
-    "Milenio"
+    "Milenio",
+    "Noticias de Navarra",
+    "Estrella Digital",
+    "N+"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-22",
-   "nota_actualizacion": "El 21 de noviembre fueron atacados al menos tres petroleros cerca de Ormuz e Irán prometió «todas las medidas necesarias» para romper el bloqueo de EE. UU.",
+   "actualizada": "2026-11-23",
+   "nota_actualizacion": "El 22 de noviembre Irán dijo que dos petroleros se incendiaron al chocar con minas y que atacó bases de EE. UU. en Baréin; UKMTO cuenta tres petroleros alcanzados en dos días.",
    "en": {
-    "titular": "Hormuz: at least three tankers attacked near the strait and Iran vows to break the US blockade, which it calls an 'act of war'",
-    "entradilla": "According to Britain's UKMTO centre, two tankers were hit by projectiles; Iran says one struck a mine. No injuries were reported.",
+    "titular": "Hormuz: three tankers hit in two days; Iran speaks of mines and says it attacked US bases in Bahrain",
+    "entradilla": "Britain's UKMTO centre reports no deaths; Bahrain accuses Iran of starting a fire at an industrial facility.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "After the clashes of 17 and 18 November between the US and Iran, the tension moved to the sea. On Saturday 21, Britain's UKMTO centre reported that two tankers were hit by projectiles as they left the Persian Gulf; the media speak of at least three ships attacked, with no injuries, and the Iranian Navy said one hit a mine and caught fire. Iran also attacked an industrial facility in Bahrain. Its deputy foreign minister, Kazem Gharibabadi, called the US [[naval blockade|bloqueo]] an 'act of war' and promised 'all necessary measures' to break it."
+     "After the clashes of 17 and 18 November between the US and Iran, the tension moved to the sea. Britain's UKMTO centre reported three tankers hit in two days off the coast of Oman, with no deaths. Iran gives another version: its Navy says two caught fire after hitting mines, having entered restricted waters despite warnings. On Saturday 21, [[Bahrain|bahrein]] accused Iran of attacking an industrial facility on the island of Sitra, which caught fire, and the Fars agency, close to Iran's [[Revolutionary Guard|guardiarev]], said it had attacked two US bases. Its deputy foreign minister, Kazem Gharibabadi, called the US [[naval blockade|bloqueo]] an 'act of war'."
     ],
-    "nota_actualizacion": "On 21 November at least three tankers were attacked near Hormuz and Iran promised 'all necessary measures' to break the US blockade."
+    "nota_actualizacion": "On 22 November Iran said two tankers caught fire after hitting mines and that it attacked US bases in Bahrain; UKMTO counts three tankers hit in two days."
    }
   },
   {
    "id": "gaza-un-alto-el-fuego-que-no-termina-de-llegar",
    "seccion": "int",
    "dibujo": "aid",
-   "titular": "Gaza: un ataque israelí mata a tres personas en una furgoneta con comida, dos días después de que Israel diera por terminada su operación terrestre",
-   "entradilla": "El ejército dice que atacó a «varios milicianos»; testigos cuentan que el vehículo iba a repartir comida a niños. Sanidad de Gaza cuenta 1.671 muertos desde la tregua.",
+   "titular": "Gaza: un ataque israelí mata a tres personas en una furgoneta que, según testigos, repartía comida; el ejército dice que eran milicianos",
+   "entradilla": "Sanidad de Gaza, controlada por Hamás, cuenta 1.675 muertos desde la tregua; al menos dos personas más murieron el domingo cerca de Jan Yunis.",
    "parrafos": [
     "El miércoles 18 de noviembre, el ejército israelí inició una operación terrestre en el centro de Gaza, al oeste de la [[Línea Amarilla|lineaamarilla]], una zona de la que se retiró con el [[alto el fuego|altoelfuego]] de octubre de 2025. El jueves 19 anunció que la había terminado. Según los medios, es la primera acción de este tipo desde la tregua. Israel dice que buscaba desmantelar un túnel de [[Hamás|hamas]] que amenazaba a sus soldados y acusa a Hamás de haber violado antes el acuerdo; Hamás habla de «violación flagrante». Muchas familias, la mayoría ya desplazadas varias veces desde 2023, huyeron y el jueves volvieron a revisar sus casas, aunque seguían oyéndose disparos.",
-    "El sábado 21, un ataque con dron israelí mató a tres personas en una furgoneta que, según testigos, iba a repartir comida a desplazados en Tal al-Hawa, en la ciudad de Gaza; el ejército dijo que atacó a «varios milicianos» sin dar más detalles. Otro palestino murió por disparos israelíes cerca de Jabalia. Según el Ministerio de Sanidad de [[Gaza|gaza]], que controla Hamás, en la guerra han muerto 74.736 personas, 1.671 de ellas desde la tregua. La UE y cuatro países habían pedido a Israel que deje entrar ayuda, y la OMS avisa de que las primeras lluvias del invierno aumentan las enfermedades."
+    "El sábado 21, un ataque israelí mató a tres personas en una furgoneta en Tal al-Hawa, en la ciudad de Gaza; según testigos y fuentes médicas, iba a repartir comida a familias desplazadas. El ejército israelí afirma que eran milicianos de la [[Yihad Islámica|yihadislamica]], uno de ellos jefe de compañía, que se hacían pasar por trabajadores humanitarios: las dos versiones no coinciden. El domingo 22, otro ataque al oeste de Jan Yunis mató al menos a dos personas, según fuentes médicas. El Ministerio de Sanidad de [[Gaza|gaza]], que controla Hamás, cuenta 1.675 muertos y 6.095 heridos desde la tregua. La OMS avisa de que las lluvias del invierno aumentan las enfermedades."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -464,30 +467,33 @@
     "CP24 (AFP)",
     "Al Arabiya",
     "The New Arab",
-    "Reuters"
+    "Reuters",
+    "Hoy Tamaulipas",
+    "Herqles",
+    "Enlace Judío (ejército israelí)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-22",
-   "nota_actualizacion": "El 21 de noviembre un ataque israelí con dron mató a tres personas en una furgoneta con comida en la ciudad de Gaza; el ejército dice que atacó a milicianos.",
+   "actualizada": "2026-11-23",
+   "nota_actualizacion": "El 22 de noviembre Sanidad de Gaza contó 1.675 muertos desde la tregua; Israel dice que los tres muertos de la furgoneta eran milicianos de la Yihad Islámica.",
    "en": {
-    "titular": "Gaza: Israeli strike kills three in a van carrying food, two days after Israel declared its ground operation over",
-    "entradilla": "The army says it hit 'several militants'; witnesses say the vehicle was about to hand out food to children. Gaza's Health Ministry counts 1,671 dead since the truce.",
+    "titular": "Gaza: Israeli strike kills three in a van that, according to witnesses, was delivering food; the army says they were militants",
+    "entradilla": "Gaza's Health Ministry, controlled by Hamas, counts 1,675 dead since the truce; at least two more people died on Sunday near Khan Younis.",
     "parrafos": [
      "On Wednesday 18 November, the Israeli army began a ground operation in central Gaza, west of the [[Yellow Line|lineaamarilla]], an area it withdrew from under the October 2025 [[ceasefire|altoelfuego]]. On Thursday 19 it announced it had finished. According to the media, it is the first action of this kind since the truce. Israel says it aimed to dismantle a [[Hamas|hamas]] tunnel that threatened its soldiers and accuses Hamas of having broken the agreement first; Hamas speaks of a 'flagrant violation'. Many families, most of them already displaced several times since 2023, fled and on Thursday went back to check their homes, although gunfire could still be heard.",
-     "On Saturday 21, an Israeli drone strike killed three people in a van that, according to witnesses, was about to hand out food to displaced people in Tal al-Hawa, in Gaza City; the army said it hit 'several militants' without giving further details. Another Palestinian was killed by Israeli fire near Jabalia. According to the Health Ministry in [[Gaza|gaza]], which Hamas controls, 74,736 people have died in the war, 1,671 of them since the truce. The EU and four countries had asked Israel to let aid in, and the WHO warns that the first rains of winter raise illness."
+     "On Saturday 21, an Israeli strike killed three people in a van in Tal al-Hawa, in Gaza City; according to witnesses and medical sources, it was on its way to hand out food to displaced families. The Israeli army says they were [[Islamic Jihad|yihadislamica]] militants, one of them a company commander, posing as humanitarian workers: the two accounts do not match. On Sunday 22, another strike west of Khan Younis killed at least two people, according to medical sources. The Health Ministry in [[Gaza|gaza]], which Hamas controls, counts 1,675 dead and 6,095 injured since the truce. The WHO warns that winter rains raise illness."
     ],
-    "nota_actualizacion": "On 21 November an Israeli drone strike killed three people in a van carrying food in Gaza City; the army says it hit militants."
+    "nota_actualizacion": "On 22 November Gaza's Health Ministry counted 1,675 dead since the truce; Israel says the three killed in the van were Islamic Jihad militants."
    }
   },
   {
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Rusia lanza más de 110 misiles y 400 drones tras el ataque al puente de Crimea; hay al menos ocho muertos y dos misiles caen en Polonia",
-   "entradilla": "Moscú dice que atacó instalaciones militares; el primer ministro polaco habla de «provocación intencionada» y la OTAN condena la violación de su espacio aéreo.",
+   "titular": "Ucrania: Rusia lanza más de 110 misiles y 400 drones tras el ataque al puente de Crimea; hay al menos ocho muertos y tres misiles rusos caen en Polonia",
+   "entradilla": "Moscú dice que atacó instalaciones militares; el primer ministro polaco habla de «provocación intencionada» y la OTAN se reúne hoy en Bruselas.",
    "parrafos": [
     "En la madrugada del viernes 20 de noviembre, Rusia lanzó más de 110 misiles, 27 de ellos balísticos, y más de 400 drones contra varias ciudades ucranianas, según [[Zelenski|zelenski]], que lo calificó como uno de los mayores ataques desde la invasión de 2022. Murieron al menos ocho personas, seis en [[Kiev|kiev]] y dos en la región de Leópolis, y hubo apagones en la capital. Moscú asegura que atacó instalaciones militares. Era la respuesta anunciada por [[Vladímir Putin|putin]] al ataque ucraniano contra el [[puente de Crimea|crimea]] del 17 de noviembre, que según los medios hundió parte de la calzada: Putin dijo que tras esos ataques no habrá acuerdo.",
-    "Varsovia informó de que dos misiles rusos, uno de crucero Kh-101, y un posible dron cayeron en el sureste de Polonia, a menos de 50 kilómetros de la frontera, sin víctimas ni daños de consideración, cerca de donde maniobraban soldados europeos. El primer ministro, Donald Tusk, habló de «provocación intencionada» y pedirá a la [[OTAN|otan]] más vigilancia aérea. El sábado 21, su secretario general, Mark Rutte, viajó a Varsovia y prometió defender «cada pulgada» del territorio polaco; el Consejo del Atlántico Norte lo examinará el lunes en Bruselas. El Instituto para el Estudio de la Guerra, un centro de análisis estadounidense, cree que Rusia disparó a propósito. Sigue sin acuerdo sobre el territorio ni sobre el alto el fuego."
+    "Varsovia informó de que tres objetos entraron en el espacio aéreo del sureste de Polonia, a menos de 50 kilómetros de la frontera, cerca de donde maniobraban soldados europeos. La fiscalía de Lublin los ha identificado como misiles de crucero rusos Kh-101: halló restos en tres lugares y no hubo víctimas ni daños de consideración. El primer ministro, Donald Tusk, habló de «provocación intencionada»; el sábado 21, el secretario general de la [[OTAN|otan]], Mark Rutte, prometió defender «cada pulgada» del territorio polaco, y este lunes 23 el Consejo del Atlántico Norte, el órgano de decisión de la alianza, examina el incidente en Bruselas. Sigue sin acuerdo sobre el territorio ni sobre el alto el fuego."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -539,19 +545,20 @@
     "Yahoo Noticias",
     "El Universo",
     "Diario Las Américas",
-    "Institute for the Study of War"
+    "Institute for the Study of War",
+    "Quartz"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-22",
-   "nota_actualizacion": "El 21 de noviembre el jefe de la OTAN, Mark Rutte, viajó a Varsovia y prometió defender «cada pulgada» de Polonia tras la caída de dos misiles rusos.",
+   "actualizada": "2026-11-23",
+   "nota_actualizacion": "El 22 de noviembre la fiscalía polaca identificó como misiles de crucero rusos los tres objetos caídos en Polonia; la OTAN los examina este lunes en Bruselas.",
    "en": {
-    "titular": "Ukraine: Russia fires more than 110 missiles and 400 drones after the attack on the Crimean bridge; at least eight dead and two missiles fall in Poland",
-    "entradilla": "Moscow says it hit military facilities; Poland's prime minister speaks of an 'intentional provocation' and NATO condemns the violation of its airspace.",
+    "titular": "Ukraine: Russia fires more than 110 missiles and 400 drones after the attack on the Crimean bridge; at least eight dead and three Russian missiles fall in Poland",
+    "entradilla": "Moscow says it hit military facilities; Poland's prime minister speaks of an 'intentional provocation' and NATO meets today in Brussels.",
     "parrafos": [
      "In the early hours of Friday 20 November, Russia fired more than 110 missiles, 27 of them ballistic, and more than 400 drones at several Ukrainian cities, according to [[Zelensky|zelenski]], who called it one of the biggest attacks since the 2022 invasion. At least eight people died, six in [[Kyiv|kiev]] and two in the Lviv region, and there were power cuts in the capital. Moscow says it hit military facilities. It was the response announced by [[Vladimir Putin|putin]] to the Ukrainian attack on the [[Crimean Bridge|crimea]] on 17 November, which according to the media sank part of the roadway: Putin said there will be no deal after those attacks.",
-     "Warsaw reported that two Russian missiles, one of them a Kh-101 cruise missile, and a suspected drone fell in south-eastern Poland, less than 50 kilometres from the border, with no casualties or significant damage, near where European soldiers were holding exercises. Prime Minister Donald Tusk spoke of an 'intentional provocation' and will ask [[NATO|otan]] for more air surveillance. On Saturday 21, its secretary general, Mark Rutte, travelled to Warsaw and promised to defend 'every inch' of Polish territory; the North Atlantic Council will examine the incident on Monday in Brussels. The Institute for the Study of War, a US think tank, believes Russia fired on purpose. There is still no deal on territory or on a ceasefire."
+     "Warsaw reported that three objects entered airspace in south-eastern Poland, less than 50 kilometres from the border, near where European soldiers were holding exercises. The Lublin prosecutor's office has identified them as Russian Kh-101 cruise missiles: it found remains in three places and there were no casualties or significant damage. Prime Minister Donald Tusk spoke of an 'intentional provocation'; on Saturday 21, the secretary general of [[NATO|otan]], Mark Rutte, promised to defend 'every inch' of Polish territory, and this Monday 23 the North Atlantic Council, the alliance's decision-making body, examines the incident in Brussels. There is still no deal on territory or on a ceasefire."
     ],
-    "nota_actualizacion": "On 21 November NATO chief Mark Rutte travelled to Warsaw and promised to defend 'every inch' of Poland after two Russian missiles fell there."
+    "nota_actualizacion": "On 22 November Polish prosecutors identified the three objects that fell in Poland as Russian cruise missiles; NATO examines the incident in Brussels on Monday."
    }
   },
   {
@@ -591,11 +598,11 @@
    "id": "marquez-gana-en-motegi-y-queda-a-dos-puntos-de-martin",
    "seccion": "dep",
    "dibujo": "helmet",
-   "titular": "Márquez se cae en la sprint de Portugal y aplaza otra vez el título: su ventaja sobre Martín baja a 55 puntos",
-   "entradilla": "Bezzecchi ganó la sprint y la lluvia dejó a Márquez en el suelo; en la carrera larga del domingo saldrá segundo y Martín, séptimo.",
+   "titular": "Marc Márquez se proclama campeón de MotoGP por octava vez al acabar octavo en Portugal, con una carrera aún por disputar",
+   "entradilla": "Aprilia copó el podio con Bezzecchi, Martín y Raúl Fernández; Márquez, con Ducati, iguala los ocho títulos de Agostini.",
    "parrafos": [
-    "El sábado 21 de noviembre, en Portimão, [[Marco Bezzecchi|bezzecchi]], de Aprilia, ganó la [[carrera sprint|sprint]], la carrera corta del sábado, por delante de Raúl Fernández y Álex Márquez; Jorge Martín fue quinto. [[Marc Márquez|marquez]], de Ducati, que podía proclamarse campeón ese mismo día, se cayó en la curva 7 cuando faltaban dos vueltas y la lluvia arreciaba, y tuvo que abandonar. Antes, en la clasificación, Bezzecchi había logrado la pole con récord del circuito; Márquez saldrá segundo en la carrera larga del domingo y Martín, séptimo.",
-    "Con el cero de Márquez, su ventaja sobre [[Jorge Martín|martin]] bajó de 60 a 55 puntos: Márquez suma 431 y Martín, 376. En el [[MotoGP|motogp]] gana el título quien más puntos suma al acabar la temporada, y quedan 62 en juego: 25 en la carrera larga de Portugal, este domingo 22 a las 14:00, y 37 en la última cita, en Valencia. El título se decide en cuanto la ventaja supera los puntos que quedan por repartir; si Márquez no lo consigue este domingo, tendrá que esperar a Valencia."
+    "El domingo 22 de noviembre, en Portimão, [[Marco Bezzecchi|bezzecchi]] ganó la carrera larga del Gran Premio de Portugal, con [[Jorge Martín|martin]] segundo y Raúl Fernández tercero: las tres motos del podio eran Aprilia. [[Marc Márquez|marquez]], de Ducati, acabó octavo, un resultado suficiente para proclamarse campeón del mundo de [[MotoGP|motogp]] con una carrera todavía por disputar, la de Valencia. El día anterior se había caído en la [[carrera sprint|sprint]] y su ventaja sobre Martín era de 55 puntos: en este campeonato el título se decide cuando nadie puede ya alcanzar al líder.",
+    "Es su octavo título en la categoría reina: supera los siete de Valentino Rossi e iguala los ocho de [[Giacomo Agostini|agostini]]; con las categorías menores suma diez mundiales. Ganó seis con Honda y dos con Ducati. Cierra una remontada histórica: tras el Gran Premio de Mugello iba 102 puntos por detrás de Bezzecchi, la mayor diferencia salvada en el campeonato, y se perdió dos carreras por operaciones de pie y de hombro. Con 33 años, según MotoGP.com, es el campeón más veterano desde 1974."
    ],
    "busqueda_imagenes": "Marco Bezzecchi Qatar victoria Marc Márquez Lusail 2026",
    "fuentes": [
@@ -614,19 +621,21 @@
     "Motociclismo",
     "MotoGP.com",
     "Infobae",
-    "VAVEL España"
+    "VAVEL España",
+    "Informador",
+    "Radio EME"
    ],
    "publicada": "2026-10-06",
-   "actualizada": "2026-11-22",
-   "nota_actualizacion": "El 21 de noviembre Márquez se cayó en la sprint de Portugal y su ventaja sobre Martín bajó de 60 a 55 puntos; el título aún puede decidirse el domingo o en Valencia.",
+   "actualizada": "2026-11-23",
+   "nota_actualizacion": "El 22 de noviembre Márquez acabó octavo en Portugal y se proclamó campeón de MotoGP por octava vez, con una carrera aún por disputar.",
    "en": {
-    "titular": "Márquez crashes in the Portugal sprint and puts off the title again: his lead over Martín drops to 55 points",
-    "entradilla": "Bezzecchi won the sprint and the rain put Márquez on the ground; in Sunday's long race he starts second and Martín seventh.",
+    "titular": "Marc Márquez is crowned MotoGP champion for the eighth time by finishing eighth in Portugal, with one race still to go",
+    "entradilla": "Aprilia filled the podium with Bezzecchi, Martín and Raúl Fernández; Márquez, on a Ducati, equals Agostini's eight titles.",
     "parrafos": [
-     "On Saturday 21 November, at Portimão, [[Marco Bezzecchi|bezzecchi]], on an Aprilia, won the [[sprint race|sprint]], the short Saturday race, ahead of Raúl Fernández and Álex Márquez; Jorge Martín was fifth. [[Marc Márquez|marquez]], on a Ducati, who could have been crowned champion that very day, crashed at turn 7 with two laps to go as the rain grew heavier, and had to retire. Earlier, in qualifying, Bezzecchi had taken pole with a new circuit record; Márquez will start second in Sunday's long race and Martín seventh.",
-     "With Márquez scoring zero, his lead over [[Jorge Martín|martin]] fell from 60 to 55 points: Márquez has 431 and Martín 376. In [[MotoGP|motogp]] the title goes to whoever has most points at the end of the season, and 62 remain at stake: 25 in the long race in Portugal, this Sunday 22 at 14:00, and 37 in the last round, in Valencia. The title is decided as soon as the lead exceeds the points still to be awarded; if Márquez does not manage it this Sunday, he will have to wait for Valencia."
+     "On Sunday 22 November, at Portimão, [[Marco Bezzecchi|bezzecchi]] won the main race of the Portuguese Grand Prix, with [[Jorge Martín|martin]] second and Raúl Fernández third: all three bikes on the podium were Aprilias. [[Marc Márquez|marquez]], on a Ducati, finished eighth, enough to be crowned [[MotoGP|motogp]] world champion with one race still to go, the one in Valencia. The day before he had crashed in the [[sprint race|sprint]] and his lead over Martín was 55 points: in this championship the title is settled once nobody can catch the leader any more.",
+     "It is his eighth title in the premier class: he passes Valentino Rossi's seven and equals the eight of [[Giacomo Agostini|agostini]]; counting the smaller categories he has ten world titles. He won six with Honda and two with Ducati. It completes a historic comeback: after the Mugello Grand Prix he was 102 points behind Bezzecchi, the biggest gap ever overcome in the championship, and he missed two races because of foot and shoulder surgery. At 33, according to MotoGP.com, he is the oldest champion since 1974."
     ],
-    "nota_actualizacion": "On 21 November Márquez crashed in the Portugal sprint and his lead over Martín fell from 60 to 55 points; the title can still be decided on Sunday or in Valencia."
+    "nota_actualizacion": "On 22 November Márquez finished eighth in Portugal and was crowned MotoGP champion for the eighth time, with one race still to go."
    }
   },
   {
@@ -906,7 +915,7 @@
    "titular": "Sánchez y Feijóo chocan por vivienda, corrupción y Ceuta en el único cara a cara de la campaña, y cada partido se atribuye la victoria",
    "entradilla": "El debate, moderado por María Casado, tuvo cinco bloques; el PSOE dijo que ganó Sánchez y el PP se declaró «muy satisfecho».",
    "parrafos": [
-    "El viernes 13 los partidos abrieron la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para la mayoría absoluta. El macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas, estimó que el PSOE ganaba con el 33,3 % de los votos, unos ocho puntos por delante del PP. Pero la encuesta de seguimiento de 40dB para El País y la Cadena SER, hecha del 17 al 21 de noviembre, da el 31,9 % al PP, el 31,6 % al PSOE y el 16,9 % a Vox: una diferencia de solo tres décimas.",
+    "El viernes 13 los partidos abrieron la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para la mayoría absoluta. El macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas, estimó que el PSOE ganaba con el 33,3 % de los votos, unos ocho puntos por delante del PP. Pero la última encuesta de seguimiento de 40dB para El País y la Cadena SER, publicada el 23 de noviembre, da el 31,8 % al PP y el 30,9 % al PSOE: menos de un punto de diferencia. Según 40dB, PP y Vox sumarían 187 escaños.",
     "El jueves 19, a las 22:00, [[Pedro Sánchez|sanchez]] y [[Alberto Núñez Feijóo|feijoo]] debatieron cara a cara, con cinco bloques: vivienda, economía e impuestos, política social, corrupción y democracia, y migración y política exterior. Según los medios, chocaron por la vivienda, por la corrupción, donde Sánchez pidió perdón por los casos que han afectado a su entorno, por la crisis de [[Ceuta|ceuta]] y por los accidentes de tren de [[Adamuz|adamuz]] y Urda. Después, el PSOE dijo que había ganado Sánchez y el PP se declaró «muy satisfecho». Una encuesta es una foto aproximada de un momento, no un resultado: aún se espera otro debate con los principales partidos hacia el 26."
    ],
    "busqueda_imagenes": "campaña electoral 29N encuestas CIS 40dB",
@@ -929,16 +938,16 @@
     "40dB (El País / Cadena SER)"
    ],
    "publicada": "2026-11-13",
-   "actualizada": "2026-11-22",
-   "nota_actualizacion": "El 21 de noviembre la encuesta de seguimiento de 40dB dio al PP el 31,9 % y al PSOE el 31,6 %, una diferencia de tres décimas.",
+   "actualizada": "2026-11-23",
+   "nota_actualizacion": "El 23 de noviembre la encuesta de seguimiento de 40dB dio al PP el 31,8 % y al PSOE el 30,9 %; PP y Vox sumarían 187 escaños, según esa encuesta.",
    "en": {
     "titular": "Sánchez and Feijóo clash over housing, corruption and Ceuta in the campaign's only head-to-head, and each party claims victory",
     "entradilla": "The debate, moderated by María Casado, had five blocks; the PSOE said Sánchez won and the PP declared itself 'very satisfied'.",
     "parrafos": [
-     "On Friday 13 the parties opened the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. The [[CIS|cis]], the public sociological research body, published a large poll with more than 45,000 interviews, estimating that the PSOE would win with 33.3% of the vote, about eight points ahead of the PP. But the tracking poll by 40dB for El País and the Cadena SER, carried out from 17 to 21 November, gives 31.9% to the PP, 31.6% to the PSOE and 16.9% to Vox: a gap of only three tenths of a point.",
+     "On Friday 13 the parties opened the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. The [[CIS|cis]], the public sociological research body, published a large poll with more than 45,000 interviews, estimating that the PSOE would win with 33.3% of the vote, about eight points ahead of the PP. But the latest tracking poll by 40dB for El País and the Cadena SER, published on 23 November, gives 31.8% to the PP and 30.9% to the PSOE: less than one point apart. According to 40dB, the PP and Vox would add up to 187 seats.",
      "On Thursday 19, at 22:00, [[Pedro Sánchez|sanchez]] and [[Alberto Núñez Feijóo|feijoo]] debated head-to-head, in five blocks: housing, economy and taxes, social policy, corruption and democracy, and migration and foreign policy. According to the media, they clashed over housing, over corruption, where Sánchez apologised for the cases that have affected his circle, over the [[Ceuta|ceuta]] crisis and over the train accidents at [[Adamuz|adamuz]] and Urda. Afterwards, the PSOE said Sánchez had won and the PP declared itself 'very satisfied'. A poll is a rough snapshot of one moment, not a result: another debate with the main parties is still expected around the 26th."
     ],
-    "nota_actualizacion": "On 21 November the 40dB tracking poll gave the PP 31.9% and the PSOE 31.6%, a gap of three tenths of a point."
+    "nota_actualizacion": "On 23 November the 40dB tracking poll gave the PP 31.8% and the PSOE 30.9%; the PP and Vox would add up to 187 seats, according to that poll."
    }
   },
   {
@@ -1056,11 +1065,11 @@
    "id": "cop31-antalya-cumbre-clima-financiacion",
    "seccion": "int",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-b\" cx=\"52\" cy=\"46\" r=\"32\"/><path class=\"d-g\" d=\"M34 36 Q42 26 54 30 Q60 36 52 42 Q44 46 40 54 Q32 50 34 36 Z\"/><path class=\"d-g\" d=\"M60 54 Q70 48 76 56 Q74 68 64 72 Q58 64 60 54 Z\"/><circle class=\"d-l\" cx=\"52\" cy=\"46\" r=\"32\"/><rect class=\"d-p\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><rect class=\"d-a\" x=\"95\" y=\"32\" width=\"4\" height=\"34\"/><circle class=\"d-a\" cx=\"97\" cy=\"68\" r=\"8\"/><rect class=\"d-l\" x=\"92\" y=\"12\" width=\"10\" height=\"52\" rx=\"5\"/><circle class=\"d-l\" cx=\"97\" cy=\"68\" r=\"8\"/></svg>",
-   "titular": "COP31: tras dos días de prórroga, la presidencia presenta un texto final sin cifras para la financiación y la plenaria decide este domingo",
-   "entradilla": "Kurum dice que el texto resuelve las dudas sobre los combustibles fósiles; los países ricos se resistían a fijar nuevas cifras.",
+   "titular": "La COP31 termina sin acuerdo: la UE y otros países rechazan un pacto final que no menciona los combustibles fósiles",
+   "entradilla": "Tras dos semanas y casi dos días de prórroga, la cumbre del clima de la ONU, la más larga de la historia, se cierra sin texto común.",
    "parrafos": [
-    "La [[COP31|cop31]], la conferencia de la ONU sobre el [[cambio climático|cambioclimatico]] que se celebra en [[Antalya|antalya]] (Turquía), reúne a casi 200 países. La cumbre de jefes de Estado y de Gobierno terminó el 12 de noviembre sin decisiones formales ni dinero nuevo, según los medios, y desde entonces negocian los equipos técnicos, bajo la presidencia del turco Murat Kurum y con el australiano Chris Bowen al frente de las negociaciones. El dinero sigue siendo el gran asunto: los países más vulnerables piden que las promesas se conviertan en ayuda real contra sequías e inundaciones, y los ricos se resisten a nuevos compromisos con cifras.",
-    "El lunes 16 se publicó un primer borrador con una opción de «transitar de inmediato» fuera de los [[combustibles fósiles|fosiles]], algo ya aceptado en la COP28; el jueves 19, el segundo, según las agencias, eliminaba toda referencia a abandonar petróleo, gas y carbón. El domingo 22 la presidencia presentó otro texto: recuerda la obligación de los países ricos de aportar dinero, pero sin cifra para triplicar la ayuda a la adaptación antes de 2035, y crea una hoja de ruta hasta la COP32, en Adís Abeba, para buscar fuentes públicas. Kurum dice que las dudas sobre los fósiles están resueltas; la plenaria debía aprobarlo a las 7:00 (hora española) y aún no hay resultado."
+    "La [[COP31|cop31]], la conferencia de la ONU sobre el [[cambio climático|cambioclimatico]] celebrada en [[Antalya|antalya]] (Turquía), terminó el domingo 22 de noviembre sin un acuerdo global. Duró dos semanas más unas 44 horas de prórroga, y según los medios es la más larga de la historia. Su presidente, el ministro turco Murat Kurum, admitió que el texto final, llamado Pacto de Antalya, no reunió el consenso necesario: en estas cumbres no se aprueba nada si algún país se opone con firmeza. La propuesta no mencionaba directamente los [[combustibles fósiles|fosiles]], es decir, el petróleo, el gas y el carbón.",
+    "Lo rechazaron en la plenaria final la [[Unión Europea|ue]], el Reino Unido, Panamá y varios países insulares del Pacífico, entre otros, que querían una referencia clara a dejar los fósiles, algo ya aceptado en la COP28. Según el borrador del domingo, además, no había cifra para triplicar la ayuda a la adaptación antes de 2035 y se creaba una hoja de ruta hasta la COP32, que será en Adís Abeba para buscar dinero público. Queda por ver qué ocurre con esas propuestas, ya que sin acuerdo no hay decisión formal."
    ],
    "busqueda_imagenes": "COP31 Antalya cumbre clima 2026",
    "fuentes": [
@@ -1080,19 +1089,24 @@
     "Moncloa.com",
     "Infobae",
     "Al-Monitor",
-    "Democrata"
+    "Democrata",
+    "Vozpópuli",
+    "El Cronista",
+    "El Argentino",
+    "KCH FM",
+    "Crónica Económica"
    ],
    "publicada": "2026-11-09",
-   "actualizada": "2026-11-22",
-   "nota_actualizacion": "El 22 de noviembre la presidencia presentó un texto final sin cifras para la financiación de la adaptación; la plenaria debía aprobarlo esa mañana y aún no hay resultado.",
+   "actualizada": "2026-11-23",
+   "nota_actualizacion": "El 22 de noviembre la COP31 terminó sin acuerdo: la UE, el Reino Unido, Panamá y países insulares del Pacífico rechazaron un pacto que no mencionaba los combustibles fósiles.",
    "en": {
-    "titular": "COP31: after two days of extra time, the presidency tables a final text with no figures for finance and the plenary decides this Sunday",
-    "entradilla": "Kurum says the text settles the doubts about fossil fuels; rich countries were reluctant to commit to new figures.",
+    "titular": "COP31 ends without a deal: the EU and other countries reject a final pact that does not mention fossil fuels",
+    "entradilla": "After two weeks and almost two extra days, the UN climate summit, the longest in history, closes without a common text.",
     "parrafos": [
-     "[[COP31|cop31]], the UN conference on [[climate change|cambioclimatico]] being held in [[Antalya|antalya]] (Turkey), brings together almost 200 countries. The summit of heads of state and government ended on 12 November with no formal decisions and no new money, according to the media, and since then the technical teams have been negotiating, under the presidency of Turkey's Murat Kurum and with Australia's Chris Bowen leading the negotiations. Money remains the big issue: the most vulnerable countries ask for promises to be turned into real help against droughts and floods, and rich countries are reluctant to take on new commitments with figures.",
-     "On Monday 16 a first draft was published with an option to 'transition immediately' away from [[fossil fuels|fosiles]], something already accepted at COP28; on Thursday 19, the second, according to the agencies, removed any reference to moving away from oil, gas and coal. On Sunday 22 the presidency tabled another text: it recalls the obligation of rich countries to provide money, but with no figure for tripling adaptation aid before 2035, and creates a roadmap to COP32, in Addis Ababa, to look for public sources of funding. Kurum says the doubts about fossil fuels are settled; the plenary was due to approve it at 07:00 Spanish time and there is no result yet."
+     "The [[COP31|cop31]], the UN conference on [[climate change|cambioclimatico]] held in [[Antalya|antalya]] (Turkey), ended on Sunday 22 November without a global agreement. It lasted two weeks plus about 44 hours of extra time, and according to the media it is the longest in history. Its president, Turkish minister Murat Kurum, admitted that the final text, called the Antalya Pact, did not win the necessary consensus: at these summits nothing is adopted if any country firmly objects. The proposal did not directly mention [[fossil fuels|fosiles]], that is, oil, gas and coal.",
+     "It was rejected in the final plenary session by the [[European Union|ue]], the United Kingdom, Panama and several Pacific island states, among others, who wanted a clear reference to moving away from fossil fuels, something already accepted at COP28. According to Sunday's draft, there was also no figure for tripling aid for adaptation by 2035 and it set up a roadmap until COP32, which will be held in Addis Ababa, to look for public money. It remains to be seen what happens to those proposals, since without an agreement there is no formal decision."
     ],
-    "nota_actualizacion": "On 22 November the presidency tabled a final text with no figures for adaptation finance; the plenary was due to approve it that morning and there is no result yet."
+    "nota_actualizacion": "On 22 November COP31 ended without a deal: the EU, the UK, Panama and Pacific island states rejected a pact that did not mention fossil fuels."
    }
   },
   {
@@ -1196,11 +1210,11 @@
    "id": "atp-finals-turin-2026-alcaraz-jodar-sin-sinner",
    "seccion": "dep",
    "dibujo": "trophy",
-   "titular": "ATP Finals: Alcaraz remonta a Shelton en las semifinales y jugará la final contra Zverev este domingo en Turín",
-   "entradilla": "Alcaraz ganó 3-6, 6-3 y 7-6 con el muslo vendado; Zverev venció a Medvedev y aspira a su tercer título.",
+   "titular": "Alcaraz gana por primera vez las ATP Finals: vence a Zverev por 6-2 y 7-6 (9-7) en la final de Turín",
+   "entradilla": "Salvó tres bolas de set seguidas en el desempate y es el tercer español campeón del torneo, tras Orantes y Corretja.",
    "parrafos": [
-    "Las [[ATP Finals|atpfinals]], el torneo que reúne a los ocho mejores tenistas de la temporada, se juegan hasta este domingo 22 en Turín. El sábado 21, en semifinales, [[Carlos Alcaraz|alcaraz]] ganó a [[Ben Shelton|shelton]] por 3-6, 6-3 y 7-6 (7-1 en el desempate), tras perder el primer set y con el muslo izquierdo vendado y la rodilla derecha con cinta, según las agencias. Llega a la final con 13 victorias seguidas. Es la primera vez desde 2015 que dos españoles se clasificaron directamente: el otro, Rafa Jódar, cayó en la fase de grupos.",
-    "En la otra semifinal, [[Alexander Zverev|zverev]] venció a Daniil Medvedev por 7-6 (7-0) y 6-4. La final es el domingo 22 a las 18:00 en el Inalpi Arena: Alcaraz lidera los duelos entre ambos por 7-6, pero Zverev ganó los dos que jugaron en Turín. Si Alcaraz gana, sería el tercer español campeón del torneo, tras Manuel Orantes (1976) y Álex Corretja (1998), y lograría su primer título aquí. El gran ausente es [[Jannik Sinner|sinner]], ganador de las dos últimas ediciones, que está lesionado."
+    "El domingo 22 de noviembre, en el Inalpi Arena de Turín, [[Carlos Alcaraz|alcaraz]] ganó la final de las [[ATP Finals|atpfinals]], el torneo que reúne a los ocho mejores de la temporada, a [[Alexander Zverev|zverev]] por 6-2 y 7-6 (9-7). Se llevó el primer set con claridad y, en el desempate del segundo, salvó tres bolas de set seguidas antes de cerrar el partido. Es su primer título en este torneo, al que había llegado tras remontar a [[Ben Shelton|shelton]] en semifinales con el muslo izquierdo vendado.",
+    "Con este triunfo, Alcaraz se une a Manuel Orantes (1976) y Álex Corretja (1998) como tercer español campeón de las Finales. Según la ATP, además, es el cuarto hombre que gana los cuatro torneos de Grand Slam y este campeonato, tras Andre Agassi, Roger Federer y Novak Djokovic. Zverev, que había superado a Medvedev en semifinales, se queda sin su tercer título. El gran ausente fue [[Jannik Sinner|sinner]], ganador de las dos últimas ediciones, que está lesionado; el otro español, Rafa Jódar, cayó en la fase de grupos."
    ],
    "busqueda_imagenes": "ATP Finals Turín Alcaraz Jódar 2026",
    "fuentes": [
@@ -1224,19 +1238,22 @@
     "Hoy Diario",
     "Yahoo Sports",
     "AP (KSAT)",
-    "ClaroSports"
+    "ClaroSports",
+    "ATP Tour",
+    "Sky Sports",
+    "The Washington Post"
    ],
    "publicada": "2026-11-11",
-   "actualizada": "2026-11-22",
-   "nota_actualizacion": "El 21 de noviembre Alcaraz ganó a Shelton en semifinales y jugará la final contra Zverev el domingo 22.",
+   "actualizada": "2026-11-23",
+   "nota_actualizacion": "El 22 de noviembre Alcaraz ganó la final de las ATP Finals a Zverev por 6-2 y 7-6 (9-7) y consiguió su primer título en Turín.",
    "en": {
-    "titular": "ATP Finals: Alcaraz comes back to beat Shelton in the semi-finals and will play Zverev in Sunday's final in Turin",
-    "entradilla": "Alcaraz won 3-6, 6-3, 7-6 with his thigh strapped; Zverev beat Medvedev and is going for his third title.",
+    "titular": "Alcaraz wins the ATP Finals for the first time: beats Zverev 6-2, 7-6 (9-7) in the Turin final",
+    "entradilla": "He saved three set points in a row in the tie-break and is the third Spaniard to win the event, after Orantes and Corretja.",
     "parrafos": [
-     "The [[ATP Finals|atpfinals]], the tournament that brings together the eight best players of the season, run until this Sunday 22 in Turin. On Saturday 21, in the semi-finals, [[Carlos Alcaraz|alcaraz]] beat [[Ben Shelton|shelton]] 3-6, 6-3, 7-6 (7-1 in the tie-break), after losing the first set and with his left thigh strapped and his right knee taped, according to the agencies. He reaches the final on 13 straight wins. It is the first time since 2015 that two Spaniards qualified directly: the other, Rafa Jódar, went out in the group stage.",
-     "In the other semi-final, [[Alexander Zverev|zverev]] beat Daniil Medvedev 7-6 (7-0), 6-4. The final is on Sunday 22 at 18:00 at the Inalpi Arena: Alcaraz leads their head-to-head 7-6, but Zverev won both of their matches in Turin. If Alcaraz wins, he would be the third Spaniard to take the title, after Manuel Orantes (1976) and Álex Corretja (1998), and would win his first title here. The big absentee is [[Jannik Sinner|sinner]], winner of the last two editions, who is injured."
+     "On Sunday 22 November, at the Inalpi Arena in Turin, [[Carlos Alcaraz|alcaraz]] won the final of the [[ATP Finals|atpfinals]], the tournament that brings together the season's eight best players, beating [[Alexander Zverev|zverev]] 6-2, 7-6 (9-7). He took the first set comfortably and, in the second-set tie-break, saved three set points in a row before closing out the match. It is his first title at this event, which he reached after coming back against [[Ben Shelton|shelton]] in the semi-final with his left thigh bandaged.",
+     "With this win, Alcaraz joins Manuel Orantes (1976) and Álex Corretja (1998) as the third Spanish champion of the Finals. According to the ATP, he is also the fourth man to win all four Grand Slam tournaments and this championship, after Andre Agassi, Roger Federer and Novak Djokovic. Zverev, who had beaten Medvedev in the semi-finals, misses out on a third title. The big absentee was [[Jannik Sinner|sinner]], winner of the last two editions, who is injured; the other Spaniard, Rafa Jódar, went out in the group stage."
     ],
-    "nota_actualizacion": "On 21 November Alcaraz beat Shelton in the semi-finals and will play Zverev in the final on Sunday 22."
+    "nota_actualizacion": "On 22 November Alcaraz beat Zverev 6-2, 7-6 (9-7) in the final of the ATP Finals and won his first title in Turin."
    }
   },
   {
@@ -1274,34 +1291,31 @@
    }
   },
   {
-   "id": "voyager-1-un-dia-luz-de-la-tierra",
+   "id": "decreto-soberania-cientifica-tecnologica-ia-chips",
    "seccion": "tec",
-   "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><circle class=\"d-y\" cx=\"12\" cy=\"14\" r=\"1.8\"/><circle class=\"d-y\" cx=\"104\" cy=\"12\" r=\"1.8\"/><circle class=\"d-y\" cx=\"110\" cy=\"74\" r=\"1.8\"/><circle class=\"d-y\" cx=\"30\" cy=\"80\" r=\"1.8\"/><circle class=\"d-g\" cx=\"16\" cy=\"46\" r=\"8\"/><circle class=\"d-l\" cx=\"16\" cy=\"46\" r=\"8\"/><rect class=\"d-b\" x=\"30\" y=\"44\" width=\"22\" height=\"4\"/><rect class=\"d-a\" x=\"52\" y=\"38\" width=\"22\" height=\"16\"/><path class=\"d-w\" d=\"M74 24 Q104 46 74 68 Q82 46 74 24 Z\"/><rect class=\"d-i\" x=\"58\" y=\"42\" width=\"8\" height=\"8\"/><path class=\"d-l\" d=\"M74 24 Q104 46 74 68 Q82 46 74 24 Z M30 44 H52 V48 H30 Z M52 38 H74 V54 H52 Z\"/></svg>",
-   "titular": "La Voyager 1 llega a un día luz de la Tierra: una señal de radio tarda 24 horas en alcanzarla",
-   "entradilla": "Lanzada en 1977, es el objeto humano más lejano: está a unos 25.900 millones de kilómetros y sigue enviando datos con cada vez menos energía.",
+   "dibujo": "chip",
+   "titular": "El Gobierno aprueba un decreto para depender menos de otros países en inteligencia artificial, chips y tecnología cuántica",
+   "entradilla": "Crea centros públicos «de interés nacional» y mejora los incentivos fiscales a la innovación, pero el Congreso, disuelto, debe convalidarlo.",
    "parrafos": [
-    "El miércoles 18 de noviembre, según la [[NASA|nasa]], la sonda [[Voyager 1|voyager1]] alcanzó la distancia de un [[día luz|dialuz]] de la Tierra: unos 25.900 millones de kilómetros, lo que recorre la luz en 24 horas. Despegó de Cabo Cañaveral el 5 de septiembre de 1977, hace casi 49 años, para estudiar Júpiter y Saturno, y desde agosto de 2012 viaja por el [[espacio interestelar|interestelar]], fuera de la burbuja de partículas que rodea al Sol. Es el objeto construido por humanos que más lejos ha llegado.",
-    "A esa distancia, una orden enviada desde la Tierra tarda unas 24 horas en llegar a la sonda y la respuesta otras 24 en volver: cada intercambio lleva dos días. Para que la sonda siga funcionando, la NASA ha ido apagando instrumentos, porque su pila nuclear pierde potencia con los años. Aun así, la Voyager 1 sigue enviando datos del espacio entre las estrellas. Para hacerse una idea de la escala: la luz del Sol tarda unos 8 minutos en llegar a la Tierra y 24 horas en llegar a la Voyager 1."
+    "El viernes 20 de noviembre, el Consejo de Ministros aprobó un [[real decreto-ley|rdl]] para reforzar la «soberanía científica y tecnológica» de España, es decir, depender menos de otros países en las tecnologías clave: la [[inteligencia artificial|ia]], los [[semiconductores|semiconductores]] avanzados, las [[tecnologías cuánticas|cuantica]] y la biotecnología. La medida principal es crear un nuevo grupo de centros públicos de investigación «de interés nacional», con un régimen especial y más autonomía de gestión, para que sean referencia en cada una de esas áreas. También permite a esos centros contratar con más facilidad a investigadores internacionales de prestigio.",
+    "El decreto sube del 12 % al 15 % la deducción en el impuesto de sociedades por invertir en innovación tecnológica, alarga de 3 a 5 años la bonificación en la Seguridad Social por contratar a investigadores y eleva de 115 a 200 euros al mes la de los doctorandos. Como el Congreso está disuelto por las elecciones del 29 de noviembre, debe convalidarlo la [[Diputación Permanente|diputacionpermanente]] en un plazo de 30 días, y el próximo Gobierno podría modificarlo. Lo defiende como una forma de que la investigación española dependa menos de empresas y países extranjeros."
    ],
-   "busqueda_imagenes": "Voyager 1 sonda espacial un día luz",
+   "busqueda_imagenes": "Consejo de Ministros decreto soberanía científica tecnológica inteligencia artificial chips",
    "fuentes": [
+    "La Moncloa",
+    "Ministerio de Ciencia",
     "Infobae",
-    "Vanguardia",
-    "La Jornada",
-    "Yahoo Noticias",
-    "Diario Las Américas",
-    "Excélsior",
-    "The Conversation"
+    "Revista Cloud"
    ],
-   "publicada": "2026-11-19",
+   "publicada": "2026-11-23",
    "actualizada": null,
    "nota_actualizacion": null,
    "en": {
-    "titular": "Voyager 1 reaches one light-day from Earth: a radio signal takes 24 hours to get there",
-    "entradilla": "Launched in 1977, it is the most distant human-made object: about 25,900 million kilometres away, and it keeps sending data on less and less power.",
+    "titular": "The Government approves a decree to depend less on other countries in artificial intelligence, chips and quantum technology",
+    "entradilla": "It creates public centres 'of national interest' and improves tax incentives for innovation, but the dissolved Congress must ratify it.",
     "parrafos": [
-     "On Wednesday 18 November, according to [[NASA|nasa]], the [[Voyager 1|voyager1]] probe reached a distance of one [[light-day|dialuz]] from Earth: about 25,900 million kilometres, the distance light travels in 24 hours. It lifted off from Cape Canaveral on 5 September 1977, almost 49 years ago, to study Jupiter and Saturn, and since August 2012 it has been travelling through [[interstellar space|interestelar]], outside the bubble of particles around the Sun. It is the human-made object that has travelled farthest.",
-     "At that distance, a command sent from Earth takes about 24 hours to reach the probe and the reply another 24 to come back: each exchange takes two days. To keep the probe running, NASA has been switching off instruments, because its nuclear power source loses strength with the years. Even so, Voyager 1 keeps sending data from the space between the stars. To get an idea of the scale: sunlight takes about 8 minutes to reach Earth and 24 hours to reach Voyager 1."
+     "On Friday 20 November, the Council of Ministers approved a [[royal decree-law|rdl]] to strengthen Spain's 'scientific and technological sovereignty', that is, to depend less on other countries in key technologies: [[artificial intelligence|ia]], advanced [[semiconductors|semiconductores]], [[quantum technologies|cuantica]] and biotechnology. The main measure is to create a new group of public research centres 'of national interest', with a special regime and more management autonomy, so that they become a reference in each of those areas. It also lets those centres hire prestigious international researchers more easily.",
+     "The decree raises from 12% to 15% the corporate tax deduction for investing in technological innovation, extends from 3 to 5 years the Social Security discount for hiring researchers and raises from 115 to 200 euros a month the one for doctoral students. Since Congress is dissolved for the 29 November election, the [[Permanent Deputation|diputacionpermanente]] must ratify it within 30 days, and the next Government could change it. It is presented as a way for Spanish research to depend less on foreign companies and countries."
     ],
     "nota_actualizacion": null
    }
@@ -4224,11 +4238,47 @@
     "n": "NATO",
     "x": "A military alliance of 32 countries in Europe and North America, including Poland, Spain and the United States. Its members promise to defend each other if one is attacked."
    }
+  },
+  "agostini": {
+   "t": "persona",
+   "n": "Giacomo Agostini",
+   "x": "Piloto italiano de motos, una leyenda: ganó ocho títulos en la categoría reina, el récord que Márquez acaba de igualar.",
+   "en": {
+    "n": "Giacomo Agostini",
+    "x": "An Italian motorcycle racer and a legend of the sport: he won eight titles in the premier class, the record Márquez has just equalled."
+   }
+  },
+  "yihadislamica": {
+   "t": "palabra",
+   "n": "Yihad Islámica",
+   "x": "Grupo armado palestino, aliado de Hamás, que también combate contra Israel en Gaza.",
+   "en": {
+    "n": "Islamic Jihad",
+    "x": "A Palestinian armed group, allied with Hamas, that also fights Israel in Gaza."
+   }
+  },
+  "semiconductores": {
+   "t": "palabra",
+   "n": "Semiconductores",
+   "x": "Materiales con los que se fabrican los chips, las piezas diminutas que hacen funcionar móviles, ordenadores y la inteligencia artificial.",
+   "en": {
+    "n": "Semiconductors",
+    "x": "The materials used to make chips, the tiny components that make phones, computers and artificial intelligence work."
+   }
+  },
+  "cuantica": {
+   "t": "palabra",
+   "n": "Tecnologías cuánticas",
+   "x": "Tecnologías que aprovechan las leyes de la física de lo muy pequeño para crear ordenadores y sistemas de comunicación muy potentes y difíciles de espiar.",
+   "en": {
+    "n": "Quantum technologies",
+    "x": "Technologies that use the laws of physics at the very small scale to build very powerful computers and communication systems that are hard to spy on."
+   }
   }
  },
- "edicion_en": "Sunday 22 November 2026",
+ "edicion_en": "Monday 23 November 2026",
  "destacada": {
   "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-11-22"
+  "fecha": "2026-11-23"
  }
 }
