@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-23T07:00:00+01:00",
- "edicion": "Lunes 23 de noviembre de 2026",
+ "actualizado": "2026-11-24T07:00:00+01:00",
+ "edicion": "Martes 24 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -68,52 +68,37 @@
  ],
  "noticias": [
   {
-   "id": "cientos-de-personas-acampan-en-sol-por-la-vivien",
+   "id": "supremo-amnistia-puigdemont-archiva-causa-seis-dias-elecciones",
    "seccion": "es",
-   "dibujo": "tents",
-   "titular": "Huelga general por la vivienda: sindicatos y patronal discrepan sobre el seguimiento, con 120.000 manifestantes en Madrid según el Gobierno",
-   "entradilla": "Interior registra 53 detenidos y 1.044 incidencias en la primera huelga general en 14 años, según datos provisionales; los organizadores hablan de cientos de miles de manifestantes.",
+   "dibujo": "congress",
+   "titular": "El Supremo aplica la amnistía a Puigdemont, Comín y Puig y archiva su causa por malversación a seis días de las elecciones",
+   "entradilla": "Cinco magistrados firmaron el auto, con Marchena de ponente; Feijóo reitera que derogará la ley y Sánchez dice que no la hizo por los líderes del procés.",
    "parrafos": [
-    "La [[huelga general|huelgageneral]] del miércoles 11 de noviembre, la primera en 14 años, terminó con una gran manifestación en Madrid: la Delegación del Gobierno contó 120.000 personas y los organizadores hablan de cientos de miles; en Barcelona, la Delegación contó 55.000. Convocaron CCOO, UGT, CGT, CNT y otras organizaciones para exigir un tope al alquiler, una subida del 7 % del salario mínimo y un millón de viviendas asequibles. La valoración del seguimiento depende de quién la haga: los sindicatos hablan de éxito, aunque sin dar una cifra nacional, y la patronal [[CEOE|ceoe]] de «fracaso», con menos de un 5 % de seguimiento en las empresas.",
-    "Red Eléctrica registró hasta las 18:00 una demanda de electricidad un 4,9 % menor que la prevista para un día sin huelga. Según el [[Ministerio del Interior|interior]], con datos provisionales, hubo 53 detenidos y 1.044 incidencias en toda España. Según los medios, hubo cargas policiales en Madrid y Barcelona y, en esta última, escaparates rotos y saqueos tras la marcha. Detrás de las protestas está Maricarmen, de 87 años, desahuciada en Madrid, que murió el 7 de octubre; su [[desahucio|desahucio]] las encendió. El jueves 12, la Diputación Permanente convalidó uno de los decretos de vivienda del Gobierno y tumbó el otro."
+    "El lunes 23 de noviembre, la Sala de lo Penal del Tribunal Supremo aplicó la [[ley de amnistía|amnistia]] a [[Carles Puigdemont|puigdemont]] y a los también exdirigentes catalanes Antoni Comín y Lluís Puig, y archivó la causa por [[malversación|malversacion]] abierta tras el referéndum del 1 de octubre de 2017. Cinco magistrados firmaron el auto, con Manuel Marchena como ponente. El tribunal había defendido antes que la amnistía no cubría ese delito, pero cambió de criterio tras la doctrina del [[Tribunal Constitucional|tc]] sobre la malversación. Con la causa cerrada, Puigdemont ya no corre riesgo de ser detenido si regresa a España.",
+    "La decisión llega seis días antes de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre y devuelve la amnistía al centro de la campaña. [[Alberto Núñez Feijóo|feijoo]], candidato del PP, repitió ese lunes que derogará la ley si gobierna, aunque admite que la derogación no cambiaría la situación de quienes ya se han beneficiado. Sánchez respondió a Puigdemont que nunca hizo la amnistía «por los líderes del procés». Hoy el presidente del Gobierno tiene un acto en Barcelona y Feijóo, en Alicante. Los defensores de la ley sostienen que sirve para cerrar un conflicto político; sus críticos, que beneficia a quienes se saltaron la ley."
    ],
-   "busqueda_imagenes": "Puerta del Sol acampada vivienda huelga",
+   "busqueda_imagenes": "Tribunal Supremo amnistía Puigdemont auto Marchena",
    "fuentes": [
-    "El Debate",
     "CNN en Español",
-    "El Plural",
-    "El Español",
-    "Infobae",
-    "elEconomista",
-    "Vozpópuli",
     "Euronews",
-    "Qué!",
+    "Estrella Digital",
     "Moncloa.com",
-    "The Objective",
-    "Metrópoli Abierta",
-    "Público",
-    "Telecinco",
-    "El Español (Invertia)",
-    "Infobae (agencias)",
-    "Libertad Digital",
-    "GasteizBerri",
-    "Red Eléctrica",
-    "Ministerio del Interior",
-    "elDiario.es",
-    "que.es",
-    "eleconomista.es"
+    "Infobae (EFE)",
+    "Diario Siglo XXI",
+    "Press Digital",
+    "ElNacional.cat"
    ],
-   "publicada": "2026-10-02",
-   "actualizada": "2026-11-13",
-   "nota_actualizacion": "El 12 de noviembre la Diputación Permanente convalidó uno de los decretos de vivienda del Gobierno y tumbó el otro.",
+   "publicada": "2026-11-24",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "General strike over housing: unions and employers disagree on turnout, with 120,000 marching in Madrid according to the Government",
-    "entradilla": "The Interior Ministry reports 53 arrests and 1,044 incidents on the first general strike in 14 years, according to provisional data; the organisers speak of hundreds of thousands of marchers.",
+    "titular": "Supreme Court applies the amnesty to Puigdemont, Comín and Puig and shelves their embezzlement case six days before the election",
+    "entradilla": "Five judges signed the ruling, with Marchena as rapporteur; Feijóo repeats that he will repeal the law and Sánchez says he did not make it for the procés leaders.",
     "parrafos": [
-     "The [[general strike|huelgageneral]] of Wednesday 11 November, the first in 14 years, ended with a huge march in Madrid: the Government Delegation counted 120,000 people and the organisers speak of hundreds of thousands; in Barcelona, the Delegation counted 55,000. It was called by CCOO, UGT, CGT, CNT and other organisations to demand a cap on rents, a 7% rise in the minimum wage and a million affordable homes. How the turnout is judged depends on who is judging: the unions speak of a success, though without giving a national figure, and the employers' federation [[CEOE|ceoe]] speaks of a 'failure', with less than 5% turnout in companies.",
-     "Red Eléctrica recorded, up to 18:00, electricity demand 4.9% lower than forecast for a day without a strike. According to the [[Ministry of the Interior|interior]], on provisional data, there were 53 arrests and 1,044 incidents across Spain. According to the media, there were police charges in Madrid and Barcelona and, in the latter, broken shop windows and looting after the march. Behind the protests is Maricarmen, 87, evicted in Madrid, who died on 7 October; her [[eviction|desahucio]] set them off. On Thursday 12, the Permanent Deputation ratified one of the Government's housing decrees and threw out the other."
+     "On Monday 23 November, the Criminal Chamber of the Supreme Court applied the [[amnesty law|amnistia]] to [[Carles Puigdemont|puigdemont]] and to fellow former Catalan leaders Antoni Comín and Lluís Puig, and shelved the [[embezzlement|malversacion]] case opened after the referendum of 1 October 2017. Five judges signed the ruling, with Manuel Marchena as rapporteur. The court had previously argued that the amnesty did not cover that crime, but it changed its position following the doctrine of the [[Constitutional Court|tc]] on embezzlement. With the case closed, Puigdemont is no longer at risk of arrest if he returns to Spain.",
+     "The decision comes six days before the general [[early election|elecciones]] of 29 November and puts the amnesty back at the centre of the campaign. [[Alberto Núñez Feijóo|feijoo]], the PP candidate, repeated on Monday that he will repeal the law if he governs, although he accepts that repeal would not change the situation of those who have already benefited. Sánchez replied to Puigdemont that he never made the amnesty 'for the procés leaders'. Today the Prime Minister holds a rally in Barcelona and Feijóo one in Alicante. Supporters of the law argue that it helps close a political conflict; its critics, that it benefits people who broke the law."
     ],
-    "nota_actualizacion": "On 12 November the Permanent Deputation ratified one of the Government's housing decrees and threw out the other."
+    "nota_actualizacion": null
    }
   },
   {
@@ -338,11 +323,11 @@
    "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
    "seccion": "int",
    "dibujo": "tanker",
-   "titular": "Ormuz: tres petroleros alcanzados en dos días; Irán habla de minas y dice haber atacado bases de EE. UU. en Baréin",
-   "entradilla": "El centro británico UKMTO no informa de muertos; Baréin acusa a Irán de un incendio en una instalación industrial.",
+   "titular": "Ormuz: Irán dice que reabrirá el estrecho «en el menor tiempo posible» si EE. UU. cumple sus condiciones, entre ellas levantar el bloqueo naval",
+   "entradilla": "Según EFE, las ofertas anteriores de Irán no recibieron respuesta positiva de Washington; el centro británico UKMTO documenta 23 incidentes en el mar en tres semanas.",
    "parrafos": [
     "El 28 de febrero, Estados Unidos e Israel bombardearon [[Irán|iran]]. En los primeros ataques murió el líder supremo, Alí Jamenei, y hubo miles de muertos, muchos civiles. Irán respondió y cerró casi por completo el [[estrecho de Ormuz|ormuz]], por donde pasa una quinta parte del [[petróleo|petroleo]] del mundo, y el precio del crudo subió un 40 %. En abril hubo un [[alto el fuego|altoelfuego]], pero las negociaciones fracasaron y en julio Estados Unidos impuso un [[bloqueo naval|bloqueo]] a Irán.",
-    "Tras los choques del 17 y 18 de noviembre entre EE. UU. e Irán, la tensión pasó al mar. El centro británico UKMTO informó de tres petroleros alcanzados en dos días cerca de la costa de Omán, sin muertos. Irán da otra versión: su Armada dice que dos se incendiaron al chocar con minas tras entrar, pese a los avisos, en aguas restringidas. El sábado 21, [[Baréin|bahrein]] acusó a Irán de atacar una instalación industrial en la isla de Sitra, que se incendió, y la agencia Fars, cercana a la [[Guardia Revolucionaria|guardiarev]] iraní, dijo que había atacado dos bases estadounidenses. Su viceministro de Exteriores, Kazem Garibabadi, calificó el [[bloqueo naval|bloqueo]] de EE. UU. de «acto de guerra»."
+    "El lunes 23 de noviembre, el portavoz de Exteriores iraní, Esmaeil Baghaei, dijo que su país reabriría Ormuz «en el menor tiempo posible» si Estados Unidos cumple sus condiciones: levantar las sanciones económicas, poner fin al [[bloqueo naval|bloqueo]], liberar fondos congelados y terminar la guerra en todos los frentes, incluido el Líbano. Según EFE, las propuestas iraníes anteriores no tuvieron respuesta positiva de Washington. En el mar, el centro británico UKMTO ha documentado 23 incidentes entre el 1 y el 22 de noviembre, casi todos clasificados como ataques, y los tres petroleros alcanzados en dos días no dejaron muertos. La [[Guardia Revolucionaria|guardiarev]] asegura que cada día hay barcos que chocan con minas; EFE no ha podido comprobarlo."
    ],
    "busqueda_imagenes": "estrecho de Ormuz mapa",
    "fuentes": [
@@ -407,27 +392,27 @@
     "N+"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-23",
-   "nota_actualizacion": "El 22 de noviembre Irán dijo que dos petroleros se incendiaron al chocar con minas y que atacó bases de EE. UU. en Baréin; UKMTO cuenta tres petroleros alcanzados en dos días.",
+   "actualizada": "2026-11-24",
+   "nota_actualizacion": "El 23 de noviembre Irán dijo que reabrirá Ormuz «en el menor tiempo posible» si EE. UU. levanta sanciones y bloqueo; UKMTO cuenta 23 incidentes marítimos en noviembre.",
    "en": {
-    "titular": "Hormuz: three tankers hit in two days; Iran speaks of mines and says it attacked US bases in Bahrain",
-    "entradilla": "Britain's UKMTO centre reports no deaths; Bahrain accuses Iran of starting a fire at an industrial facility.",
+    "titular": "Hormuz: Iran says it will reopen the strait 'as soon as possible' if the US meets its conditions, including lifting the naval blockade",
+    "entradilla": "According to EFE, Iran's earlier offers got no positive response from Washington; Britain's UKMTO centre has recorded 23 incidents at sea in three weeks.",
     "parrafos": [
      "On 28 February, the United States and Israel bombed [[Iran|iran]]. In the first attacks the supreme leader, Ali Khamenei, was killed, and thousands died, many of them civilians. Iran responded and almost completely closed the [[Strait of Hormuz|ormuz]], through which a fifth of the world's [[oil|petroleo]] passes, and the price of crude rose by 40%. In April there was a [[ceasefire|altoelfuego]], but negotiations failed and in July the United States imposed a [[naval blockade|bloqueo]] on Iran.",
-     "After the clashes of 17 and 18 November between the US and Iran, the tension moved to the sea. Britain's UKMTO centre reported three tankers hit in two days off the coast of Oman, with no deaths. Iran gives another version: its Navy says two caught fire after hitting mines, having entered restricted waters despite warnings. On Saturday 21, [[Bahrain|bahrein]] accused Iran of attacking an industrial facility on the island of Sitra, which caught fire, and the Fars agency, close to Iran's [[Revolutionary Guard|guardiarev]], said it had attacked two US bases. Its deputy foreign minister, Kazem Gharibabadi, called the US [[naval blockade|bloqueo]] an 'act of war'."
+     "On Monday 23 November, Iran's foreign ministry spokesman, Esmaeil Baghaei, said his country would reopen Hormuz 'as soon as possible' if the United States meets its conditions: lifting economic sanctions, ending the [[naval blockade|bloqueo]], releasing frozen funds and ending the war on all fronts, including Lebanon. According to EFE, Iran's earlier proposals got no positive response from Washington. At sea, Britain's UKMTO centre has recorded 23 incidents between 1 and 22 November, almost all classed as attacks, and the three tankers hit in two days caused no deaths. The [[Revolutionary Guard|guardiarev]] says ships hit mines every day; EFE has not been able to confirm this."
     ],
-    "nota_actualizacion": "On 22 November Iran said two tankers caught fire after hitting mines and that it attacked US bases in Bahrain; UKMTO counts three tankers hit in two days."
+    "nota_actualizacion": "On 23 November Iran said it will reopen Hormuz 'as soon as possible' if the US lifts sanctions and the blockade; UKMTO counts 23 maritime incidents in November."
    }
   },
   {
    "id": "gaza-un-alto-el-fuego-que-no-termina-de-llegar",
    "seccion": "int",
    "dibujo": "aid",
-   "titular": "Gaza: un ataque israelí mata a tres personas en una furgoneta que, según testigos, repartía comida; el ejército dice que eran milicianos",
-   "entradilla": "Sanidad de Gaza, controlada por Hamás, cuenta 1.675 muertos desde la tregua; al menos dos personas más murieron el domingo cerca de Jan Yunis.",
+   "titular": "Gaza: al menos tres muertos en dos ataques israelíes del lunes, entre ellos un trabajador de la UNRWA; el ejército dice que verifica el primero",
+   "entradilla": "El sábado, otro ataque mató a tres personas en una furgoneta que, según testigos, repartía comida; Israel dice que eran milicianos.",
    "parrafos": [
     "El miércoles 18 de noviembre, el ejército israelí inició una operación terrestre en el centro de Gaza, al oeste de la [[Línea Amarilla|lineaamarilla]], una zona de la que se retiró con el [[alto el fuego|altoelfuego]] de octubre de 2025. El jueves 19 anunció que la había terminado. Según los medios, es la primera acción de este tipo desde la tregua. Israel dice que buscaba desmantelar un túnel de [[Hamás|hamas]] que amenazaba a sus soldados y acusa a Hamás de haber violado antes el acuerdo; Hamás habla de «violación flagrante». Muchas familias, la mayoría ya desplazadas varias veces desde 2023, huyeron y el jueves volvieron a revisar sus casas, aunque seguían oyéndose disparos.",
-    "El sábado 21, un ataque israelí mató a tres personas en una furgoneta en Tal al-Hawa, en la ciudad de Gaza; según testigos y fuentes médicas, iba a repartir comida a familias desplazadas. El ejército israelí afirma que eran milicianos de la [[Yihad Islámica|yihadislamica]], uno de ellos jefe de compañía, que se hacían pasar por trabajadores humanitarios: las dos versiones no coinciden. El domingo 22, otro ataque al oeste de Jan Yunis mató al menos a dos personas, según fuentes médicas. El Ministerio de Sanidad de [[Gaza|gaza]], que controla Hamás, cuenta 1.675 muertos y 6.095 heridos desde la tregua. La OMS avisa de que las lluvias del invierno aumentan las enfermedades."
+    "El sábado 21, un ataque israelí mató a tres personas en una furgoneta; según testigos, iba a repartir comida a familias desplazadas, y el ejército afirma que eran milicianos de la [[Yihad Islámica|yihadislamica]] que se hacían pasar por trabajadores humanitarios: las versiones no coinciden. El lunes 23 murieron al menos tres personas en dos ataques: Adel al-Helo, empleado de la UNRWA, la agencia de la ONU para los refugiados palestinos, abría un pozo de agua en el campo de Yabalia, y otro ataque contra un coche mató a dos personas. El ejército dijo que verificaba el primero. Sanidad de [[Gaza|gaza]], que controla Hamás, contaba el domingo 1.675 muertos desde la tregua."
    ],
    "busqueda_imagenes": "Gaza ayuda humanitaria",
    "fuentes": [
@@ -473,27 +458,27 @@
     "Enlace Judío (ejército israelí)"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-23",
-   "nota_actualizacion": "El 22 de noviembre Sanidad de Gaza contó 1.675 muertos desde la tregua; Israel dice que los tres muertos de la furgoneta eran milicianos de la Yihad Islámica.",
+   "actualizada": "2026-11-24",
+   "nota_actualizacion": "El 23 de noviembre al menos tres personas murieron en dos ataques israelíes en Gaza, entre ellas un trabajador de la UNRWA; el ejército dice que verifica el primero.",
    "en": {
-    "titular": "Gaza: Israeli strike kills three in a van that, according to witnesses, was delivering food; the army says they were militants",
-    "entradilla": "Gaza's Health Ministry, controlled by Hamas, counts 1,675 dead since the truce; at least two more people died on Sunday near Khan Younis.",
+    "titular": "Gaza: at least three dead in two Israeli strikes on Monday, including a UNRWA worker; the army says it is checking the first",
+    "entradilla": "On Saturday, another strike killed three people in a van that, according to witnesses, was delivering food; Israel says they were militants.",
     "parrafos": [
      "On Wednesday 18 November, the Israeli army began a ground operation in central Gaza, west of the [[Yellow Line|lineaamarilla]], an area it withdrew from under the October 2025 [[ceasefire|altoelfuego]]. On Thursday 19 it announced it had finished. According to the media, it is the first action of this kind since the truce. Israel says it aimed to dismantle a [[Hamas|hamas]] tunnel that threatened its soldiers and accuses Hamas of having broken the agreement first; Hamas speaks of a 'flagrant violation'. Many families, most of them already displaced several times since 2023, fled and on Thursday went back to check their homes, although gunfire could still be heard.",
-     "On Saturday 21, an Israeli strike killed three people in a van in Tal al-Hawa, in Gaza City; according to witnesses and medical sources, it was on its way to hand out food to displaced families. The Israeli army says they were [[Islamic Jihad|yihadislamica]] militants, one of them a company commander, posing as humanitarian workers: the two accounts do not match. On Sunday 22, another strike west of Khan Younis killed at least two people, according to medical sources. The Health Ministry in [[Gaza|gaza]], which Hamas controls, counts 1,675 dead and 6,095 injured since the truce. The WHO warns that winter rains raise illness."
+     "On Saturday 21, an Israeli strike killed three people in a van; according to witnesses, it was on its way to hand out food to displaced families, and the army says they were [[Islamic Jihad|yihadislamica]] militants posing as humanitarian workers: the accounts do not match. On Monday 23, at least three people died in two strikes: Adel al-Helo, an employee of UNRWA, the UN agency for Palestinian refugees, was opening a water well in the Jabalia camp, and another strike on a car killed two people. The army said it was checking the first. Health officials in [[Gaza|gaza]], where Hamas is in control, counted 1,675 dead since the truce on Sunday."
     ],
-    "nota_actualizacion": "On 22 November Gaza's Health Ministry counted 1,675 dead since the truce; Israel says the three killed in the van were Islamic Jihad militants."
+    "nota_actualizacion": "On 23 November at least three people died in two Israeli strikes in Gaza, including a UNRWA worker; the army says it is checking the first."
    }
   },
   {
    "id": "ucrania-ataques-mientras-se-habla-de-paz",
    "seccion": "int",
    "dibujo": "sunflower",
-   "titular": "Ucrania: Rusia lanza más de 110 misiles y 400 drones tras el ataque al puente de Crimea; hay al menos ocho muertos y tres misiles rusos caen en Polonia",
-   "entradilla": "Moscú dice que atacó instalaciones militares; el primer ministro polaco habla de «provocación intencionada» y la OTAN se reúne hoy en Bruselas.",
+   "titular": "Ucrania: la OTAN enviará un avión AWACS a Polonia tras caer tres misiles rusos allí; Varsovia convocará al embajador ruso",
+   "entradilla": "El Consejo del Atlántico Norte se reunió en Bruselas a petición de Varsovia; Rusia lanzó el viernes más de 110 misiles y 400 drones contra Ucrania, según Zelenski.",
    "parrafos": [
     "En la madrugada del viernes 20 de noviembre, Rusia lanzó más de 110 misiles, 27 de ellos balísticos, y más de 400 drones contra varias ciudades ucranianas, según [[Zelenski|zelenski]], que lo calificó como uno de los mayores ataques desde la invasión de 2022. Murieron al menos ocho personas, seis en [[Kiev|kiev]] y dos en la región de Leópolis, y hubo apagones en la capital. Moscú asegura que atacó instalaciones militares. Era la respuesta anunciada por [[Vladímir Putin|putin]] al ataque ucraniano contra el [[puente de Crimea|crimea]] del 17 de noviembre, que según los medios hundió parte de la calzada: Putin dijo que tras esos ataques no habrá acuerdo.",
-    "Varsovia informó de que tres objetos entraron en el espacio aéreo del sureste de Polonia, a menos de 50 kilómetros de la frontera, cerca de donde maniobraban soldados europeos. La fiscalía de Lublin los ha identificado como misiles de crucero rusos Kh-101: halló restos en tres lugares y no hubo víctimas ni daños de consideración. El primer ministro, Donald Tusk, habló de «provocación intencionada»; el sábado 21, el secretario general de la [[OTAN|otan]], Mark Rutte, prometió defender «cada pulgada» del territorio polaco, y este lunes 23 el Consejo del Atlántico Norte, el órgano de decisión de la alianza, examina el incidente en Bruselas. Sigue sin acuerdo sobre el territorio ni sobre el alto el fuego."
+    "Tres objetos entraron en el espacio aéreo del sureste de Polonia, a menos de 50 kilómetros de la frontera. La fiscalía de Lublin los identificó como misiles de crucero rusos Kh-101: halló restos en tres lugares y no hubo víctimas ni daños de consideración. El primer ministro, Donald Tusk, habló de «provocación intencionada» y el sábado 21 el secretario general de la [[OTAN|otan]], Mark Rutte, prometió defender «cada pulgada» del territorio polaco. El lunes 23, el Consejo del Atlántico Norte, reunido de forma extraordinaria en Bruselas, autorizó enviar a Polonia un avión [[AWACS|awacs]], y Varsovia anunció que convocará al embajador ruso. Sigue sin acuerdo sobre el territorio ni sobre el alto el fuego."
    ],
    "busqueda_imagenes": "Kiev Ucrania",
    "fuentes": [
@@ -549,16 +534,16 @@
     "Quartz"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-23",
-   "nota_actualizacion": "El 22 de noviembre la fiscalía polaca identificó como misiles de crucero rusos los tres objetos caídos en Polonia; la OTAN los examina este lunes en Bruselas.",
+   "actualizada": "2026-11-24",
+   "nota_actualizacion": "El 23 de noviembre la OTAN autorizó enviar un avión AWACS a Polonia tras la caída de tres misiles rusos, y Varsovia anunció que convocará al embajador ruso.",
    "en": {
-    "titular": "Ukraine: Russia fires more than 110 missiles and 400 drones after the attack on the Crimean bridge; at least eight dead and three Russian missiles fall in Poland",
-    "entradilla": "Moscow says it hit military facilities; Poland's prime minister speaks of an 'intentional provocation' and NATO meets today in Brussels.",
+    "titular": "Ukraine: NATO to send an AWACS aircraft to Poland after three Russian missiles fell there; Warsaw to summon the Russian ambassador",
+    "entradilla": "The North Atlantic Council met in Brussels at Warsaw's request; on Friday Russia fired more than 110 missiles and 400 drones at Ukraine, according to Zelensky.",
     "parrafos": [
      "In the early hours of Friday 20 November, Russia fired more than 110 missiles, 27 of them ballistic, and more than 400 drones at several Ukrainian cities, according to [[Zelensky|zelenski]], who called it one of the biggest attacks since the 2022 invasion. At least eight people died, six in [[Kyiv|kiev]] and two in the Lviv region, and there were power cuts in the capital. Moscow says it hit military facilities. It was the response announced by [[Vladimir Putin|putin]] to the Ukrainian attack on the [[Crimean Bridge|crimea]] on 17 November, which according to the media sank part of the roadway: Putin said there will be no deal after those attacks.",
-     "Warsaw reported that three objects entered airspace in south-eastern Poland, less than 50 kilometres from the border, near where European soldiers were holding exercises. The Lublin prosecutor's office has identified them as Russian Kh-101 cruise missiles: it found remains in three places and there were no casualties or significant damage. Prime Minister Donald Tusk spoke of an 'intentional provocation'; on Saturday 21, the secretary general of [[NATO|otan]], Mark Rutte, promised to defend 'every inch' of Polish territory, and this Monday 23 the North Atlantic Council, the alliance's decision-making body, examines the incident in Brussels. There is still no deal on territory or on a ceasefire."
+     "Three objects entered airspace in south-eastern Poland, less than 50 kilometres from the border. The Lublin prosecutor's office identified them as Russian Kh-101 cruise missiles: it found remains in three places and there were no casualties or significant damage. Prime Minister Donald Tusk spoke of an 'intentional provocation' and on Saturday 21 the secretary general of [[NATO|otan]], Mark Rutte, promised to defend 'every inch' of Polish territory. On Monday 23, the North Atlantic Council, meeting in extraordinary session in Brussels, authorised sending an [[AWACS|awacs]] aircraft to Poland, and Warsaw announced it will summon the Russian ambassador. There is still no deal on territory or on a ceasefire."
     ],
-    "nota_actualizacion": "On 22 November Polish prosecutors identified the three objects that fell in Poland as Russian cruise missiles; NATO examines the incident in Brussels on Monday."
+    "nota_actualizacion": "On 23 November NATO authorised sending an AWACS aircraft to Poland after three Russian missiles fell there, and Warsaw announced it will summon the Russian ambassador."
    }
   },
   {
@@ -954,11 +939,11 @@
    "id": "barca-lider-madrid-gana-liga-clasico-25-octubre",
    "seccion": "dep",
    "dibujo": "wembley",
-   "titular": "El Barça gana 1-2 al Atlético y lidera LaLiga con 33 puntos; el Madrid, a tres, ganó 0-3 en Valencia",
-   "entradilla": "En la jornada 12, el Barcelona suma 33 puntos, el Madrid, 30, y el Atlético, 28; Fermín López marcó dos goles en el Metropolitano.",
+   "titular": "El Barça remonta al Villarreal (3-2) y sigue líder de LaLiga con 36 puntos; el Madrid gana 2-1 al Celta y es segundo, a tres",
+   "entradilla": "En la jornada 13, el Betis empató 1-1 con el Sevilla en el derbi sevillano y es cuarto con 27 puntos.",
    "parrafos": [
     "El Real Madrid ganó 1-2 al Barcelona el domingo 25 de octubre en el Camp Nou, en el primer [[Clásico|clasico]] de la temporada, con dos goles de [[Kylian Mbappé|mbappe]]. Raphinha había empatado para el Barça. El Madrid jugó sin Vinícius, sancionado con cuatro partidos, y el Barcelona perdió así su primer partido de Liga tras nueve victorias seguidas. Una semana después, en la jornada 11, el Barça goleó 6-1 al Alavés, el Madrid ganó 0-3 al Racing de Santander y el Atlético venció 2-0 al Levante, y el Barcelona recuperó el liderato.",
-    "El sábado 7 de noviembre, en la jornada 12 de [[LaLiga|laliga]], el Real Madrid ganó 0-3 en el campo del Valencia. El domingo 8, el Barcelona visitó al Atlético en el Metropolitano: Giuliano Simeone adelantó a los locales en el minuto 10, pero Fermín López marcó en el 45 y en el 66 y los azulgranas ganaron 1-2. Con ello, el Barça lidera con 33 puntos, el Madrid es segundo con 30 y el Atlético, tercero con 28. Quedan 26 jornadas: casi todo está por decidir."
+    "En la jornada 13 de [[LaLiga|laliga]], el Barcelona remontó al Villarreal en el Camp Nou y ganó 3-2, con lo que suma 36 puntos y mantiene el liderato. El Real Madrid derrotó 2-1 al Celta de Vigo y es segundo con 33, a tres puntos. En Andalucía, el Betis y el Sevilla empataron 1-1 en el derbi sevillano: el Betis es cuarto con 27 puntos y el Sevilla, sexto con 19. Quedan 25 jornadas: casi todo está por decidir."
    ],
    "busqueda_imagenes": "Atlético Barcelona Fermín López Metropolitano jornada 12",
    "fuentes": [
@@ -976,16 +961,16 @@
     "Bolavip"
    ],
    "publicada": "2026-10-19",
-   "actualizada": "2026-11-09",
-   "nota_actualizacion": "El Barça remontó 1-2 en el Metropolitano y lidera con 33 puntos; el Madrid ganó 0-3 en Valencia (30) y el Atlético es tercero (28).",
+   "actualizada": "2026-11-24",
+   "nota_actualizacion": "En la jornada 13 el Barça remontó al Villarreal (3-2) y lidera con 36 puntos; el Madrid ganó 2-1 al Celta (33) y el derbi sevillano acabó 1-1.",
    "en": {
-    "titular": "Barça beat Atlético 2-1 and lead LaLiga with 33 points; Madrid, three behind, won 3-0 at Valencia",
-    "entradilla": "In round 12, Barcelona have 33 points, Madrid 30 and Atlético 28; Fermín López scored twice at the Metropolitano.",
+    "titular": "Barça come from behind to beat Villarreal 3-2 and stay top of LaLiga on 36 points; Madrid beat Celta 2-1 and are second, three behind",
+    "entradilla": "In round 13, Betis drew 1-1 with Sevilla in the Seville derby and are fourth on 27 points.",
     "parrafos": [
      "Real Madrid won 2-1 away at Barcelona on Sunday 25 October, at the Camp Nou, in the first [[Clásico|clasico]] of the season, with two goals from [[Kylian Mbappé|mbappe]]. Raphinha had levelled for Barça. Madrid played without Vinícius, who is banned for four matches, and Barcelona thus lost their first league match after nine wins in a row. A week later, in round 11, Barça thrashed Alavés 6-1, Madrid won 3-0 at Racing de Santander and Atlético beat Levante 2-0, and Barcelona regained the lead.",
-     "On Saturday 7 November, in round 12 of [[LaLiga|laliga]], Real Madrid won 3-0 away at Valencia. On Sunday 8, Barcelona visited Atlético at the Metropolitano: Giuliano Simeone put the home side ahead in the 10th minute, but Fermín López scored in the 45th and the 66th and the Catalans won 2-1. As a result, Barça lead with 33 points, Madrid are second with 30 and Atlético third with 28. There are 26 rounds left: almost everything is still to be decided."
+     "In round 13 of [[LaLiga|laliga]], Barcelona came from behind to beat Villarreal 3-2 at the Camp Nou, reaching 36 points and keeping the lead. Real Madrid beat Celta de Vigo 2-1 and are second on 33, three points behind. In Andalusia, Betis and Sevilla drew 1-1 in the Seville derby: Betis are fourth on 27 points and Sevilla sixth on 19. There are 25 rounds left: almost everything is still to be decided."
     ],
-    "nota_actualizacion": "Barça came from behind to win 2-1 at the Metropolitano and lead with 33 points; Madrid won 3-0 at Valencia (30) and Atlético are third (28)."
+    "nota_actualizacion": "In round 13 Barça came from behind to beat Villarreal 3-2 and lead on 36 points; Madrid beat Celta 2-1 (33) and the Seville derby ended 1-1."
    }
   },
   {
@@ -1456,44 +1441,35 @@
    }
   },
   {
-   "id": "nvidia-huang-dimite-kress-interina-chips-china",
+   "id": "guterres-pide-marco-multilateral-ia-un-ano",
    "seccion": "tec",
    "dibujo": "chip",
-   "titular": "Nvidia supera las previsiones en su primer balance sin Huang, la junta no piensa recuperarlo y EE. UU. restringe los chips de IA a China",
-   "entradilla": "La empresa ingresó 115.800 millones de dólares en el trimestre; sus acciones subieron fuera de horario, aunque siguen más de un 30 % por debajo de su máximo.",
+   "titular": "Guterres pide que en un año exista un marco internacional para controlar los riesgos de la IA, que impulsa «la mayor transferencia de poder de la historia»",
+   "entradilla": "El secretario general de la ONU avisa de que la IA «no puede ir más rápido que la capacidad de controlar su seguridad».",
    "parrafos": [
-    "El jueves 12 de noviembre, [[Nvidia|nvidia]], la empresa que fabrica los chips con los que funciona gran parte de la [[inteligencia artificial|ia]], anunció que su fundador y director ejecutivo, [[Jensen Huang|jensenhuang]], dimite con efecto inmediato. Según los medios, llega tras conocerse que mantuvo relaciones personales ocultas, una de ellas con una exdirectiva de la empresa singapurense Megaspeed, a la que EE. UU. señala como posible espía china. Desde su máximo del 6 de octubre, la acción acumula un descenso de más del 30 %. La directora financiera, [[Colette Kress|colettekress]], dirige la empresa de forma interina. El martes 17, la junta confirmó que no piensa recuperar a Huang y busca un sustituto permanente.",
-    "Ese martes Nvidia presentó los resultados de su tercer trimestre, los primeros sin el fundador: ingresó 115.800 millones de dólares, un 103 % más que hace un año y por encima de los 109.100 millones que esperaban los analistas. Sus acciones subieron un 5 % fuera del horario normal de bolsa. El caso importa porque EE. UU. y China compiten por la IA y los chips avanzados están sujetos a [[controles de exportación|controlesexport]]. Ese mismo día, el Departamento de Comercio publicó una norma provisional que exige licencia a los centros de datos de países como Singapur, Malasia o Brasil para recibir chips avanzados, y cerrar así una vía por la que empresas chinas accedían a ellos."
+    "El lunes 23 de noviembre, el secretario general de la [[ONU|onu]], António Guterres, pidió a los países que coordinen sus esfuerzos y desarrollen, en el plazo de un año, un marco multilateral para gestionar los riesgos de la [[inteligencia artificial|ia]], con una supervisión independiente y creíble. Según él, esta tecnología impulsa «la mayor transferencia de poder de la historia de la humanidad» y no puede avanzar más rápido que la capacidad de controlar su seguridad. Recordó que en los últimos meses algunos de sus pioneros y creadores han alertado de posibles riesgos existenciales.",
+    "Guterres advirtió además de que la capacidad de usar la IA con fines militares está concentrada en dos países y en un número reducido de empresas, y pidió sistemas seguros, fiables y accesibles. Es una petición, no una norma: la ONU no puede obligar a ningún Estado, y cualquier marco tendría que ser aprobado por gobiernos con intereses distintos. Ya existen reglas regionales, como el [[reglamento europeo|reglamento]] de IA de la Unión Europea, pero no hay un acuerdo mundial. Guterres, que dejará el cargo a finales de este año, ha mostrado una preocupación creciente por estos riesgos."
    ],
-   "busqueda_imagenes": "Nvidia sede chips Jensen Huang",
+   "busqueda_imagenes": "Guterres inteligencia artificial ONU marco multilateral",
    "fuentes": [
-    "Al Jazeera",
-    "CNBC",
-    "Fortune",
-    "CNN en Español",
-    "Xataka",
-    "El Español",
-    "Nvidia (comunicado a la SEC)",
-    "Infobae",
-    "Euronews",
-    "Expansión",
-    "Benzinga",
-    "UPI",
-    "Gizmodo",
-    "Quartz en español",
-    "ABC Color"
+    "La Nación",
+    "Prensa Latina",
+    "ABC Color",
+    "Unitel (EFE)",
+    "Servindi",
+    "Tribuna"
    ],
-   "publicada": "2026-11-15",
-   "actualizada": "2026-11-18",
-   "nota_actualizacion": "El 17 de noviembre Nvidia superó las previsiones en su primer balance sin Huang, la junta dijo que no piensa recuperarlo y EE. UU. publicó una norma que restringe los chips de IA a China.",
+   "publicada": "2026-11-24",
+   "actualizada": null,
+   "nota_actualizacion": null,
    "en": {
-    "titular": "Nvidia beats forecasts in its first results without Huang, the board does not plan to bring him back and the US restricts AI chips to China",
-    "entradilla": "The company took in 115.8 billion dollars in the quarter; its shares rose after hours, though they remain more than 30% below their peak.",
+    "titular": "Guterres calls for an international framework within a year to control AI risks, which he says is driving 'the greatest transfer of power in human history'",
+    "entradilla": "The UN secretary general warns that AI 'cannot go faster than the capacity to control its safety'.",
     "parrafos": [
-     "On Thursday 12 November, [[Nvidia|nvidia]], the company that makes the chips that much of [[artificial intelligence|ia]] runs on, announced that its founder and chief executive, [[Jensen Huang|jensenhuang]], was resigning with immediate effect. According to the media, it came after it emerged that he had kept hidden personal relationships, one of them with a former executive of the Singapore firm Megaspeed, whom the US identifies as a possible Chinese spy. Since its 6 October peak, the share price is down by more than 30%. The chief financial officer, [[Colette Kress|colettekress]], is running the company on an interim basis. On Tuesday 17, the board confirmed it does not plan to bring Huang back and is looking for a permanent replacement.",
-     "That Tuesday Nvidia presented its third-quarter results, the first without its founder: it took in 115.8 billion dollars, 103% more than a year ago and above the 109.1 billion analysts expected. Its shares rose 5% outside normal trading hours. The case matters because the US and China are competing over AI and advanced chips are subject to [[export controls|controlesexport]]. The same day, the Commerce Department published a provisional rule requiring data centres in countries such as Singapore, Malaysia or Brazil to obtain a licence to receive advanced chips, closing a route through which Chinese firms were reaching them."
+     "On Monday 23 November, the secretary general of the [[UN|onu]], António Guterres, asked countries to coordinate their efforts and develop, within a year, a multilateral framework to manage the risks of [[artificial intelligence|ia]], with independent and credible oversight. In his words, this technology is driving 'the greatest transfer of power in the history of humanity' and cannot move faster than the capacity to control its safety. He recalled that in recent months some of its pioneers and creators have warned of possible existential risks.",
+     "Guterres also warned that the ability to use AI for military purposes is concentrated in two countries and a small number of companies, and called for safe, reliable and accessible systems. It is a request, not a rule: the UN cannot force any state, and any framework would have to be approved by governments with different interests. Regional rules already exist, such as the EU's AI [[European regulation|reglamento]], but there is no worldwide agreement. Guterres, who will leave office at the end of this year, has shown growing concern about these risks."
     ],
-    "nota_actualizacion": "On 17 November Nvidia beat forecasts in its first results without Huang, the board said it does not plan to bring him back and the US published a rule restricting AI chips to China."
+    "nota_actualizacion": null
    }
   },
   {
@@ -2604,10 +2580,10 @@
   "puigdemont": {
    "t": "persona",
    "n": "Carles Puigdemont",
-   "x": "Expresidente de Cataluña y líder de Junts. Se marchó de España en 2017 tras el procés; en octubre de 2026 el Supremo ha dejado sin efecto sus órdenes de detención nacionales al aplicarle la amnistía.",
+   "x": "Expresidente de Cataluña y líder de Junts. Se marchó de España en 2017 tras el procés; el 23 de noviembre de 2026 el Supremo le aplicó la amnistía y archivó su causa.",
    "en": {
     "n": "Carles Puigdemont",
-    "x": "Former president of Catalonia and leader of Junts. He left Spain in 2017 after the procés; in October 2026 the Supreme Court withdrew his national arrest warrants by applying the amnesty to him."
+    "x": "Former president of Catalonia and leader of Junts. He left Spain in 2017 after the procés; on 23 November 2026 the Supreme Court applied the amnesty to him and shelved his case."
    }
   },
   "pillay": {
@@ -4274,11 +4250,20 @@
     "n": "Quantum technologies",
     "x": "Technologies that use the laws of physics at the very small scale to build very powerful computers and communication systems that are hard to spy on."
    }
+  },
+  "awacs": {
+   "t": "palabra",
+   "n": "AWACS",
+   "x": "Avión militar con un gran radar sobre el fuselaje que vigila el cielo a gran distancia y avisa pronto de aviones, misiles o drones.",
+   "en": {
+    "n": "AWACS",
+    "x": "A military aircraft with a large radar on top of its fuselage that watches the sky over long distances and gives early warning of aircraft, missiles or drones."
+   }
   }
  },
- "edicion_en": "Monday 23 November 2026",
+ "edicion_en": "Tuesday 24 November 2026",
  "destacada": {
-  "id": "ormuz-el-estrecho-que-hace-temblar-al-mundo",
-  "fecha": "2026-11-23"
+  "id": "supremo-amnistia-puigdemont-archiva-causa-seis-dias-elecciones",
+  "fecha": "2026-11-24"
  }
 }
