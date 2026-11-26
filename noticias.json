@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-25T11:50:00+01:00",
- "edicion": "Miércoles 25 de noviembre de 2026",
+ "actualizado": "2026-11-26T07:30:00+01:00",
+ "edicion": "Jueves 26 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -189,48 +189,32 @@
    "id": "huelga-indefinida-profesorado-madrid-apoyo-en-andalucia",
    "seccion": "and",
    "dibujo": "megaphone",
-   "titular": "Huelga docente en Madrid: la Consejería dice que el seguimiento ha caído al 6,4 % y propone consultar a los profesores; los docentes mantienen el paro",
-   "entradilla": "La huelga indefinida de la pública supera el mes: la Comunidad la llama «política» y los convocantes de una reunión denuncian que no acudieron ni la consejera ni el Gobierno central.",
+   "titular": "Huelga docente en Madrid: Ayuso ofrece subidas de hasta 400 euros al mes desde enero y los sindicatos las llaman engañosas",
+   "entradilla": "La huelga indefinida de la pública entra en su sexta semana con más de 400.000 horas de clase perdidas, según la Comunidad; los docentes pedían 600 euros.",
    "parrafos": [
-    "La [[huelga indefinida|huelgaindefinida]] del profesorado de la enseñanza pública madrileña empezó el miércoles 14 de octubre y afecta a unos 65.000 docentes. El miércoles 18, la consejera de Educación, Mercedes Zarzalejo, presentó datos de la [[Consejería de Educación|consejeria]]: el seguimiento ha bajado de más del 40 % el primer día al 6,4 % el martes 17, y el 60 % de los docentes no ha parado ningún día. Para ella es una huelga «política» y propone que los sindicatos pregunten a los profesores si quieren seguir. Son cifras de la propia Administración, que es parte del conflicto.",
-    "El conflicto sigue estancado. El viernes 13, la Consejería convocó al comité de huelga solo para cambiar los servicios mínimos, es decir, cuántos docentes deben trabajar aunque haya paro, y el comité anunció que irá a los tribunales porque los considera «inconstitucionales». El miércoles 18, varias plataformas docentes convocaron una reunión a la que, según ellas, no acudieron ni la consejera ni el Gobierno central. Piden bajar las horas de clase a 17 en Secundaria y 22 en Primaria (ahora son 19 y 25), menos alumnos por aula, más personal y más sueldo. Zarzalejo defiende tratarlo en la mesa sectorial. En Andalucía hubo concentraciones de apoyo; la educación la gestionan las [[comunidades autónomas|ccaa]]."
+    "La [[huelga indefinida|huelgaindefinida]] de la enseñanza pública no universitaria de Madrid empezó el 14 de octubre y entra en su sexta semana. Según el Gobierno regional, se han perdido más de 400.000 horas lectivas. El miércoles 25 de noviembre, la presidenta Isabel Díaz Ayuso y la consejera de Educación, Mercedes Zarzalejo, presentaron una oferta: un complemento de hasta 400 euros al mes para el profesorado de Secundaria y 350 para los maestros de Primaria, mediante una nueva «carrera profesional horizontal», que subiría un escalón cada seis años de servicio y empezaría el 1 de enero de 2027.",
+    "Los docentes pedían 600 euros más al mes, menos horas de clase y menos alumnos por aula, y esas dos últimas demandas siguen sin respuesta. Los sindicatos critican que la cifra máxima solo la cobraría quien lleve unos 36 años trabajando, y según El Español CCOO no acudió a la reunión. La [[Consejería de Educación|consejeria]] recuerda que además llegará la subida estatal del 4,5 % prevista para 2027. El 20 de noviembre, medio millar de docentes protestaron contra una instrucción que prohíbe usar las aulas o las fachadas para promover la huelga. En Andalucía hubo concentraciones de apoyo; la educación la gestionan las [[comunidades autónomas|ccaa]]."
    ],
    "busqueda_imagenes": "huelga indefinida educación pública Madrid Sol",
    "fuentes": [
+    "Comunidad de Madrid",
     "Infobae",
-    "El Diario de Madrid",
-    "Qué!",
-    "Tercera Información",
-    "Teleprensa",
-    "Infobae (EFE)",
-    "Aragón Digital",
-    "Demócrata",
     "El Español",
-    "Noticias para Municipios",
-    "Moncloa.com",
-    "Última Hora",
-    "Madridiario",
-    "Infobae (agencias)",
-    "Público",
-    "El Diario de la Educación",
-    "infoLibre",
-    "Noticias Obreras",
-    "El Diario de Madrid",
-    "El Distrito",
+    "Libertad Digital",
     "Telemadrid",
-    "COPE"
+    "The Objective"
    ],
    "publicada": "2026-10-14",
-   "actualizada": "2026-11-19",
-   "nota_actualizacion": "El 18 de noviembre la Consejería dijo que el seguimiento ha caído al 6,4 % y propuso consultar a los profesores; los docentes mantienen la huelga indefinida.",
+   "actualizada": "2026-11-26",
+   "nota_actualizacion": "El 25 de noviembre la Comunidad de Madrid ofreció subidas de hasta 400 euros al mes desde enero de 2027; los sindicatos las consideran engañosas y la huelga sigue.",
    "en": {
-    "titular": "Madrid teachers' strike: the Education Department says turnout has fallen to 6.4% and proposes consulting teachers; teachers keep up the strike",
-    "entradilla": "The indefinite strike in public schools passes the one-month mark: the regional government calls it 'political' and the organisers of a meeting say neither the councillor nor the central Government turned up.",
+    "titular": "Madrid teachers' strike: Ayuso offers rises of up to 400 euros a month from January and unions call them misleading",
+    "entradilla": "The indefinite strike in public schools enters its sixth week with more than 400,000 lesson hours lost, according to the regional government; teachers had asked for 600 euros.",
     "parrafos": [
-     "The [[indefinite strike|huelgaindefinida]] by teachers in Madrid's public schools began on Wednesday 14 October and affects about 65,000 teachers. On Wednesday 18, the regional education councillor, Mercedes Zarzalejo, presented figures from the [[Education Department|consejeria]]: turnout has fallen from over 40% on the first day to 6.4% on Tuesday 17, and 60% of teachers have not stopped work on any day. For her it is a 'political' strike and she proposes that the unions ask teachers whether they want to carry on. These are the administration's own figures, and it is a party to the dispute.",
-     "The dispute remains stuck. On Friday 13, the Department called the strike committee only to change the minimum services, that is, how many teachers must work even during a strike, and the committee announced it will go to court because it considers them 'unconstitutional'. On Wednesday 18, several teachers' platforms called a meeting which, they say, neither the councillor nor the central Government attended. They ask for teaching hours to be cut to 17 in Secondary and 22 in Primary (now 19 and 25), fewer pupils per class, more staff and higher pay. Zarzalejo wants it dealt with in the sector-wide table. In Andalusia there were support rallies; education is run by the [[autonomous communities|ccaa]]."
+     "The [[indefinite strike|huelgaindefinida]] in Madrid's public non-university schools began on 14 October and is entering its sixth week. According to the regional government, more than 400,000 lesson hours have been lost. On Wednesday 25 November, regional president Isabel Díaz Ayuso and education councillor Mercedes Zarzalejo presented an offer: a supplement of up to 400 euros a month for Secondary teachers and 350 for Primary teachers, through a new 'horizontal career scheme' that would rise one step every six years of service and start on 1 January 2027.",
+     "Teachers had asked for 600 euros more a month, fewer teaching hours and fewer pupils per class, and the last two demands remain unanswered. The unions criticise that the top figure would only go to someone who has worked about 36 years, and according to El Español CCOO did not attend the meeting. The [[Education Department|consejeria]] points out that the state pay rise of 4.5% planned for 2027 will also arrive. On 20 November, some five hundred teachers protested against an instruction banning the use of classrooms or façades to promote the strike. In Andalusia there were support rallies; education is run by the [[autonomous communities|ccaa]]."
     ],
-    "nota_actualizacion": "On 18 November the Education Department said turnout has fallen to 6.4% and proposed consulting teachers; teachers are keeping up the indefinite strike."
+    "nota_actualizacion": "On 25 November the Community of Madrid offered rises of up to 400 euros a month from January 2027; unions consider them misleading and the strike continues."
    }
   },
   {
@@ -4261,9 +4245,9 @@
    }
   }
  },
- "edicion_en": "Wednesday 25 November 2026",
+ "edicion_en": "Thursday 26 November 2026",
  "destacada": {
   "id": "supremo-amnistia-puigdemont-archiva-causa-seis-dias-elecciones",
-  "fecha": "2026-11-25"
+  "fecha": "2026-11-26"
  }
 }
