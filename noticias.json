@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-26T07:30:00+01:00",
- "edicion": "Jueves 26 de noviembre de 2026",
+ "actualizado": "2026-11-27T07:30:00+01:00",
+ "edicion": "Viernes 27 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -881,11 +881,11 @@
    "id": "arranca-campana-29n-cis-psoe-40db-pp",
    "seccion": "es",
    "dibujo": "ballot",
-   "titular": "Sánchez y Feijóo chocan por vivienda, corrupción y Ceuta en el único cara a cara de la campaña, y cada partido se atribuye la victoria",
-   "entradilla": "El debate, moderado por María Casado, tuvo cinco bloques; el PSOE dijo que ganó Sánchez y el PP se declaró «muy satisfecho».",
+   "titular": "Sánchez, Feijóo, Abascal y Colau se enfrentan en el debate a cuatro a tres días de las elecciones, y cada bando se atribuye la victoria",
+   "entradilla": "El debate lo organizó la Academia de la Televisión y lo moderó María Casado; las encuestas abiertas de los medios dan resultados opuestos.",
    "parrafos": [
     "El viernes 13 los partidos abrieron la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para la mayoría absoluta. El macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas, estimó que el PSOE ganaba con el 33,3 % de los votos, unos ocho puntos por delante del PP. Pero la última encuesta de seguimiento de 40dB para El País y la Cadena SER, publicada el 23 de noviembre, da el 31,8 % al PP y el 30,9 % al PSOE: menos de un punto de diferencia. Según 40dB, PP y Vox sumarían 187 escaños.",
-    "El jueves 19, a las 22:00, [[Pedro Sánchez|sanchez]] y [[Alberto Núñez Feijóo|feijoo]] debatieron cara a cara, con cinco bloques: vivienda, economía e impuestos, política social, corrupción y democracia, y migración y política exterior. Según los medios, chocaron por la vivienda, por la corrupción, donde Sánchez pidió perdón por los casos que han afectado a su entorno, por la crisis de [[Ceuta|ceuta]] y por los accidentes de tren de [[Adamuz|adamuz]] y Urda. Después, el PSOE dijo que había ganado Sánchez y el PP se declaró «muy satisfecho». Una encuesta es una foto aproximada de un momento, no un resultado: aún se espera otro debate con los principales partidos hacia el 26."
+    "El jueves 19, [[Pedro Sánchez|sanchez]] y [[Alberto Núñez Feijóo|feijoo]] debatieron cara a cara, y según los medios chocaron por la vivienda, la corrupción, la crisis de [[Ceuta|ceuta]] y los accidentes de tren de [[Adamuz|adamuz]] y Urda. El jueves 26 hubo un segundo debate, a cuatro, organizado por la Academia de la Televisión y moderado por María Casado, con Sánchez, Feijóo, Santiago Abascal (Vox) y Ada Colau. El PSOE dijo que ganó su proyecto y Borja Sémper, del PP, que Sánchez pasó de «desganado» a «desesperado». Las encuestas abiertas de los medios dan resultados opuestos y no son representativas: son opiniones de quien quiere votar, no un resultado."
    ],
    "busqueda_imagenes": "campaña electoral 29N encuestas CIS 40dB",
    "fuentes": [
@@ -904,19 +904,23 @@
     "Canal 4 Diario",
     "El Boletín",
     "OKDiario",
-    "40dB (El País / Cadena SER)"
+    "40dB (El País / Cadena SER)",
+    "Infobae",
+    "El Español",
+    "Telecinco",
+    "El Debate"
    ],
    "publicada": "2026-11-13",
-   "actualizada": "2026-11-23",
-   "nota_actualizacion": "El 23 de noviembre la encuesta de seguimiento de 40dB dio al PP el 31,8 % y al PSOE el 30,9 %; PP y Vox sumarían 187 escaños, según esa encuesta.",
+   "actualizada": "2026-11-27",
+   "nota_actualizacion": "El 26 de noviembre se celebró el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau; los medios no coinciden en quién ganó.",
    "en": {
-    "titular": "Sánchez and Feijóo clash over housing, corruption and Ceuta in the campaign's only head-to-head, and each party claims victory",
-    "entradilla": "The debate, moderated by María Casado, had five blocks; the PSOE said Sánchez won and the PP declared itself 'very satisfied'.",
+    "titular": "Sánchez, Feijóo, Abascal and Colau face off in the four-way debate three days before the election, and each side claims victory",
+    "entradilla": "The debate was organised by the Television Academy and moderated by María Casado; open polls by the media give opposite results.",
     "parrafos": [
      "On Friday 13 the parties opened the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. The [[CIS|cis]], the public sociological research body, published a large poll with more than 45,000 interviews, estimating that the PSOE would win with 33.3% of the vote, about eight points ahead of the PP. But the latest tracking poll by 40dB for El País and the Cadena SER, published on 23 November, gives 31.8% to the PP and 30.9% to the PSOE: less than one point apart. According to 40dB, the PP and Vox would add up to 187 seats.",
-     "On Thursday 19, at 22:00, [[Pedro Sánchez|sanchez]] and [[Alberto Núñez Feijóo|feijoo]] debated head-to-head, in five blocks: housing, economy and taxes, social policy, corruption and democracy, and migration and foreign policy. According to the media, they clashed over housing, over corruption, where Sánchez apologised for the cases that have affected his circle, over the [[Ceuta|ceuta]] crisis and over the train accidents at [[Adamuz|adamuz]] and Urda. Afterwards, the PSOE said Sánchez had won and the PP declared itself 'very satisfied'. A poll is a rough snapshot of one moment, not a result: another debate with the main parties is still expected around the 26th."
+     "On Thursday 19, [[Pedro Sánchez|sanchez]] and [[Alberto Núñez Feijóo|feijoo]] debated head-to-head, and according to the media they clashed over housing, corruption, the [[Ceuta|ceuta]] crisis and the train accidents at [[Adamuz|adamuz]] and Urda. On Thursday 26 there was a second debate, a four-way one, organised by the Television Academy and moderated by María Casado, with Sánchez, Feijóo, Santiago Abascal (Vox) and Ada Colau. The PSOE said its project won and Borja Sémper, of the PP, said Sánchez went from 'listless' to 'desperate'. Open polls by the media give opposite results and are not representative: they reflect the views of people who chose to vote in them, not a result."
     ],
-    "nota_actualizacion": "On 23 November the 40dB tracking poll gave the PP 31.8% and the PSOE 30.9%; the PP and Vox would add up to 187 seats, according to that poll."
+    "nota_actualizacion": "On 26 November the four-way debate between Sánchez, Feijóo, Abascal and Colau took place; the media disagree on who won."
    }
   },
   {
@@ -4245,9 +4249,9 @@
    }
   }
  },
- "edicion_en": "Thursday 26 November 2026",
+ "edicion_en": "Friday 27 November 2026",
  "destacada": {
-  "id": "supremo-amnistia-puigdemont-archiva-causa-seis-dias-elecciones",
-  "fecha": "2026-11-26"
+  "id": "arranca-campana-29n-cis-psoe-40db-pp",
+  "fecha": "2026-11-27"
  }
 }
