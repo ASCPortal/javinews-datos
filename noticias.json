@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-27T07:30:00+01:00",
- "edicion": "Viernes 27 de noviembre de 2026",
+ "actualizado": "2026-11-28T07:30:00+01:00",
+ "edicion": "Sábado 28 de noviembre de 2026",
  "secciones": [
   {
    "id": "es",
@@ -747,36 +747,32 @@
    "id": "ipc-septiembre-2026-sube-49",
    "seccion": "eco",
    "svg": "<svg viewBox=\"0 0 120 90\" aria-hidden=\"true\"><path class=\"d-l\" d=\"M12 18 H26 L36 58 H88 L98 28 H30\"/><rect class=\"d-b\" x=\"40\" y=\"30\" width=\"16\" height=\"22\"/><rect class=\"d-y\" x=\"60\" y=\"34\" width=\"14\" height=\"18\"/><rect class=\"d-g\" x=\"76\" y=\"38\" width=\"10\" height=\"14\"/><circle class=\"d-i\" cx=\"42\" cy=\"70\" r=\"6\"/><circle class=\"d-i\" cx=\"82\" cy=\"70\" r=\"6\"/><path class=\"d-a\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/><path class=\"d-l\" d=\"M96 6 L110 6 L110 20 M110 6 L94 22\"/></svg>",
-   "titular": "El INE confirma que los precios subieron un 4,9 % en octubre, igual que en septiembre y en el nivel más alto desde febrero de 2023",
-   "entradilla": "Es el tercer mes seguido por encima del 4 %; la inflación subyacente se queda en el 3,1 %.",
+   "titular": "La inflación baja al 4,1 % en noviembre, según el avance del INE, por el abaratamiento de los carburantes",
+   "entradilla": "Los precios cayeron un 0,6 % respecto a octubre; el dato definitivo, con el detalle por productos, llegará el 15 de diciembre.",
    "parrafos": [
-    "El viernes 13 de noviembre, el Instituto Nacional de Estadística ([[INE|ine]]) confirmó el dato definitivo del [[IPC|ipc]] de octubre: los precios están un 4,9 % más altos que hace un año, igual que en septiembre, y la [[inflación|inflacion]] encadena tres meses por encima del 4 %, en niveles de febrero de 2023. Respecto a septiembre, los precios subieron un 0,6 %. La subyacente, que deja fuera la energía y los alimentos sin elaborar, se mantiene en el 3,1 %. Entre los factores, el INE cita el gas, que subió, y los carburantes, que tiraron a la baja. La guerra con Irán ha disparado el precio del [[petróleo|petroleo]].",
-    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre, así que con octubre ya confirmado, lo que pase en noviembre influirá aún en la subida de 2027. Subir las pensiones con la inflación protege el poder de compra de los pensionistas, pero supone más gasto para el Estado."
+    "El viernes 27 de noviembre, el [[INE|ine]] publicó su estimación adelantada del [[IPC|ipc]] de noviembre: los precios están un 4,1 % más altos que hace un año, ocho décimas menos que el 4,9 % de octubre. Respecto al mes anterior bajaron un 0,6 %. Según el INE, el descenso se debe sobre todo al abaratamiento de los carburantes. Es un dato provisional: el definitivo, con el desglose por productos, se publicará el 15 de diciembre. La [[inflación|inflacion]] baja, pero sigue por encima del 4 % por cuarto mes seguido, en niveles que no se veían desde febrero de 2023. La guerra con Irán ha disparado el precio del [[petróleo|petroleo]].",
+    "Esto importa porque, con el mismo dinero, se compran menos cosas, y los sueldos no siempre suben al mismo ritmo. Que los precios bajen en un mes alivia el gasto en gasolina, pero no devuelve lo que ya ha subido. También afecta a las [[pensiones|pension]]: por ley, cada año suben según la inflación media entre diciembre y noviembre, así que el dato definitivo de noviembre completará ese cálculo para la subida de 2027. Subir las pensiones con la inflación protege el poder de compra de los pensionistas, pero supone más gasto para el Estado."
    ],
-   "busqueda_imagenes": "IPC octubre 2026 INE adelantado 4,9%",
+   "busqueda_imagenes": "IPC noviembre 2026 INE adelantado 4,1%",
    "fuentes": [
     "INE",
+    "Rankia",
+    "El Diario de Madrid",
+    "Merca2",
     "Que.es",
-    "Raisin",
-    "Hispanidad",
-    "The Objective",
-    "Vozpópuli",
-    "elEconomista",
-    "Deia",
-    "Democrata",
-    "Diario en Positivo"
+    "Onda Aragonesa"
    ],
    "publicada": "2026-10-02",
-   "actualizada": "2026-11-14",
-   "nota_actualizacion": "El 13 de noviembre el INE confirmó el IPC de octubre en el 4,9 %, con la subyacente en el 3,1 % y tres meses seguidos por encima del 4 %.",
+   "actualizada": "2026-11-28",
+   "nota_actualizacion": "El 27 de noviembre el INE adelantó que la inflación bajó en noviembre al 4,1 %, desde el 4,9 % de octubre, por los carburantes.",
    "en": {
-    "titular": "The INE confirms prices rose 4.9% in October, the same as in September and the highest level since February 2023",
-    "entradilla": "It is the third month in a row above 4%; core inflation stays at 3.1%.",
+    "titular": "Inflation falls to 4.1% in November, according to the INE's flash estimate, as fuel gets cheaper",
+    "entradilla": "Prices fell 0.6% compared with October; the final figure, with the breakdown by product, will be published on 15 December.",
     "parrafos": [
-     "On Friday 13 November, the National Statistics Institute ([[INE|ine]]) confirmed the final October [[CPI|ipc]] figure: prices are 4.9% higher than a year ago, the same as in September, and [[inflation|inflacion]] has now stayed above 4% for three months running, at levels last seen in February 2023. Compared with September, prices rose by 0.6%. Core inflation, which leaves out energy and unprocessed food, stays at 3.1%. Among the factors, the INE cites gas, which rose, and fuels, which pulled downwards. The war with Iran has sent the price of [[oil|petroleo]] soaring.",
-     "This matters because the same money buys fewer things, and wages do not always rise at the same pace. It also affects [[pensions|pension]]: by law, each year they rise in line with average inflation between December and November, so with October now confirmed, what happens in November will still influence the 2027 increase. Raising pensions with inflation protects pensioners' purchasing power, but means more spending for the State."
+     "On Friday 27 November, the [[INE|ine]] published its flash estimate of November [[CPI|ipc]]: prices are 4.1% higher than a year ago, eight tenths of a point below October's 4.9%. Compared with the previous month they fell by 0.6%. According to the INE, the drop is mainly due to cheaper fuel. It is a provisional figure: the final one, with the breakdown by product, will be published on 15 December. [[Inflation|inflacion]] is falling, but it remains above 4% for a fourth month in a row, at levels not seen since February 2023. The war with Iran has sent the price of [[oil|petroleo]] soaring.",
+     "This matters because the same money buys fewer things, and wages do not always rise at the same pace. Prices falling in a single month eases the cost of petrol, but does not give back what has already risen. It also affects [[pensions|pension]]: by law, each year they rise in line with average inflation between December and November, so the final November figure will complete that calculation for the 2027 increase. Raising pensions with inflation protects pensioners' purchasing power, but means more spending for the State."
     ],
-    "nota_actualizacion": "On 13 November the INE confirmed October CPI at 4.9%, with core inflation at 3.1% and three months in a row above 4%."
+    "nota_actualizacion": "On 27 November the INE's flash estimate showed inflation fell in November to 4.1%, from 4.9% in October, because of fuel."
    }
   },
   {
@@ -881,11 +877,11 @@
    "id": "arranca-campana-29n-cis-psoe-40db-pp",
    "seccion": "es",
    "dibujo": "ballot",
-   "titular": "Sánchez, Feijóo, Abascal y Colau se enfrentan en el debate a cuatro a tres días de las elecciones, y cada bando se atribuye la victoria",
-   "entradilla": "El debate lo organizó la Academia de la Televisión y lo moderó María Casado; las encuestas abiertas de los medios dan resultados opuestos.",
+   "titular": "Las elecciones del 29N, mañana: termina la campaña y hoy es jornada de reflexión, con PP y PSOE casi empatados en las encuestas",
+   "entradilla": "Tras el debate a cuatro del jueves, en el que cada bando dijo haber ganado, los españoles votan mañana domingo.",
    "parrafos": [
     "El viernes 13 los partidos abrieron la campaña de las [[elecciones anticipadas|elecciones]] generales del 29 de noviembre, que dura 15 días. Se eligen los 350 diputados del Congreso y hacen falta 176 para la mayoría absoluta. El macrosondeo del [[CIS|cis]], el organismo público de estudios sociológicos, con más de 45.000 entrevistas, estimó que el PSOE ganaba con el 33,3 % de los votos, unos ocho puntos por delante del PP. Pero la última encuesta de seguimiento de 40dB para El País y la Cadena SER, publicada el 23 de noviembre, da el 31,8 % al PP y el 30,9 % al PSOE: menos de un punto de diferencia. Según 40dB, PP y Vox sumarían 187 escaños.",
-    "El jueves 19, [[Pedro Sánchez|sanchez]] y [[Alberto Núñez Feijóo|feijoo]] debatieron cara a cara, y según los medios chocaron por la vivienda, la corrupción, la crisis de [[Ceuta|ceuta]] y los accidentes de tren de [[Adamuz|adamuz]] y Urda. El jueves 26 hubo un segundo debate, a cuatro, organizado por la Academia de la Televisión y moderado por María Casado, con Sánchez, Feijóo, Santiago Abascal (Vox) y Ada Colau. El PSOE dijo que ganó su proyecto y Borja Sémper, del PP, que Sánchez pasó de «desganado» a «desesperado». Las encuestas abiertas de los medios dan resultados opuestos y no son representativas: son opiniones de quien quiere votar, no un resultado."
+    "El jueves 19, [[Pedro Sánchez|sanchez]] y [[Alberto Núñez Feijóo|feijoo]] debatieron cara a cara y, según los medios, chocaron por la vivienda, la corrupción, la crisis de [[Ceuta|ceuta]] y los accidentes de tren de [[Adamuz|adamuz]] y Urda. El jueves 26 hubo un debate a cuatro, con Sánchez, Feijóo, Santiago Abascal (Vox) y Ada Colau, y cada partido dijo haberlo ganado; las encuestas abiertas de los medios no son representativas. La campaña terminó el viernes 27. Hoy, sábado, es la jornada de reflexión: no se permiten mítines ni pedir el voto. Mañana, domingo 29, se vota para elegir a los 350 diputados."
    ],
    "busqueda_imagenes": "campaña electoral 29N encuestas CIS 40dB",
    "fuentes": [
@@ -911,16 +907,16 @@
     "El Debate"
    ],
    "publicada": "2026-11-13",
-   "actualizada": "2026-11-27",
-   "nota_actualizacion": "El 26 de noviembre se celebró el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau; los medios no coinciden en quién ganó.",
+   "actualizada": "2026-11-28",
+   "nota_actualizacion": "Terminó la campaña el 27 de noviembre; hoy es jornada de reflexión y mañana se vota.",
    "en": {
-    "titular": "Sánchez, Feijóo, Abascal and Colau face off in the four-way debate three days before the election, and each side claims victory",
-    "entradilla": "The debate was organised by the Television Academy and moderated by María Casado; open polls by the media give opposite results.",
+    "titular": "The 29 November election, tomorrow: the campaign is over and today is a day of reflection, with PP and PSOE almost level in the polls",
+    "entradilla": "After Thursday's four-way debate, in which each side said it had won, Spaniards vote tomorrow, Sunday.",
     "parrafos": [
      "On Friday 13 the parties opened the campaign for the 29 November general [[early election|elecciones]], which lasts 15 days. The 350 members of Congress are elected and 176 are needed for an absolute majority. The [[CIS|cis]], the public sociological research body, published a large poll with more than 45,000 interviews, estimating that the PSOE would win with 33.3% of the vote, about eight points ahead of the PP. But the latest tracking poll by 40dB for El País and the Cadena SER, published on 23 November, gives 31.8% to the PP and 30.9% to the PSOE: less than one point apart. According to 40dB, the PP and Vox would add up to 187 seats.",
-     "On Thursday 19, [[Pedro Sánchez|sanchez]] and [[Alberto Núñez Feijóo|feijoo]] debated head-to-head, and according to the media they clashed over housing, corruption, the [[Ceuta|ceuta]] crisis and the train accidents at [[Adamuz|adamuz]] and Urda. On Thursday 26 there was a second debate, a four-way one, organised by the Television Academy and moderated by María Casado, with Sánchez, Feijóo, Santiago Abascal (Vox) and Ada Colau. The PSOE said its project won and Borja Sémper, of the PP, said Sánchez went from 'listless' to 'desperate'. Open polls by the media give opposite results and are not representative: they reflect the views of people who chose to vote in them, not a result."
+     "On Thursday 19, [[Pedro Sánchez|sanchez]] and [[Alberto Núñez Feijóo|feijoo]] debated head-to-head and, according to the media, clashed over housing, corruption, the [[Ceuta|ceuta]] crisis and the train accidents at [[Adamuz|adamuz]] and Urda. On Thursday 26 there was a four-way debate, with Sánchez, Feijóo, Santiago Abascal (Vox) and Ada Colau, and each party said it had won; open polls by the media are not representative. The campaign ended on Friday 27. Today, Saturday, is the day of reflection: no rallies and no asking for votes are allowed. Tomorrow, Sunday 29, people vote to choose the 350 members of Congress."
     ],
-    "nota_actualizacion": "On 26 November the four-way debate between Sánchez, Feijóo, Abascal and Colau took place; the media disagree on who won."
+    "nota_actualizacion": "The campaign ended on 27 November; today is the day of reflection and tomorrow is election day."
    }
   },
   {
@@ -4249,9 +4245,9 @@
    }
   }
  },
- "edicion_en": "Friday 27 November 2026",
+ "edicion_en": "Saturday 28 November 2026",
  "destacada": {
   "id": "arranca-campana-29n-cis-psoe-40db-pp",
-  "fecha": "2026-11-27"
+  "fecha": "2026-11-28"
  }
 }
